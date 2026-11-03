@@ -62,7 +62,7 @@ for paper in "$ROOT"/Mathstalents/paper[0-9]*; do
   while IFS= read -r -d '' item; do
     base="$(basename "$item")"
     case "$base" in
-      assets|main.pdf|main.tex|questions.tex|solutions.tex) continue ;;
+      main.pdf|main.tex|questions.tex|solutions.tex) continue ;;
     esac
     rm -rf "$item"
     paper_count=$((paper_count + 1))
