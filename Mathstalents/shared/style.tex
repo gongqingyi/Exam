@@ -1,0 +1,501 @@
+\usepackage{fontspec}
+\usepackage{xeCJK}
+\usepackage{amsmath,amssymb,mathtools}
+\usepackage{geometry}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{tikz}
+\usetikzlibrary{
+  arrows.meta,
+  angles,
+  backgrounds,
+  calc,
+  decorations.markings,
+  decorations.pathmorphing,
+  decorations.pathreplacing,
+  fit,
+  intersections,
+  matrix,
+  patterns,
+  patterns.meta,
+  positioning,
+  quotes,
+  shapes.geometric,
+  shapes.misc,
+  through,
+  3d
+}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+\usepackage[most]{tcolorbox}
+\usepackage{enumitem}
+\usepackage{multicol}
+\usepackage{tabularx,array,booktabs,multirow}
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\usepackage{titlesec}
+\usepackage{needspace}
+\usepackage{eso-pic}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{xparse}
+
+\geometry{
+  a4paper,
+  left=18mm,
+  right=18mm,
+  top=22mm,
+  bottom=20mm,
+  headheight=22pt,
+  headsep=8mm,
+  footskip=11mm
+}
+
+\setmainfont{texgyrepagella-regular.otf}[
+  BoldFont=texgyrepagella-bold.otf,
+  ItalicFont=texgyrepagella-italic.otf,
+  BoldItalicFont=texgyrepagella-bolditalic.otf
+]
+\setsansfont{texgyreheros-regular.otf}[
+  BoldFont=texgyreheros-bold.otf,
+  ItalicFont=texgyreheros-italic.otf,
+  BoldItalicFont=texgyreheros-bolditalic.otf
+]
+\setmonofont{texgyrecursor-regular.otf}[
+  BoldFont=texgyrecursor-bold.otf
+]
+\setCJKmainfont{Kaiti SC}[
+  BoldFont=Kaiti SC
+]
+\setCJKsansfont{FandolHei-Regular.otf}[
+  BoldFont=FandolHei-Bold.otf
+]
+\setCJKmonofont{FandolKai-Regular.otf}
+
+\definecolor{Paper}{HTML}{FBFCFA}
+\definecolor{Ink}{HTML}{17324D}
+\definecolor{Muted}{HTML}{647784}
+\definecolor{Teal}{HTML}{167D89}
+\definecolor{TealDark}{HTML}{0F5F69}
+\definecolor{Mint}{HTML}{E8F5F2}
+\definecolor{Sky}{HTML}{EAF3F8}
+\definecolor{Coral}{HTML}{E66A5A}
+\definecolor{Gold}{HTML}{D7A94A}
+\definecolor{Rule}{HTML}{C8D8DA}
+\definecolor{SolutionBg}{HTML}{FFF9F1}
+
+\pagecolor{Paper}
+\color{Ink}
+\linespread{1.14}
+\setlength{\parindent}{2em}
+\setlength{\parskip}{0.25em}
+\setlength{\columnsep}{1.3cm}
+\setlength{\abovedisplayskip}{0.7em}
+\setlength{\belowdisplayskip}{0.7em}
+\setlist{nosep}
+
+\hypersetup{
+  colorlinks=true,
+  linkcolor=TealDark,
+  urlcolor=TealDark,
+  pdfborder={0 0 0}
+}
+
+\newcommand{\papertitle}{Mathstalents 小学版练习题}
+\newcommand{\SetPaperTitle}[1]{\renewcommand{\papertitle}{#1}}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\sffamily\small\color{TealDark}\papertitle}
+\fancyhead[R]{}
+\fancyfoot[C]{%
+  {\sffamily\scriptsize\color{Muted}第~\arabic{page}~页~/~共~\pageref*{LastPage}~页}%
+}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{Rule}\leaders\hrule height \headrulewidth\hfill}}
+
+\AddToShipoutPictureBG{%
+  \begin{tikzpicture}[remember picture,overlay]
+    \draw[Rule,line width=0.35pt,rounded corners=2pt]
+      ([xshift=6mm,yshift=-6mm]current page.north west)
+      rectangle
+      ([xshift=-6mm,yshift=6mm]current page.south east);
+    \draw[Teal,line width=1.1pt]
+      ([xshift=6mm,yshift=-14mm]current page.north west) --
+      ([xshift=6mm,yshift=-6mm]current page.north west) --
+      ([xshift=14mm,yshift=-6mm]current page.north west);
+    \draw[Coral,line width=1.1pt]
+      ([xshift=-6mm,yshift=14mm]current page.south east) --
+      ([xshift=-6mm,yshift=6mm]current page.south east) --
+      ([xshift=-14mm,yshift=6mm]current page.south east);
+  \end{tikzpicture}%
+}
+
+\newcommand{\metachip}[2][Teal]{%
+  \tikz[baseline=(chip.base)]\node[
+    fill=#1!10,
+    draw=#1!45,
+    text=#1!80!black,
+    rounded corners=2.5pt,
+    inner xsep=6pt,
+    inner ysep=2.4pt,
+    font=\sffamily\scriptsize
+  ] (chip) {\textbf{#2}};%
+}
+
+\NewDocumentCommand{\makecover}{m m m m m m}{%
+  \thispagestyle{empty}
+  \begin{tikzpicture}[remember picture,overlay]
+    \draw[Teal!14,line width=0.8pt,step=10mm]
+      ([xshift=8mm,yshift=8mm]current page.south west) grid
+      ([xshift=-8mm,yshift=-8mm]current page.north east);
+    \node[
+      anchor=north west,
+      text=Ink,
+      align=left,
+      text width=155mm
+    ] at ([xshift=24mm,yshift=-35mm]current page.north west) {
+      {\sffamily\bfseries\fontsize{14}{18}\selectfont
+        MATHSTALENTS \(\cdot\) ELEMENTARY}\\[9mm]
+      {\sffamily\bfseries\fontsize{34}{42}\selectfont
+        小学版 \(\,\boldsymbol{\cdot}\,\) #1}\\[3mm]
+      {\sffamily\fontsize{17}{23}\selectfont
+        练习题与参考答案}\\[11mm]
+      {\color{TealDark}\rule{112mm}{1.1pt}}\\[7mm]
+      {\sffamily\fontsize{13}{20}\selectfont #2}
+    };
+    \node[
+      anchor=north west,
+      fill=white,
+      draw=TealDark,
+      line width=0.6pt,
+      text opacity=1,
+      rounded corners=5pt,
+      inner sep=9mm,
+      text width=137mm
+    ] at ([xshift=24mm,yshift=-126mm]current page.north west) {
+      \begin{minipage}{137mm}
+        \sffamily
+        \begin{tabularx}{\linewidth}{>{\centering\arraybackslash}X
+          >{\centering\arraybackslash}X
+          >{\centering\arraybackslash}X}
+          {\color{TealDark}\bfseries\Large #3} &
+          {\color{TealDark}\bfseries\Large #4} &
+          {\color{TealDark}\bfseries\Large 精编}\\[-1mm]
+          {\color{Muted}\small 总分} &
+          {\color{Muted}\small 题目数} &
+          {\color{Muted}\small 题解版本}
+        \end{tabularx}
+        \vspace{6mm}
+        {\color{Rule}\hrule}
+        \vspace{5mm}
+        {\color{Ink}\bfseries 题型结构}\par
+        \vspace{2mm}
+        {\color{Muted}\small #5}
+      \end{minipage}
+    };
+  \end{tikzpicture}
+  \null
+  \clearpage
+}
+
+\newcommand{\paperinfo}[3]{%
+  \begin{tcolorbox}[
+    enhanced,
+    colback=Sky,
+    colframe=Teal!40,
+    boxrule=0.6pt,
+    arc=3pt,
+    left=5mm,right=5mm,top=4mm,bottom=4mm
+  ]
+    \sffamily
+    \begin{tabularx}{\linewidth}{@{}X X X@{}}
+      \textbf{姓名：}\rule{28mm}{0.4pt} &
+      \textbf{用时：}\rule{22mm}{0.4pt} &
+      \textbf{得分：}\rule{22mm}{0.4pt}\\[3mm]
+      \multicolumn{3}{@{}l@{}}{\small\color{Muted}
+        #1 \qquad #2 \qquad #3}
+    \end{tabularx}
+  \end{tcolorbox}
+  \vspace{2mm}
+}
+
+\newcommand{\mtQuestionNeedspace}{8.2cm}
+\newcommand{\mtBannerNeedspace}{6.8cm}
+\newcommand{\mtQuestionBreakLines}{8}
+
+\newcommand{\sectionbanner}[2]{%
+  \Needspace{\mtBannerNeedspace}
+  \begin{tcolorbox}[
+    enhanced,
+    colback=white,
+    colframe=TealDark,
+    boxrule=0.65pt,
+    arc=2.5pt,
+    left=4mm,right=4mm,top=2.6mm,bottom=2.6mm,
+    before skip=3.2mm,
+    after skip=2.2mm
+  ]
+    {\sffamily\bfseries\large\color{TealDark}#1\quad
+     \sffamily\small #2}
+  \end{tcolorbox}
+}
+
+\NewDocumentEnvironment{question}{m m}{%
+  \Needspace{\mtQuestionNeedspace}
+  \begin{tcolorbox}[
+    enhanced,
+    breakable,
+    lines before break=\mtQuestionBreakLines,
+    colback=white,
+    colframe=Rule,
+    boxrule=0.55pt,
+    arc=3pt,
+    left=5mm,right=5mm,top=5mm,bottom=4mm,
+    before skip=4mm,
+    after skip=4mm,
+    title={\sffamily\bfseries 第 #1 题（ #2 分 ）},
+    coltitle=TealDark,
+    colbacktitle=white,
+    fonttitle=\sffamily\bfseries,
+    attach boxed title to top left={xshift=4mm,yshift=-2.8mm},
+    boxed title style={
+      colback=white,
+      colframe=TealDark,
+      arc=2.5pt,
+      boxrule=0.65pt,
+      left=3mm,right=3mm,top=1.5mm,bottom=1.5mm
+    }
+  ]
+  \hypertarget{question:#1}{}%
+  \vspace{1mm}
+}{%
+  \end{tcolorbox}
+}
+
+\ExplSyntaxOn
+\seq_new:N \g_mt_choices_seq
+\dim_new:N \l_mt_choice_max_dim
+\dim_new:N \l_mt_choice_sum_dim
+\dim_new:N \l_mt_choice_tmp_dim
+\dim_new:N \l_mt_choice_label_dim
+\box_new:N \l_mt_choice_box
+
+\NewDocumentCommand{\choice}{m}
+{
+  \seq_gput_right:Nn \g_mt_choices_seq {#1}
+}
+
+\cs_new_protected:Npn \mt_set_choice_label_dim:
+{
+  \hbox_set:Nn \l_mt_choice_box
+  {
+    \textcolor{TealDark}{\bfseries E.}
+    \hspace{0.45em}
+  }
+  \dim_set:Nn \l_mt_choice_label_dim { \box_wd:N \l_mt_choice_box }
+}
+
+\cs_new_protected:Npn \mt_choice_label:n #1
+{
+  \textcolor{TealDark}{\bfseries \int_to_Alph:n {#1}.}
+}
+
+\cs_new_protected:Npn \mt_typeset_choice:nn #1#2
+{
+  \mt_choice_label:n {#1}\hspace{0.45em}#2
+}
+
+\cs_new_protected:Npn \mt_typeset_choice_par:nn #1#2
+{
+  \par\noindent
+  \hangindent = \l_mt_choice_label_dim
+  \hangafter = 1
+  \makebox[\l_mt_choice_label_dim][l]{ \mt_choice_label:n {#1} }
+  #2
+  \par
+}
+
+\cs_new_protected:Npn \mt_measure_choices:
+{
+  \dim_zero:N \l_mt_choice_max_dim
+  \dim_zero:N \l_mt_choice_sum_dim
+  \int_step_inline:nn { \seq_count:N \g_mt_choices_seq }
+  {
+    \hbox_set:Nn \l_mt_choice_box
+    {
+      \mt_typeset_choice:nn {##1} { \seq_item:Nn \g_mt_choices_seq {##1} }
+    }
+    \dim_set:Nn \l_mt_choice_tmp_dim { \box_wd:N \l_mt_choice_box }
+    \dim_set:Nn \l_mt_choice_sum_dim { \l_mt_choice_sum_dim + \l_mt_choice_tmp_dim + 1.6em }
+    \dim_set:Nn \l_mt_choice_max_dim
+    {
+      \dim_max:nn { \l_mt_choice_max_dim } { \l_mt_choice_tmp_dim }
+    }
+  }
+}
+
+\cs_new_protected:Npn \mt_print_choices:
+{
+  \mt_set_choice_label_dim:
+  \mt_measure_choices:
+  \par\nopagebreak\vspace{0.5em}
+  \dim_compare:nNnTF { \l_mt_choice_sum_dim } < { \linewidth }
+  {
+    \noindent
+    \int_step_inline:nn { \seq_count:N \g_mt_choices_seq }
+    {
+      \mbox
+      {
+        \mt_typeset_choice:nn {##1} { \seq_item:Nn \g_mt_choices_seq {##1} }
+      }
+      \hfill
+    }
+    \par
+  }
+  {
+    \dim_compare:nNnTF { \l_mt_choice_max_dim + 0.6em } < { 0.5\linewidth }
+    {
+      \noindent
+      \int_step_inline:nn { \seq_count:N \g_mt_choices_seq }
+      {
+        \begin{minipage}[t]{0.48\linewidth}
+          \raggedright
+          \mt_typeset_choice_par:nn {##1} { \seq_item:Nn \g_mt_choices_seq {##1} }
+        \end{minipage}
+        \int_if_odd:nTF {##1}
+        { \hfill }
+        { \par\vspace{0.38em} }
+      }
+      \int_if_odd:nT { \seq_count:N \g_mt_choices_seq } { \par }
+    }
+    {
+      \int_step_inline:nn { \seq_count:N \g_mt_choices_seq }
+      {
+        \mt_typeset_choice_par:nn {##1} { \seq_item:Nn \g_mt_choices_seq {##1} }
+        \vspace{0.28em}
+      }
+    }
+  }
+  \vspace{0.25em}
+  \seq_gclear:N \g_mt_choices_seq
+}
+
+\NewDocumentEnvironment{choices}{}
+{
+  \seq_gclear:N \g_mt_choices_seq
+}
+{
+  \mt_print_choices:
+}
+
+\NewDocumentEnvironment{multichoices}{}
+{
+  \seq_gclear:N \g_mt_choices_seq
+}
+{
+  \mt_print_choices:
+}
+\ExplSyntaxOff
+
+\NewDocumentCommand{\subquestion}{m m}{%
+  \par\medskip
+  \noindent
+  \metachip[Coral]{#1 分}\hspace{0.7em}#2\par
+}
+
+\newcommand{\answerlineskip}{9mm}
+
+\newcommand{\answerspace}{%
+  \par\vspace{12mm}%
+}
+
+\newcommand{\answerline}{%
+  \ifmmode
+    \underline{\hspace{2.8cm}}%
+  \else
+    \ifvmode
+      \par\vspace{\answerlineskip}%
+      \noindent{\color{Ink}\rule{0.46\linewidth}{0.5pt}}%
+      \par\vspace{2.5mm}%
+    \else
+      \underline{\hspace{2.8cm}}%
+    \fi
+  \fi
+}
+
+\NewDocumentCommand{\answerbox}{m}{%
+  \par\vspace{3mm}
+  \begin{tcolorbox}[
+    enhanced,
+    colback=white,
+    colframe=Teal!38!Rule,
+    boxrule=0.7pt,
+    arc=2.5pt,
+    left=3.5mm,
+    right=3.5mm,
+    top=3mm,
+    bottom=3mm,
+    height=#1,
+    before skip=0pt,
+    after skip=2mm
+  ]
+    \mbox{}
+  \end{tcolorbox}
+}
+
+\NewDocumentEnvironment{solution}{m m m m}{%
+  \Needspace{5.4cm}
+  \begin{tcolorbox}[
+    enhanced,
+    breakable,
+    lines before break=6,
+    colback=white,
+    colframe=Gold!65!Ink,
+    boxrule=0.6pt,
+    arc=3pt,
+    left=5mm,right=5mm,top=5mm,bottom=4mm,
+    before skip=4mm,
+    after skip=4mm,
+    title={\sffamily\bfseries 第 #1 题 \(\cdot\) 参考解答},
+    coltitle=Ink,
+    colbacktitle=white,
+    fonttitle=\sffamily\bfseries,
+    attach boxed title to top left={xshift=4mm,yshift=-2.8mm},
+    boxed title style={
+      colback=white,
+      colframe=Gold!65!Ink,
+      arc=2.5pt,
+      boxrule=0.65pt,
+      left=3mm,right=3mm,top=1.5mm,bottom=1.5mm
+    }
+  ]
+  \hypertarget{solution:#1}{}%
+  \vspace{1mm}
+  \noindent
+  \metachip[Coral]{答案：#2}\hspace{0.45em}
+  \metachip[Gold]{难度：#3}\hspace{0.45em}
+  \metachip[Teal]{#4}
+  \par\medskip
+}{%
+  \end{tcolorbox}
+}
+
+\NewDocumentCommand{\analysis}{+m}{%
+  \par\smallskip
+  {\sffamily\bfseries\color{TealDark}思路分析}\par
+  \vspace{1mm}
+  #1
+  \par\smallskip
+}
+
+\NewDocumentCommand{\methodsummary}{+m}{%
+  \par\medskip
+  \noindent
+  {\sffamily\bfseries\color{TealDark}方法总结}\quad
+  {\sffamily\color{Ink}#1}\par
+}
+
+\newcommand{\solutiondivider}{%
+  \clearpage
+}

@@ -1,0 +1,510 @@
+% UTF-8 LaTeX fragment: questions only
+
+\sectionbanner{一、单选题}{共10题，每题5分，共50分}
+
+\begin{question}{1}{5}
+甲、乙原本有卡片合计\(120\)张。甲先把自己的四分之一给乙，接着乙把此时自己的三分之一给甲，两人最终一样多。乙最初有多少张？
+\begin{choices}
+  \choice{40}
+  \choice{60}
+  \choice{80}
+  \choice{90}
+\end{choices}
+\end{question}
+
+\begin{question}{2}{5}
+一只蚂蚁想从长方体顶点\(A\)出发，沿着棱边爬向另一个顶点\(B\)，如图所示。若这只蚂蚁仅经过三条棱边，请问这只蚂蚁爬行的路线总共有多少条可能的路径？
+
+\begin{center}
+\begin{tikzpicture}[line join=miter,line cap=butt,x=1cm,y=1cm]
+  % Oblique cuboid matching the original sample (wireframe, no fill):
+  % front + top + right visible; A = front-top-left; B = back-bottom-right.
+  \def\w{3.15}
+  \def\h{2.15}
+  \def\dx{1.72}
+  \def\dy{1.05}
+  \coordinate (FBL) at (0,0);
+  \coordinate (FBR) at (\w,0);
+  \coordinate (A)   at (0,\h);
+  \coordinate (FTR) at (\w,\h);
+  \coordinate (BBL) at (\dx,\dy);
+  \coordinate (B)   at (\w+\dx,\dy);
+  \coordinate (BTL) at (\dx,\h+\dy);
+  \coordinate (BTR) at (\w+\dx,\h+\dy);
+  % three hidden edges meeting at the back-bottom-left
+  \draw[dash pattern=on 3.2pt off 2.2pt,line width=0.95pt]
+    (BBL) -- (FBL)
+    (BBL) -- (BTL)
+    (BBL) -- (B);
+  % visible edges
+  \draw[line width=1.2pt]
+    (A) -- (FTR) -- (FBR) -- (FBL) -- cycle
+    (A) -- (BTL) -- (BTR) -- (FTR)
+    (FBR) -- (B) -- (BTR);
+  \node[above left=2pt and 2pt] at (A) {\(A\)};
+  \node[below right=2pt and 2pt] at (B) {\(B\)};
+\end{tikzpicture}
+\end{center}
+
+\begin{choices}
+  \choice{3}
+  \choice{6}
+  \choice{9}
+  \choice{12}
+  \choice{15}
+\end{choices}
+\end{question}
+
+\begin{question}{3}{5}
+礼堂的座位排成\(5\)排、每排\(7\)个。除了\(5\)个空座，其余均坐满；\(5\)个空座中恰有\(2\)个在四个角上，其余\(3\)个都不在最外一排或每排的两端。同一排左右相邻的两个座位，或相邻两排同一号的两个座位，称为一对相邻座位。已知恰有\(12\)对相邻座位是一空一坐。那么两个座位都有人坐的相邻座位共有多少对？
+\begin{choices}
+  \choice{42}
+  \choice{43}
+  \choice{44}
+  \choice{46}
+\end{choices}
+\end{question}
+
+\begin{question}{4}{5}
+七张卡片写着互不相同的正整数，按从小到大排成一行，相邻两张的编号总相差\(3\)。取走其中一张（不是两端的卡片）后，余下六张中，编号最大的三张之和比编号最小的三张之和多\(36\)；余下六张编号的总和是\(90\)。原来最小的卡片编号是多少？
+\begin{choices}
+  \choice{5}
+  \choice{6}
+  \choice{7}
+  \choice{8}
+\end{choices}
+\end{question}
+
+\begin{question}{5}{5}
+已知长方形\(ABCD\)的面积是阴影部分面积的\(6\)倍，甲、乙两块空白区域的面积和为阴影部分面积之\(9\)倍，如下图所示。若空白区域乙的面积为\(12\,\mathrm{cm}^2\)，请问阴影部分的面积为多少\(\mathrm{cm}^2\)？
+
+\begin{center}
+\begin{tikzpicture}[line join=miter,x=1cm,y=1cm]
+  % Match original: upright ABCD + smaller clockwise-tilted square;
+  % one corner of the tilted square sits inside ABCD so the shade is a quadrilateral.
+  \coordinate (A) at (0,3.6);
+  \coordinate (B) at (3.6,3.6);
+  \coordinate (C) at (3.6,0);
+  \coordinate (D) at (0,0);
+  \begin{scope}
+    \clip (A) -- (B) -- (C) -- (D) -- cycle;
+    \begin{scope}[shift={(3.55,0.05)},rotate=-35]
+      \fill[black!30] (-1.45,-1.45) rectangle (1.45,1.45);
+    \end{scope}
+  \end{scope}
+  \draw[line width=1.1pt] (A) -- (B) -- (C) -- (D) -- cycle;
+  \begin{scope}[shift={(3.55,0.05)},rotate=-35]
+    \draw[line width=1.1pt] (-1.45,-1.45) rectangle (1.45,1.45);
+  \end{scope}
+  \node[above left=1pt and 1pt] at (A) {\(A\)};
+  \node[above right=1pt and 1pt] at (B) {\(B\)};
+  \node[below right=2pt and 1pt] at (C) {\(C\)};
+  \node[below left=1pt and 1pt] at (D) {\(D\)};
+  \node at (1.4,2.5) {甲};
+  \node at (4.55,-0.45) {乙};
+\end{tikzpicture}
+\end{center}
+
+\begin{choices}
+  \choice{2}
+  \choice{3}
+  \choice{4}
+  \choice{6}
+  \choice{15}
+\end{choices}
+\end{question}
+
+\begin{question}{6}{5}
+有小、中、大三种积木袋，原来每袋分别装\(3\)、\(5\)、\(8\)块积木，每种至少有一袋。若从原状出发每袋都再装\(1\)块，这批袋子共装\(98\)块；若另从原状出发每袋都再装\(4\)块，这批袋子共装\(143\)块。问原来大袋至少有多少袋？
+\begin{choices}
+  \choice{2}
+  \choice{4}
+  \choice{3}
+  \choice{6}
+\end{choices}
+\end{question}
+
+\begin{question}{7}{5}
+如图所示，六边形\(PQRSTU\)的每个顶点处都标记一个数（\(0\)或\(1\)）。小明从某个顶点开始按逆时针方向把每个顶点上的数分别乘以\(3\)、\(7\)、\(15\)、\(31\)、\(63\)、\(127\)，然后把所得的乘积全部相加。例如从\(P\)点开始，所得的和为：
+\[
+1\times3+1\times7+0\times15+1\times31+0\times63+1\times127=168.
+\]
+如果小明得到的和为\(180\)，请问他是从哪一个顶点开始的？
+
+\begin{center}
+\begin{tikzpicture}[scale=1.15,line join=round]
+  \foreach \ang/\lab/\val in {
+    120/P/1, 180/Q/1, 240/R/0, 300/S/1, 0/T/0, 60/U/1
+  }{
+    \coordinate (\lab) at (\ang:1.55);
+  }
+  \draw[line width=1.05pt]
+    (P) -- (Q) -- (R) -- (S) -- (T) -- (U) -- cycle;
+  \foreach \lab/\val in {P/1,Q/1,R/0,S/1,T/0,U/1} {
+    \fill (\lab) circle (1.5pt);
+    % !t! toward center: smaller t = closer to the vertex
+    \node[font=\small] at ($(\lab)!0.18!(0,0)$) {\(\val\)};
+  }
+  \node[above] at (P) {\(P\)};
+  \node[left] at (Q) {\(Q\)};
+  \node[below left] at (R) {\(R\)};
+  \node[below right] at (S) {\(S\)};
+  \node[right] at (T) {\(T\)};
+  \node[above right] at (U) {\(U\)};
+\end{tikzpicture}
+\end{center}
+
+\begin{choices}
+  \choice{\(Q\)}
+  \choice{\(R\)}
+  \choice{\(S\)}
+  \choice{\(T\)}
+  \choice{\(U\)}
+\end{choices}
+\end{question}
+
+\begin{question}{8}{5}
+在以下表格中，请问总共有多少种不同的方式使得所选出的方格内的数之总和为\(44\)且满足下列条件？
+\begin{enumerate}[label=\arabic*.]
+  \item 选择四个相连的小方格，每个小方格都至少与一个选出的小方格有公共边；
+  \item 所有的数都不同且必须包含\(12\)。
+\end{enumerate}
+以下为两个例子。请问，在所有满足条件的情况中，有多少种是符合如下两种形状的（一字型和\(\mathrm{T}\)型）？给出的答案数字需包含如下两个例子。
+
+% Unit squares on the integer lattice; edges share exact half-integer lines.
+\newcommand{\mtDFill}[4]{%
+  \fill[#4] (#1-0.5,#2-0.5) rectangle (#1+0.5,#2+0.5);%
+  \node[font=\scriptsize\sffamily,inner sep=0pt] at (#1,#2) {#3};%
+}
+\newcommand{\mtDEdge}[2]{%
+  \draw[Ink,line width=0.7pt,line join=miter]
+    (#1-0.5,#2-0.5) rectangle (#1+0.5,#2+0.5);%
+}
+\newcommand{\mtDiamondBase}{%
+  \foreach \x/\y/\n in {
+    0/3/9,
+    -1/2/13, 0/2/10, 1/2/9,
+    -2/1/13, -1/1/9, 0/1/13, 1/1/10, 2/1/10,
+    -3/0/13, -2/0/9, -1/0/13, 0/0/12, 1/0/10, 2/0/13, 3/0/9,
+    -2/-1/10, -1/-1/10, 0/-1/13, 1/-1/9, 2/-1/10,
+    -1/-2/13, 0/-2/9, 1/-2/13,
+    0/-3/10
+  }{%
+    \mtDFill{\x}{\y}{\n}{white}%
+  }%
+  \foreach \x/\y/\n in {
+    0/3/9,
+    -1/2/13, 0/2/10, 1/2/9,
+    -2/1/13, -1/1/9, 0/1/13, 1/1/10, 2/1/10,
+    -3/0/13, -2/0/9, -1/0/13, 0/0/12, 1/0/10, 2/0/13, 3/0/9,
+    -2/-1/10, -1/-1/10, 0/-1/13, 1/-1/9, 2/-1/10,
+    -1/-2/13, 0/-2/9, 1/-2/13,
+    0/-3/10
+  }{%
+    \mtDEdge{\x}{\y}%
+  }%
+}
+\newcommand{\mtDiamondShade}[1]{%
+  \foreach \x/\y in {#1} {%
+    \fill[black!18] (\x-0.5,\y-0.5) rectangle (\x+0.5,\y+0.5);%
+    \mtDEdge{\x}{\y}%
+  }%
+}
+
+\begin{center}
+\begin{tikzpicture}[x=0.56cm,y=0.56cm]
+  \mtDiamondBase
+\end{tikzpicture}
+\end{center}
+
+\begin{center}
+\begin{tikzpicture}[x=0.48cm,y=0.48cm]
+  \begin{scope}[shift={(-5.2,0)}]
+    \mtDiamondBase
+    % 一字型：竖列 9-10-13-12
+    \mtDiamondShade{0/3, 0/2, 0/1, 0/0}
+    \node[font=\scriptsize\sffamily,inner sep=0pt] at (0,3) {9};
+    \node[font=\scriptsize\sffamily,inner sep=0pt] at (0,2) {10};
+    \node[font=\scriptsize\sffamily,inner sep=0pt] at (0,1) {13};
+    \node[font=\scriptsize\sffamily,inner sep=0pt] at (0,0) {12};
+  \end{scope}
+  \begin{scope}[shift={(5.2,0)}]
+    \mtDiamondBase
+    % T 型：9-13-10 横排 + 下方 12
+    \mtDiamondShade{-1/1, 0/1, 1/1, 0/0}
+    \node[font=\scriptsize\sffamily,inner sep=0pt] at (-1,1) {9};
+    \node[font=\scriptsize\sffamily,inner sep=0pt] at (0,1) {13};
+    \node[font=\scriptsize\sffamily,inner sep=0pt] at (1,1) {10};
+    \node[font=\scriptsize\sffamily,inner sep=0pt] at (0,0) {12};
+  \end{scope}
+\end{tikzpicture}
+\end{center}
+
+\begin{choices}
+  \choice{8}
+  \choice{9}
+  \choice{10}
+  \choice{11}
+  \choice{12}
+\end{choices}
+\end{question}
+
+\begin{question}{9}{5}
+边长为\(8\,\mathrm{cm}\)的正方形相片在一个长为\(18\,\mathrm{cm}\)、宽为\(10\,\mathrm{cm}\)的相框内滑动，并保持正方形顶点\(M\)在\(AD\)边上、顶点\(N\)在\(BC\)边上，如下图所示。请问相框内，照片滑动时接触不到的区域之总面积为多少\(\mathrm{cm}^2\)？
+
+\begin{center}
+\begin{tikzpicture}[scale=0.42,line join=miter]
+  % Frame 18×10; photo is a true square of side 8.
+  % Diagonal MN spans height 10, so horizontal span is \sqrt{28}=2\sqrt{7}.
+  \coordinate (A) at (0,10);
+  \coordinate (B) at (0,0);
+  \coordinate (C) at (18,0);
+  \coordinate (D) at (18,10);
+  \draw[line width=1.15pt] (A) -- (B) -- (C) -- (D) -- cycle;
+  % M on AD (right of center), N on BC (left of center); MN is a diagonal.
+  \pgfmathsetmacro{\rt}{sqrt(7)}
+  \coordinate (M) at (9+\rt,10);
+  \coordinate (N) at (9-\rt,0);
+  \coordinate (O) at (9,5);
+  % other diagonal of the square: perpendicular to MN, same length
+  \coordinate (P) at (9-5,5+\rt); % left
+  \coordinate (Q) at (9+5,5-\rt); % right
+  \draw[line width=1.1pt]
+    (M) -- (P) -- (N) -- (Q) -- cycle;
+  \fill (M) circle (1.8pt);
+  \fill (N) circle (1.8pt);
+  \node[above left=1pt and 1pt] at (A) {\(A\)};
+  \node[below left=1pt and 1pt] at (B) {\(B\)};
+  \node[below right=1pt and 1pt] at (C) {\(C\)};
+  \node[above right=1pt and 1pt] at (D) {\(D\)};
+  \node[above=2pt] at (M) {\(M\)};
+  \node[below=2pt] at (N) {\(N\)};
+\end{tikzpicture}
+\end{center}
+
+\begin{choices}
+  \choice{28}
+  \choice{32}
+  \choice{36}
+  \choice{40}
+  \choice{64}
+\end{choices}
+\end{question}
+
+\begin{question}{10}{5}
+将红、蓝、绿三种颜色各两颗完全相同的珠子穿成一个六珠手环。两串珠子如果只需旋转就能变成一样，视为同一种；不允许翻面，镜像若不能旋转得到就算不同种。这样的手环有多少种？
+\begin{choices}
+  \choice{14}
+  \choice{15}
+  \choice{17}
+  \choice{16}
+\end{choices}
+\end{question}
+
+\sectionbanner{二、填空题}{共5题，每题5分，共25分}
+
+\begin{question}{11}{5}
+学校需要买至少\(288\)支铅笔。有每袋\(12\)支、每袋\(10\)元的甲包装和每袋\(16\)支、每袋\(15\)元的乙包装。两种包装都至少买一袋，袋子总数不超过\(22\)袋，要满足要求，最少花多少元？答：\answerline{}元。
+\end{question}
+
+\begin{question}{12}{5}
+下图为一个城镇的街道图。小王和小李同时从点\(A\)出发，小王沿\(A\to B\to D\)的路线行走，小李沿折线\(A\to C\to D\)的路线行走，结果两人在距离\(C\)点\(2\,\mathrm{km}\)的\(D\)点处相遇。已知小王行走的速度是小李行走速度的\(\dfrac{3}{4}\)，请问折线\(A\to C\)的长度是多少\(\mathrm{km}\)？
+
+\begin{center}
+\begin{tikzpicture}[scale=0.55,line join=round,>=Stealth]
+  \coordinate (A) at (0,6);
+  \coordinate (B) at (0,0);
+  \coordinate (C) at (10,0);
+  \coordinate (D) at (7.2,0);
+  \draw[line width=1.05pt] (A) -- (B) -- (C);
+  % staircase A to C
+  \draw[line width=1.05pt,TealDark]
+    (A) -- (3.2,6) -- (3.2,3.6) -- (6.4,3.6) -- (6.4,1.8) -- (10,1.8) -- (C);
+  \draw[->,line width=0.9pt] (0.35,5.2) -- (0.35,3.6);
+  \draw[->,line width=0.9pt] (1.1,6.15) -- (2.4,6.15);
+  \foreach \p/\pos in {A/above left,B/below left,C/below right,D/below} {
+    \fill (\p) circle (2pt);
+    \node[\pos] at (\p) {\(\p\)};
+  }
+\end{tikzpicture}
+\end{center}
+
+答：\answerline{}\(\mathrm{km}\)。
+\end{question}
+
+\begin{question}{13}{5}
+以点\(O\)为顶点的五条射线\(OA,OB,OC,OD,OE\)按顺时针方向依次排在同一半平面内，\(OA\)与\(OE\)方向相反。已知\(\angle AOC=80^\circ\)，\(\angle BOD=95^\circ\)，且\(\angle AOB:\angle COD=2:3\)。\(\angle DOE\)为多少度？答：\answerline{}度。
+\end{question}
+
+\begin{question}{14}{5}
+一张宽\(12\)厘米、高\(8\)厘米的长方形纸片，左下角记作\(A\)、右下角\(B\)、右上角\(C\)、左上角\(D\)。在底边\(AB\)上取\(E\)，使\(AE=10\)厘米；在顶边\(DC\)上取\(F\)，使\(DF=2\)厘米。以直线段\(EF\)为折痕，把纸片中位于\(EF\)的左下侧、包含\(A,D\)的那一部分翻折到另一侧。允许折过来的纸片有一部分超出原长方形的上边界。折叠完成后，位于原长方形范围内的双层重叠区域的面积是多少平方厘米？答：\answerline{}平方厘米。
+
+\begin{center}
+\begin{tikzpicture}[scale=0.48,line join=round]
+  \draw[line width=1.1pt] (0,0) rectangle (12,8);
+  \coordinate (A) at (0,0);
+  \coordinate (B) at (12,0);
+  \coordinate (C) at (12,8);
+  \coordinate (D) at (0,8);
+  \coordinate (E) at (10,0);
+  \coordinate (F) at (2,8);
+  \draw[TealDark,line width=1.35pt] (E) -- (F);
+  \foreach \p/\pos in {A/below left,B/below right,C/above right,D/above left,E/below,F/above} {
+    \fill (\p) circle (1.8pt);
+    \node[\pos] at (\p) {\(\p\)};
+  }
+\end{tikzpicture}
+\end{center}
+\end{question}
+
+\begin{question}{15}{5}
+八名编号为\(1,2,\ldots,8\)的同学按编号顺序坐成一圈（\(8\)号与\(1\)号也相邻）。只允许两名相邻同学组成一组，现要组成三个互不共享同学的两人组。组的先后顺序不计，共有多少种分组方案？答：\answerline{}种。
+\end{question}
+
+\sectionbanner{三、综合题}{共3题，每题15分，共45分}
+
+\begin{question}{16}{15}
+有一块画有等距网格的黑板，共有\(4\)行（纵向）\(\times 9\)列（横向）。将这块黑板沿着网格线分割成\(8\)个长方形。要使得这些长方形包含的方格数分别为\(1,2,3,4,5,6,7,8\)，且每种大小的长方形各有一个。另外，以包含\(4\)个方格的长方形为例，其“行数\(\times\)列数”可以是\(1\times4\)、\(2\times2\)或\(4\times1\)中的任意一种。
+
+此时，计算每一行涉及的长方形种类数。若从上往下数第\(X\)行有\(Y\)种长方形，则计算\(X\times Y\)。然后，将第\(1\)行到第\(4\)行的这些乘积相加，所得的总和即为“得分”。
+
+% 4×9 unit grid on the integer lattice.
+% Dashed lines only inside each rectangle; solid lines only on rectangle borders.
+% Both use the same integer endpoints, so they meet without offset.
+\newcommand{\mtGridPartition}[2]{%
+  \begin{tikzpicture}[x=0.55cm,y=0.55cm,line cap=butt,line join=miter]
+    \foreach \lab/\xa/\ya/\xb/\yb in {#1} {
+      % internal vertical unit lines
+      \pgfmathtruncatemacro{\xA}{\xa+1}%
+      \pgfmathtruncatemacro{\xB}{\xb-1}%
+      \ifnum\xA<\xb\relax
+        \ifnum\xB>\xa\relax
+          \foreach \xx in {\xA,...,\xB} {
+            \draw[black!50,line width=0.5pt,dash pattern=on 1.5pt off 1.1pt]
+              (\xx,\ya) -- (\xx,\yb);
+          }%
+        \fi
+      \fi
+      % internal horizontal unit lines
+      \pgfmathtruncatemacro{\yA}{\ya+1}%
+      \pgfmathtruncatemacro{\yB}{\yb-1}%
+      \ifnum\yA<\yb\relax
+        \ifnum\yB>\ya\relax
+          \foreach \yy in {\yA,...,\yB} {
+            \draw[black!50,line width=0.5pt,dash pattern=on 1.5pt off 1.1pt]
+              (\xa,\yy) -- (\xb,\yy);
+          }%
+        \fi
+      \fi
+      % solid border of this rectangle
+      \draw[Ink,line width=1.05pt]
+        (\xa,\ya) -- (\xb,\ya) -- (\xb,\yb) -- (\xa,\yb) -- cycle;
+      \node[font=\sffamily\small\bfseries] at
+        ({(\xa+\xb)/2},{(\ya+\yb)/2}) {\lab};
+    }
+    \draw[Ink,line width=1.3pt] (0,0) rectangle (9,4);
+    #2
+  \end{tikzpicture}%
+}
+
+\begin{center}
+% 示例图：得分 1×3+2×4+3×3+4×2=28
+\mtGridPartition{
+  3/0/1/1/4,
+  2/1/2/2/4,
+  7/2/3/9/4,
+  5/2/2/7/3,
+  4/7/1/9/3,
+  6/1/1/7/2,
+  8/0/0/8/1,
+  1/8/0/9/1
+}{
+  \node[right,font=\sffamily\scriptsize\color{Muted}] at (9.3,3.5) {\(1\times3=3\)};
+  \node[right,font=\sffamily\scriptsize\color{Muted}] at (9.3,2.5) {\(2\times4=8\)};
+  \node[right,font=\sffamily\scriptsize\color{Muted}] at (9.3,1.5) {\(3\times3=9\)};
+  \node[right,font=\sffamily\scriptsize\color{Muted}] at (9.3,0.5) {\(4\times2=8\)};
+}
+\end{center}
+
+\subquestion{5}{根据题目规则，仔细观察下图的分割方式，计算其得分。}
+
+\begin{center}
+\mtGridPartition{
+  3/0/3/3/4,
+  4/3/3/7/4,
+  6/7/1/9/4,
+  5/0/2/5/3,
+  2/5/2/7/3,
+  7/0/1/7/2,
+  8/0/0/8/1,
+  1/8/0/9/1
+}{}
+\end{center}
+\answerbox{1.6cm}
+
+\subquestion{5}{根据题目规则，计算图中分割方式，其最终得分是（\quad）。}
+
+\begin{center}
+\mtGridPartition{
+  8/0/0/2/4,
+  7/2/3/9/4,
+  5/2/2/7/3,
+  4/7/1/9/3,
+  2/2/0/3/2,
+  1/3/1/4/2,
+  3/4/1/7/2,
+  6/3/0/9/1
+}{}
+\end{center}
+
+\begin{choices}
+  \choice{32}
+  \choice{35}
+  \choice{38}
+  \choice{41}
+\end{choices}
+\end{question}
+
+\begin{question}{17}{15}
+将从\(1\)到\(A\)的\(A\)个整数逐一排列组成一个数列。此时，根据以下规则来决定该数列的得分。比较相邻两个数字的大小：当“右边的数字\(>\)左边的数字”时记为\(1\)分，当“右边的数字\(<\)左边的数字”时记为\(0\)分。各项得分的总和即为该数列的最终得分。例如，当\(A=5\)时，对于排列为\(3,5,1,2,4\)的数列，因为\(3<5\)（得\(1\)分）、\(5>1\)（得\(0\)分）、\(1<2\)（得\(1\)分）、\(2<4\)（得\(1\)分），所以总得分为\(1+0+1+1=3\)分。请回答下列问题：
+
+\subquestion{5}{当\(A=3\)时，得分为\(1\)分的数列共有多少种？}
+\begin{choices}
+  \choice{4}
+  \choice{3}
+  \choice{5}
+  \choice{2}
+\end{choices}
+
+\subquestion{5}{当\(A=4\)时，得分为\(2\)分的数列共有多少种？}
+\begin{choices}
+  \choice{13}
+  \choice{11}
+  \choice{12}
+  \choice{10}
+\end{choices}
+
+\subquestion{5}{已知数列\(1324\)按照“右边数字大于左边数字记\(1\)分，否则记\(0\)分”的规则得分为\(2\)分。现将数字\(5\)加入该数列的\(5\)个可能间隔（包含首尾）中，组成一个新的包含\(5\)个数字的数列。以此方式构成的所有新数列，其可能出现的得分有哪些？}
+\begin{choices}
+  \choice{仅有\(3\)分}
+  \choice{仅有\(2\)分}
+  \choice{\(2\)分、\(3\)分和\(4\)分}
+  \choice{\(2\)分和\(3\)分}
+\end{choices}
+\end{question}
+
+\begin{question}{18}{15}
+已知\(a,b,c,d\in\mathbb{Z}^+\)（正整数）。定义运算\(\langle a\rangle=a\times a\times a\)。例如：\(\langle1\rangle=1^3=1\)，\(\langle2\rangle=2^3=8\)，\(\langle3\rangle=3^3=27\)。请根据上述定义，回答以下问题：
+
+\subquestion{5}{根据题目定义\(\langle a\rangle=a\times a\times a\)。对于任意的正整数\(a\)，计算\(\langle a\rangle\)除以\(9\)的余数，该余数不可能是下列选项中的哪一个？}
+\begin{choices}
+  \choice{0}
+  \choice{1}
+  \choice{4}
+  \choice{8}
+\end{choices}
+
+\subquestion{5}{利用第（1）题的规律可知，任意三个正整数的立方和\(\langle a\rangle+\langle b\rangle+\langle c\rangle\)除以\(9\)的余数有很多种可能，但绝对不可能是\(4\)和\answerline{}（请填写一个\(0\)到\(8\)之间的整数）。}
+
+\subquestion{5}{已知\(a,b,c,d\)均为大于等于\(1\)的整数，且满足\(a\le b\le c\le d\)。若\(\langle a\rangle+\langle b\rangle+\langle c\rangle+\langle d\rangle=2025\)，且已知这四个数中最大的数\(d=11\)，那么\(a,b,c\)的值分别是：\(a=\underline{\hspace{0.8cm}}\)，\(b=\underline{\hspace{0.8cm}}\)，\(c=\underline{\hspace{0.8cm}}\)。（将\(abc\)的值直接并列写三个数字，中间不要有空格标点）}
+\end{question}

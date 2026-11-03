@@ -1,0 +1,28 @@
+\documentclass[UTF8,fontset=fandol]{ctexart}
+\usepackage[margin=1.5cm]{geometry}
+\usepackage{amsmath,amssymb}
+\usepackage{enumitem}
+\usepackage{tikz}
+\usetikzlibrary{calc,arrows.meta,angles,quotes,patterns,positioning,decorations.pathreplacing,3d}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+
+\newcommand{\sectionbanner}[2]{\section*{#1\quad #2}}
+\newenvironment{question}[2]{\par\noindent\textbf{第#1题（#2分）}\par}{\par}
+\newenvironment{choices}{\begin{enumerate}[label=\Alph*.,leftmargin=*]}{\end{enumerate}}
+\newenvironment{multichoices}{\begin{enumerate}[label=\Alph*.,leftmargin=*]}{\end{enumerate}}
+\newcommand{\choice}[1]{\item #1}
+\newcommand{\subquestion}[2]{\par\noindent\textbf{（#1分）}#2\par}
+\newcommand{\answerline}{\underline{\hspace{2cm}}}
+\newcommand{\answerbox}[1]{\par\fbox{\rule{0pt}{#1}\hspace{0.9\linewidth}}\par}
+\newenvironment{solution}[4]{%
+  \par\noindent\textbf{第#1题\quad 答案：#2\quad 难度：#3\quad 知识点：#4}\par
+}{\par}
+\newcommand{\analysis}[1]{\par\textbf{思路分析：}#1\par}
+\newcommand{\methodsummary}[1]{\par\textbf{方法总结：}#1\par}
+
+\begin{document}
+\input{questions.tex}
+\clearpage
+\input{solutions.tex}
+\end{document}
