@@ -1,0 +1,60 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Local assets (OCR scans, page images, etc.)
+**/assets/
+
+# LaTeX intermediate / build artifacts
+*.aux
+*.log
+*.fls
+*.fdb_latexmk
+*.xdv
+*.out
+*.toc
+*.lof
+*.lot
+*.synctex
+*.synctex.gz
+*.synctex(busy)
+*.nav
+*.snm
+*.vrb
+*.bcf
+*.run.xml
+*.bbl
+*.blg
+*.idx
+*.ilg
+*.ind
+*.glo
+*.gls
+*.glg
+*.acn
+*.acr
+*.alg
+*.ist
+*.xdy
+*.dvi
+*.ps
+*.bak
+*.tmp
+*.temp
+*~
+
+# Editor / IDE
+*.swp
+*.swo
+.idea/
+.vscode/
+*.code-workspace
+
+# Keep sources and final PDFs (explicit, for clarity)
+!*.tex
+!*.pdf
+!*.bib
+!*.sty
+!*.cls
+!*.bst
