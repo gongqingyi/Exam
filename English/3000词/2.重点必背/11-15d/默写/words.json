@@ -1,0 +1,1662 @@
+{
+  "title": "15天背完初中3500词 · 重点必背",
+  "days": [
+    {
+      "day": 11,
+      "items": [
+        {
+          "type": "w",
+          "en": "insist",
+          "zh": "坚持说"
+        },
+        {
+          "type": "w",
+          "en": "expression",
+          "zh": "表情；表示"
+        },
+        {
+          "type": "w",
+          "en": "agreement",
+          "zh": "同意"
+        },
+        {
+          "type": "w",
+          "en": "dialog",
+          "zh": "对话；对白"
+        },
+        {
+          "type": "w",
+          "en": "teamwork",
+          "zh": "团队合作"
+        },
+        {
+          "type": "w",
+          "en": "relationship",
+          "zh": "关系；联系"
+        },
+        {
+          "type": "w",
+          "en": "point out",
+          "zh": "指出"
+        },
+        {
+          "type": "w",
+          "en": "call off",
+          "zh": "取消"
+        },
+        {
+          "type": "w",
+          "en": "face to face",
+          "zh": "面对面"
+        },
+        {
+          "type": "w",
+          "en": "make up (with sb)",
+          "zh": "与……言归于好"
+        },
+        {
+          "type": "w",
+          "en": "get along with sb",
+          "zh": "与某人相处"
+        },
+        {
+          "type": "w",
+          "en": "social media",
+          "zh": "社交媒体"
+        },
+        {
+          "type": "w",
+          "en": "make a promise",
+          "zh": "许下诺言"
+        },
+        {
+          "type": "w",
+          "en": "be connected with / to",
+          "zh": "与……有关联"
+        },
+        {
+          "type": "w",
+          "en": "make ... feel at home",
+          "zh": "使（某人）感到宾至如归"
+        },
+        {
+          "type": "sec",
+          "text": "建筑与场所"
+        },
+        {
+          "type": "w",
+          "en": "doorstep",
+          "zh": "门阶"
+        },
+        {
+          "type": "w",
+          "en": "surface",
+          "zh": "表面；表层"
+        },
+        {
+          "type": "w",
+          "en": "studio",
+          "zh": "录像室；录音室"
+        },
+        {
+          "type": "w",
+          "en": "prison",
+          "zh": "监狱"
+        },
+        {
+          "type": "w",
+          "en": "company",
+          "zh": "公司"
+        },
+        {
+          "type": "w",
+          "en": "palace",
+          "zh": "王宫；宫殿"
+        },
+        {
+          "type": "w",
+          "en": "museum",
+          "zh": "博物馆"
+        },
+        {
+          "type": "w",
+          "en": "factory",
+          "zh": "工厂"
+        },
+        {
+          "type": "w",
+          "en": "position",
+          "zh": "位置；地方"
+        },
+        {
+          "type": "w",
+          "en": "capital",
+          "zh": "首都；国都"
+        },
+        {
+          "type": "w",
+          "en": "laboratory",
+          "zh": "实验室"
+        },
+        {
+          "type": "w",
+          "en": "community",
+          "zh": "社区；社团"
+        },
+        {
+          "type": "w",
+          "en": "workshop",
+          "zh": "车间；工场"
+        },
+        {
+          "type": "w",
+          "en": "courtyard",
+          "zh": "庭院；天井"
+        },
+        {
+          "type": "w",
+          "en": "campsite",
+          "zh": "野营地"
+        },
+        {
+          "type": "w",
+          "en": "structure",
+          "zh": "结构（体）"
+        },
+        {
+          "type": "w",
+          "en": "balcony",
+          "zh": "阳台"
+        },
+        {
+          "type": "w",
+          "en": "material",
+          "zh": "材料；原料"
+        },
+        {
+          "type": "w",
+          "en": "restaurant",
+          "zh": "餐馆；餐厅"
+        },
+        {
+          "type": "w",
+          "en": "platform",
+          "zh": "月台；站台"
+        },
+        {
+          "type": "w",
+          "en": "hallway",
+          "zh": "走廊"
+        },
+        {
+          "type": "w",
+          "en": "countryside",
+          "zh": "乡村；农村"
+        },
+        {
+          "type": "w",
+          "en": "neighbourhood",
+          "zh": "街区"
+        },
+        {
+          "type": "w",
+          "en": "stadium",
+          "zh": "体育馆；运动场"
+        },
+        {
+          "type": "w",
+          "en": "shelter",
+          "zh": "庇护所；居所"
+        },
+        {
+          "type": "w",
+          "en": "uncrowded",
+          "zh": "不拥挤的"
+        },
+        {
+          "type": "w",
+          "en": "cottage",
+          "zh": "（尤指）村舍"
+        },
+        {
+          "type": "w",
+          "en": "apartment",
+          "zh": "公寓套房"
+        },
+        {
+          "type": "w",
+          "en": "farmhouse",
+          "zh": "农场住宅，农舍"
+        },
+        {
+          "type": "w",
+          "en": "found",
+          "zh": "创建；创立"
+        },
+        {
+          "type": "w",
+          "en": "knock down",
+          "zh": "推倒建筑物"
+        },
+        {
+          "type": "w",
+          "en": "teaching building",
+          "zh": "教学楼"
+        },
+        {
+          "type": "w",
+          "en": "theme park",
+          "zh": "主题公园"
+        },
+        {
+          "type": "w",
+          "en": "ground floor",
+          "zh": "底层，一楼"
+        },
+        {
+          "type": "w",
+          "en": "places of interest",
+          "zh": "名胜古迹"
+        },
+        {
+          "type": "w",
+          "en": "police station",
+          "zh": "派出所"
+        },
+        {
+          "type": "sec",
+          "text": "饮食"
+        },
+        {
+          "type": "w",
+          "en": "pepper",
+          "zh": "胡椒粉；菜椒"
+        },
+        {
+          "type": "w",
+          "en": "cheese",
+          "zh": "奶酪；干酪"
+        },
+        {
+          "type": "w",
+          "en": "biscuit",
+          "zh": "饼干"
+        },
+        {
+          "type": "w",
+          "en": "mutton",
+          "zh": "羊肉"
+        },
+        {
+          "type": "w",
+          "en": "sweet",
+          "zh": "甜的"
+        },
+        {
+          "type": "w",
+          "en": "spicy",
+          "zh": "辛辣的"
+        },
+        {
+          "type": "w",
+          "en": "bitter",
+          "zh": "味苦的"
+        },
+        {
+          "type": "w",
+          "en": "taste",
+          "zh": "尝"
+        },
+        {
+          "type": "w",
+          "en": "taste",
+          "zh": "味道"
+        },
+        {
+          "type": "w",
+          "en": "crispy",
+          "zh": "脆的；酥脆的"
+        },
+        {
+          "type": "w",
+          "en": "sour",
+          "zh": "酸的；有酸味的"
+        },
+        {
+          "type": "w",
+          "en": "creamy",
+          "zh": "像奶油的"
+        }
+      ]
+    },
+    {
+      "day": 12,
+      "items": [
+        {
+          "type": "w",
+          "en": "dessert",
+          "zh": "（饭后）甜点"
+        },
+        {
+          "type": "w",
+          "en": "pumpkin",
+          "zh": "南瓜"
+        },
+        {
+          "type": "w",
+          "en": "chocolate",
+          "zh": "巧克力"
+        },
+        {
+          "type": "w",
+          "en": "hamburger",
+          "zh": "汉堡包"
+        },
+        {
+          "type": "w",
+          "en": "yogurt",
+          "zh": "酸奶"
+        },
+        {
+          "type": "w",
+          "en": "dumpling",
+          "zh": "饺子"
+        },
+        {
+          "type": "w",
+          "en": "recipe",
+          "zh": "食谱"
+        },
+        {
+          "type": "w",
+          "en": "seafood",
+          "zh": "海鲜"
+        },
+        {
+          "type": "w",
+          "en": "slice",
+          "zh": "片"
+        },
+        {
+          "type": "w",
+          "en": "slice",
+          "zh": "把……切成薄片"
+        },
+        {
+          "type": "w",
+          "en": "delicious",
+          "zh": "美味的"
+        },
+        {
+          "type": "w",
+          "en": "pancake",
+          "zh": "烙饼；薄饼"
+        },
+        {
+          "type": "w",
+          "en": "cucumber",
+          "zh": "黄瓜"
+        },
+        {
+          "type": "w",
+          "en": "chopstick",
+          "zh": "筷子"
+        },
+        {
+          "type": "w",
+          "en": "sandwich",
+          "zh": "三明治"
+        },
+        {
+          "type": "w",
+          "en": "strawberry",
+          "zh": "草莓"
+        },
+        {
+          "type": "w",
+          "en": "watermelon",
+          "zh": "西瓜"
+        },
+        {
+          "type": "w",
+          "en": "mooncake",
+          "zh": "月饼"
+        },
+        {
+          "type": "sec",
+          "text": "天气"
+        },
+        {
+          "type": "w",
+          "en": "wet",
+          "zh": "湿的；潮湿的"
+        },
+        {
+          "type": "w",
+          "en": "fog",
+          "zh": "雾"
+        },
+        {
+          "type": "w",
+          "en": "wind",
+          "zh": "风"
+        },
+        {
+          "type": "w",
+          "en": "storm",
+          "zh": "暴风雨"
+        },
+        {
+          "type": "w",
+          "en": "cold",
+          "zh": "寒冷的"
+        },
+        {
+          "type": "w",
+          "en": "dry",
+          "zh": "干的；干旱的"
+        },
+        {
+          "type": "w",
+          "en": "thunder",
+          "zh": "雷声"
+        },
+        {
+          "type": "w",
+          "en": "thunder",
+          "zh": "打雷"
+        },
+        {
+          "type": "w",
+          "en": "sunlight",
+          "zh": "阳光；日光"
+        },
+        {
+          "type": "w",
+          "en": "daylight",
+          "zh": "日光"
+        },
+        {
+          "type": "w",
+          "en": "snowy",
+          "zh": "下雪的"
+        },
+        {
+          "type": "w",
+          "en": "rainy",
+          "zh": "阴雨的；多雨的"
+        },
+        {
+          "type": "w",
+          "en": "climate",
+          "zh": "气候"
+        },
+        {
+          "type": "w",
+          "en": "freezing",
+          "zh": "极冷的；冰冻的"
+        },
+        {
+          "type": "w",
+          "en": "sunless",
+          "zh": "无阳光的"
+        },
+        {
+          "type": "w",
+          "en": "temperature",
+          "zh": "温度"
+        },
+        {
+          "type": "w",
+          "en": "snowball",
+          "zh": "雪球"
+        },
+        {
+          "type": "w",
+          "en": "in the sun",
+          "zh": "在阳光下"
+        },
+        {
+          "type": "sec",
+          "text": "生产制造"
+        },
+        {
+          "type": "w",
+          "en": "add",
+          "zh": "添加；加"
+        },
+        {
+          "type": "w",
+          "en": "pack",
+          "zh": "包装；装箱"
+        },
+        {
+          "type": "w",
+          "en": "sort",
+          "zh": "整理"
+        },
+        {
+          "type": "w",
+          "en": "sort",
+          "zh": "种类"
+        },
+        {
+          "type": "w",
+          "en": "lock",
+          "zh": "用锁锁上"
+        },
+        {
+          "type": "w",
+          "en": "fill",
+          "zh": "装满"
+        },
+        {
+          "type": "w",
+          "en": "dig",
+          "zh": "挖；掘"
+        },
+        {
+          "type": "w",
+          "en": "fix",
+          "zh": "修补；安装"
+        },
+        {
+          "type": "w",
+          "en": "beat",
+          "zh": "敲；打"
+        },
+        {
+          "type": "w",
+          "en": "press",
+          "zh": "压；按"
+        },
+        {
+          "type": "w",
+          "en": "melt",
+          "zh": "融化"
+        },
+        {
+          "type": "w",
+          "en": "serve",
+          "zh": "提供；服务"
+        },
+        {
+          "type": "w",
+          "en": "print",
+          "zh": "打印；印刷"
+        },
+        {
+          "type": "w",
+          "en": "repeat",
+          "zh": "重复；重做"
+        },
+        {
+          "type": "w",
+          "en": "unlock",
+          "zh": "开……的锁"
+        },
+        {
+          "type": "w",
+          "en": "twist",
+          "zh": "使扭曲"
+        },
+        {
+          "type": "w",
+          "en": "repair",
+          "zh": "修理"
+        },
+        {
+          "type": "w",
+          "en": "divide",
+          "zh": "分开；分散"
+        },
+        {
+          "type": "w",
+          "en": "prepare",
+          "zh": "准备"
+        },
+        {
+          "type": "w",
+          "en": "replace",
+          "zh": "代替；取代"
+        },
+        {
+          "type": "w",
+          "en": "control",
+          "zh": "操作；操纵"
+        },
+        {
+          "type": "w",
+          "en": "complete",
+          "zh": "完成"
+        },
+        {
+          "type": "w",
+          "en": "explore",
+          "zh": "探索"
+        },
+        {
+          "type": "w",
+          "en": "produce",
+          "zh": "生产；制造"
+        },
+        {
+          "type": "w",
+          "en": "increase",
+          "zh": "增加；增长"
+        },
+        {
+          "type": "w",
+          "en": "create",
+          "zh": "创造"
+        },
+        {
+          "type": "w",
+          "en": "design",
+          "zh": "设计"
+        },
+        {
+          "type": "w",
+          "en": "product",
+          "zh": "产品；制品"
+        },
+        {
+          "type": "w",
+          "en": "foggy",
+          "zh": "有雾的；雾茫茫的"
+        },
+        {
+          "type": "w",
+          "en": "frozen",
+          "zh": "结冰的"
+        },
+        {
+          "type": "w",
+          "en": "stormy",
+          "zh": "有暴风雨的"
+        },
+        {
+          "type": "w",
+          "en": "breeze",
+          "zh": "微风；和风"
+        },
+        {
+          "type": "w",
+          "en": "lightning",
+          "zh": "闪电"
+        },
+        {
+          "type": "w",
+          "en": "sunshine",
+          "zh": "阳光"
+        }
+      ]
+    },
+    {
+      "day": 13,
+      "items": [
+        {
+          "type": "w",
+          "en": "production",
+          "zh": "生产；产量"
+        },
+        {
+          "type": "w",
+          "en": "invention",
+          "zh": "发明；创造"
+        },
+        {
+          "type": "w",
+          "en": "invent",
+          "zh": "发明；创造"
+        },
+        {
+          "type": "w",
+          "en": "divide ... into",
+          "zh": "把……分开"
+        },
+        {
+          "type": "w",
+          "en": "turn on",
+          "zh": "接通；打开"
+        },
+        {
+          "type": "w",
+          "en": "go wrong",
+          "zh": "发生故障"
+        },
+        {
+          "type": "w",
+          "en": "cut ... short",
+          "zh": "缩短……"
+        },
+        {
+          "type": "w",
+          "en": "heat up",
+          "zh": "使变热"
+        },
+        {
+          "type": "w",
+          "en": "deal with",
+          "zh": "应对；处理"
+        },
+        {
+          "type": "w",
+          "en": "add sth to sth",
+          "zh": "把……加入……"
+        },
+        {
+          "type": "w",
+          "en": "carry out",
+          "zh": "实施；执行"
+        },
+        {
+          "type": "w",
+          "en": "cut sth off sth",
+          "zh": "把……从……上剪掉"
+        },
+        {
+          "type": "w",
+          "en": "pour sth into sth",
+          "zh": "将……倒入……"
+        },
+        {
+          "type": "w",
+          "en": "cut sth in / into sth",
+          "zh": "将……切成……"
+        },
+        {
+          "type": "w",
+          "en": "mix ... with ...",
+          "zh": "（使）……和……混合"
+        },
+        {
+          "type": "w",
+          "en": "fill ... with ...",
+          "zh": "（使）充满"
+        },
+        {
+          "type": "sec",
+          "text": "职业与身份"
+        },
+        {
+          "type": "w",
+          "en": "boss",
+          "zh": "老板；上司"
+        },
+        {
+          "type": "w",
+          "en": "guide",
+          "zh": "导游"
+        },
+        {
+          "type": "w",
+          "en": "army",
+          "zh": "军队"
+        },
+        {
+          "type": "w",
+          "en": "staff",
+          "zh": "职工"
+        },
+        {
+          "type": "w",
+          "en": "coach",
+          "zh": "教练"
+        },
+        {
+          "type": "w",
+          "en": "actor",
+          "zh": "演员"
+        },
+        {
+          "type": "w",
+          "en": "actress",
+          "zh": "女演员"
+        },
+        {
+          "type": "w",
+          "en": "artist",
+          "zh": "美术家；艺术家"
+        },
+        {
+          "type": "w",
+          "en": "nurse",
+          "zh": "护士"
+        },
+        {
+          "type": "w",
+          "en": "pilot",
+          "zh": "飞行员；领航员"
+        },
+        {
+          "type": "w",
+          "en": "secretary",
+          "zh": "秘书"
+        },
+        {
+          "type": "w",
+          "en": "dentist",
+          "zh": "牙科医生"
+        },
+        {
+          "type": "w",
+          "en": "president",
+          "zh": "主席；总统"
+        },
+        {
+          "type": "w",
+          "en": "musician",
+          "zh": "音乐家；乐师"
+        },
+        {
+          "type": "w",
+          "en": "professor",
+          "zh": "教授"
+        },
+        {
+          "type": "w",
+          "en": "astronaut",
+          "zh": "宇航员"
+        },
+        {
+          "type": "w",
+          "en": "scientist",
+          "zh": "科学家"
+        },
+        {
+          "type": "w",
+          "en": "businessman",
+          "zh": "企业家"
+        },
+        {
+          "type": "w",
+          "en": "fireman",
+          "zh": "消防队员（pl. firemen）"
+        },
+        {
+          "type": "w",
+          "en": "waitress",
+          "zh": "女服务员"
+        },
+        {
+          "type": "w",
+          "en": "athlete",
+          "zh": "运动员"
+        },
+        {
+          "type": "w",
+          "en": "postman",
+          "zh": "邮递员"
+        },
+        {
+          "type": "w",
+          "en": "policeman",
+          "zh": "男警察（pl. policemen）"
+        },
+        {
+          "type": "w",
+          "en": "doctor",
+          "zh": "博士；医生"
+        },
+        {
+          "type": "w",
+          "en": "career",
+          "zh": "生涯；职业"
+        },
+        {
+          "type": "w",
+          "en": "guard",
+          "zh": "卫兵；看守"
+        },
+        {
+          "type": "w",
+          "en": "lawyer",
+          "zh": "律师"
+        },
+        {
+          "type": "w",
+          "en": "leader",
+          "zh": "领导；领袖"
+        },
+        {
+          "type": "w",
+          "en": "singer",
+          "zh": "歌手"
+        },
+        {
+          "type": "w",
+          "en": "player",
+          "zh": "运动员；选手"
+        },
+        {
+          "type": "w",
+          "en": "worker",
+          "zh": "工人"
+        },
+        {
+          "type": "w",
+          "en": "waiter",
+          "zh": "（男）服务员"
+        },
+        {
+          "type": "w",
+          "en": "officer",
+          "zh": "军官；警察"
+        },
+        {
+          "type": "w",
+          "en": "dancer",
+          "zh": "跳舞者"
+        },
+        {
+          "type": "w",
+          "en": "writer",
+          "zh": "作者"
+        },
+        {
+          "type": "w",
+          "en": "reporter",
+          "zh": "记者"
+        },
+        {
+          "type": "w",
+          "en": "manager",
+          "zh": "经理"
+        },
+        {
+          "type": "w",
+          "en": "painter",
+          "zh": "画家；油漆匠"
+        },
+        {
+          "type": "w",
+          "en": "soldier",
+          "zh": "军人；士兵"
+        },
+        {
+          "type": "w",
+          "en": "volunteer",
+          "zh": "志愿者"
+        },
+        {
+          "type": "w",
+          "en": "photographer",
+          "zh": "摄影师"
+        },
+        {
+          "type": "w",
+          "en": "engineer",
+          "zh": "工程师"
+        }
+      ]
+    },
+    {
+      "day": 14,
+      "items": [
+        {
+          "type": "sec",
+          "text": "数量与单位"
+        },
+        {
+          "type": "w",
+          "en": "set",
+          "zh": "一套，一副，一组"
+        },
+        {
+          "type": "w",
+          "en": "ton",
+          "zh": "吨；大量；许多"
+        },
+        {
+          "type": "w",
+          "en": "pile",
+          "zh": "堆"
+        },
+        {
+          "type": "w",
+          "en": "army",
+          "zh": "大批；大群"
+        },
+        {
+          "type": "w",
+          "en": "tiny",
+          "zh": "极小的"
+        },
+        {
+          "type": "w",
+          "en": "times",
+          "zh": "倍"
+        },
+        {
+          "type": "w",
+          "en": "double",
+          "zh": "加倍"
+        },
+        {
+          "type": "w",
+          "en": "couple",
+          "zh": "一对"
+        },
+        {
+          "type": "w",
+          "en": "reduce",
+          "zh": "减少"
+        },
+        {
+          "type": "w",
+          "en": "huge",
+          "zh": "巨大的；极多的"
+        },
+        {
+          "type": "w",
+          "en": "countless",
+          "zh": "数不尽的"
+        },
+        {
+          "type": "w",
+          "en": "shower",
+          "zh": "一大批"
+        },
+        {
+          "type": "w",
+          "en": "plenty",
+          "zh": "大量；众多"
+        },
+        {
+          "type": "w",
+          "en": "average",
+          "zh": "平均数"
+        },
+        {
+          "type": "w",
+          "en": "measure",
+          "zh": "测量"
+        },
+        {
+          "type": "w",
+          "en": "measurement",
+          "zh": "测量"
+        },
+        {
+          "type": "w",
+          "en": "total",
+          "zh": "总数"
+        },
+        {
+          "type": "w",
+          "en": "total",
+          "zh": "总的"
+        },
+        {
+          "type": "w",
+          "en": "distance",
+          "zh": "距离；遥远"
+        },
+        {
+          "type": "w",
+          "en": "rainfall",
+          "zh": "降雨量"
+        },
+        {
+          "type": "w",
+          "en": "cubic",
+          "zh": "立方的"
+        },
+        {
+          "type": "w",
+          "en": "several",
+          "zh": "几个；一些"
+        },
+        {
+          "type": "w",
+          "en": "endless",
+          "zh": "无穷无尽的"
+        },
+        {
+          "type": "w",
+          "en": "per cent",
+          "zh": "百分之……"
+        },
+        {
+          "type": "w",
+          "en": "percentage",
+          "zh": "百分率"
+        },
+        {
+          "type": "w",
+          "en": "a set of",
+          "zh": "一套，一副，一组"
+        },
+        {
+          "type": "w",
+          "en": "a couple of",
+          "zh": "一对；几个，几件"
+        },
+        {
+          "type": "w",
+          "en": "on average",
+          "zh": "平均"
+        },
+        {
+          "type": "w",
+          "en": "more than",
+          "zh": "多于"
+        },
+        {
+          "type": "w",
+          "en": "plenty of",
+          "zh": "大量；充足"
+        },
+        {
+          "type": "w",
+          "en": "millions of",
+          "zh": "大量的；无数的"
+        },
+        {
+          "type": "sec",
+          "text": "其他形容词"
+        },
+        {
+          "type": "w",
+          "en": "key",
+          "zh": "最重要的"
+        },
+        {
+          "type": "w",
+          "en": "same",
+          "zh": "相同的"
+        },
+        {
+          "type": "w",
+          "en": "real",
+          "zh": "实际存在的"
+        },
+        {
+          "type": "w",
+          "en": "done",
+          "zh": "完成的"
+        },
+        {
+          "type": "w",
+          "en": "firm",
+          "zh": "结实的；坚固的"
+        },
+        {
+          "type": "w",
+          "en": "deep",
+          "zh": "深的"
+        },
+        {
+          "type": "w",
+          "en": "alike",
+          "zh": "相像的"
+        },
+        {
+          "type": "w",
+          "en": "only",
+          "zh": "唯一的；仅有的"
+        },
+        {
+          "type": "w",
+          "en": "basic",
+          "zh": "基本的；基础的"
+        },
+        {
+          "type": "w",
+          "en": "clear",
+          "zh": "清晰的；清楚的"
+        },
+        {
+          "type": "w",
+          "en": "simple",
+          "zh": "简单的"
+        },
+        {
+          "type": "w",
+          "en": "ready",
+          "zh": "准备好的"
+        },
+        {
+          "type": "w",
+          "en": "deaf",
+          "zh": "聋的"
+        },
+        {
+          "type": "w",
+          "en": "normal",
+          "zh": "正常的"
+        },
+        {
+          "type": "w",
+          "en": "guilty",
+          "zh": "有罪责的"
+        },
+        {
+          "type": "w",
+          "en": "proper",
+          "zh": "正确的"
+        },
+        {
+          "type": "w",
+          "en": "separate",
+          "zh": "单独的；分开的"
+        },
+        {
+          "type": "w",
+          "en": "common",
+          "zh": "普遍的"
+        },
+        {
+          "type": "w",
+          "en": "mobile",
+          "zh": "可移动的"
+        },
+        {
+          "type": "w",
+          "en": "correct",
+          "zh": "正确的"
+        },
+        {
+          "type": "w",
+          "en": "special",
+          "zh": "特别的"
+        },
+        {
+          "type": "w",
+          "en": "unusual",
+          "zh": "不寻常的"
+        },
+        {
+          "type": "w",
+          "en": "certain",
+          "zh": "确定的"
+        },
+        {
+          "type": "w",
+          "en": "balanced",
+          "zh": "均衡的"
+        },
+        {
+          "type": "w",
+          "en": "missing",
+          "zh": "失踪的；丢失的"
+        },
+        {
+          "type": "w",
+          "en": "sudden",
+          "zh": "突然的；骤然的"
+        },
+        {
+          "type": "w",
+          "en": "empty",
+          "zh": "空的"
+        },
+        {
+          "type": "w",
+          "en": "likely",
+          "zh": "可能的"
+        },
+        {
+          "type": "w",
+          "en": "powerful",
+          "zh": "强大的"
+        },
+        {
+          "type": "w",
+          "en": "following",
+          "zh": "接着的"
+        },
+        {
+          "type": "w",
+          "en": "burning",
+          "zh": "燃烧的"
+        },
+        {
+          "type": "w",
+          "en": "unsure",
+          "zh": "犹豫"
+        },
+        {
+          "type": "w",
+          "en": "over",
+          "zh": "结束的"
+        },
+        {
+          "type": "w",
+          "en": "different",
+          "zh": "不同的"
+        },
+        {
+          "type": "w",
+          "en": "connected",
+          "zh": "相关的"
+        },
+        {
+          "type": "w",
+          "en": "believable",
+          "zh": "可相信的"
+        }
+      ]
+    },
+    {
+      "day": 15,
+      "items": [
+        {
+          "type": "w",
+          "en": "peaceful",
+          "zh": "和平的"
+        },
+        {
+          "type": "w",
+          "en": "suitable",
+          "zh": "合适的；适宜的"
+        },
+        {
+          "type": "w",
+          "en": "life-saving",
+          "zh": "救生的"
+        },
+        {
+          "type": "w",
+          "en": "hidden",
+          "zh": "隐藏的；秘密的"
+        },
+        {
+          "type": "w",
+          "en": "false",
+          "zh": "错误的；不真实的"
+        },
+        {
+          "type": "w",
+          "en": "lost",
+          "zh": "迷路的；丢失的"
+        },
+        {
+          "type": "w",
+          "en": "closing",
+          "zh": "结尾的；结束的"
+        },
+        {
+          "type": "w",
+          "en": "opening",
+          "zh": "开篇的；开始的"
+        },
+        {
+          "type": "w",
+          "en": "whole",
+          "zh": "全部的；整个的"
+        },
+        {
+          "type": "w",
+          "en": "similar",
+          "zh": "类似的；相像的"
+        },
+        {
+          "type": "w",
+          "en": "perfect",
+          "zh": "完美的；极好的"
+        },
+        {
+          "type": "sec",
+          "text": "其他副词"
+        },
+        {
+          "type": "w",
+          "en": "out",
+          "zh": "（从……里）出来"
+        },
+        {
+          "type": "w",
+          "en": "off",
+          "zh": "休息"
+        },
+        {
+          "type": "w",
+          "en": "then",
+          "zh": "当时；那时"
+        },
+        {
+          "type": "w",
+          "en": "just",
+          "zh": "只是；正好"
+        },
+        {
+          "type": "w",
+          "en": "still",
+          "zh": "还；仍然"
+        },
+        {
+          "type": "w",
+          "en": "else",
+          "zh": "其他的"
+        },
+        {
+          "type": "w",
+          "en": "only",
+          "zh": "只；仅"
+        },
+        {
+          "type": "w",
+          "en": "away",
+          "zh": "离开"
+        },
+        {
+          "type": "w",
+          "en": "about",
+          "zh": "四处；左右"
+        },
+        {
+          "type": "w",
+          "en": "though",
+          "zh": "可是，然而"
+        },
+        {
+          "type": "w",
+          "en": "maybe",
+          "zh": "也许；大概"
+        },
+        {
+          "type": "w",
+          "en": "before",
+          "zh": "以前；过去"
+        },
+        {
+          "type": "w",
+          "en": "last",
+          "zh": "最近；上一次"
+        },
+        {
+          "type": "w",
+          "en": "slowly",
+          "zh": "缓慢地"
+        },
+        {
+          "type": "w",
+          "en": "around",
+          "zh": "到处"
+        },
+        {
+          "type": "w",
+          "en": "quickly",
+          "zh": "快速地"
+        },
+        {
+          "type": "w",
+          "en": "nearly",
+          "zh": "几乎；差不多"
+        },
+        {
+          "type": "w",
+          "en": "truly",
+          "zh": "确实"
+        },
+        {
+          "type": "w",
+          "en": "usually",
+          "zh": "通常地"
+        },
+        {
+          "type": "w",
+          "en": "suddenly",
+          "zh": "突然地"
+        },
+        {
+          "type": "w",
+          "en": "safely",
+          "zh": "安全地"
+        },
+        {
+          "type": "w",
+          "en": "firstly",
+          "zh": "第一；首先"
+        },
+        {
+          "type": "w",
+          "en": "largely",
+          "zh": "主要地"
+        },
+        {
+          "type": "w",
+          "en": "outdoors",
+          "zh": "在户外"
+        },
+        {
+          "type": "w",
+          "en": "secretly",
+          "zh": "秘密地"
+        },
+        {
+          "type": "w",
+          "en": "secondly",
+          "zh": "第二；其次"
+        },
+        {
+          "type": "w",
+          "en": "thirdly",
+          "zh": "第三"
+        },
+        {
+          "type": "w",
+          "en": "lately",
+          "zh": "最近；不久前"
+        },
+        {
+          "type": "w",
+          "en": "mostly",
+          "zh": "主要地"
+        },
+        {
+          "type": "w",
+          "en": "actually",
+          "zh": "实际上"
+        },
+        {
+          "type": "w",
+          "en": "clearly",
+          "zh": "清楚地"
+        },
+        {
+          "type": "w",
+          "en": "already",
+          "zh": "已经；早已"
+        },
+        {
+          "type": "w",
+          "en": "luckily",
+          "zh": "幸运地"
+        },
+        {
+          "type": "w",
+          "en": "surely",
+          "zh": "想必；必定"
+        },
+        {
+          "type": "w",
+          "en": "healthily",
+          "zh": "健康地"
+        },
+        {
+          "type": "w",
+          "en": "nicely",
+          "zh": "漂亮地"
+        },
+        {
+          "type": "w",
+          "en": "really",
+          "zh": "确实；真正地"
+        },
+        {
+          "type": "w",
+          "en": "carefully",
+          "zh": "小心"
+        },
+        {
+          "type": "w",
+          "en": "sincerely",
+          "zh": "诚实地"
+        },
+        {
+          "type": "w",
+          "en": "importantly",
+          "zh": "重要地"
+        },
+        {
+          "type": "w",
+          "en": "therefore",
+          "zh": "因此；所以"
+        },
+        {
+          "type": "w",
+          "en": "finally",
+          "zh": "最后；终于"
+        },
+        {
+          "type": "w",
+          "en": "lastly",
+          "zh": "最后"
+        },
+        {
+          "type": "w",
+          "en": "ahead",
+          "zh": "向前面"
+        },
+        {
+          "type": "w",
+          "en": "easily",
+          "zh": "容易地"
+        },
+        {
+          "type": "w",
+          "en": "closely",
+          "zh": "密切地"
+        },
+        {
+          "type": "w",
+          "en": "alone",
+          "zh": "独自"
+        },
+        {
+          "type": "w",
+          "en": "besides",
+          "zh": "而且"
+        },
+        {
+          "type": "w",
+          "en": "recently",
+          "zh": "最近"
+        },
+        {
+          "type": "w",
+          "en": "carelessly",
+          "zh": "粗心地"
+        },
+        {
+          "type": "w",
+          "en": "aloud",
+          "zh": "大声地"
+        }
+      ]
+    }
+  ]
+}

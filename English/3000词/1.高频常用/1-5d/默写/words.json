@@ -1,0 +1,1815 @@
+{
+  "title": "15天背完初中3500词 · 高频常用",
+  "days": [
+    {
+      "day": 1,
+      "items": [
+        {
+          "type": "sec",
+          "text": "颜色"
+        },
+        {
+          "type": "w",
+          "en": "colour",
+          "zh": "颜色"
+        },
+        {
+          "type": "w",
+          "en": "orange",
+          "zh": "橙红色"
+        },
+        {
+          "type": "w",
+          "en": "green",
+          "zh": "绿色"
+        },
+        {
+          "type": "w",
+          "en": "red",
+          "zh": "红色"
+        },
+        {
+          "type": "w",
+          "en": "purple",
+          "zh": "紫色"
+        },
+        {
+          "type": "w",
+          "en": "blue",
+          "zh": "蓝色"
+        },
+        {
+          "type": "w",
+          "en": "brown",
+          "zh": "棕色"
+        },
+        {
+          "type": "w",
+          "en": "yellow",
+          "zh": "黄色"
+        },
+        {
+          "type": "w",
+          "en": "white",
+          "zh": "白色"
+        },
+        {
+          "type": "w",
+          "en": "black",
+          "zh": "黑色"
+        },
+        {
+          "type": "w",
+          "en": "pink",
+          "zh": "粉红色"
+        },
+        {
+          "type": "w",
+          "en": "silver",
+          "zh": "银色"
+        },
+        {
+          "type": "w",
+          "en": "gold",
+          "zh": "金色"
+        },
+        {
+          "type": "w",
+          "en": "golden",
+          "zh": "金色的"
+        },
+        {
+          "type": "w",
+          "en": "grey",
+          "zh": "灰色"
+        },
+        {
+          "type": "w",
+          "en": "pale",
+          "zh": "灰白的"
+        },
+        {
+          "type": "w",
+          "en": "dark",
+          "zh": "深色的"
+        },
+        {
+          "type": "w",
+          "en": "fair",
+          "zh": "浅色的，白皙的"
+        },
+        {
+          "type": "w",
+          "en": "light",
+          "zh": "浅色的"
+        },
+        {
+          "type": "w",
+          "en": "shade",
+          "zh": "色度"
+        },
+        {
+          "type": "w",
+          "en": "bright",
+          "zh": "鲜艳的；明亮的"
+        },
+        {
+          "type": "w",
+          "en": "lively",
+          "zh": "（色彩）鲜艳的"
+        },
+        {
+          "type": "w",
+          "en": "colourful",
+          "zh": "五彩缤纷的"
+        },
+        {
+          "type": "w",
+          "en": "paint",
+          "zh": "用颜料画"
+        },
+        {
+          "type": "w",
+          "en": "draw",
+          "zh": "画画"
+        },
+        {
+          "type": "w",
+          "en": "crayon",
+          "zh": "彩色铅笔"
+        },
+        {
+          "type": "sec",
+          "text": "家庭"
+        },
+        {
+          "type": "w",
+          "en": "family",
+          "zh": "家；家庭"
+        },
+        {
+          "type": "w",
+          "en": "father",
+          "zh": "父亲；爸爸"
+        },
+        {
+          "type": "w",
+          "en": "mother",
+          "zh": "母亲；妈妈"
+        },
+        {
+          "type": "w",
+          "en": "son",
+          "zh": "儿子"
+        },
+        {
+          "type": "w",
+          "en": "sister",
+          "zh": "姐；妹"
+        },
+        {
+          "type": "w",
+          "en": "brother",
+          "zh": "兄；弟"
+        },
+        {
+          "type": "w",
+          "en": "baby",
+          "zh": "婴儿"
+        },
+        {
+          "type": "w",
+          "en": "kid",
+          "zh": "小孩"
+        },
+        {
+          "type": "w",
+          "en": "grandparent",
+          "zh": "祖父（母）；外祖父（母）"
+        },
+        {
+          "type": "w",
+          "en": "granddaughter",
+          "zh": "（外）孙女"
+        },
+        {
+          "type": "w",
+          "en": "grandchild",
+          "zh": "（外）孙子；（外）孙女"
+        },
+        {
+          "type": "w",
+          "en": "grandson",
+          "zh": "孙子；外孙"
+        },
+        {
+          "type": "w",
+          "en": "wife",
+          "zh": "妻子"
+        },
+        {
+          "type": "w",
+          "en": "husband",
+          "zh": "丈夫"
+        },
+        {
+          "type": "w",
+          "en": "twin",
+          "zh": "双胞胎之一"
+        },
+        {
+          "type": "w",
+          "en": "close",
+          "zh": "亲密的"
+        },
+        {
+          "type": "w",
+          "en": "comfortable",
+          "zh": "舒适的"
+        },
+        {
+          "type": "w",
+          "en": "protect",
+          "zh": "保护；防护"
+        },
+        {
+          "type": "w",
+          "en": "gather",
+          "zh": "聚集；集合"
+        },
+        {
+          "type": "w",
+          "en": "wedding",
+          "zh": "婚礼"
+        },
+        {
+          "type": "w",
+          "en": "hug",
+          "zh": "拥抱；搂抱"
+        },
+        {
+          "type": "w",
+          "en": "feed",
+          "zh": "喂养；饲养"
+        },
+        {
+          "type": "w",
+          "en": "member",
+          "zh": "成员；会员"
+        },
+        {
+          "type": "w",
+          "en": "darling",
+          "zh": "亲爱的；宝贝"
+        },
+        {
+          "type": "w",
+          "en": "couple",
+          "zh": "夫妻；情侣"
+        },
+        {
+          "type": "w",
+          "en": "guest",
+          "zh": "客人；宾客"
+        },
+        {
+          "type": "w",
+          "en": "relative",
+          "zh": "亲戚；亲属"
+        },
+        {
+          "type": "w",
+          "en": "take care of",
+          "zh": "照顾；处理"
+        },
+        {
+          "type": "w",
+          "en": "listen to",
+          "zh": "听；倾听"
+        },
+        {
+          "type": "sec",
+          "text": "饮食"
+        },
+        {
+          "type": "w",
+          "en": "oil",
+          "zh": "食用油"
+        },
+        {
+          "type": "w",
+          "en": "hot pot",
+          "zh": "火锅"
+        },
+        {
+          "type": "w",
+          "en": "piece",
+          "zh": "片；块"
+        },
+        {
+          "type": "w",
+          "en": "ham",
+          "zh": "火腿"
+        },
+        {
+          "type": "w",
+          "en": "boil",
+          "zh": "煮沸；烧开；沸腾；沸点"
+        },
+        {
+          "type": "w",
+          "en": "butter",
+          "zh": "黄油"
+        },
+        {
+          "type": "w",
+          "en": "chip",
+          "zh": "炸薯条"
+        },
+        {
+          "type": "w",
+          "en": "jam",
+          "zh": "果酱"
+        },
+        {
+          "type": "w",
+          "en": "diet",
+          "zh": "日常饮食"
+        },
+        {
+          "type": "w",
+          "en": "dish",
+          "zh": "一道菜；盘子"
+        },
+        {
+          "type": "w",
+          "en": "pie",
+          "zh": "果馅饼；肉馅饼"
+        },
+        {
+          "type": "w",
+          "en": "grain",
+          "zh": "谷物；谷粒"
+        },
+        {
+          "type": "w",
+          "en": "fried",
+          "zh": "油炸的"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "items": [
+        {
+          "type": "w",
+          "en": "fry",
+          "zh": "油炸；油煎；油炒"
+        },
+        {
+          "type": "w",
+          "en": "pea",
+          "zh": "豌豆"
+        },
+        {
+          "type": "w",
+          "en": "mix",
+          "zh": "（使）混合；融合"
+        },
+        {
+          "type": "w",
+          "en": "menu",
+          "zh": "菜单"
+        },
+        {
+          "type": "w",
+          "en": "meal",
+          "zh": "一餐"
+        },
+        {
+          "type": "w",
+          "en": "pork",
+          "zh": "猪肉"
+        },
+        {
+          "type": "w",
+          "en": "pear",
+          "zh": "梨"
+        },
+        {
+          "type": "w",
+          "en": "beef",
+          "zh": "牛肉"
+        },
+        {
+          "type": "w",
+          "en": "bean",
+          "zh": "豆"
+        },
+        {
+          "type": "w",
+          "en": "salt",
+          "zh": "盐；食盐"
+        },
+        {
+          "type": "w",
+          "en": "salty",
+          "zh": "咸的"
+        },
+        {
+          "type": "w",
+          "en": "bake",
+          "zh": "烘烤；焙"
+        },
+        {
+          "type": "w",
+          "en": "crop",
+          "zh": "庄稼；作物"
+        },
+        {
+          "type": "w",
+          "en": "tofu",
+          "zh": "豆腐"
+        },
+        {
+          "type": "w",
+          "en": "heat",
+          "zh": "高温"
+        },
+        {
+          "type": "w",
+          "en": "step",
+          "zh": "步骤"
+        },
+        {
+          "type": "w",
+          "en": "pizza",
+          "zh": "比萨饼"
+        },
+        {
+          "type": "w",
+          "en": "onion",
+          "zh": "洋葱；葱头"
+        },
+        {
+          "type": "w",
+          "en": "snack",
+          "zh": "点心；小吃"
+        },
+        {
+          "type": "w",
+          "en": "sweet",
+          "zh": "糖果"
+        },
+        {
+          "type": "w",
+          "en": "salad",
+          "zh": "（生吃的）蔬菜沙拉"
+        },
+        {
+          "type": "w",
+          "en": "sugar",
+          "zh": "糖"
+        },
+        {
+          "type": "w",
+          "en": "lemon",
+          "zh": "柠檬"
+        },
+        {
+          "type": "w",
+          "en": "fresh",
+          "zh": "新鲜的"
+        },
+        {
+          "type": "w",
+          "en": "grape",
+          "zh": "葡萄"
+        },
+        {
+          "type": "w",
+          "en": "smell",
+          "zh": "发臭；闻到；气味；臭味"
+        },
+        {
+          "type": "w",
+          "en": "smelly",
+          "zh": "有臭味的"
+        },
+        {
+          "type": "w",
+          "en": "honey",
+          "zh": "蜂蜜"
+        },
+        {
+          "type": "w",
+          "en": "flour",
+          "zh": "面粉"
+        },
+        {
+          "type": "w",
+          "en": "cream",
+          "zh": "奶油"
+        },
+        {
+          "type": "w",
+          "en": "tasty",
+          "zh": "美味的"
+        },
+        {
+          "type": "w",
+          "en": "carrot",
+          "zh": "胡萝卜"
+        },
+        {
+          "type": "w",
+          "en": "cookie",
+          "zh": "曲奇饼"
+        },
+        {
+          "type": "w",
+          "en": "coffee",
+          "zh": "咖啡"
+        },
+        {
+          "type": "w",
+          "en": "curry",
+          "zh": "咖喱菜"
+        },
+        {
+          "type": "w",
+          "en": "peach",
+          "zh": "桃；桃子"
+        },
+        {
+          "type": "w",
+          "en": "thirsty",
+          "zh": "渴的"
+        },
+        {
+          "type": "sec",
+          "text": "动物"
+        },
+        {
+          "type": "w",
+          "en": "ant",
+          "zh": "蚂蚁"
+        },
+        {
+          "type": "w",
+          "en": "pet",
+          "zh": "宠物"
+        },
+        {
+          "type": "w",
+          "en": "fin",
+          "zh": "（鱼）鳍"
+        },
+        {
+          "type": "w",
+          "en": "fox",
+          "zh": "狐狸"
+        },
+        {
+          "type": "w",
+          "en": "hen",
+          "zh": "母鸡"
+        },
+        {
+          "type": "w",
+          "en": "bat",
+          "zh": "蝙蝠"
+        },
+        {
+          "type": "w",
+          "en": "rat",
+          "zh": "老鼠"
+        },
+        {
+          "type": "w",
+          "en": "mouse",
+          "zh": "老鼠（pl. mice）"
+        },
+        {
+          "type": "w",
+          "en": "tail",
+          "zh": "尾；尾巴"
+        },
+        {
+          "type": "w",
+          "en": "fly",
+          "zh": "苍蝇"
+        },
+        {
+          "type": "w",
+          "en": "snake",
+          "zh": "蛇"
+        },
+        {
+          "type": "w",
+          "en": "camel",
+          "zh": "骆驼"
+        },
+        {
+          "type": "w",
+          "en": "swan",
+          "zh": "天鹅"
+        },
+        {
+          "type": "w",
+          "en": "wool",
+          "zh": "羊毛"
+        },
+        {
+          "type": "w",
+          "en": "frog",
+          "zh": "蛙；青蛙"
+        },
+        {
+          "type": "w",
+          "en": "snail",
+          "zh": "蜗牛"
+        },
+        {
+          "type": "w",
+          "en": "rabbit",
+          "zh": "兔"
+        },
+        {
+          "type": "w",
+          "en": "feather",
+          "zh": "羽毛"
+        },
+        {
+          "type": "w",
+          "en": "wing",
+          "zh": "翅膀；翼"
+        },
+        {
+          "type": "w",
+          "en": "sheep",
+          "zh": "羊；绵羊（pl. sheep）"
+        },
+        {
+          "type": "w",
+          "en": "insect",
+          "zh": "昆虫"
+        },
+        {
+          "type": "w",
+          "en": "spider",
+          "zh": "蜘蛛"
+        },
+        {
+          "type": "w",
+          "en": "monkey",
+          "zh": "猴子"
+        },
+        {
+          "type": "w",
+          "en": "puppy",
+          "zh": "小狗；幼犬"
+        },
+        {
+          "type": "w",
+          "en": "goose",
+          "zh": "鹅（pl. geese）"
+        },
+        {
+          "type": "w",
+          "en": "trunk",
+          "zh": "象鼻"
+        },
+        {
+          "type": "w",
+          "en": "kangaroo",
+          "zh": "袋鼠"
+        },
+        {
+          "type": "w",
+          "en": "seal",
+          "zh": "海豹"
+        },
+        {
+          "type": "w",
+          "en": "shark",
+          "zh": "鲨鱼"
+        },
+        {
+          "type": "w",
+          "en": "hare",
+          "zh": "野兔"
+        },
+        {
+          "type": "w",
+          "en": "seagull",
+          "zh": "海鸥"
+        },
+        {
+          "type": "w",
+          "en": "wildlife",
+          "zh": "野生动物"
+        },
+        {
+          "type": "w",
+          "en": "ivory",
+          "zh": "象牙"
+        },
+        {
+          "type": "w",
+          "en": "wolf",
+          "zh": "狼（pl. wolves）"
+        },
+        {
+          "type": "w",
+          "en": "eagle",
+          "zh": "雕；鹰"
+        },
+        {
+          "type": "w",
+          "en": "whale",
+          "zh": "鲸"
+        },
+        {
+          "type": "w",
+          "en": "dolphin",
+          "zh": "海豚"
+        },
+        {
+          "type": "w",
+          "en": "giraffe",
+          "zh": "长颈鹿"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "items": [
+        {
+          "type": "w",
+          "en": "parrot",
+          "zh": "鹦鹉"
+        },
+        {
+          "type": "w",
+          "en": "duckling",
+          "zh": "小鸭子"
+        },
+        {
+          "type": "w",
+          "en": "fur",
+          "zh": "（动物浓厚的）软毛"
+        },
+        {
+          "type": "w",
+          "en": "dragon",
+          "zh": "龙"
+        },
+        {
+          "type": "w",
+          "en": "penguin",
+          "zh": "企鹅"
+        },
+        {
+          "type": "w",
+          "en": "deer",
+          "zh": "鹿（pl. deer）"
+        },
+        {
+          "type": "w",
+          "en": "giant panda",
+          "zh": "大熊猫"
+        },
+        {
+          "type": "sec",
+          "text": "身体"
+        },
+        {
+          "type": "w",
+          "en": "ear",
+          "zh": "耳朵"
+        },
+        {
+          "type": "w",
+          "en": "hand",
+          "zh": "手"
+        },
+        {
+          "type": "w",
+          "en": "eye",
+          "zh": "眼睛"
+        },
+        {
+          "type": "w",
+          "en": "mouth",
+          "zh": "嘴巴"
+        },
+        {
+          "type": "w",
+          "en": "arm",
+          "zh": "手臂；上肢"
+        },
+        {
+          "type": "w",
+          "en": "smile",
+          "zh": "微笑；笑"
+        },
+        {
+          "type": "w",
+          "en": "say",
+          "zh": "说；讲"
+        },
+        {
+          "type": "w",
+          "en": "listen",
+          "zh": "听；倾听"
+        },
+        {
+          "type": "w",
+          "en": "tooth",
+          "zh": "牙齿（pl. teeth）"
+        },
+        {
+          "type": "w",
+          "en": "throat",
+          "zh": "喉咙"
+        },
+        {
+          "type": "w",
+          "en": "fist",
+          "zh": "拳头"
+        },
+        {
+          "type": "w",
+          "en": "palm",
+          "zh": "手掌"
+        },
+        {
+          "type": "w",
+          "en": "finger",
+          "zh": "手指"
+        },
+        {
+          "type": "w",
+          "en": "elbow",
+          "zh": "手肘"
+        },
+        {
+          "type": "w",
+          "en": "neck",
+          "zh": "颈；脖子"
+        },
+        {
+          "type": "w",
+          "en": "knee",
+          "zh": "膝；膝盖"
+        },
+        {
+          "type": "w",
+          "en": "shoulder",
+          "zh": "肩膀"
+        },
+        {
+          "type": "w",
+          "en": "skin",
+          "zh": "皮肤"
+        },
+        {
+          "type": "w",
+          "en": "stomach",
+          "zh": "胃；腹部"
+        },
+        {
+          "type": "w",
+          "en": "heart",
+          "zh": "心脏"
+        },
+        {
+          "type": "w",
+          "en": "lung",
+          "zh": "肺"
+        },
+        {
+          "type": "w",
+          "en": "kidney",
+          "zh": "肾脏"
+        },
+        {
+          "type": "w",
+          "en": "bone",
+          "zh": "骨头"
+        },
+        {
+          "type": "w",
+          "en": "shell",
+          "zh": "壳；房屋；船骨架"
+        },
+        {
+          "type": "w",
+          "en": "cell",
+          "zh": "细胞"
+        },
+        {
+          "type": "w",
+          "en": "brain",
+          "zh": "大脑"
+        },
+        {
+          "type": "w",
+          "en": "mind",
+          "zh": "头脑；心思"
+        },
+        {
+          "type": "w",
+          "en": "physical",
+          "zh": "身体的"
+        },
+        {
+          "type": "w",
+          "en": "disabled",
+          "zh": "有残疾的"
+        },
+        {
+          "type": "sec",
+          "text": "人物"
+        },
+        {
+          "type": "w",
+          "en": "person",
+          "zh": "人"
+        },
+        {
+          "type": "w",
+          "en": "human",
+          "zh": "人；人的"
+        },
+        {
+          "type": "w",
+          "en": "mankind",
+          "zh": "人类"
+        },
+        {
+          "type": "w",
+          "en": "grade",
+          "zh": "年级"
+        },
+        {
+          "type": "w",
+          "en": "group",
+          "zh": "组；群"
+        },
+        {
+          "type": "w",
+          "en": "citizen",
+          "zh": "公民；市民；居民"
+        },
+        {
+          "type": "w",
+          "en": "crowd",
+          "zh": "人群；观众"
+        },
+        {
+          "type": "w",
+          "en": "beauty",
+          "zh": "美人"
+        },
+        {
+          "type": "w",
+          "en": "stranger",
+          "zh": "陌生人"
+        },
+        {
+          "type": "w",
+          "en": "listener",
+          "zh": "听者"
+        },
+        {
+          "type": "w",
+          "en": "sir",
+          "zh": "先生"
+        },
+        {
+          "type": "w",
+          "en": "lady",
+          "zh": "女士；淑女"
+        },
+        {
+          "type": "w",
+          "en": "madam",
+          "zh": "（正式、礼貌的称呼）女士；夫人"
+        },
+        {
+          "type": "w",
+          "en": "guy",
+          "zh": "（非正式）家伙"
+        },
+        {
+          "type": "w",
+          "en": "reader",
+          "zh": "读者"
+        },
+        {
+          "type": "w",
+          "en": "visitor",
+          "zh": "参观者；来访者"
+        },
+        {
+          "type": "w",
+          "en": "youth",
+          "zh": "青年；青年时期"
+        },
+        {
+          "type": "w",
+          "en": "adult",
+          "zh": "成年人；成年的"
+        },
+        {
+          "type": "w",
+          "en": "patient",
+          "zh": "病人"
+        },
+        {
+          "type": "w",
+          "en": "none",
+          "zh": "没有一个"
+        },
+        {
+          "type": "w",
+          "en": "own",
+          "zh": "自己的；本人的"
+        },
+        {
+          "type": "w",
+          "en": "private",
+          "zh": "私人的"
+        },
+        {
+          "type": "w",
+          "en": "marry",
+          "zh": "结婚；娶；嫁"
+        },
+        {
+          "type": "w",
+          "en": "name",
+          "zh": "命名"
+        },
+        {
+          "type": "w",
+          "en": "first name",
+          "zh": "名字"
+        },
+        {
+          "type": "w",
+          "en": "full name",
+          "zh": "全名"
+        },
+        {
+          "type": "w",
+          "en": "last name",
+          "zh": "姓氏"
+        },
+        {
+          "type": "w",
+          "en": "each other",
+          "zh": "互相；彼此"
+        },
+        {
+          "type": "w",
+          "en": "think of",
+          "zh": "考虑；想起"
+        },
+        {
+          "type": "w",
+          "en": "anyone",
+          "zh": "任何人"
+        },
+        {
+          "type": "w",
+          "en": "someone",
+          "zh": "某人；有人"
+        },
+        {
+          "type": "w",
+          "en": "everyone",
+          "zh": "每人；所有人"
+        },
+        {
+          "type": "w",
+          "en": "somebody",
+          "zh": "某人；有人"
+        },
+        {
+          "type": "w",
+          "en": "everybody",
+          "zh": "每人；所有人"
+        },
+        {
+          "type": "w",
+          "en": "anybody",
+          "zh": "任何人"
+        },
+        {
+          "type": "w",
+          "en": "nobody",
+          "zh": "没有人；谁也不"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "items": [
+        {
+          "type": "sec",
+          "text": "外貌及性格特征"
+        },
+        {
+          "type": "w",
+          "en": "loud",
+          "zh": "大声的；响亮地"
+        },
+        {
+          "type": "w",
+          "en": "ugly",
+          "zh": "丑陋的；难看的"
+        },
+        {
+          "type": "w",
+          "en": "clever",
+          "zh": "聪明的"
+        },
+        {
+          "type": "w",
+          "en": "slim",
+          "zh": "苗条的；纤细的"
+        },
+        {
+          "type": "w",
+          "en": "honest",
+          "zh": "坦诚的；诚实的"
+        },
+        {
+          "type": "w",
+          "en": "handsome",
+          "zh": "英俊的"
+        },
+        {
+          "type": "w",
+          "en": "friendly",
+          "zh": "友好的"
+        },
+        {
+          "type": "w",
+          "en": "smart",
+          "zh": "聪明的；机敏的；精明的"
+        },
+        {
+          "type": "w",
+          "en": "dull",
+          "zh": "愚笨的；迟钝的"
+        },
+        {
+          "type": "w",
+          "en": "wise",
+          "zh": "明智的；高明的"
+        },
+        {
+          "type": "w",
+          "en": "silly",
+          "zh": "愚蠢的；傻的"
+        },
+        {
+          "type": "w",
+          "en": "born",
+          "zh": "天生的"
+        },
+        {
+          "type": "w",
+          "en": "active",
+          "zh": "活跃的；积极的"
+        },
+        {
+          "type": "w",
+          "en": "youthful",
+          "zh": "年轻的"
+        },
+        {
+          "type": "w",
+          "en": "cool",
+          "zh": "酷的"
+        },
+        {
+          "type": "w",
+          "en": "gentle",
+          "zh": "温柔的"
+        },
+        {
+          "type": "w",
+          "en": "foolish",
+          "zh": "愚蠢的"
+        },
+        {
+          "type": "w",
+          "en": "lovely",
+          "zh": "优美的；迷人的"
+        },
+        {
+          "type": "w",
+          "en": "stupid",
+          "zh": "笨的；糊涂的"
+        },
+        {
+          "type": "w",
+          "en": "patient",
+          "zh": "有耐心的"
+        },
+        {
+          "type": "w",
+          "en": "caring",
+          "zh": "体贴人的"
+        },
+        {
+          "type": "w",
+          "en": "modest",
+          "zh": "谦虚的"
+        },
+        {
+          "type": "w",
+          "en": "shy",
+          "zh": "害羞的"
+        },
+        {
+          "type": "w",
+          "en": "calm",
+          "zh": "镇静的；沉着的"
+        },
+        {
+          "type": "w",
+          "en": "lazy",
+          "zh": "懒惰的；懒洋洋的"
+        },
+        {
+          "type": "w",
+          "en": "characteristic",
+          "zh": "特征；品质"
+        },
+        {
+          "type": "w",
+          "en": "determined",
+          "zh": "有决心的"
+        },
+        {
+          "type": "w",
+          "en": "strict",
+          "zh": "严厉的；严格的"
+        },
+        {
+          "type": "w",
+          "en": "helpful",
+          "zh": "有用的；有帮助的"
+        },
+        {
+          "type": "w",
+          "en": "brave",
+          "zh": "勇敢的；无畏的"
+        },
+        {
+          "type": "w",
+          "en": "curious",
+          "zh": "好奇的；求知欲强的"
+        },
+        {
+          "type": "w",
+          "en": "confident",
+          "zh": "自信的"
+        },
+        {
+          "type": "w",
+          "en": "rude",
+          "zh": "粗鲁的"
+        },
+        {
+          "type": "w",
+          "en": "warmly",
+          "zh": "热情地"
+        },
+        {
+          "type": "w",
+          "en": "be born with",
+          "zh": "天生具有"
+        },
+        {
+          "type": "w",
+          "en": "good with",
+          "zh": "灵巧的；善于应付……的"
+        },
+        {
+          "type": "w",
+          "en": "be yourself",
+          "zh": "行为自然；不做作"
+        },
+        {
+          "type": "sec",
+          "text": "个人成长"
+        },
+        {
+          "type": "w",
+          "en": "born",
+          "zh": "出生"
+        },
+        {
+          "type": "w",
+          "en": "become",
+          "zh": "变成；成为"
+        },
+        {
+          "type": "w",
+          "en": "successful",
+          "zh": "有成就的"
+        },
+        {
+          "type": "w",
+          "en": "chance",
+          "zh": "机会"
+        },
+        {
+          "type": "w",
+          "en": "success",
+          "zh": "成功"
+        },
+        {
+          "type": "w",
+          "en": "skill",
+          "zh": "技能；技艺"
+        },
+        {
+          "type": "w",
+          "en": "meaning",
+          "zh": "意义；价值"
+        },
+        {
+          "type": "w",
+          "en": "go",
+          "zh": "尝试，一番努力"
+        },
+        {
+          "type": "w",
+          "en": "decision",
+          "zh": "决定；抉择"
+        },
+        {
+          "type": "w",
+          "en": "level",
+          "zh": "水平"
+        },
+        {
+          "type": "w",
+          "en": "victory",
+          "zh": "胜利；成功"
+        },
+        {
+          "type": "w",
+          "en": "difficulty",
+          "zh": "困难；难题"
+        },
+        {
+          "type": "w",
+          "en": "growth",
+          "zh": "发育；成长"
+        },
+        {
+          "type": "w",
+          "en": "lesson",
+          "zh": "经验；教训"
+        },
+        {
+          "type": "w",
+          "en": "failure",
+          "zh": "失败"
+        },
+        {
+          "type": "w",
+          "en": "hobby",
+          "zh": "业余爱好"
+        },
+        {
+          "type": "w",
+          "en": "choice",
+          "zh": "选择；选择权"
+        },
+        {
+          "type": "w",
+          "en": "model",
+          "zh": "模范；典型"
+        },
+        {
+          "type": "w",
+          "en": "purpose",
+          "zh": "目的；目标"
+        },
+        {
+          "type": "w",
+          "en": "danger",
+          "zh": "危险"
+        },
+        {
+          "type": "w",
+          "en": "loss",
+          "zh": "丧失；损失；失败"
+        },
+        {
+          "type": "w",
+          "en": "lose",
+          "zh": "输掉；丢失"
+        },
+        {
+          "type": "w",
+          "en": "winner",
+          "zh": "优胜者；成功者"
+        },
+        {
+          "type": "w",
+          "en": "childhood",
+          "zh": "童年；幼年"
+        },
+        {
+          "type": "w",
+          "en": "teens",
+          "zh": "十几岁（13至19岁）"
+        },
+        {
+          "type": "w",
+          "en": "wisdom",
+          "zh": "智慧"
+        },
+        {
+          "type": "w",
+          "en": "strength",
+          "zh": "力量"
+        },
+        {
+          "type": "w",
+          "en": "turn",
+          "zh": "（依次轮到的）机会"
+        },
+        {
+          "type": "w",
+          "en": "birth",
+          "zh": "出生"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "items": [
+        {
+          "type": "w",
+          "en": "process",
+          "zh": "过程"
+        },
+        {
+          "type": "w",
+          "en": "ability",
+          "zh": "能力；才能"
+        },
+        {
+          "type": "w",
+          "en": "talent",
+          "zh": "才能；天才"
+        },
+        {
+          "type": "w",
+          "en": "dream",
+          "zh": "梦想；愿望；理想"
+        },
+        {
+          "type": "w",
+          "en": "gain",
+          "zh": "获得"
+        },
+        {
+          "type": "w",
+          "en": "result",
+          "zh": "后果；结果"
+        },
+        {
+          "type": "w",
+          "en": "try",
+          "zh": "尝试；努力"
+        },
+        {
+          "type": "w",
+          "en": "need",
+          "zh": "需要"
+        },
+        {
+          "type": "w",
+          "en": "change",
+          "zh": "改变；变化"
+        },
+        {
+          "type": "w",
+          "en": "matter",
+          "zh": "要紧；问题"
+        },
+        {
+          "type": "w",
+          "en": "value",
+          "zh": "重视；珍视；重要作用；价值"
+        },
+        {
+          "type": "w",
+          "en": "experience",
+          "zh": "经历；经验"
+        },
+        {
+          "type": "w",
+          "en": "grow",
+          "zh": "成长；长大"
+        },
+        {
+          "type": "w",
+          "en": "improve",
+          "zh": "改进；改善"
+        },
+        {
+          "type": "w",
+          "en": "achieve",
+          "zh": "达到"
+        },
+        {
+          "type": "w",
+          "en": "die",
+          "zh": "死亡；消失"
+        },
+        {
+          "type": "w",
+          "en": "realize",
+          "zh": "认识到；实现"
+        },
+        {
+          "type": "w",
+          "en": "fight",
+          "zh": "为……而斗争"
+        },
+        {
+          "type": "w",
+          "en": "defeat",
+          "zh": "击败；战胜"
+        },
+        {
+          "type": "w",
+          "en": "face",
+          "zh": "面临；面对"
+        },
+        {
+          "type": "w",
+          "en": "single",
+          "zh": "单个的；单身的"
+        },
+        {
+          "type": "w",
+          "en": "elderly",
+          "zh": "年纪较大的"
+        },
+        {
+          "type": "w",
+          "en": "first place",
+          "zh": "第一名"
+        },
+        {
+          "type": "w",
+          "en": "stick to",
+          "zh": "坚持；固守"
+        },
+        {
+          "type": "w",
+          "en": "dream of",
+          "zh": "梦想；希望"
+        },
+        {
+          "type": "w",
+          "en": "be aware of",
+          "zh": "意识到"
+        },
+        {
+          "type": "w",
+          "en": "be born",
+          "zh": "出生；出现"
+        },
+        {
+          "type": "w",
+          "en": "pass away",
+          "zh": "去世（委婉说法）"
+        },
+        {
+          "type": "w",
+          "en": "keep a diary",
+          "zh": "写日记"
+        },
+        {
+          "type": "sec",
+          "text": "健康"
+        },
+        {
+          "type": "w",
+          "en": "cough",
+          "zh": "咳嗽"
+        },
+        {
+          "type": "w",
+          "en": "height",
+          "zh": "身高；高度"
+        },
+        {
+          "type": "w",
+          "en": "weight",
+          "zh": "体重；重量"
+        },
+        {
+          "type": "w",
+          "en": "hearing",
+          "zh": "听力；听觉"
+        },
+        {
+          "type": "w",
+          "en": "voice",
+          "zh": "嗓音；声音"
+        },
+        {
+          "type": "w",
+          "en": "energy",
+          "zh": "精力"
+        },
+        {
+          "type": "w",
+          "en": "health",
+          "zh": "健康"
+        },
+        {
+          "type": "w",
+          "en": "life",
+          "zh": "生活；生命"
+        },
+        {
+          "type": "w",
+          "en": "fat",
+          "zh": "肥胖的；脂肪"
+        },
+        {
+          "type": "w",
+          "en": "sleepy",
+          "zh": "困倦的；想睡的"
+        },
+        {
+          "type": "w",
+          "en": "blind",
+          "zh": "瞎的；失明的"
+        },
+        {
+          "type": "w",
+          "en": "fit",
+          "zh": "健壮的；健康的"
+        },
+        {
+          "type": "w",
+          "en": "lifelong",
+          "zh": "终身的；毕生的"
+        },
+        {
+          "type": "w",
+          "en": "well",
+          "zh": "健康的"
+        },
+        {
+          "type": "w",
+          "en": "weak",
+          "zh": "虚弱的"
+        },
+        {
+          "type": "w",
+          "en": "smoke",
+          "zh": "吸烟；烟"
+        },
+        {
+          "type": "w",
+          "en": "fall over",
+          "zh": "摔倒"
+        },
+        {
+          "type": "w",
+          "en": "catch a cold",
+          "zh": "感冒"
+        },
+        {
+          "type": "w",
+          "en": "put on",
+          "zh": "增加（体重）；发胖"
+        },
+        {
+          "type": "sec",
+          "text": "校园"
+        },
+        {
+          "type": "w",
+          "en": "bell",
+          "zh": "铃（声）；钟（声）"
+        },
+        {
+          "type": "w",
+          "en": "eraser",
+          "zh": "橡皮"
+        },
+        {
+          "type": "w",
+          "en": "classmate",
+          "zh": "同班同学"
+        },
+        {
+          "type": "w",
+          "en": "page",
+          "zh": "页面；（书刊或纸张）页"
+        },
+        {
+          "type": "w",
+          "en": "notice",
+          "zh": "通知；注意；注意到"
+        },
+        {
+          "type": "w",
+          "en": "term",
+          "zh": "学期"
+        },
+        {
+          "type": "w",
+          "en": "uniform",
+          "zh": "校服；制服"
+        },
+        {
+          "type": "w",
+          "en": "list",
+          "zh": "名单；清单；列表；列清单"
+        },
+        {
+          "type": "w",
+          "en": "example",
+          "zh": "例子；范例"
+        },
+        {
+          "type": "w",
+          "en": "test",
+          "zh": "检查；测验"
+        },
+        {
+          "type": "w",
+          "en": "notice board",
+          "zh": "告示牌；布告板"
+        },
+        {
+          "type": "w",
+          "en": "in class",
+          "zh": "课堂上"
+        },
+        {
+          "type": "w",
+          "en": "red scarf",
+          "zh": "红领巾"
+        },
+        {
+          "type": "w",
+          "en": "school uniform",
+          "zh": "校服"
+        },
+        {
+          "type": "w",
+          "en": "seat",
+          "zh": "座位"
+        },
+        {
+          "type": "w",
+          "en": "schoolgirl",
+          "zh": "（学校的）女生"
+        },
+        {
+          "type": "w",
+          "en": "class teacher",
+          "zh": "班主任"
+        },
+        {
+          "type": "w",
+          "en": "chalk",
+          "zh": "粉笔"
+        },
+        {
+          "type": "w",
+          "en": "notebook",
+          "zh": "笔记本"
+        },
+        {
+          "type": "w",
+          "en": "schoolbag",
+          "zh": "书包"
+        }
+      ]
+    }
+  ]
+}

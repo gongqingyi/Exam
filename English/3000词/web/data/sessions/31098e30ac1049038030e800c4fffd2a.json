@@ -1,0 +1,2322 @@
+{
+  "session_id": "31098e30ac1049038030e800c4fffd2a",
+  "batch": "1.高频常用/1-5d",
+  "category": "高频常用",
+  "day": 2,
+  "direction": "en_zh",
+  "started_at": "2026-11-16T16:52:17.010+08:00",
+  "ended_at": null,
+  "finish_reason": null,
+  "choices": {
+    "0": {
+      "answer": "油炸；油煎；油炒",
+      "correct_key": "A",
+      "options": [
+        {
+          "key": "A",
+          "text": "油炸；油煎；油炒"
+        },
+        {
+          "key": "B",
+          "text": "水煮"
+        },
+        {
+          "key": "C",
+          "text": "清蒸"
+        },
+        {
+          "key": "D",
+          "text": "烘烤"
+        }
+      ],
+      "source": "ai"
+    },
+    "1": {
+      "answer": "豌豆",
+      "correct_key": "D",
+      "options": [
+        {
+          "key": "A",
+          "text": "黄豆"
+        },
+        {
+          "key": "B",
+          "text": "蚕豆"
+        },
+        {
+          "key": "C",
+          "text": "扁豆"
+        },
+        {
+          "key": "D",
+          "text": "豌豆"
+        }
+      ],
+      "source": "ai"
+    },
+    "2": {
+      "answer": "（使）混合；融合",
+      "correct_key": "C",
+      "options": [
+        {
+          "key": "A",
+          "text": "切碎"
+        },
+        {
+          "key": "B",
+          "text": "分离"
+        },
+        {
+          "key": "C",
+          "text": "（使）混合；融合"
+        },
+        {
+          "key": "D",
+          "text": "过滤"
+        }
+      ],
+      "source": "ai"
+    },
+    "3": {
+      "answer": "菜单",
+      "correct_key": "C",
+      "options": [
+        {
+          "key": "A",
+          "text": "账单"
+        },
+        {
+          "key": "B",
+          "text": "餐具"
+        },
+        {
+          "key": "C",
+          "text": "菜单"
+        },
+        {
+          "key": "D",
+          "text": "食谱"
+        }
+      ],
+      "source": "ai"
+    },
+    "4": {
+      "answer": "一餐",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "早餐"
+        },
+        {
+          "key": "B",
+          "text": "一餐"
+        },
+        {
+          "key": "C",
+          "text": "点心"
+        },
+        {
+          "key": "D",
+          "text": "食谱"
+        }
+      ],
+      "source": "ai"
+    },
+    "5": {
+      "answer": "猪肉",
+      "correct_key": "D",
+      "options": [
+        {
+          "key": "A",
+          "text": "羊肉"
+        },
+        {
+          "key": "B",
+          "text": "牛肉"
+        },
+        {
+          "key": "C",
+          "text": "鸡肉"
+        },
+        {
+          "key": "D",
+          "text": "猪肉"
+        }
+      ],
+      "source": "ai"
+    },
+    "6": {
+      "answer": "梨",
+      "correct_key": "D",
+      "options": [
+        {
+          "key": "A",
+          "text": "香蕉"
+        },
+        {
+          "key": "B",
+          "text": "桃子"
+        },
+        {
+          "key": "C",
+          "text": "苹果"
+        },
+        {
+          "key": "D",
+          "text": "梨"
+        }
+      ],
+      "source": "ai"
+    },
+    "7": {
+      "answer": "牛肉",
+      "correct_key": "A",
+      "options": [
+        {
+          "key": "A",
+          "text": "牛肉"
+        },
+        {
+          "key": "B",
+          "text": "鸡肉"
+        },
+        {
+          "key": "C",
+          "text": "猪肉"
+        },
+        {
+          "key": "D",
+          "text": "羊肉"
+        }
+      ],
+      "source": "ai"
+    },
+    "8": {
+      "answer": "豆",
+      "correct_key": "D",
+      "options": [
+        {
+          "key": "A",
+          "text": "坚果"
+        },
+        {
+          "key": "B",
+          "text": "麦子"
+        },
+        {
+          "key": "C",
+          "text": "玉米"
+        },
+        {
+          "key": "D",
+          "text": "豆"
+        }
+      ],
+      "source": "ai"
+    },
+    "9": {
+      "answer": "盐；食盐",
+      "correct_key": "C",
+      "options": [
+        {
+          "key": "A",
+          "text": "糖"
+        },
+        {
+          "key": "B",
+          "text": "胡椒"
+        },
+        {
+          "key": "C",
+          "text": "盐；食盐"
+        },
+        {
+          "key": "D",
+          "text": "醋"
+        }
+      ],
+      "source": "ai"
+    },
+    "10": {
+      "answer": "咸的",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "酸的"
+        },
+        {
+          "key": "B",
+          "text": "咸的"
+        },
+        {
+          "key": "C",
+          "text": "甜的"
+        },
+        {
+          "key": "D",
+          "text": "辣的"
+        }
+      ],
+      "source": "ai"
+    },
+    "11": {
+      "answer": "烘烤；焙",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "炸"
+        },
+        {
+          "key": "B",
+          "text": "烘烤；焙"
+        },
+        {
+          "key": "C",
+          "text": "蒸"
+        },
+        {
+          "key": "D",
+          "text": "煮"
+        }
+      ],
+      "source": "ai"
+    },
+    "12": {
+      "answer": "庄稼；作物",
+      "correct_key": "A",
+      "options": [
+        {
+          "key": "A",
+          "text": "庄稼；作物"
+        },
+        {
+          "key": "B",
+          "text": "土壤"
+        },
+        {
+          "key": "C",
+          "text": "害虫"
+        },
+        {
+          "key": "D",
+          "text": "杂草"
+        }
+      ],
+      "source": "ai"
+    },
+    "13": {
+      "answer": "豆腐",
+      "correct_key": "C",
+      "options": [
+        {
+          "key": "A",
+          "text": "黄豆"
+        },
+        {
+          "key": "B",
+          "text": "豆浆"
+        },
+        {
+          "key": "C",
+          "text": "豆腐"
+        },
+        {
+          "key": "D",
+          "text": "豆芽"
+        }
+      ],
+      "source": "ai"
+    },
+    "14": {
+      "answer": "高温",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "湿度"
+        },
+        {
+          "key": "B",
+          "text": "高温"
+        },
+        {
+          "key": "C",
+          "text": "温度"
+        },
+        {
+          "key": "D",
+          "text": "低温"
+        }
+      ],
+      "source": "ai"
+    },
+    "15": {
+      "answer": "步骤",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "速度"
+        },
+        {
+          "key": "B",
+          "text": "步骤"
+        },
+        {
+          "key": "C",
+          "text": "方向"
+        },
+        {
+          "key": "D",
+          "text": "顺序"
+        }
+      ],
+      "source": "ai"
+    },
+    "16": {
+      "answer": "比萨饼",
+      "correct_key": "A",
+      "options": [
+        {
+          "key": "A",
+          "text": "比萨饼"
+        },
+        {
+          "key": "B",
+          "text": "热狗"
+        },
+        {
+          "key": "C",
+          "text": "三明治"
+        },
+        {
+          "key": "D",
+          "text": "汉堡包"
+        }
+      ],
+      "source": "ai"
+    },
+    "17": {
+      "answer": "洋葱；葱头",
+      "correct_key": "C",
+      "options": [
+        {
+          "key": "A",
+          "text": "生姜"
+        },
+        {
+          "key": "B",
+          "text": "番茄"
+        },
+        {
+          "key": "C",
+          "text": "洋葱；葱头"
+        },
+        {
+          "key": "D",
+          "text": "大蒜"
+        }
+      ],
+      "source": "ai"
+    },
+    "18": {
+      "answer": "点心；小吃",
+      "correct_key": "D",
+      "options": [
+        {
+          "key": "A",
+          "text": "正餐"
+        },
+        {
+          "key": "B",
+          "text": "饮料"
+        },
+        {
+          "key": "C",
+          "text": "主食"
+        },
+        {
+          "key": "D",
+          "text": "点心；小吃"
+        }
+      ],
+      "source": "ai"
+    },
+    "19": {
+      "answer": "糖果",
+      "correct_key": "A",
+      "options": [
+        {
+          "key": "A",
+          "text": "糖果"
+        },
+        {
+          "key": "B",
+          "text": "饼干"
+        },
+        {
+          "key": "C",
+          "text": "巧克力"
+        },
+        {
+          "key": "D",
+          "text": "蛋糕"
+        }
+      ],
+      "source": "ai"
+    },
+    "20": {
+      "answer": "（生吃的）蔬菜沙拉",
+      "correct_key": "C",
+      "options": [
+        {
+          "key": "A",
+          "text": "水果拼盘"
+        },
+        {
+          "key": "B",
+          "text": "炒饭"
+        },
+        {
+          "key": "C",
+          "text": "（生吃的）蔬菜沙拉"
+        },
+        {
+          "key": "D",
+          "text": "蔬菜汤"
+        }
+      ],
+      "source": "ai"
+    },
+    "21": {
+      "answer": "糖",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "醋"
+        },
+        {
+          "key": "B",
+          "text": "糖"
+        },
+        {
+          "key": "C",
+          "text": "油"
+        },
+        {
+          "key": "D",
+          "text": "盐"
+        }
+      ],
+      "source": "ai"
+    },
+    "22": {
+      "answer": "柠檬",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "桃子"
+        },
+        {
+          "key": "B",
+          "text": "柠檬"
+        },
+        {
+          "key": "C",
+          "text": "柚子"
+        },
+        {
+          "key": "D",
+          "text": "橙子"
+        }
+      ],
+      "source": "ai"
+    },
+    "23": {
+      "answer": "新鲜的",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "煮熟的"
+        },
+        {
+          "key": "B",
+          "text": "新鲜的"
+        },
+        {
+          "key": "C",
+          "text": "冷冻的"
+        },
+        {
+          "key": "D",
+          "text": "过期的"
+        }
+      ],
+      "source": "ai"
+    },
+    "24": {
+      "answer": "葡萄",
+      "correct_key": "C",
+      "options": [
+        {
+          "key": "A",
+          "text": "蓝莓"
+        },
+        {
+          "key": "B",
+          "text": "樱桃"
+        },
+        {
+          "key": "C",
+          "text": "葡萄"
+        },
+        {
+          "key": "D",
+          "text": "草莓"
+        }
+      ],
+      "source": "ai"
+    },
+    "25": {
+      "answer": "发臭；闻到；气味；臭味",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "触摸"
+        },
+        {
+          "key": "B",
+          "text": "发臭；闻到；气味；臭味"
+        },
+        {
+          "key": "C",
+          "text": "听到"
+        },
+        {
+          "key": "D",
+          "text": "尝到"
+        }
+      ],
+      "source": "ai"
+    },
+    "26": {
+      "answer": "有臭味的",
+      "correct_key": "C",
+      "options": [
+        {
+          "key": "A",
+          "text": "新鲜的"
+        },
+        {
+          "key": "B",
+          "text": "有香味的"
+        },
+        {
+          "key": "C",
+          "text": "有臭味的"
+        },
+        {
+          "key": "D",
+          "text": "有甜味的"
+        }
+      ],
+      "source": "ai"
+    },
+    "27": {
+      "answer": "蜂蜜",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "果酱"
+        },
+        {
+          "key": "B",
+          "text": "蜂蜜"
+        },
+        {
+          "key": "C",
+          "text": "蜂蜡"
+        },
+        {
+          "key": "D",
+          "text": "糖浆"
+        }
+      ],
+      "source": "ai"
+    },
+    "28": {
+      "answer": "面粉",
+      "correct_key": "C",
+      "options": [
+        {
+          "key": "A",
+          "text": "奶粉"
+        },
+        {
+          "key": "B",
+          "text": "淀粉"
+        },
+        {
+          "key": "C",
+          "text": "面粉"
+        },
+        {
+          "key": "D",
+          "text": "米粉"
+        }
+      ],
+      "source": "ai"
+    },
+    "29": {
+      "answer": "奶油",
+      "correct_key": "C",
+      "options": [
+        {
+          "key": "A",
+          "text": "奶酪"
+        },
+        {
+          "key": "B",
+          "text": "黄油"
+        },
+        {
+          "key": "C",
+          "text": "奶油"
+        },
+        {
+          "key": "D",
+          "text": "酸奶"
+        }
+      ],
+      "source": "ai"
+    },
+    "30": {
+      "answer": "美味的",
+      "correct_key": "D",
+      "options": [
+        {
+          "key": "A",
+          "text": "便宜的"
+        },
+        {
+          "key": "B",
+          "text": "新鲜的"
+        },
+        {
+          "key": "C",
+          "text": "辛辣的"
+        },
+        {
+          "key": "D",
+          "text": "美味的"
+        }
+      ],
+      "source": "ai"
+    },
+    "31": {
+      "answer": "胡萝卜",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "土豆"
+        },
+        {
+          "key": "B",
+          "text": "胡萝卜"
+        },
+        {
+          "key": "C",
+          "text": "南瓜"
+        },
+        {
+          "key": "D",
+          "text": "萝卜"
+        }
+      ],
+      "source": "ai"
+    },
+    "32": {
+      "answer": "曲奇饼",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "甜甜圈"
+        },
+        {
+          "key": "B",
+          "text": "曲奇饼"
+        },
+        {
+          "key": "C",
+          "text": "面包"
+        },
+        {
+          "key": "D",
+          "text": "蛋糕"
+        }
+      ],
+      "source": "ai"
+    },
+    "33": {
+      "answer": "咖啡",
+      "correct_key": "D",
+      "options": [
+        {
+          "key": "A",
+          "text": "果汁"
+        },
+        {
+          "key": "B",
+          "text": "牛奶"
+        },
+        {
+          "key": "C",
+          "text": "茶"
+        },
+        {
+          "key": "D",
+          "text": "咖啡"
+        }
+      ],
+      "source": "ai"
+    },
+    "34": {
+      "answer": "咖喱菜",
+      "correct_key": "D",
+      "options": [
+        {
+          "key": "A",
+          "text": "炒饭"
+        },
+        {
+          "key": "B",
+          "text": "辣椒"
+        },
+        {
+          "key": "C",
+          "text": "姜黄"
+        },
+        {
+          "key": "D",
+          "text": "咖喱菜"
+        }
+      ],
+      "source": "ai"
+    },
+    "35": {
+      "answer": "桃；桃子",
+      "correct_key": "A",
+      "options": [
+        {
+          "key": "A",
+          "text": "桃；桃子"
+        },
+        {
+          "key": "B",
+          "text": "梨"
+        },
+        {
+          "key": "C",
+          "text": "苹果"
+        },
+        {
+          "key": "D",
+          "text": "葡萄"
+        }
+      ],
+      "source": "ai"
+    },
+    "36": {
+      "answer": "渴的",
+      "correct_key": "C",
+      "options": [
+        {
+          "key": "A",
+          "text": "累的"
+        },
+        {
+          "key": "B",
+          "text": "饿的"
+        },
+        {
+          "key": "C",
+          "text": "渴的"
+        },
+        {
+          "key": "D",
+          "text": "饱的"
+        }
+      ],
+      "source": "ai"
+    },
+    "37": {
+      "answer": "蚂蚁",
+      "correct_key": "A",
+      "options": [
+        {
+          "key": "A",
+          "text": "蚂蚁"
+        },
+        {
+          "key": "B",
+          "text": "蜜蜂"
+        },
+        {
+          "key": "C",
+          "text": "甲虫"
+        },
+        {
+          "key": "D",
+          "text": "蜘蛛"
+        }
+      ],
+      "source": "ai"
+    },
+    "38": {
+      "answer": "宠物",
+      "correct_key": "A",
+      "options": [
+        {
+          "key": "A",
+          "text": "宠物"
+        },
+        {
+          "key": "B",
+          "text": "家禽"
+        },
+        {
+          "key": "C",
+          "text": "害虫"
+        },
+        {
+          "key": "D",
+          "text": "野兽"
+        }
+      ],
+      "source": "ai"
+    },
+    "39": {
+      "answer": "（鱼）鳍",
+      "correct_key": "D",
+      "options": [
+        {
+          "key": "A",
+          "text": "鱼鳃"
+        },
+        {
+          "key": "B",
+          "text": "鱼尾"
+        },
+        {
+          "key": "C",
+          "text": "鱼鳞"
+        },
+        {
+          "key": "D",
+          "text": "（鱼）鳍"
+        }
+      ],
+      "source": "ai"
+    },
+    "40": {
+      "answer": "狐狸",
+      "correct_key": "C",
+      "options": [
+        {
+          "key": "A",
+          "text": "猫"
+        },
+        {
+          "key": "B",
+          "text": "狗"
+        },
+        {
+          "key": "C",
+          "text": "狐狸"
+        },
+        {
+          "key": "D",
+          "text": "狼"
+        }
+      ],
+      "source": "ai"
+    },
+    "41": {
+      "answer": "母鸡",
+      "correct_key": "A",
+      "options": [
+        {
+          "key": "A",
+          "text": "母鸡"
+        },
+        {
+          "key": "B",
+          "text": "火鸡"
+        },
+        {
+          "key": "C",
+          "text": "小鸡"
+        },
+        {
+          "key": "D",
+          "text": "公鸡"
+        }
+      ],
+      "source": "ai"
+    },
+    "42": {
+      "answer": "蝙蝠",
+      "correct_key": "C",
+      "options": [
+        {
+          "key": "A",
+          "text": "老鼠"
+        },
+        {
+          "key": "B",
+          "text": "燕子"
+        },
+        {
+          "key": "C",
+          "text": "蝙蝠"
+        },
+        {
+          "key": "D",
+          "text": "猫头鹰"
+        }
+      ],
+      "source": "ai"
+    },
+    "43": {
+      "answer": "老鼠",
+      "correct_key": "A",
+      "options": [
+        {
+          "key": "A",
+          "text": "老鼠"
+        },
+        {
+          "key": "B",
+          "text": "松鼠"
+        },
+        {
+          "key": "C",
+          "text": "仓鼠"
+        },
+        {
+          "key": "D",
+          "text": "兔子"
+        }
+      ],
+      "source": "ai"
+    },
+    "44": {
+      "answer": "老鼠（pl. mice）",
+      "correct_key": "C",
+      "options": [
+        {
+          "key": "A",
+          "text": "仓鼠"
+        },
+        {
+          "key": "B",
+          "text": "蜥蜴"
+        },
+        {
+          "key": "C",
+          "text": "老鼠（pl. mice）"
+        },
+        {
+          "key": "D",
+          "text": "松鼠"
+        }
+      ],
+      "source": "ai"
+    },
+    "45": {
+      "answer": "尾；尾巴",
+      "correct_key": "A",
+      "options": [
+        {
+          "key": "A",
+          "text": "尾；尾巴"
+        },
+        {
+          "key": "B",
+          "text": "触角"
+        },
+        {
+          "key": "C",
+          "text": "鬃毛"
+        },
+        {
+          "key": "D",
+          "text": "蹄子"
+        }
+      ],
+      "source": "ai"
+    },
+    "46": {
+      "answer": "苍蝇",
+      "correct_key": "A",
+      "options": [
+        {
+          "key": "A",
+          "text": "苍蝇"
+        },
+        {
+          "key": "B",
+          "text": "蜜蜂"
+        },
+        {
+          "key": "C",
+          "text": "蚊子"
+        },
+        {
+          "key": "D",
+          "text": "蝴蝶"
+        }
+      ],
+      "source": "ai"
+    },
+    "47": {
+      "answer": "蛇",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "蜥蜴"
+        },
+        {
+          "key": "B",
+          "text": "蛇"
+        },
+        {
+          "key": "C",
+          "text": "鳗鱼"
+        },
+        {
+          "key": "D",
+          "text": "泥鳅"
+        }
+      ],
+      "source": "ai"
+    },
+    "48": {
+      "answer": "骆驼",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "长颈鹿"
+        },
+        {
+          "key": "B",
+          "text": "骆驼"
+        },
+        {
+          "key": "C",
+          "text": "斑马"
+        },
+        {
+          "key": "D",
+          "text": "鸵鸟"
+        }
+      ],
+      "source": "ai"
+    },
+    "49": {
+      "answer": "天鹅",
+      "correct_key": "D",
+      "options": [
+        {
+          "key": "A",
+          "text": "孔雀"
+        },
+        {
+          "key": "B",
+          "text": "大雁"
+        },
+        {
+          "key": "C",
+          "text": "白鹭"
+        },
+        {
+          "key": "D",
+          "text": "天鹅"
+        }
+      ],
+      "source": "ai"
+    },
+    "50": {
+      "answer": "羊毛",
+      "correct_key": "D",
+      "options": [
+        {
+          "key": "A",
+          "text": "羽毛"
+        },
+        {
+          "key": "B",
+          "text": "皮革"
+        },
+        {
+          "key": "C",
+          "text": "棉布"
+        },
+        {
+          "key": "D",
+          "text": "羊毛"
+        }
+      ],
+      "source": "ai"
+    },
+    "51": {
+      "answer": "蛙；青蛙",
+      "correct_key": "D",
+      "options": [
+        {
+          "key": "A",
+          "text": "蟾蜍"
+        },
+        {
+          "key": "B",
+          "text": "蝾螈"
+        },
+        {
+          "key": "C",
+          "text": "蜥蜴"
+        },
+        {
+          "key": "D",
+          "text": "蛙；青蛙"
+        }
+      ],
+      "source": "ai"
+    },
+    "52": {
+      "answer": "蜗牛",
+      "correct_key": "D",
+      "options": [
+        {
+          "key": "A",
+          "text": "水蛭"
+        },
+        {
+          "key": "B",
+          "text": "蛞蝓"
+        },
+        {
+          "key": "C",
+          "text": "海螺"
+        },
+        {
+          "key": "D",
+          "text": "蜗牛"
+        }
+      ],
+      "source": "ai"
+    },
+    "53": {
+      "answer": "兔",
+      "correct_key": "A",
+      "options": [
+        {
+          "key": "A",
+          "text": "兔"
+        },
+        {
+          "key": "B",
+          "text": "仓鼠"
+        },
+        {
+          "key": "C",
+          "text": "老鼠"
+        },
+        {
+          "key": "D",
+          "text": "松鼠"
+        }
+      ],
+      "source": "ai"
+    },
+    "54": {
+      "answer": "羽毛",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "毛发"
+        },
+        {
+          "key": "B",
+          "text": "羽毛"
+        },
+        {
+          "key": "C",
+          "text": "鳞片"
+        },
+        {
+          "key": "D",
+          "text": "羊毛"
+        }
+      ],
+      "source": "ai"
+    },
+    "55": {
+      "answer": "翅膀；翼",
+      "correct_key": "D",
+      "options": [
+        {
+          "key": "A",
+          "text": "爪"
+        },
+        {
+          "key": "B",
+          "text": "鳍"
+        },
+        {
+          "key": "C",
+          "text": "喙"
+        },
+        {
+          "key": "D",
+          "text": "翅膀；翼"
+        }
+      ],
+      "source": "ai"
+    },
+    "56": {
+      "answer": "羊；绵羊（pl. sheep）",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "奶牛"
+        },
+        {
+          "key": "B",
+          "text": "羊；绵羊（pl. sheep）"
+        },
+        {
+          "key": "C",
+          "text": "马"
+        },
+        {
+          "key": "D",
+          "text": "山羊"
+        }
+      ],
+      "source": "ai"
+    },
+    "57": {
+      "answer": "昆虫",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "爬行动物"
+        },
+        {
+          "key": "B",
+          "text": "昆虫"
+        },
+        {
+          "key": "C",
+          "text": "鸟类"
+        },
+        {
+          "key": "D",
+          "text": "哺乳动物"
+        }
+      ],
+      "source": "ai"
+    },
+    "58": {
+      "answer": "蜘蛛",
+      "correct_key": "C",
+      "options": [
+        {
+          "key": "A",
+          "text": "蜈蚣"
+        },
+        {
+          "key": "B",
+          "text": "蝎子"
+        },
+        {
+          "key": "C",
+          "text": "蜘蛛"
+        },
+        {
+          "key": "D",
+          "text": "蚂蚁"
+        }
+      ],
+      "source": "ai"
+    },
+    "59": {
+      "answer": "猴子",
+      "correct_key": "D",
+      "options": [
+        {
+          "key": "A",
+          "text": "猩猩"
+        },
+        {
+          "key": "B",
+          "text": "树懒"
+        },
+        {
+          "key": "C",
+          "text": "狒狒"
+        },
+        {
+          "key": "D",
+          "text": "猴子"
+        }
+      ],
+      "source": "ai"
+    },
+    "60": {
+      "answer": "小狗；幼犬",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "小马"
+        },
+        {
+          "key": "B",
+          "text": "小狗；幼犬"
+        },
+        {
+          "key": "C",
+          "text": "小牛"
+        },
+        {
+          "key": "D",
+          "text": "小猫"
+        }
+      ],
+      "source": "ai"
+    },
+    "61": {
+      "answer": "鹅（pl. geese）",
+      "correct_key": "C",
+      "options": [
+        {
+          "key": "A",
+          "text": "天鹅"
+        },
+        {
+          "key": "B",
+          "text": "鸭子"
+        },
+        {
+          "key": "C",
+          "text": "鹅（pl. geese）"
+        },
+        {
+          "key": "D",
+          "text": "火鸡"
+        }
+      ],
+      "source": "ai"
+    },
+    "62": {
+      "answer": "象鼻",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "耳朵"
+        },
+        {
+          "key": "B",
+          "text": "象鼻"
+        },
+        {
+          "key": "C",
+          "text": "尾巴"
+        },
+        {
+          "key": "D",
+          "text": "象牙"
+        }
+      ],
+      "source": "ai"
+    },
+    "63": {
+      "answer": "袋鼠",
+      "correct_key": "C",
+      "options": [
+        {
+          "key": "A",
+          "text": "袋熊"
+        },
+        {
+          "key": "B",
+          "text": "鸸鹋"
+        },
+        {
+          "key": "C",
+          "text": "袋鼠"
+        },
+        {
+          "key": "D",
+          "text": "考拉"
+        }
+      ],
+      "source": "ai"
+    },
+    "64": {
+      "answer": "海豹",
+      "correct_key": "D",
+      "options": [
+        {
+          "key": "A",
+          "text": "海豚"
+        },
+        {
+          "key": "B",
+          "text": "海象"
+        },
+        {
+          "key": "C",
+          "text": "海狮"
+        },
+        {
+          "key": "D",
+          "text": "海豹"
+        }
+      ],
+      "source": "ai"
+    },
+    "65": {
+      "answer": "鲨鱼",
+      "correct_key": "D",
+      "options": [
+        {
+          "key": "A",
+          "text": "鲸鱼"
+        },
+        {
+          "key": "B",
+          "text": "海豚"
+        },
+        {
+          "key": "C",
+          "text": "海豹"
+        },
+        {
+          "key": "D",
+          "text": "鲨鱼"
+        }
+      ],
+      "source": "ai"
+    },
+    "66": {
+      "answer": "野兔",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "家兔"
+        },
+        {
+          "key": "B",
+          "text": "野兔"
+        },
+        {
+          "key": "C",
+          "text": "仓鼠"
+        },
+        {
+          "key": "D",
+          "text": "松鼠"
+        }
+      ],
+      "source": "ai"
+    },
+    "67": {
+      "answer": "海鸥",
+      "correct_key": "A",
+      "options": [
+        {
+          "key": "A",
+          "text": "海鸥"
+        },
+        {
+          "key": "B",
+          "text": "海燕"
+        },
+        {
+          "key": "C",
+          "text": "鹈鹕"
+        },
+        {
+          "key": "D",
+          "text": "海雀"
+        }
+      ],
+      "source": "ai"
+    },
+    "68": {
+      "answer": "野生动物",
+      "correct_key": "D",
+      "options": [
+        {
+          "key": "A",
+          "text": "家畜"
+        },
+        {
+          "key": "B",
+          "text": "家禽"
+        },
+        {
+          "key": "C",
+          "text": "宠物"
+        },
+        {
+          "key": "D",
+          "text": "野生动物"
+        }
+      ],
+      "source": "ai"
+    },
+    "69": {
+      "answer": "象牙",
+      "correct_key": "A",
+      "options": [
+        {
+          "key": "A",
+          "text": "象牙"
+        },
+        {
+          "key": "B",
+          "text": "龟壳"
+        },
+        {
+          "key": "C",
+          "text": "兽骨"
+        },
+        {
+          "key": "D",
+          "text": "牛角"
+        }
+      ],
+      "source": "ai"
+    },
+    "70": {
+      "answer": "狼（pl. wolves）",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "狐狸"
+        },
+        {
+          "key": "B",
+          "text": "狼（pl. wolves）"
+        },
+        {
+          "key": "C",
+          "text": "狗"
+        },
+        {
+          "key": "D",
+          "text": "郊狼"
+        }
+      ],
+      "source": "ai"
+    },
+    "71": {
+      "answer": "雕；鹰",
+      "correct_key": "A",
+      "options": [
+        {
+          "key": "A",
+          "text": "雕；鹰"
+        },
+        {
+          "key": "B",
+          "text": "隼"
+        },
+        {
+          "key": "C",
+          "text": "秃鹫"
+        },
+        {
+          "key": "D",
+          "text": "猫头鹰"
+        }
+      ],
+      "source": "ai"
+    },
+    "72": {
+      "answer": "鲸",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "海豚"
+        },
+        {
+          "key": "B",
+          "text": "鲸"
+        },
+        {
+          "key": "C",
+          "text": "海象"
+        },
+        {
+          "key": "D",
+          "text": "鲨鱼"
+        }
+      ],
+      "source": "ai"
+    },
+    "73": {
+      "answer": "海豚",
+      "correct_key": "D",
+      "options": [
+        {
+          "key": "A",
+          "text": "海豹"
+        },
+        {
+          "key": "B",
+          "text": "鲸鱼"
+        },
+        {
+          "key": "C",
+          "text": "海狮"
+        },
+        {
+          "key": "D",
+          "text": "海豚"
+        }
+      ],
+      "source": "ai"
+    },
+    "74": {
+      "answer": "长颈鹿",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "斑马"
+        },
+        {
+          "key": "B",
+          "text": "长颈鹿"
+        },
+        {
+          "key": "C",
+          "text": "骆驼"
+        },
+        {
+          "key": "D",
+          "text": "羚羊"
+        }
+      ],
+      "source": "ai"
+    }
+  },
+  "results": [
+    {
+      "index": 0,
+      "prompt": "fry",
+      "expected_answer": "油炸；油煎；油炒",
+      "en": "fry",
+      "zh": "油炸；油煎；油炒",
+      "transcript": "油炸；油煎；油炒",
+      "choice_key": "A",
+      "score": 100,
+      "verdict": "correct",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T08:52:17.021+00:00",
+      "item_ended_at": "2026-11-16T16:52:32.915+08:00",
+      "response_ms": 15892,
+      "ended_reason": "scored",
+      "note": ""
+    },
+    {
+      "index": 1,
+      "prompt": "pea",
+      "expected_answer": "豌豆",
+      "en": "pea",
+      "zh": "豌豆",
+      "transcript": "豌豆",
+      "choice_key": "D",
+      "score": 100,
+      "verdict": "correct",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T08:52:39.504+00:00",
+      "item_ended_at": "2026-11-16T16:52:45.843+08:00",
+      "response_ms": 6331,
+      "ended_reason": "scored",
+      "note": ""
+    },
+    {
+      "index": 2,
+      "prompt": "mix",
+      "expected_answer": "（使）混合；融合",
+      "en": "mix",
+      "zh": "（使）混合；融合",
+      "transcript": "（使）混合；融合",
+      "choice_key": "C",
+      "score": 100,
+      "verdict": "correct",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T08:52:47.497+00:00",
+      "item_ended_at": "2026-11-16T16:52:49.862+08:00",
+      "response_ms": 2363,
+      "ended_reason": "scored",
+      "note": ""
+    },
+    {
+      "index": 3,
+      "prompt": "menu",
+      "expected_answer": "菜单",
+      "en": "menu",
+      "zh": "菜单",
+      "transcript": "菜单",
+      "choice_key": "C",
+      "score": 100,
+      "verdict": "correct",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T08:52:51.068+00:00",
+      "item_ended_at": "2026-11-16T16:52:53.066+08:00",
+      "response_ms": 1996,
+      "ended_reason": "scored",
+      "note": ""
+    },
+    {
+      "index": 4,
+      "prompt": "meal",
+      "expected_answer": "一餐",
+      "en": "meal",
+      "zh": "一餐",
+      "transcript": "一餐",
+      "choice_key": "B",
+      "score": 100,
+      "verdict": "correct",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T08:52:54.196+00:00",
+      "item_ended_at": "2026-11-16T16:53:01.686+08:00",
+      "response_ms": 7482,
+      "ended_reason": "scored",
+      "note": ""
+    },
+    {
+      "index": 5,
+      "prompt": "pork",
+      "expected_answer": "猪肉",
+      "en": "pork",
+      "zh": "猪肉",
+      "transcript": "羊肉",
+      "choice_key": "A",
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T08:53:02.641+00:00",
+      "item_ended_at": "2026-11-16T16:53:12.687+08:00",
+      "response_ms": 10043,
+      "ended_reason": "scored",
+      "note": ""
+    },
+    {
+      "index": 6,
+      "prompt": "pear",
+      "expected_answer": "梨",
+      "en": "pear",
+      "zh": "梨",
+      "transcript": "梨",
+      "choice_key": "D",
+      "score": 100,
+      "verdict": "correct",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T08:53:20.339+00:00",
+      "item_ended_at": "2026-11-16T16:53:22.380+08:00",
+      "response_ms": 2038,
+      "ended_reason": "scored",
+      "note": ""
+    },
+    {
+      "index": 7,
+      "prompt": "beef",
+      "expected_answer": "牛肉",
+      "en": "beef",
+      "zh": "牛肉",
+      "transcript": "牛肉",
+      "choice_key": "A",
+      "score": 100,
+      "verdict": "correct",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T08:53:23.455+00:00",
+      "item_ended_at": "2026-11-16T16:53:25.757+08:00",
+      "response_ms": 2298,
+      "ended_reason": "scored",
+      "note": ""
+    },
+    {
+      "index": 8,
+      "prompt": "bean",
+      "expected_answer": "豆",
+      "en": "bean",
+      "zh": "豆",
+      "transcript": "豆",
+      "choice_key": "D",
+      "score": 100,
+      "verdict": "correct",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T08:53:27.037+00:00",
+      "item_ended_at": "2026-11-16T16:53:29.207+08:00",
+      "response_ms": 2168,
+      "ended_reason": "scored",
+      "note": ""
+    },
+    {
+      "index": 9,
+      "prompt": "salt",
+      "expected_answer": "盐；食盐",
+      "en": "salt",
+      "zh": "盐；食盐",
+      "transcript": "盐；食盐",
+      "choice_key": "C",
+      "score": 100,
+      "verdict": "correct",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T08:53:30.514+00:00",
+      "item_ended_at": "2026-11-16T16:53:32.155+08:00",
+      "response_ms": 1639,
+      "ended_reason": "scored",
+      "note": ""
+    },
+    {
+      "index": 10,
+      "prompt": "salty",
+      "expected_answer": "咸的",
+      "en": "salty",
+      "zh": "咸的",
+      "transcript": "咸的",
+      "choice_key": "B",
+      "score": 100,
+      "verdict": "correct",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T08:53:34.151+00:00",
+      "item_ended_at": "2026-11-16T16:53:36.118+08:00",
+      "response_ms": 1962,
+      "ended_reason": "scored",
+      "note": ""
+    },
+    {
+      "index": 11,
+      "prompt": "bake",
+      "expected_answer": "烘烤；焙",
+      "en": "bake",
+      "zh": "烘烤；焙",
+      "transcript": "烘烤；焙",
+      "choice_key": "B",
+      "score": 100,
+      "verdict": "correct",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T08:53:37.062+00:00",
+      "item_ended_at": "2026-11-16T16:53:38.704+08:00",
+      "response_ms": 1639,
+      "ended_reason": "scored",
+      "note": ""
+    }
+  ],
+  "report_path": null,
+  "summary": null,
+  "words": [
+    {
+      "en": "fry",
+      "zh": "油炸；油煎；油炒",
+      "section": ""
+    },
+    {
+      "en": "pea",
+      "zh": "豌豆",
+      "section": ""
+    },
+    {
+      "en": "mix",
+      "zh": "（使）混合；融合",
+      "section": ""
+    },
+    {
+      "en": "menu",
+      "zh": "菜单",
+      "section": ""
+    },
+    {
+      "en": "meal",
+      "zh": "一餐",
+      "section": ""
+    },
+    {
+      "en": "pork",
+      "zh": "猪肉",
+      "section": ""
+    },
+    {
+      "en": "pear",
+      "zh": "梨",
+      "section": ""
+    },
+    {
+      "en": "beef",
+      "zh": "牛肉",
+      "section": ""
+    },
+    {
+      "en": "bean",
+      "zh": "豆",
+      "section": ""
+    },
+    {
+      "en": "salt",
+      "zh": "盐；食盐",
+      "section": ""
+    },
+    {
+      "en": "salty",
+      "zh": "咸的",
+      "section": ""
+    },
+    {
+      "en": "bake",
+      "zh": "烘烤；焙",
+      "section": ""
+    },
+    {
+      "en": "crop",
+      "zh": "庄稼；作物",
+      "section": ""
+    },
+    {
+      "en": "tofu",
+      "zh": "豆腐",
+      "section": ""
+    },
+    {
+      "en": "heat",
+      "zh": "高温",
+      "section": ""
+    },
+    {
+      "en": "step",
+      "zh": "步骤",
+      "section": ""
+    },
+    {
+      "en": "pizza",
+      "zh": "比萨饼",
+      "section": ""
+    },
+    {
+      "en": "onion",
+      "zh": "洋葱；葱头",
+      "section": ""
+    },
+    {
+      "en": "snack",
+      "zh": "点心；小吃",
+      "section": ""
+    },
+    {
+      "en": "sweet",
+      "zh": "糖果",
+      "section": ""
+    },
+    {
+      "en": "salad",
+      "zh": "（生吃的）蔬菜沙拉",
+      "section": ""
+    },
+    {
+      "en": "sugar",
+      "zh": "糖",
+      "section": ""
+    },
+    {
+      "en": "lemon",
+      "zh": "柠檬",
+      "section": ""
+    },
+    {
+      "en": "fresh",
+      "zh": "新鲜的",
+      "section": ""
+    },
+    {
+      "en": "grape",
+      "zh": "葡萄",
+      "section": ""
+    },
+    {
+      "en": "smell",
+      "zh": "发臭；闻到；气味；臭味",
+      "section": ""
+    },
+    {
+      "en": "smelly",
+      "zh": "有臭味的",
+      "section": ""
+    },
+    {
+      "en": "honey",
+      "zh": "蜂蜜",
+      "section": ""
+    },
+    {
+      "en": "flour",
+      "zh": "面粉",
+      "section": ""
+    },
+    {
+      "en": "cream",
+      "zh": "奶油",
+      "section": ""
+    },
+    {
+      "en": "tasty",
+      "zh": "美味的",
+      "section": ""
+    },
+    {
+      "en": "carrot",
+      "zh": "胡萝卜",
+      "section": ""
+    },
+    {
+      "en": "cookie",
+      "zh": "曲奇饼",
+      "section": ""
+    },
+    {
+      "en": "coffee",
+      "zh": "咖啡",
+      "section": ""
+    },
+    {
+      "en": "curry",
+      "zh": "咖喱菜",
+      "section": ""
+    },
+    {
+      "en": "peach",
+      "zh": "桃；桃子",
+      "section": ""
+    },
+    {
+      "en": "thirsty",
+      "zh": "渴的",
+      "section": ""
+    },
+    {
+      "en": "ant",
+      "zh": "蚂蚁",
+      "section": "动物"
+    },
+    {
+      "en": "pet",
+      "zh": "宠物",
+      "section": "动物"
+    },
+    {
+      "en": "fin",
+      "zh": "（鱼）鳍",
+      "section": "动物"
+    },
+    {
+      "en": "fox",
+      "zh": "狐狸",
+      "section": "动物"
+    },
+    {
+      "en": "hen",
+      "zh": "母鸡",
+      "section": "动物"
+    },
+    {
+      "en": "bat",
+      "zh": "蝙蝠",
+      "section": "动物"
+    },
+    {
+      "en": "rat",
+      "zh": "老鼠",
+      "section": "动物"
+    },
+    {
+      "en": "mouse",
+      "zh": "老鼠（pl. mice）",
+      "section": "动物"
+    },
+    {
+      "en": "tail",
+      "zh": "尾；尾巴",
+      "section": "动物"
+    },
+    {
+      "en": "fly",
+      "zh": "苍蝇",
+      "section": "动物"
+    },
+    {
+      "en": "snake",
+      "zh": "蛇",
+      "section": "动物"
+    },
+    {
+      "en": "camel",
+      "zh": "骆驼",
+      "section": "动物"
+    },
+    {
+      "en": "swan",
+      "zh": "天鹅",
+      "section": "动物"
+    },
+    {
+      "en": "wool",
+      "zh": "羊毛",
+      "section": "动物"
+    },
+    {
+      "en": "frog",
+      "zh": "蛙；青蛙",
+      "section": "动物"
+    },
+    {
+      "en": "snail",
+      "zh": "蜗牛",
+      "section": "动物"
+    },
+    {
+      "en": "rabbit",
+      "zh": "兔",
+      "section": "动物"
+    },
+    {
+      "en": "feather",
+      "zh": "羽毛",
+      "section": "动物"
+    },
+    {
+      "en": "wing",
+      "zh": "翅膀；翼",
+      "section": "动物"
+    },
+    {
+      "en": "sheep",
+      "zh": "羊；绵羊（pl. sheep）",
+      "section": "动物"
+    },
+    {
+      "en": "insect",
+      "zh": "昆虫",
+      "section": "动物"
+    },
+    {
+      "en": "spider",
+      "zh": "蜘蛛",
+      "section": "动物"
+    },
+    {
+      "en": "monkey",
+      "zh": "猴子",
+      "section": "动物"
+    },
+    {
+      "en": "puppy",
+      "zh": "小狗；幼犬",
+      "section": "动物"
+    },
+    {
+      "en": "goose",
+      "zh": "鹅（pl. geese）",
+      "section": "动物"
+    },
+    {
+      "en": "trunk",
+      "zh": "象鼻",
+      "section": "动物"
+    },
+    {
+      "en": "kangaroo",
+      "zh": "袋鼠",
+      "section": "动物"
+    },
+    {
+      "en": "seal",
+      "zh": "海豹",
+      "section": "动物"
+    },
+    {
+      "en": "shark",
+      "zh": "鲨鱼",
+      "section": "动物"
+    },
+    {
+      "en": "hare",
+      "zh": "野兔",
+      "section": "动物"
+    },
+    {
+      "en": "seagull",
+      "zh": "海鸥",
+      "section": "动物"
+    },
+    {
+      "en": "wildlife",
+      "zh": "野生动物",
+      "section": "动物"
+    },
+    {
+      "en": "ivory",
+      "zh": "象牙",
+      "section": "动物"
+    },
+    {
+      "en": "wolf",
+      "zh": "狼（pl. wolves）",
+      "section": "动物"
+    },
+    {
+      "en": "eagle",
+      "zh": "雕；鹰",
+      "section": "动物"
+    },
+    {
+      "en": "whale",
+      "zh": "鲸",
+      "section": "动物"
+    },
+    {
+      "en": "dolphin",
+      "zh": "海豚",
+      "section": "动物"
+    },
+    {
+      "en": "giraffe",
+      "zh": "长颈鹿",
+      "section": "动物"
+    }
+  ]
+}

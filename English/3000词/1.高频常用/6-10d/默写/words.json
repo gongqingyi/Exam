@@ -1,0 +1,1843 @@
+{
+  "title": "15天背完初中3500词 · 高频常用",
+  "days": [
+    {
+      "day": 6,
+      "items": [
+        {
+          "type": "w",
+          "en": "exam",
+          "zh": "考试"
+        },
+        {
+          "type": "w",
+          "en": "speech",
+          "zh": "讲话；发言"
+        },
+        {
+          "type": "w",
+          "en": "club",
+          "zh": "俱乐部；社团"
+        },
+        {
+          "type": "w",
+          "en": "league",
+          "zh": "联盟"
+        },
+        {
+          "type": "w",
+          "en": "speaker",
+          "zh": "讲（某种语言）的人；发言者"
+        },
+        {
+          "type": "w",
+          "en": "note",
+          "zh": "短笺；便条"
+        },
+        {
+          "type": "w",
+          "en": "practice",
+          "zh": "练习；实践"
+        },
+        {
+          "type": "w",
+          "en": "fail",
+          "zh": "不及格；失败；未能（做到）"
+        },
+        {
+          "type": "w",
+          "en": "follow",
+          "zh": "遵循；跟随"
+        },
+        {
+          "type": "w",
+          "en": "useful",
+          "zh": "有用的；有益的"
+        },
+        {
+          "type": "w",
+          "en": "secondary",
+          "zh": "中等教育的"
+        },
+        {
+          "type": "w",
+          "en": "full-time",
+          "zh": "全日制的"
+        },
+        {
+          "type": "w",
+          "en": "primary",
+          "zh": "小学教育的"
+        },
+        {
+          "type": "w",
+          "en": "at school",
+          "zh": "在学校"
+        },
+        {
+          "type": "w",
+          "en": "late for",
+          "zh": "迟到"
+        },
+        {
+          "type": "w",
+          "en": "comic book",
+          "zh": "漫画书"
+        },
+        {
+          "type": "sec",
+          "text": "学习"
+        },
+        {
+          "type": "w",
+          "en": "paragraph",
+          "zh": "段；段落"
+        },
+        {
+          "type": "w",
+          "en": "expression",
+          "zh": "词语"
+        },
+        {
+          "type": "w",
+          "en": "topic",
+          "zh": "话题；标题"
+        },
+        {
+          "type": "w",
+          "en": "grammar",
+          "zh": "语法"
+        },
+        {
+          "type": "w",
+          "en": "textbook",
+          "zh": "教科书；课本"
+        },
+        {
+          "type": "w",
+          "en": "spell",
+          "zh": "用字母拼；拼写"
+        },
+        {
+          "type": "w",
+          "en": "spelling",
+          "zh": "拼写"
+        },
+        {
+          "type": "w",
+          "en": "sentence",
+          "zh": "句子"
+        },
+        {
+          "type": "w",
+          "en": "dictionary",
+          "zh": "字典"
+        },
+        {
+          "type": "w",
+          "en": "note",
+          "zh": "笔记"
+        },
+        {
+          "type": "w",
+          "en": "title",
+          "zh": "名称，标题，题目"
+        },
+        {
+          "type": "w",
+          "en": "riddle",
+          "zh": "谜；谜语"
+        },
+        {
+          "type": "w",
+          "en": "summary",
+          "zh": "总结；概要"
+        },
+        {
+          "type": "w",
+          "en": "mark",
+          "zh": "分数"
+        },
+        {
+          "type": "w",
+          "en": "homework",
+          "zh": "家庭作业"
+        },
+        {
+          "type": "w",
+          "en": "saying",
+          "zh": "谚语；格言"
+        },
+        {
+          "type": "w",
+          "en": "text",
+          "zh": "课文；文本"
+        },
+        {
+          "type": "w",
+          "en": "read",
+          "zh": "读物"
+        },
+        {
+          "type": "w",
+          "en": "solve",
+          "zh": "解决；解答"
+        },
+        {
+          "type": "w",
+          "en": "memorize",
+          "zh": "记忆；记住"
+        },
+        {
+          "type": "w",
+          "en": "pronounce",
+          "zh": "发音"
+        },
+        {
+          "type": "w",
+          "en": "look up",
+          "zh": "（在词典、参考书中或通过电脑）查阅；抬头看"
+        },
+        {
+          "type": "w",
+          "en": "write down",
+          "zh": "写下；记下"
+        },
+        {
+          "type": "w",
+          "en": "take up",
+          "zh": "开始学；开始从事"
+        },
+        {
+          "type": "w",
+          "en": "take notes",
+          "zh": "做笔记"
+        },
+        {
+          "type": "w",
+          "en": "work out",
+          "zh": "计算出；解决"
+        },
+        {
+          "type": "w",
+          "en": "a good read",
+          "zh": "好的读物；好书（或文章等）"
+        },
+        {
+          "type": "sec",
+          "text": "日常生活"
+        },
+        {
+          "type": "w",
+          "en": "address",
+          "zh": "住址；地址"
+        },
+        {
+          "type": "w",
+          "en": "license",
+          "zh": "证；证件"
+        },
+        {
+          "type": "w",
+          "en": "break",
+          "zh": "休息；间断"
+        },
+        {
+          "type": "w",
+          "en": "break",
+          "zh": "（使）破碎"
+        },
+        {
+          "type": "w",
+          "en": "arrival",
+          "zh": "到达"
+        },
+        {
+          "type": "w",
+          "en": "habit",
+          "zh": "习惯"
+        },
+        {
+          "type": "w",
+          "en": "bill",
+          "zh": "账单"
+        },
+        {
+          "type": "w",
+          "en": "order",
+          "zh": "顺序；次序"
+        },
+        {
+          "type": "w",
+          "en": "care",
+          "zh": "照顾；护理"
+        },
+        {
+          "type": "w",
+          "en": "care",
+          "zh": "关心；在乎"
+        },
+        {
+          "type": "w",
+          "en": "mess",
+          "zh": "脏乱；凌乱"
+        },
+        {
+          "type": "w",
+          "en": "joke",
+          "zh": "笑话"
+        },
+        {
+          "type": "w",
+          "en": "joke",
+          "zh": "开玩笑"
+        },
+        {
+          "type": "w",
+          "en": "lifestyle",
+          "zh": "生活方式"
+        },
+        {
+          "type": "w",
+          "en": "housework",
+          "zh": "家务劳动"
+        },
+        {
+          "type": "w",
+          "en": "IT",
+          "zh": "信息技术"
+        },
+        {
+          "type": "w",
+          "en": "politics",
+          "zh": "政治学"
+        },
+        {
+          "type": "w",
+          "en": "biology",
+          "zh": "生物学"
+        },
+        {
+          "type": "w",
+          "en": "geography",
+          "zh": "地理（学）"
+        },
+        {
+          "type": "w",
+          "en": "subject",
+          "zh": "学科；科目"
+        },
+        {
+          "type": "w",
+          "en": "history",
+          "zh": "历史；历史课"
+        },
+        {
+          "type": "w",
+          "en": "chemistry",
+          "zh": "化学"
+        },
+        {
+          "type": "w",
+          "en": "physics",
+          "zh": "物理；物理学"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "items": [
+        {
+          "type": "w",
+          "en": "payment",
+          "zh": "付款；支付"
+        },
+        {
+          "type": "w",
+          "en": "hunger",
+          "zh": "饥饿"
+        },
+        {
+          "type": "w",
+          "en": "cooking",
+          "zh": "烹饪；烹调"
+        },
+        {
+          "type": "w",
+          "en": "rest",
+          "zh": "休息"
+        },
+        {
+          "type": "w",
+          "en": "province",
+          "zh": "省份"
+        },
+        {
+          "type": "w",
+          "en": "everyday",
+          "zh": "每天的；日常的"
+        },
+        {
+          "type": "w",
+          "en": "daily",
+          "zh": "每日的；日常的"
+        },
+        {
+          "type": "w",
+          "en": "real-life",
+          "zh": "现实生活中的"
+        },
+        {
+          "type": "w",
+          "en": "convenient",
+          "zh": "便利的"
+        },
+        {
+          "type": "w",
+          "en": "poor",
+          "zh": "贫穷的"
+        },
+        {
+          "type": "w",
+          "en": "rich",
+          "zh": "富有的"
+        },
+        {
+          "type": "w",
+          "en": "practical",
+          "zh": "实用的；实际的"
+        },
+        {
+          "type": "w",
+          "en": "price",
+          "zh": "价格"
+        },
+        {
+          "type": "w",
+          "en": "spend",
+          "zh": "花（时间、钱等）"
+        },
+        {
+          "type": "w",
+          "en": "send",
+          "zh": "发送；邮寄"
+        },
+        {
+          "type": "w",
+          "en": "join",
+          "zh": "参加；加入"
+        },
+        {
+          "type": "w",
+          "en": "bath",
+          "zh": "给……洗澡"
+        },
+        {
+          "type": "w",
+          "en": "book",
+          "zh": "预约；预订"
+        },
+        {
+          "type": "w",
+          "en": "wake",
+          "zh": "唤醒；醒来"
+        },
+        {
+          "type": "w",
+          "en": "awake",
+          "zh": "醒着的"
+        },
+        {
+          "type": "w",
+          "en": "tidy",
+          "zh": "使整洁；整理"
+        },
+        {
+          "type": "w",
+          "en": "homeless",
+          "zh": "无家的"
+        },
+        {
+          "type": "w",
+          "en": "text message",
+          "zh": "短信"
+        },
+        {
+          "type": "w",
+          "en": "daily life",
+          "zh": "日常生活"
+        },
+        {
+          "type": "w",
+          "en": "hold on",
+          "zh": "别挂断电话；等一等"
+        },
+        {
+          "type": "w",
+          "en": "clean up",
+          "zh": "打扫干净"
+        },
+        {
+          "type": "w",
+          "en": "spare time",
+          "zh": "空闲时间"
+        },
+        {
+          "type": "w",
+          "en": "go shopping",
+          "zh": "去购物"
+        },
+        {
+          "type": "w",
+          "en": "eat out",
+          "zh": "上馆子吃饭；在外用餐"
+        },
+        {
+          "type": "w",
+          "en": "wake up",
+          "zh": "醒来"
+        },
+        {
+          "type": "w",
+          "en": "do chores",
+          "zh": "做家务"
+        },
+        {
+          "type": "w",
+          "en": "stay up",
+          "zh": "熬夜"
+        },
+        {
+          "type": "w",
+          "en": "in a mess",
+          "zh": "乱七八糟"
+        },
+        {
+          "type": "w",
+          "en": "power cut",
+          "zh": "断电，停电"
+        },
+        {
+          "type": "w",
+          "en": "do the dishes",
+          "zh": "洗碗"
+        },
+        {
+          "type": "w",
+          "en": "take a walk",
+          "zh": "散步"
+        },
+        {
+          "type": "w",
+          "en": "call back",
+          "zh": "回电话"
+        },
+        {
+          "type": "w",
+          "en": "tidy up",
+          "zh": "收拾妥；整理好"
+        },
+        {
+          "type": "w",
+          "en": "fall asleep",
+          "zh": "入睡；睡着"
+        },
+        {
+          "type": "sec",
+          "text": "人际交往"
+        },
+        {
+          "type": "w",
+          "en": "neighbour",
+          "zh": "邻居"
+        },
+        {
+          "type": "w",
+          "en": "partner",
+          "zh": "搭档；同伴"
+        },
+        {
+          "type": "w",
+          "en": "advice",
+          "zh": "建议；意见"
+        },
+        {
+          "type": "w",
+          "en": "love",
+          "zh": "（昵称）亲爱的"
+        },
+        {
+          "type": "w",
+          "en": "memory",
+          "zh": "回忆；记忆"
+        },
+        {
+          "type": "w",
+          "en": "understand",
+          "zh": "理解；领会"
+        },
+        {
+          "type": "w",
+          "en": "understanding",
+          "zh": "理解"
+        },
+        {
+          "type": "w",
+          "en": "friendship",
+          "zh": "友谊；友情"
+        },
+        {
+          "type": "w",
+          "en": "survey",
+          "zh": "调查"
+        },
+        {
+          "type": "w",
+          "en": "greet",
+          "zh": "招呼；问候"
+        },
+        {
+          "type": "w",
+          "en": "treat",
+          "zh": "对待；招待"
+        },
+        {
+          "type": "w",
+          "en": "treat",
+          "zh": "款待"
+        },
+        {
+          "type": "w",
+          "en": "respect",
+          "zh": "尊敬"
+        },
+        {
+          "type": "w",
+          "en": "lend",
+          "zh": "借给；借出"
+        },
+        {
+          "type": "w",
+          "en": "agree",
+          "zh": "赞成；同意"
+        },
+        {
+          "type": "w",
+          "en": "promise",
+          "zh": "承诺；保证"
+        },
+        {
+          "type": "w",
+          "en": "promise",
+          "zh": "承诺"
+        },
+        {
+          "type": "w",
+          "en": "praise",
+          "zh": "赞美；表扬"
+        },
+        {
+          "type": "w",
+          "en": "believe",
+          "zh": "相信；认为"
+        },
+        {
+          "type": "w",
+          "en": "pardon",
+          "zh": "原谅"
+        },
+        {
+          "type": "w",
+          "en": "introduce",
+          "zh": "介绍；引见"
+        },
+        {
+          "type": "w",
+          "en": "support",
+          "zh": "支持"
+        },
+        {
+          "type": "w",
+          "en": "argue",
+          "zh": "争论；争吵"
+        },
+        {
+          "type": "w",
+          "en": "chat",
+          "zh": "闲聊；闲谈；聊天"
+        },
+        {
+          "type": "w",
+          "en": "invite",
+          "zh": "邀请"
+        },
+        {
+          "type": "w",
+          "en": "attend",
+          "zh": "出席；参加"
+        },
+        {
+          "type": "w",
+          "en": "provide",
+          "zh": "提供；供应"
+        },
+        {
+          "type": "w",
+          "en": "familiar",
+          "zh": "熟悉的；常见到的"
+        },
+        {
+          "type": "w",
+          "en": "social",
+          "zh": "社交的"
+        },
+        {
+          "type": "w",
+          "en": "stay in touch (with sb)",
+          "zh": "（与某人）保持联系"
+        },
+        {
+          "type": "w",
+          "en": "agree with",
+          "zh": "赞成；同意"
+        },
+        {
+          "type": "w",
+          "en": "familiar with",
+          "zh": "通晓；熟悉"
+        },
+        {
+          "type": "w",
+          "en": "argue with sb",
+          "zh": "与某人争论"
+        },
+        {
+          "type": "w",
+          "en": "help sb with",
+          "zh": "帮助某人做（某事）"
+        },
+        {
+          "type": "w",
+          "en": "share sth with sb",
+          "zh": "和某人分享某物"
+        },
+        {
+          "type": "w",
+          "en": "be friends with sb",
+          "zh": "成为某人的朋友"
+        }
+      ]
+    },
+    {
+      "day": 8,
+      "items": [
+        {
+          "type": "w",
+          "en": "together",
+          "zh": "在一起；共同"
+        },
+        {
+          "type": "w",
+          "en": "face-to-face",
+          "zh": "面对面的"
+        },
+        {
+          "type": "w",
+          "en": "call in",
+          "zh": "召来；叫来"
+        },
+        {
+          "type": "w",
+          "en": "take part in",
+          "zh": "参加"
+        },
+        {
+          "type": "w",
+          "en": "help out",
+          "zh": "分担工作；帮忙做"
+        },
+        {
+          "type": "w",
+          "en": "keep in touch",
+          "zh": "保持联系"
+        },
+        {
+          "type": "w",
+          "en": "get together",
+          "zh": "聚会；聚集"
+        },
+        {
+          "type": "w",
+          "en": "care about",
+          "zh": "关心；担心"
+        },
+        {
+          "type": "w",
+          "en": "play a part (in sth)",
+          "zh": "参与某事"
+        },
+        {
+          "type": "w",
+          "en": "make friends",
+          "zh": "交朋友"
+        },
+        {
+          "type": "w",
+          "en": "get to know",
+          "zh": "认识；了解"
+        },
+        {
+          "type": "w",
+          "en": "in return",
+          "zh": "作为回报"
+        },
+        {
+          "type": "w",
+          "en": "cut in (on sb / sth)",
+          "zh": "打断（谈话）；插嘴"
+        },
+        {
+          "type": "w",
+          "en": "look after",
+          "zh": "照顾"
+        },
+        {
+          "type": "w",
+          "en": "keep secrets",
+          "zh": "保密"
+        },
+        {
+          "type": "w",
+          "en": "excuse me",
+          "zh": "劳驾；请原谅"
+        },
+        {
+          "type": "w",
+          "en": "join in",
+          "zh": "参加"
+        },
+        {
+          "type": "sec",
+          "text": "户外"
+        },
+        {
+          "type": "w",
+          "en": "activity",
+          "zh": "活动"
+        },
+        {
+          "type": "w",
+          "en": "trip",
+          "zh": "旅游，旅行，出行"
+        },
+        {
+          "type": "w",
+          "en": "ride",
+          "zh": "骑"
+        },
+        {
+          "type": "w",
+          "en": "ride",
+          "zh": "旅程"
+        },
+        {
+          "type": "w",
+          "en": "camp",
+          "zh": "度假营；营地"
+        },
+        {
+          "type": "w",
+          "en": "camp",
+          "zh": "露营"
+        },
+        {
+          "type": "w",
+          "en": "camper",
+          "zh": "露营者"
+        },
+        {
+          "type": "w",
+          "en": "campfire",
+          "zh": "篝火；营火"
+        },
+        {
+          "type": "w",
+          "en": "fishing",
+          "zh": "钓鱼；捕鱼"
+        },
+        {
+          "type": "w",
+          "en": "tour",
+          "zh": "旅行；旅游"
+        },
+        {
+          "type": "w",
+          "en": "journey",
+          "zh": "旅行；行程"
+        },
+        {
+          "type": "w",
+          "en": "tent",
+          "zh": "帐篷"
+        },
+        {
+          "type": "w",
+          "en": "picnic",
+          "zh": "野餐"
+        },
+        {
+          "type": "w",
+          "en": "outing",
+          "zh": "出外游玩；远足"
+        },
+        {
+          "type": "w",
+          "en": "flame",
+          "zh": "火焰"
+        },
+        {
+          "type": "w",
+          "en": "travelling",
+          "zh": "<英>旅行=<美>traveling"
+        },
+        {
+          "type": "w",
+          "en": "tourist",
+          "zh": "旅行者；观光客"
+        },
+        {
+          "type": "w",
+          "en": "safety",
+          "zh": "安全；安全性"
+        },
+        {
+          "type": "w",
+          "en": "emergency",
+          "zh": "紧急情况；突发事件"
+        },
+        {
+          "type": "w",
+          "en": "fish",
+          "zh": "钓鱼；捕鱼"
+        },
+        {
+          "type": "w",
+          "en": "flat",
+          "zh": "平坦的"
+        },
+        {
+          "type": "w",
+          "en": "hike",
+          "zh": "远足；徒步旅行"
+        },
+        {
+          "type": "w",
+          "en": "sailing",
+          "zh": "航行"
+        },
+        {
+          "type": "w",
+          "en": "popular",
+          "zh": "大众喜爱的"
+        },
+        {
+          "type": "w",
+          "en": "outdoor",
+          "zh": "室外的；户外的"
+        },
+        {
+          "type": "w",
+          "en": "noise",
+          "zh": "声音；噪声"
+        },
+        {
+          "type": "w",
+          "en": "noisy",
+          "zh": "充满噪声的；吵闹的"
+        },
+        {
+          "type": "w",
+          "en": "sleeping bag",
+          "zh": "睡袋"
+        },
+        {
+          "type": "w",
+          "en": "go hiking",
+          "zh": "远足；徒步旅行"
+        },
+        {
+          "type": "w",
+          "en": "roller coaster",
+          "zh": "过山车"
+        },
+        {
+          "type": "w",
+          "en": "have fun",
+          "zh": "玩得高兴"
+        },
+        {
+          "type": "w",
+          "en": "hang out",
+          "zh": "闲逛；常去某处"
+        },
+        {
+          "type": "w",
+          "en": "go on a trip",
+          "zh": "去旅行"
+        },
+        {
+          "type": "w",
+          "en": "go on an outing",
+          "zh": "出外游玩"
+        },
+        {
+          "type": "w",
+          "en": "leave for",
+          "zh": "动身去；到……地方去"
+        },
+        {
+          "type": "w",
+          "en": "stay out",
+          "zh": "待在户外；（晚上）不回家"
+        },
+        {
+          "type": "sec",
+          "text": "自然"
+        },
+        {
+          "type": "w",
+          "en": "landscape",
+          "zh": "风景；景色"
+        },
+        {
+          "type": "w",
+          "en": "snowman",
+          "zh": "雪人"
+        },
+        {
+          "type": "w",
+          "en": "sky",
+          "zh": "天；天空"
+        },
+        {
+          "type": "w",
+          "en": "waterfall",
+          "zh": "瀑布"
+        },
+        {
+          "type": "w",
+          "en": "tide",
+          "zh": "潮；潮汐"
+        },
+        {
+          "type": "w",
+          "en": "plain",
+          "zh": "平原"
+        },
+        {
+          "type": "w",
+          "en": "brook",
+          "zh": "溪；小河"
+        },
+        {
+          "type": "w",
+          "en": "spring",
+          "zh": "泉"
+        },
+        {
+          "type": "w",
+          "en": "forest",
+          "zh": "森林"
+        },
+        {
+          "type": "w",
+          "en": "ocean",
+          "zh": "海洋；大海"
+        },
+        {
+          "type": "w",
+          "en": "nature",
+          "zh": "自然界；大自然"
+        },
+        {
+          "type": "w",
+          "en": "desert",
+          "zh": "沙漠；荒原"
+        },
+        {
+          "type": "w",
+          "en": "stream",
+          "zh": "小河；溪"
+        },
+        {
+          "type": "w",
+          "en": "plateau",
+          "zh": "高原"
+        },
+        {
+          "type": "w",
+          "en": "grassland",
+          "zh": "草原"
+        },
+        {
+          "type": "w",
+          "en": "rainbow",
+          "zh": "虹；彩虹"
+        },
+        {
+          "type": "w",
+          "en": "mountain",
+          "zh": "山；高山"
+        },
+        {
+          "type": "w",
+          "en": "grass",
+          "zh": "草；草地"
+        }
+      ]
+    },
+    {
+      "day": 9,
+      "items": [
+        {
+          "type": "w",
+          "en": "cloud",
+          "zh": "云"
+        },
+        {
+          "type": "w",
+          "en": "scenery",
+          "zh": "风景；景色"
+        },
+        {
+          "type": "w",
+          "en": "shore",
+          "zh": "（海洋、湖泊等大水域的）岸；滨"
+        },
+        {
+          "type": "w",
+          "en": "light",
+          "zh": "光；光线；光亮"
+        },
+        {
+          "type": "w",
+          "en": "sight",
+          "zh": "名胜；风景"
+        },
+        {
+          "type": "w",
+          "en": "beauty",
+          "zh": "美；美丽"
+        },
+        {
+          "type": "w",
+          "en": "path",
+          "zh": "小路；小径"
+        },
+        {
+          "type": "w",
+          "en": "view",
+          "zh": "景色；风景"
+        },
+        {
+          "type": "w",
+          "en": "rock",
+          "zh": "岩石"
+        },
+        {
+          "type": "w",
+          "en": "stone",
+          "zh": "石块；石子"
+        },
+        {
+          "type": "w",
+          "en": "coal",
+          "zh": "煤；煤块"
+        },
+        {
+          "type": "w",
+          "en": "soil",
+          "zh": "土壤"
+        },
+        {
+          "type": "w",
+          "en": "mud",
+          "zh": "泥；淤泥；泥浆"
+        },
+        {
+          "type": "w",
+          "en": "brick",
+          "zh": "砖"
+        },
+        {
+          "type": "w",
+          "en": "wood",
+          "zh": "木头；木料；树林"
+        },
+        {
+          "type": "w",
+          "en": "rubber",
+          "zh": "橡胶"
+        },
+        {
+          "type": "w",
+          "en": "natural",
+          "zh": "自然的；天然的"
+        },
+        {
+          "type": "w",
+          "en": "wild",
+          "zh": "野生的"
+        },
+        {
+          "type": "w",
+          "en": "wild",
+          "zh": "野生状态"
+        },
+        {
+          "type": "w",
+          "en": "mount",
+          "zh": "（在现代英语里仅用于地名）山；山峰"
+        },
+        {
+          "type": "w",
+          "en": "land",
+          "zh": "陆地"
+        },
+        {
+          "type": "w",
+          "en": "field",
+          "zh": "田地"
+        },
+        {
+          "type": "w",
+          "en": "peak",
+          "zh": "山顶"
+        },
+        {
+          "type": "w",
+          "en": "shade",
+          "zh": "（树）荫"
+        },
+        {
+          "type": "w",
+          "en": "seaside",
+          "zh": "海边"
+        },
+        {
+          "type": "w",
+          "en": "pool",
+          "zh": "池塘；水坑"
+        },
+        {
+          "type": "w",
+          "en": "lawn",
+          "zh": "草坪"
+        },
+        {
+          "type": "w",
+          "en": "attraction",
+          "zh": "向往的地方"
+        },
+        {
+          "type": "w",
+          "en": "low",
+          "zh": "低的；矮的"
+        },
+        {
+          "type": "w",
+          "en": "high",
+          "zh": "高"
+        },
+        {
+          "type": "w",
+          "en": "dead",
+          "zh": "死的；失去生命的"
+        },
+        {
+          "type": "w",
+          "en": "cruel",
+          "zh": "残酷的；残忍的"
+        },
+        {
+          "type": "w",
+          "en": "giant",
+          "zh": "巨大的"
+        },
+        {
+          "type": "w",
+          "en": "living",
+          "zh": "活着的；活的"
+        },
+        {
+          "type": "w",
+          "en": "run",
+          "zh": "流动"
+        },
+        {
+          "type": "w",
+          "en": "hunt",
+          "zh": "打猎；猎杀"
+        },
+        {
+          "type": "w",
+          "en": "shine",
+          "zh": "发光；照耀"
+        },
+        {
+          "type": "w",
+          "en": "shine",
+          "zh": "光亮"
+        },
+        {
+          "type": "w",
+          "en": "slope",
+          "zh": "斜坡"
+        },
+        {
+          "type": "w",
+          "en": "(the) Pacific Ocean",
+          "zh": "太平洋"
+        },
+        {
+          "type": "sec",
+          "text": "生活用品"
+        },
+        {
+          "type": "w",
+          "en": "pan",
+          "zh": "平锅；平底锅"
+        },
+        {
+          "type": "w",
+          "en": "plate",
+          "zh": "盘子；碟子"
+        },
+        {
+          "type": "w",
+          "en": "knife",
+          "zh": "刀（pl. knives）"
+        },
+        {
+          "type": "w",
+          "en": "fork",
+          "zh": "餐叉"
+        },
+        {
+          "type": "w",
+          "en": "spoon",
+          "zh": "匙；勺"
+        },
+        {
+          "type": "w",
+          "en": "silver",
+          "zh": "银；银器"
+        },
+        {
+          "type": "w",
+          "en": "scoop",
+          "zh": "勺；铲子"
+        },
+        {
+          "type": "w",
+          "en": "fridge",
+          "zh": "冰箱"
+        },
+        {
+          "type": "w",
+          "en": "pot",
+          "zh": "锅"
+        },
+        {
+          "type": "w",
+          "en": "mirror",
+          "zh": "镜子"
+        },
+        {
+          "type": "w",
+          "en": "bath",
+          "zh": "浴缸"
+        },
+        {
+          "type": "w",
+          "en": "drawer",
+          "zh": "抽屉"
+        },
+        {
+          "type": "w",
+          "en": "shower",
+          "zh": "淋浴器"
+        },
+        {
+          "type": "w",
+          "en": "bookcase",
+          "zh": "书架；书柜"
+        },
+        {
+          "type": "w",
+          "en": "basket",
+          "zh": "篮；篓；筐"
+        },
+        {
+          "type": "w",
+          "en": "lamp",
+          "zh": "灯"
+        },
+        {
+          "type": "w",
+          "en": "DVD",
+          "zh": "数字影碟"
+        },
+        {
+          "type": "w",
+          "en": "couch",
+          "zh": "长沙发"
+        },
+        {
+          "type": "w",
+          "en": "fan",
+          "zh": "扇子；电风扇"
+        },
+        {
+          "type": "w",
+          "en": "shelf",
+          "zh": "搁板；架子"
+        },
+        {
+          "type": "w",
+          "en": "lantern",
+          "zh": "灯笼"
+        },
+        {
+          "type": "w",
+          "en": "candle",
+          "zh": "蜡烛"
+        },
+        {
+          "type": "w",
+          "en": "lock",
+          "zh": "锁"
+        },
+        {
+          "type": "w",
+          "en": "locker",
+          "zh": "有锁存物柜；寄物柜"
+        },
+        {
+          "type": "w",
+          "en": "key",
+          "zh": "钥匙"
+        },
+        {
+          "type": "w",
+          "en": "bottle",
+          "zh": "瓶子"
+        },
+        {
+          "type": "w",
+          "en": "light",
+          "zh": "电灯"
+        },
+        {
+          "type": "w",
+          "en": "carpet",
+          "zh": "地毯"
+        },
+        {
+          "type": "w",
+          "en": "bench",
+          "zh": "长椅"
+        },
+        {
+          "type": "w",
+          "en": "smartphone",
+          "zh": "智能手机"
+        },
+        {
+          "type": "w",
+          "en": "camera",
+          "zh": "照相机"
+        },
+        {
+          "type": "w",
+          "en": "suitcase",
+          "zh": "（旅行用的）手提箱"
+        },
+        {
+          "type": "w",
+          "en": "napkin",
+          "zh": "餐巾；餐巾纸"
+        },
+        {
+          "type": "w",
+          "en": "ticket",
+          "zh": "票；券"
+        },
+        {
+          "type": "w",
+          "en": "present",
+          "zh": "礼物"
+        },
+        {
+          "type": "w",
+          "en": "newspaper",
+          "zh": "报纸"
+        },
+        {
+          "type": "w",
+          "en": "magazine",
+          "zh": "杂志"
+        },
+        {
+          "type": "w",
+          "en": "passport",
+          "zh": "护照"
+        },
+        {
+          "type": "w",
+          "en": "diary",
+          "zh": "日记；日记本"
+        }
+      ]
+    },
+    {
+      "day": 10,
+      "items": [
+        {
+          "type": "w",
+          "en": "stamp",
+          "zh": "邮票；印章"
+        },
+        {
+          "type": "w",
+          "en": "balloon",
+          "zh": "气球"
+        },
+        {
+          "type": "w",
+          "en": "flowerpot",
+          "zh": "花盆"
+        },
+        {
+          "type": "w",
+          "en": "teapot",
+          "zh": "茶壶"
+        },
+        {
+          "type": "w",
+          "en": "washing machine",
+          "zh": "洗衣机"
+        },
+        {
+          "type": "w",
+          "en": "mobile phone",
+          "zh": "手机"
+        },
+        {
+          "type": "w",
+          "en": "fishing rod",
+          "zh": "钓竿"
+        },
+        {
+          "type": "w",
+          "en": "walking stick",
+          "zh": "手杖；拐棍"
+        },
+        {
+          "type": "w",
+          "en": "alarm clock",
+          "zh": "闹钟"
+        },
+        {
+          "type": "sec",
+          "text": "服饰"
+        },
+        {
+          "type": "w",
+          "en": "jacket",
+          "zh": "夹克衫；短上衣"
+        },
+        {
+          "type": "w",
+          "en": "T-shirt",
+          "zh": "T 恤衫"
+        },
+        {
+          "type": "w",
+          "en": "jeans",
+          "zh": "牛仔裤"
+        },
+        {
+          "type": "w",
+          "en": "shorts",
+          "zh": "短裤"
+        },
+        {
+          "type": "w",
+          "en": "trousers",
+          "zh": "裤子"
+        },
+        {
+          "type": "w",
+          "en": "glove",
+          "zh": "（手指分开的）手套"
+        },
+        {
+          "type": "w",
+          "en": "sock",
+          "zh": "短袜"
+        },
+        {
+          "type": "w",
+          "en": "blouse",
+          "zh": "（女式）衬衫或短上衣"
+        },
+        {
+          "type": "w",
+          "en": "cap",
+          "zh": "（无帽边或有帽舌的）帽子"
+        },
+        {
+          "type": "w",
+          "en": "zipper",
+          "zh": "拉链；拉锁"
+        },
+        {
+          "type": "w",
+          "en": "coat",
+          "zh": "外套；外衣"
+        },
+        {
+          "type": "w",
+          "en": "scarf",
+          "zh": "围巾；披巾"
+        },
+        {
+          "type": "w",
+          "en": "hat",
+          "zh": "帽子"
+        },
+        {
+          "type": "w",
+          "en": "ring",
+          "zh": "戒指；指环"
+        },
+        {
+          "type": "w",
+          "en": "leather",
+          "zh": "皮革"
+        },
+        {
+          "type": "w",
+          "en": "costume",
+          "zh": "（特定场合穿的）服装；装束"
+        },
+        {
+          "type": "w",
+          "en": "backpack",
+          "zh": "背包；旅行包"
+        },
+        {
+          "type": "w",
+          "en": "silk",
+          "zh": "丝绸；（蚕）丝"
+        },
+        {
+          "type": "w",
+          "en": "lining",
+          "zh": "内衬"
+        },
+        {
+          "type": "w",
+          "en": "size",
+          "zh": "大小；尺寸"
+        },
+        {
+          "type": "w",
+          "en": "cotton",
+          "zh": "棉；棉花"
+        },
+        {
+          "type": "w",
+          "en": "cloth",
+          "zh": "织物；布料"
+        },
+        {
+          "type": "w",
+          "en": "packet",
+          "zh": "小包装纸袋，小硬纸板盒"
+        },
+        {
+          "type": "w",
+          "en": "thread",
+          "zh": "线"
+        },
+        {
+          "type": "w",
+          "en": "dye",
+          "zh": "染料；染液"
+        },
+        {
+          "type": "w",
+          "en": "dye",
+          "zh": "给……染色"
+        },
+        {
+          "type": "w",
+          "en": "jewellery",
+          "zh": "<英>珠宝=<美>jewelry"
+        },
+        {
+          "type": "w",
+          "en": "brand",
+          "zh": "品牌；牌子"
+        },
+        {
+          "type": "w",
+          "en": "style",
+          "zh": "样式；款式"
+        },
+        {
+          "type": "w",
+          "en": "wooden",
+          "zh": "木制的；木头的"
+        },
+        {
+          "type": "w",
+          "en": "plastic",
+          "zh": "塑料的"
+        },
+        {
+          "type": "w",
+          "en": "plastic",
+          "zh": "塑料；塑胶"
+        },
+        {
+          "type": "w",
+          "en": "harmful",
+          "zh": "有害的"
+        },
+        {
+          "type": "w",
+          "en": "man-made",
+          "zh": "人造的"
+        },
+        {
+          "type": "w",
+          "en": "casual",
+          "zh": "非正式的；随便的"
+        },
+        {
+          "type": "w",
+          "en": "soft",
+          "zh": "柔软的"
+        },
+        {
+          "type": "w",
+          "en": "smooth",
+          "zh": "光滑的"
+        },
+        {
+          "type": "w",
+          "en": "loose",
+          "zh": "宽松的"
+        },
+        {
+          "type": "w",
+          "en": "close-fitting",
+          "zh": "紧身的"
+        },
+        {
+          "type": "w",
+          "en": "old-fashioned",
+          "zh": "过时的"
+        },
+        {
+          "type": "w",
+          "en": "artificial",
+          "zh": "人造的；人工的"
+        },
+        {
+          "type": "w",
+          "en": "priceless",
+          "zh": "极珍贵的；无价的"
+        },
+        {
+          "type": "w",
+          "en": "formal",
+          "zh": "正式的"
+        },
+        {
+          "type": "w",
+          "en": "thick",
+          "zh": "厚的"
+        },
+        {
+          "type": "w",
+          "en": "large",
+          "zh": "大的；大号的"
+        },
+        {
+          "type": "w",
+          "en": "reusable",
+          "zh": "可重复使用的"
+        },
+        {
+          "type": "w",
+          "en": "costume party",
+          "zh": "化装舞会"
+        },
+        {
+          "type": "w",
+          "en": "sunglasses",
+          "zh": "太阳镜；墨镜"
+        },
+        {
+          "type": "w",
+          "en": "earring",
+          "zh": "耳环；耳饰"
+        },
+        {
+          "type": "w",
+          "en": "wig",
+          "zh": "假发"
+        },
+        {
+          "type": "w",
+          "en": "pocket",
+          "zh": "口袋"
+        },
+        {
+          "type": "w",
+          "en": "handbag",
+          "zh": "小手提包"
+        },
+        {
+          "type": "w",
+          "en": "necklace",
+          "zh": "项链"
+        },
+        {
+          "type": "w",
+          "en": "belt",
+          "zh": "腰带；皮带"
+        },
+        {
+          "type": "w",
+          "en": "suit",
+          "zh": "西服；套装"
+        },
+        {
+          "type": "w",
+          "en": "suit",
+          "zh": "合身"
+        },
+        {
+          "type": "w",
+          "en": "heel",
+          "zh": "鞋跟"
+        }
+      ]
+    }
+  ]
+}

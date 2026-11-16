@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>词汇练习</title>
+  <link rel="stylesheet" href="/static/app.css?v=20261116opt">
+</head>
+<body>
+  <div id="loading-overlay" class="loading-overlay hidden" aria-live="polite">
+    <div class="loading-card">
+      <div class="hourglass" aria-hidden="true"></div>
+      <p class="loading-title" id="loading-title">生成测评试题中</p>
+    </div>
+  </div>
+  <div id="confirm-overlay" class="confirm-overlay hidden" role="dialog" aria-modal="true" aria-labelledby="confirm-title">
+    <div class="confirm-card">
+      <p class="confirm-kicker" id="confirm-kicker">提前退出</p>
+      <h2 id="confirm-title" class="confirm-title">确定要结束本次测评吗？</h2>
+      <p class="confirm-body" id="confirm-body">当前进度会生成报告，已作答内容会保留。</p>
+      <div class="confirm-actions">
+        <button type="button" class="ghost" id="confirm-cancel">继续答题</button>
+        <button type="button" class="primary danger-solid" id="confirm-ok">确认退出</button>
+      </div>
+    </div>
+  </div>
+  <div id="app">
+    <!-- Home -->
+    <section id="view-home" class="view">
+      <header class="page-head">
+        <h1>词汇练习</h1>
+        <p class="lead">按天做英中互译四选一测评，或查看历史报告。</p>
+      </header>
+      <div class="home-actions">
+        <button type="button" class="home-card" id="go-practice">
+          <span class="home-card-title">开始测评</span>
+          <span class="home-card-desc">选择练习日与方向，四选一作答</span>
+        </button>
+        <button type="button" class="home-card" id="go-history">
+          <span class="home-card-title">历史测评</span>
+          <span class="home-card-desc">浏览历史测评结果与详单</span>
+        </button>
+        <button type="button" class="home-card" id="go-stats">
+          <span class="home-card-title">历史统计</span>
+          <span class="home-card-desc">按大类／方向／天查看错词统计</span>
+        </button>
+      </div>
+    </section>
+
+    <!-- Catalog -->
+    <section id="view-catalog" class="view hidden">
+      <header class="page-head page-head-row">
+        <h1>测评导航</h1>
+        <div class="page-head-actions">
+          <button type="button" class="ghost" id="back-home-from-catalog">返回首页</button>
+        </div>
+      </header>
+
+      <div class="filter-bar">
+        <div class="tabs" id="catalog-category-tabs" role="tablist"></div>
+        <div class="tabs direction-tabs" id="catalog-direction-tabs" role="tablist">
+          <button type="button" class="tab active" data-direction="en_zh" role="tab">英 → 中</button>
+          <button type="button" class="tab" data-direction="zh_en" role="tab">中 → 英</button>
+        </div>
+      </div>
+      <div id="batch-list" class="batch-list"></div>
+
+      <div class="catalog-actions">
+        <button type="button" class="primary" id="start-btn" disabled>开始测评</button>
+      </div>
+    </section>
+
+    <!-- Quiz -->
+    <section id="view-quiz" class="view hidden">
+      <header class="quiz-bar">
+        <div class="quiz-meta">
+          <span id="quiz-label"></span>
+          <span id="quiz-direction" class="pill"></span>
+          <span id="quiz-progress"></span>
+        </div>
+        <button type="button" class="ghost" id="abort-btn">提前退出</button>
+      </header>
+
+      <div class="quiz-body">
+        <p id="prompt" class="prompt"></p>
+
+        <div id="choices" class="choices" aria-label="选项">
+          <p class="choices-hint" id="choices-hint">正在生成选项…</p>
+          <div class="choice-grid" id="choice-grid"></div>
+        </div>
+
+        <div id="result" class="result">
+          <div class="result-table-wrap">
+            <table class="result-table" aria-label="本题结果">
+              <thead>
+                <tr>
+                  <th>参考答案</th>
+                  <th>用户提交</th>
+                  <th>判别结果</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td><span id="row-expected" class="row-v is-expected"></span></td>
+                  <td><span id="row-transcript" class="row-v is-tone"></span></td>
+                  <td><span id="row-verdict" class="row-v verdict-inline"></span></td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+          <p id="response-line" class="response-line">&nbsp;</p>
+        </div>
+
+        <div id="submit-wrap" class="submit-wrap hidden">
+          <button type="button" class="primary" id="submit-btn">提交</button>
+        </div>
+      </div>
+
+      <footer class="quiz-foot">
+        <button type="button" class="ghost" id="prev-btn">上一个</button>
+        <button type="button" class="ghost" id="next-btn">下一个</button>
+      </footer>
+    </section>
+
+    <!-- Report -->
+    <section id="view-report" class="view hidden">
+      <header class="page-head">
+        <div class="page-head-row">
+          <h1>汇总报告</h1>
+          <div class="page-head-actions">
+            <button type="button" class="ghost" id="back-home-from-report">返回首页</button>
+            <button type="button" class="ghost" id="back-history-from-report">历史测评</button>
+          </div>
+        </div>
+        <p id="report-path" class="lead mono"></p>
+      </header>
+      <div class="table-wrap summary-wrap">
+        <table id="summary-table" class="summary-table">
+          <tbody></tbody>
+        </table>
+      </div>
+      <h2 class="section-title">详单</h2>
+      <div class="table-wrap">
+        <table id="report-table" class="grid-table">
+          <thead>
+            <tr>
+              <th>序号</th>
+              <th>原词条</th>
+              <th>正确答案</th>
+              <th>用户选择</th>
+              <th>判别结果</th>
+              <th>响应</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- History -->
+    <section id="view-history" class="view hidden">
+      <header class="page-head page-head-row">
+        <h1>历史测评</h1>
+        <div class="page-head-actions">
+          <button type="button" class="ghost" id="back-home-from-history">返回首页</button>
+        </div>
+      </header>
+      <div class="filter-bar">
+        <div class="tabs" id="history-category-tabs" role="tablist"></div>
+        <div class="tabs direction-tabs" id="history-direction-tabs" role="tablist">
+          <button type="button" class="tab active" data-direction="en_zh" role="tab">英 → 中</button>
+          <button type="button" class="tab" data-direction="zh_en" role="tab">中 → 英</button>
+        </div>
+      </div>
+      <div id="history-day-nav" class="batch day-nav"></div>
+      <div class="table-wrap">
+        <table id="history-table" class="grid-table">
+          <thead>
+            <tr>
+              <th>评测日期</th>
+              <th>开始</th>
+              <th>结束</th>
+              <th>用时</th>
+              <th>内容</th>
+              <th>词条数</th>
+              <th>正确率</th>
+              <th>报告详细</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- Stats -->
+    <section id="view-stats" class="view hidden">
+      <header class="page-head page-head-row">
+        <h1>历史统计</h1>
+        <div class="page-head-actions">
+          <button type="button" class="ghost" id="back-home-from-stats">返回首页</button>
+        </div>
+      </header>
+      <div class="filter-bar">
+        <div class="tabs" id="stats-category-tabs" role="tablist"></div>
+        <div class="tabs direction-tabs" id="stats-direction-tabs" role="tablist">
+          <button type="button" class="tab active" data-direction="en_zh" role="tab">英 → 中</button>
+          <button type="button" class="tab" data-direction="zh_en" role="tab">中 → 英</button>
+        </div>
+      </div>
+      <div id="stats-day-nav" class="batch day-nav"></div>
+      <div class="table-wrap">
+        <table id="stats-table" class="grid-table">
+          <thead>
+            <tr>
+              <th>序号</th>
+              <th>原词条</th>
+              <th>正确答案</th>
+              <th>评测次数</th>
+              <th>错误次数</th>
+              <th id="stats-error-rate-th" class="sortable" data-sort="error_rate" title="点击切换排序">错误率 ▾</th>
+              <th>最近评测时间</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+  </div>
+  <script src="/static/app.js?v=20261116load1"></script>
+</body>
+</html>

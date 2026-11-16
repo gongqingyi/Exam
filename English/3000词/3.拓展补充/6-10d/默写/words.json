@@ -1,0 +1,1741 @@
+{
+  "title": "15天背完初中3500词 · 拓展补充",
+  "days": [
+    {
+      "day": 6,
+      "items": [
+        {
+          "type": "w",
+          "en": "spring roll",
+          "zh": "春卷"
+        },
+        {
+          "type": "w",
+          "en": "fish and chips",
+          "zh": "炸鱼薯条"
+        },
+        {
+          "type": "w",
+          "en": "Dongpo pork",
+          "zh": "东坡肉"
+        },
+        {
+          "type": "w",
+          "en": "steamed fish",
+          "zh": "清蒸鱼"
+        },
+        {
+          "type": "w",
+          "en": "Mapo tofu",
+          "zh": "麻婆豆腐"
+        },
+        {
+          "type": "w",
+          "en": "Beijing roast duck",
+          "zh": "北京烤鸭"
+        },
+        {
+          "type": "w",
+          "en": "Gongbao chicken",
+          "zh": "宫保鸡丁"
+        },
+        {
+          "type": "w",
+          "en": "mashed potatoes",
+          "zh": "土豆泥"
+        },
+        {
+          "type": "w",
+          "en": "hot and sour soup",
+          "zh": "酸辣汤"
+        },
+        {
+          "type": "w",
+          "en": "Guoqiao rice noodles",
+          "zh": "过桥米线"
+        },
+        {
+          "type": "w",
+          "en": "steamed chicken soup",
+          "zh": "汽锅鸡"
+        },
+        {
+          "type": "w",
+          "en": "mineral water",
+          "zh": "矿泉水"
+        },
+        {
+          "type": "w",
+          "en": "sweet tooth",
+          "zh": "喜好甜食"
+        },
+        {
+          "type": "w",
+          "en": "dried food",
+          "zh": "干制食品"
+        },
+        {
+          "type": "sec",
+          "text": "动植物"
+        },
+        {
+          "type": "w",
+          "en": "coral",
+          "zh": "珊瑚；珊瑚虫"
+        },
+        {
+          "type": "w",
+          "en": "turtle",
+          "zh": "海龟；龟"
+        },
+        {
+          "type": "w",
+          "en": "butterfly",
+          "zh": "蝴蝶"
+        },
+        {
+          "type": "w",
+          "en": "goldfish",
+          "zh": "金鱼"
+        },
+        {
+          "type": "w",
+          "en": "worm",
+          "zh": "蠕虫"
+        },
+        {
+          "type": "w",
+          "en": "dolphin",
+          "zh": "海豚"
+        },
+        {
+          "type": "w",
+          "en": "zebra",
+          "zh": "斑马"
+        },
+        {
+          "type": "w",
+          "en": "horn",
+          "zh": "（羊、牛等动物的）角"
+        },
+        {
+          "type": "w",
+          "en": "lungfish",
+          "zh": "肺鱼"
+        },
+        {
+          "type": "w",
+          "en": "cheetah",
+          "zh": "猎豹"
+        },
+        {
+          "type": "w",
+          "en": "school",
+          "zh": "群"
+        },
+        {
+          "type": "w",
+          "en": "mosquito",
+          "zh": "蚊子"
+        },
+        {
+          "type": "w",
+          "en": "dinosaur",
+          "zh": "恐龙"
+        },
+        {
+          "type": "w",
+          "en": "droppings",
+          "zh": "（鸟、兽等小动物的）粪"
+        },
+        {
+          "type": "w",
+          "en": "kangaroo",
+          "zh": "袋鼠"
+        },
+        {
+          "type": "w",
+          "en": "rhino",
+          "zh": "犀牛"
+        },
+        {
+          "type": "w",
+          "en": "pigeon",
+          "zh": "鸽子"
+        },
+        {
+          "type": "w",
+          "en": "beaver",
+          "zh": "河狸"
+        },
+        {
+          "type": "w",
+          "en": "dodo",
+          "zh": "渡渡鸟"
+        },
+        {
+          "type": "w",
+          "en": "pollination",
+          "zh": "授粉"
+        },
+        {
+          "type": "w",
+          "en": "honeycomb",
+          "zh": "蜂巢"
+        },
+        {
+          "type": "w",
+          "en": "pollen",
+          "zh": "花粉"
+        },
+        {
+          "type": "w",
+          "en": "mushroom",
+          "zh": "蘑菇"
+        },
+        {
+          "type": "w",
+          "en": "leaf",
+          "zh": "叶；叶子"
+        },
+        {
+          "type": "w",
+          "en": "seed",
+          "zh": "种子"
+        },
+        {
+          "type": "w",
+          "en": "root",
+          "zh": "根"
+        },
+        {
+          "type": "w",
+          "en": "stem",
+          "zh": "（花草的）茎"
+        },
+        {
+          "type": "w",
+          "en": "branch",
+          "zh": "树枝"
+        },
+        {
+          "type": "w",
+          "en": "corn",
+          "zh": "玉米"
+        },
+        {
+          "type": "w",
+          "en": "shoot",
+          "zh": "幼苗；嫩芽"
+        },
+        {
+          "type": "w",
+          "en": "bark",
+          "zh": "树皮"
+        },
+        {
+          "type": "w",
+          "en": "polar bear",
+          "zh": "北极熊"
+        },
+        {
+          "type": "w",
+          "en": "blue whale",
+          "zh": "蓝鲸"
+        },
+        {
+          "type": "w",
+          "en": "Arctic char",
+          "zh": "北极红点鲑"
+        },
+        {
+          "type": "w",
+          "en": "meat eater",
+          "zh": "肉食动物"
+        },
+        {
+          "type": "w",
+          "en": "guinea pig",
+          "zh": "天竺鼠，豚鼠"
+        },
+        {
+          "type": "w",
+          "en": "red-crowned crane",
+          "zh": "丹顶鹤"
+        },
+        {
+          "type": "w",
+          "en": "corn silk",
+          "zh": "玉米须"
+        },
+        {
+          "type": "sec",
+          "text": "艺术"
+        },
+        {
+          "type": "w",
+          "en": "icon",
+          "zh": "图标"
+        },
+        {
+          "type": "w",
+          "en": "shade",
+          "zh": "阴影"
+        },
+        {
+          "type": "w",
+          "en": "trick",
+          "zh": "技巧；戏法"
+        },
+        {
+          "type": "w",
+          "en": "mould",
+          "zh": "模具"
+        },
+        {
+          "type": "w",
+          "en": "canvas",
+          "zh": "（帆布）画布"
+        },
+        {
+          "type": "w",
+          "en": "script",
+          "zh": "剧本"
+        },
+        {
+          "type": "w",
+          "en": "author",
+          "zh": "作者"
+        },
+        {
+          "type": "w",
+          "en": "critic",
+          "zh": "批评家"
+        },
+        {
+          "type": "w",
+          "en": "playwright",
+          "zh": "剧作家"
+        },
+        {
+          "type": "w",
+          "en": "character",
+          "zh": "（书籍、戏剧或电影中的）人物，角色"
+        },
+        {
+          "type": "w",
+          "en": "literary",
+          "zh": "文学的；文学上的"
+        },
+        {
+          "type": "w",
+          "en": "series",
+          "zh": "系列节目（pl. series）"
+        },
+        {
+          "type": "w",
+          "en": "review",
+          "zh": "评论"
+        },
+        {
+          "type": "w",
+          "en": "realism",
+          "zh": "现实主义"
+        },
+        {
+          "type": "w",
+          "en": "tragedy",
+          "zh": "悲剧；悲剧作品"
+        },
+        {
+          "type": "w",
+          "en": "prose",
+          "zh": "散文"
+        },
+        {
+          "type": "w",
+          "en": "redwood",
+          "zh": "红杉"
+        },
+        {
+          "type": "w",
+          "en": "bamboo",
+          "zh": "竹；竹子"
+        },
+        {
+          "type": "w",
+          "en": "pine",
+          "zh": "松树"
+        },
+        {
+          "type": "w",
+          "en": "rose",
+          "zh": "玫瑰（花）"
+        },
+        {
+          "type": "w",
+          "en": "lotus",
+          "zh": "莲花"
+        },
+        {
+          "type": "w",
+          "en": "plant",
+          "zh": "植物；花草"
+        },
+        {
+          "type": "w",
+          "en": "moss",
+          "zh": "苔藓"
+        },
+        {
+          "type": "w",
+          "en": "peony",
+          "zh": "牡丹；芍药"
+        },
+        {
+          "type": "w",
+          "en": "violet",
+          "zh": "紫罗兰"
+        },
+        {
+          "type": "w",
+          "en": "ginkgo",
+          "zh": "银杏"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "items": [
+        {
+          "type": "w",
+          "en": "carving",
+          "zh": "雕刻品；雕像"
+        },
+        {
+          "type": "w",
+          "en": "biography",
+          "zh": "传记；传记作品"
+        },
+        {
+          "type": "w",
+          "en": "ballet",
+          "zh": "芭蕾舞；芭蕾舞剧"
+        },
+        {
+          "type": "w",
+          "en": "fashion",
+          "zh": "时装业；时尚"
+        },
+        {
+          "type": "w",
+          "en": "portrait",
+          "zh": "肖像；半身画像"
+        },
+        {
+          "type": "w",
+          "en": "ending",
+          "zh": "结局；结尾"
+        },
+        {
+          "type": "w",
+          "en": "paintbrush",
+          "zh": "画笔"
+        },
+        {
+          "type": "w",
+          "en": "calligraphy",
+          "zh": "书法"
+        },
+        {
+          "type": "w",
+          "en": "statue",
+          "zh": "雕塑；雕像"
+        },
+        {
+          "type": "w",
+          "en": "photography",
+          "zh": "照相术；摄影"
+        },
+        {
+          "type": "w",
+          "en": "documentary",
+          "zh": "纪录片"
+        },
+        {
+          "type": "w",
+          "en": "sci-fi",
+          "zh": "科幻小说（或影片等）"
+        },
+        {
+          "type": "w",
+          "en": "collection",
+          "zh": "收集物"
+        },
+        {
+          "type": "w",
+          "en": "woodcarving",
+          "zh": "木雕；木雕品"
+        },
+        {
+          "type": "w",
+          "en": "DIY",
+          "zh": "自己动手"
+        },
+        {
+          "type": "w",
+          "en": "oil painting",
+          "zh": "油画"
+        },
+        {
+          "type": "w",
+          "en": "the movies",
+          "zh": "电影院；电影产业"
+        },
+        {
+          "type": "w",
+          "en": "the silver screen",
+          "zh": "电影业"
+        },
+        {
+          "type": "sec",
+          "text": "中国传统文化"
+        },
+        {
+          "type": "w",
+          "en": "firecracker",
+          "zh": "鞭炮；爆竹"
+        },
+        {
+          "type": "w",
+          "en": "couplet",
+          "zh": "对联；对句"
+        },
+        {
+          "type": "w",
+          "en": "embroidery",
+          "zh": "刺绣"
+        },
+        {
+          "type": "w",
+          "en": "handicraft",
+          "zh": "手工艺品"
+        },
+        {
+          "type": "w",
+          "en": "porcelain",
+          "zh": "瓷；瓷器"
+        },
+        {
+          "type": "w",
+          "en": "inkstick",
+          "zh": "墨（条）"
+        },
+        {
+          "type": "w",
+          "en": "Confucius",
+          "zh": "孔子"
+        },
+        {
+          "type": "w",
+          "en": "dragon boat",
+          "zh": "龙舟"
+        },
+        {
+          "type": "w",
+          "en": "dragon dance",
+          "zh": "舞龙"
+        },
+        {
+          "type": "w",
+          "en": "reunion dinner",
+          "zh": "年夜饭"
+        },
+        {
+          "type": "w",
+          "en": "lantern riddle",
+          "zh": "灯谜"
+        },
+        {
+          "type": "w",
+          "en": "puppet show",
+          "zh": "木偶戏"
+        },
+        {
+          "type": "w",
+          "en": "Yangko dance",
+          "zh": "秧歌舞"
+        },
+        {
+          "type": "w",
+          "en": "Chinese opera",
+          "zh": "中国戏曲"
+        },
+        {
+          "type": "w",
+          "en": "shadow play",
+          "zh": "皮影戏"
+        },
+        {
+          "type": "w",
+          "en": "rice cake",
+          "zh": "年糕"
+        },
+        {
+          "type": "w",
+          "en": "horse-face skirt",
+          "zh": "马面裙"
+        },
+        {
+          "type": "w",
+          "en": "red lantern",
+          "zh": "红灯笼"
+        },
+        {
+          "type": "w",
+          "en": "Chinese knot",
+          "zh": "中国结"
+        },
+        {
+          "type": "w",
+          "en": "paper cutting",
+          "zh": "剪纸"
+        },
+        {
+          "type": "w",
+          "en": "Chinese paper-cutting",
+          "zh": "中国剪纸"
+        },
+        {
+          "type": "w",
+          "en": "Spring Festival couplets",
+          "zh": "春联"
+        },
+        {
+          "type": "w",
+          "en": "ink wash painting",
+          "zh": "水墨画"
+        },
+        {
+          "type": "w",
+          "en": "painted pottery",
+          "zh": "彩陶"
+        },
+        {
+          "type": "w",
+          "en": "ink stone",
+          "zh": "砚台"
+        },
+        {
+          "type": "w",
+          "en": "traditional instrument",
+          "zh": "传统乐器"
+        },
+        {
+          "type": "w",
+          "en": "cultural heritage",
+          "zh": "文化遗产"
+        },
+        {
+          "type": "w",
+          "en": "animal sign",
+          "zh": "生肖"
+        },
+        {
+          "type": "w",
+          "en": "Chinese zodiac",
+          "zh": "十二生肖"
+        },
+        {
+          "type": "w",
+          "en": "lunar January",
+          "zh": "正月"
+        },
+        {
+          "type": "sec",
+          "text": "人际交往"
+        },
+        {
+          "type": "w",
+          "en": "bond",
+          "zh": "纽带；契合"
+        },
+        {
+          "type": "w",
+          "en": "live",
+          "zh": "在现场直播"
+        },
+        {
+          "type": "w",
+          "en": "nag",
+          "zh": "唠叨"
+        },
+        {
+          "type": "w",
+          "en": "cheers",
+          "zh": "再见；干杯"
+        },
+        {
+          "type": "w",
+          "en": "harmony",
+          "zh": "融洽；和睦"
+        },
+        {
+          "type": "w",
+          "en": "interact",
+          "zh": "交流；沟通"
+        },
+        {
+          "type": "w",
+          "en": "companion",
+          "zh": "陪伴"
+        },
+        {
+          "type": "w",
+          "en": "acquaintance",
+          "zh": "熟人"
+        },
+        {
+          "type": "w",
+          "en": "interview",
+          "zh": "采访"
+        },
+        {
+          "type": "w",
+          "en": "interview",
+          "zh": "访谈"
+        },
+        {
+          "type": "w",
+          "en": "collaborate",
+          "zh": "合作"
+        },
+        {
+          "type": "w",
+          "en": "accompany",
+          "zh": "陪同；陪伴"
+        },
+        {
+          "type": "w",
+          "en": "intimacy",
+          "zh": "亲密"
+        },
+        {
+          "type": "w",
+          "en": "apologize",
+          "zh": "道歉"
+        },
+        {
+          "type": "w",
+          "en": "misunderstand",
+          "zh": "误解"
+        },
+        {
+          "type": "w",
+          "en": "misunderstanding",
+          "zh": "误解；误会"
+        },
+        {
+          "type": "w",
+          "en": "recommendation",
+          "zh": "推荐"
+        },
+        {
+          "type": "w",
+          "en": "close-knit",
+          "zh": "志同道合的"
+        },
+        {
+          "type": "w",
+          "en": "sign-off",
+          "zh": "结束写信"
+        },
+        {
+          "type": "w",
+          "en": "take care",
+          "zh": "（告别用语）保重"
+        },
+        {
+          "type": "w",
+          "en": "come over",
+          "zh": "来访；拜访"
+        },
+        {
+          "type": "w",
+          "en": "meet up",
+          "zh": "碰头；相聚"
+        }
+      ]
+    },
+    {
+      "day": 8,
+      "items": [
+        {
+          "type": "w",
+          "en": "drop by",
+          "zh": "顺便访问"
+        },
+        {
+          "type": "w",
+          "en": "get across",
+          "zh": "解释清楚；传达"
+        },
+        {
+          "type": "w",
+          "en": "bye for now",
+          "zh": "再见"
+        },
+        {
+          "type": "w",
+          "en": "bump into",
+          "zh": "偶然遇见"
+        },
+        {
+          "type": "w",
+          "en": "hit it off (with sb)",
+          "zh": "（和某人）投缘"
+        },
+        {
+          "type": "w",
+          "en": "lend (sb) a hand",
+          "zh": "帮助（某人）"
+        },
+        {
+          "type": "w",
+          "en": "give sb a lift",
+          "zh": "开车顺便送某人"
+        },
+        {
+          "type": "w",
+          "en": "jump the queue",
+          "zh": "插队"
+        },
+        {
+          "type": "w",
+          "en": "pull together",
+          "zh": "齐心协力；通力合作"
+        },
+        {
+          "type": "w",
+          "en": "clear the air",
+          "zh": "尽释前嫌"
+        },
+        {
+          "type": "w",
+          "en": "break up",
+          "zh": "绝交"
+        },
+        {
+          "type": "w",
+          "en": "drop sb a line",
+          "zh": "给……写信"
+        },
+        {
+          "type": "w",
+          "en": "shake sb's hand",
+          "zh": "与某人握手"
+        },
+        {
+          "type": "w",
+          "en": "go a long way",
+          "zh": "帮助很大"
+        },
+        {
+          "type": "w",
+          "en": "have words with ...",
+          "zh": "与……发生口角"
+        },
+        {
+          "type": "w",
+          "en": "be on good terms",
+          "zh": "（与某人）关系好"
+        },
+        {
+          "type": "w",
+          "en": "be tolerant of",
+          "zh": "包容"
+        },
+        {
+          "type": "sec",
+          "text": "生产制造"
+        },
+        {
+          "type": "w",
+          "en": "brew",
+          "zh": "酿制（啤酒）"
+        },
+        {
+          "type": "w",
+          "en": "verify",
+          "zh": "核实；查对"
+        },
+        {
+          "type": "w",
+          "en": "device",
+          "zh": "装置；仪器"
+        },
+        {
+          "type": "w",
+          "en": "screw",
+          "zh": "螺丝"
+        },
+        {
+          "type": "w",
+          "en": "instrument",
+          "zh": "仪器；工具"
+        },
+        {
+          "type": "w",
+          "en": "machine",
+          "zh": "机器"
+        },
+        {
+          "type": "w",
+          "en": "hardware",
+          "zh": "硬件"
+        },
+        {
+          "type": "w",
+          "en": "capacity",
+          "zh": "容量；容积"
+        },
+        {
+          "type": "w",
+          "en": "inventory",
+          "zh": "库存"
+        },
+        {
+          "type": "w",
+          "en": "delivery",
+          "zh": "交付"
+        },
+        {
+          "type": "w",
+          "en": "manufacture",
+          "zh": "大量生产"
+        },
+        {
+          "type": "w",
+          "en": "output",
+          "zh": "产量"
+        },
+        {
+          "type": "w",
+          "en": "workload",
+          "zh": "工作量"
+        },
+        {
+          "type": "w",
+          "en": "technician",
+          "zh": "技术员"
+        },
+        {
+          "type": "w",
+          "en": "operator",
+          "zh": "操作人员"
+        },
+        {
+          "type": "w",
+          "en": "automatic",
+          "zh": "自动的"
+        },
+        {
+          "type": "w",
+          "en": "manual",
+          "zh": "手工的；手动的"
+        },
+        {
+          "type": "w",
+          "en": "maintenance",
+          "zh": "维护；保养"
+        },
+        {
+          "type": "w",
+          "en": "fatigue",
+          "zh": "极度疲劳"
+        },
+        {
+          "type": "w",
+          "en": "finished product",
+          "zh": "成品"
+        },
+        {
+          "type": "w",
+          "en": "turn around",
+          "zh": "翻转"
+        },
+        {
+          "type": "w",
+          "en": "come out",
+          "zh": "出版"
+        },
+        {
+          "type": "w",
+          "en": "shut off",
+          "zh": "关闭；停止运转"
+        },
+        {
+          "type": "w",
+          "en": "pull ... down",
+          "zh": "拆下；摧毁"
+        },
+        {
+          "type": "w",
+          "en": "pack up",
+          "zh": "打包"
+        },
+        {
+          "type": "w",
+          "en": "flow chart",
+          "zh": "流程图"
+        },
+        {
+          "type": "w",
+          "en": "brush sth off sth",
+          "zh": "把某物从某物上刷掉"
+        },
+        {
+          "type": "w",
+          "en": "tool kit",
+          "zh": "工具箱"
+        },
+        {
+          "type": "w",
+          "en": "shop floor",
+          "zh": "（工厂的）生产区；工厂工人"
+        },
+        {
+          "type": "sec",
+          "text": "运动"
+        },
+        {
+          "type": "w",
+          "en": "marathon",
+          "zh": "马拉松赛跑"
+        },
+        {
+          "type": "w",
+          "en": "hurdling",
+          "zh": "跨栏赛"
+        },
+        {
+          "type": "w",
+          "en": "hurdle",
+          "zh": "栏架，跨栏"
+        },
+        {
+          "type": "w",
+          "en": "javelin",
+          "zh": "标枪"
+        },
+        {
+          "type": "w",
+          "en": "hammer",
+          "zh": "掷链球（运动）"
+        },
+        {
+          "type": "w",
+          "en": "discus",
+          "zh": "铁饼（体育运动用品）"
+        },
+        {
+          "type": "w",
+          "en": "push-up",
+          "zh": "俯卧撑"
+        },
+        {
+          "type": "w",
+          "en": "sit-up",
+          "zh": "仰卧起坐"
+        },
+        {
+          "type": "w",
+          "en": "squat",
+          "zh": "俯撑腿屈伸"
+        },
+        {
+          "type": "w",
+          "en": "badminton",
+          "zh": "羽毛球运动"
+        },
+        {
+          "type": "w",
+          "en": "shuttlecock",
+          "zh": "羽毛球"
+        },
+        {
+          "type": "w",
+          "en": "handball",
+          "zh": "手球"
+        },
+        {
+          "type": "w",
+          "en": "squeeze",
+          "zh": "挤压；捏"
+        },
+        {
+          "type": "w",
+          "en": "rub",
+          "zh": "摩擦；揉"
+        },
+        {
+          "type": "w",
+          "en": "spin",
+          "zh": "快速旋转"
+        },
+        {
+          "type": "w",
+          "en": "iron",
+          "zh": "熨"
+        },
+        {
+          "type": "w",
+          "en": "polish",
+          "zh": "磨光"
+        },
+        {
+          "type": "w",
+          "en": "process",
+          "zh": "加工；处理"
+        },
+        {
+          "type": "w",
+          "en": "bump",
+          "zh": "碰；撞"
+        },
+        {
+          "type": "w",
+          "en": "pierce",
+          "zh": "扎；刺破；穿透"
+        },
+        {
+          "type": "w",
+          "en": "squash",
+          "zh": "压软"
+        },
+        {
+          "type": "w",
+          "en": "tie-dye",
+          "zh": "扎染（织物）"
+        },
+        {
+          "type": "w",
+          "en": "roll",
+          "zh": "（使）翻滚；滚动"
+        }
+      ]
+    },
+    {
+      "day": 9,
+      "items": [
+        {
+          "type": "w",
+          "en": "rugby",
+          "zh": "橄榄球运动"
+        },
+        {
+          "type": "w",
+          "en": "billiards",
+          "zh": "（三球落袋式）台球"
+        },
+        {
+          "type": "w",
+          "en": "cricket",
+          "zh": "板球（运动）"
+        },
+        {
+          "type": "w",
+          "en": "curling",
+          "zh": "冰壶"
+        },
+        {
+          "type": "w",
+          "en": "bobsleigh",
+          "zh": "大雪橇"
+        },
+        {
+          "type": "w",
+          "en": "freestyle",
+          "zh": "自由式游泳竞赛"
+        },
+        {
+          "type": "w",
+          "en": "breaststroke",
+          "zh": "蛙泳"
+        },
+        {
+          "type": "w",
+          "en": "backstroke",
+          "zh": "仰泳"
+        },
+        {
+          "type": "w",
+          "en": "snorkelling",
+          "zh": "带呼吸管潜水；浮潜"
+        },
+        {
+          "type": "w",
+          "en": "wrestling",
+          "zh": "摔跤运动"
+        },
+        {
+          "type": "w",
+          "en": "ice hockey",
+          "zh": "冰球运动；冰上曲棍球"
+        },
+        {
+          "type": "w",
+          "en": "figure skating",
+          "zh": "花样滑冰"
+        },
+        {
+          "type": "sec",
+          "text": "环境"
+        },
+        {
+          "type": "w",
+          "en": "reef",
+          "zh": "礁；礁脉"
+        },
+        {
+          "type": "w",
+          "en": "gulf",
+          "zh": "海湾"
+        },
+        {
+          "type": "w",
+          "en": "cliff",
+          "zh": "悬崖；峭壁"
+        },
+        {
+          "type": "w",
+          "en": "marsh",
+          "zh": "湿地；沼泽"
+        },
+        {
+          "type": "w",
+          "en": "ridge",
+          "zh": "山脊；山脉"
+        },
+        {
+          "type": "w",
+          "en": "abyss",
+          "zh": "深渊"
+        },
+        {
+          "type": "w",
+          "en": "fossil",
+          "zh": "化石"
+        },
+        {
+          "type": "w",
+          "en": "summit",
+          "zh": "山顶"
+        },
+        {
+          "type": "w",
+          "en": "canal",
+          "zh": "运河；灌溉渠"
+        },
+        {
+          "type": "w",
+          "en": "jungle",
+          "zh": "（热带）丛林；密林"
+        },
+        {
+          "type": "w",
+          "en": "canyon",
+          "zh": "峡谷"
+        },
+        {
+          "type": "w",
+          "en": "glacier",
+          "zh": "冰川"
+        },
+        {
+          "type": "w",
+          "en": "volcano",
+          "zh": "火山"
+        },
+        {
+          "type": "w",
+          "en": "sewage",
+          "zh": "（下水道的）污水"
+        },
+        {
+          "type": "w",
+          "en": "habitat",
+          "zh": "栖息地"
+        },
+        {
+          "type": "w",
+          "en": "species",
+          "zh": "种；物种"
+        },
+        {
+          "type": "w",
+          "en": "disposal",
+          "zh": "清除"
+        },
+        {
+          "type": "w",
+          "en": "continent",
+          "zh": "大陆；陆地"
+        },
+        {
+          "type": "w",
+          "en": "landform",
+          "zh": "地貌；地形"
+        },
+        {
+          "type": "w",
+          "en": "sandstone",
+          "zh": "砂岩"
+        },
+        {
+          "type": "w",
+          "en": "reuse",
+          "zh": "再次使用；重复使用"
+        },
+        {
+          "type": "w",
+          "en": "changeable",
+          "zh": "易变的"
+        },
+        {
+          "type": "w",
+          "en": "disposable",
+          "zh": "一次性的"
+        },
+        {
+          "type": "w",
+          "en": "unexplored",
+          "zh": "未经勘察的"
+        },
+        {
+          "type": "w",
+          "en": "desertification",
+          "zh": "沙漠化"
+        },
+        {
+          "type": "w",
+          "en": "pollutant",
+          "zh": "污染物"
+        },
+        {
+          "type": "w",
+          "en": "emission",
+          "zh": "排放"
+        },
+        {
+          "type": "w",
+          "en": "landfill",
+          "zh": "垃圾填埋地（或场）"
+        },
+        {
+          "type": "w",
+          "en": "extinction",
+          "zh": "灭绝，绝种"
+        },
+        {
+          "type": "w",
+          "en": "contamination",
+          "zh": "污染"
+        },
+        {
+          "type": "w",
+          "en": "incineration",
+          "zh": "焚毁"
+        },
+        {
+          "type": "w",
+          "en": "environmentally-friendly",
+          "zh": "环保的"
+        },
+        {
+          "type": "w",
+          "en": "biodiversity",
+          "zh": "生物多样性"
+        },
+        {
+          "type": "w",
+          "en": "global warming",
+          "zh": "全球变暖"
+        },
+        {
+          "type": "w",
+          "en": "the greenhouse effect",
+          "zh": "温室效应"
+        },
+        {
+          "type": "sec",
+          "text": "职业和身份"
+        },
+        {
+          "type": "w",
+          "en": "poet",
+          "zh": "诗人"
+        },
+        {
+          "type": "w",
+          "en": "clerk",
+          "zh": "职员"
+        },
+        {
+          "type": "w",
+          "en": "fisherman",
+          "zh": "渔夫"
+        },
+        {
+          "type": "w",
+          "en": "chief",
+          "zh": "首领；酋长"
+        },
+        {
+          "type": "w",
+          "en": "expert",
+          "zh": "专家；行家"
+        },
+        {
+          "type": "w",
+          "en": "instructor",
+          "zh": "教练；指导者"
+        },
+        {
+          "type": "w",
+          "en": "director",
+          "zh": "导演；部门负责人"
+        },
+        {
+          "type": "w",
+          "en": "accountant",
+          "zh": "会计"
+        },
+        {
+          "type": "w",
+          "en": "shopkeeper",
+          "zh": "店主"
+        },
+        {
+          "type": "w",
+          "en": "referee",
+          "zh": "裁判"
+        },
+        {
+          "type": "w",
+          "en": "librarian",
+          "zh": "图书管理员"
+        },
+        {
+          "type": "w",
+          "en": "sportsman",
+          "zh": "运动员"
+        },
+        {
+          "type": "w",
+          "en": "sportswoman",
+          "zh": "女运动员"
+        },
+        {
+          "type": "w",
+          "en": "sportsperson",
+          "zh": "运动员"
+        },
+        {
+          "type": "w",
+          "en": "headmaster",
+          "zh": "校长"
+        }
+      ]
+    },
+    {
+      "day": 10,
+      "items": [
+        {
+          "type": "w",
+          "en": "craftsperson",
+          "zh": "工匠"
+        },
+        {
+          "type": "w",
+          "en": "professional",
+          "zh": "职业的"
+        },
+        {
+          "type": "w",
+          "en": "part-time",
+          "zh": "兼职的"
+        },
+        {
+          "type": "w",
+          "en": "position",
+          "zh": "职位；职务"
+        },
+        {
+          "type": "w",
+          "en": "historian",
+          "zh": "历史学家"
+        },
+        {
+          "type": "w",
+          "en": "superstar",
+          "zh": "超级明星"
+        },
+        {
+          "type": "w",
+          "en": "airline",
+          "zh": "航空公司；航线"
+        },
+        {
+          "type": "w",
+          "en": "command pilot",
+          "zh": "飞行指挥"
+        },
+        {
+          "type": "w",
+          "en": "sales department",
+          "zh": "销售部"
+        },
+        {
+          "type": "w",
+          "en": "publishing house",
+          "zh": "出版社"
+        },
+        {
+          "type": "w",
+          "en": "security guard",
+          "zh": "保安人员"
+        },
+        {
+          "type": "sec",
+          "text": "社会"
+        },
+        {
+          "type": "w",
+          "en": "vote",
+          "zh": "投票；选举"
+        },
+        {
+          "type": "w",
+          "en": "cover",
+          "zh": "报道；电视报道"
+        },
+        {
+          "type": "w",
+          "en": "bully",
+          "zh": "霸凌；恐吓"
+        },
+        {
+          "type": "w",
+          "en": "bully",
+          "zh": "恶霸"
+        },
+        {
+          "type": "w",
+          "en": "starve",
+          "zh": "（使）挨饿；饿死"
+        },
+        {
+          "type": "w",
+          "en": "print",
+          "zh": "印刷行业"
+        },
+        {
+          "type": "w",
+          "en": "commit",
+          "zh": "犯（罪）"
+        },
+        {
+          "type": "w",
+          "en": "circle",
+          "zh": "圈子"
+        },
+        {
+          "type": "w",
+          "en": "hoax",
+          "zh": "骗局；恶作剧"
+        },
+        {
+          "type": "w",
+          "en": "website",
+          "zh": "网站"
+        },
+        {
+          "type": "w",
+          "en": "charity",
+          "zh": "慈善机构"
+        },
+        {
+          "type": "w",
+          "en": "standard",
+          "zh": "标准；水平"
+        },
+        {
+          "type": "w",
+          "en": "behaviour",
+          "zh": "行为；举止"
+        },
+        {
+          "type": "w",
+          "en": "funeral",
+          "zh": "葬礼"
+        },
+        {
+          "type": "w",
+          "en": "burial",
+          "zh": "埋葬；安葬"
+        },
+        {
+          "type": "w",
+          "en": "challenge",
+          "zh": "挑战"
+        },
+        {
+          "type": "w",
+          "en": "agreement",
+          "zh": "协议；协定"
+        },
+        {
+          "type": "w",
+          "en": "resource",
+          "zh": "资源"
+        },
+        {
+          "type": "w",
+          "en": "security",
+          "zh": "安全；保安；保障"
+        },
+        {
+          "type": "w",
+          "en": "norms",
+          "zh": "规范；行为标准"
+        },
+        {
+          "type": "w",
+          "en": "desolate",
+          "zh": "无人居住的"
+        },
+        {
+          "type": "w",
+          "en": "renewable",
+          "zh": "可更新的"
+        },
+        {
+          "type": "w",
+          "en": "mix-up",
+          "zh": "混乱；杂乱"
+        },
+        {
+          "type": "w",
+          "en": "round-up",
+          "zh": "概要，摘要"
+        },
+        {
+          "type": "w",
+          "en": "manpower",
+          "zh": "劳动力；人力"
+        },
+        {
+          "type": "w",
+          "en": "programmer",
+          "zh": "程序设计员"
+        },
+        {
+          "type": "w",
+          "en": "fighter",
+          "zh": "战士"
+        },
+        {
+          "type": "w",
+          "en": "master",
+          "zh": "主人"
+        },
+        {
+          "type": "w",
+          "en": "barber",
+          "zh": "理发师"
+        },
+        {
+          "type": "w",
+          "en": "hunter",
+          "zh": "猎人；搜寻者"
+        },
+        {
+          "type": "w",
+          "en": "thinker",
+          "zh": "思想家"
+        },
+        {
+          "type": "w",
+          "en": "swimmer",
+          "zh": "游泳者"
+        },
+        {
+          "type": "w",
+          "en": "printer",
+          "zh": "印刷工人；印刷商"
+        },
+        {
+          "type": "w",
+          "en": "climber",
+          "zh": "攀登者；登山者"
+        },
+        {
+          "type": "w",
+          "en": "firefighter",
+          "zh": "消防队员"
+        },
+        {
+          "type": "w",
+          "en": "surfer",
+          "zh": "冲浪者"
+        },
+        {
+          "type": "w",
+          "en": "banker",
+          "zh": "银行家"
+        },
+        {
+          "type": "w",
+          "en": "bookseller",
+          "zh": "书商"
+        },
+        {
+          "type": "w",
+          "en": "designer",
+          "zh": "设计师"
+        },
+        {
+          "type": "w",
+          "en": "minister",
+          "zh": "大臣；部长"
+        },
+        {
+          "type": "w",
+          "en": "gardener",
+          "zh": "园丁"
+        },
+        {
+          "type": "w",
+          "en": "explorer",
+          "zh": "探险者；勘探者"
+        },
+        {
+          "type": "w",
+          "en": "composer",
+          "zh": "作曲家"
+        },
+        {
+          "type": "w",
+          "en": "researcher",
+          "zh": "研究者；探索者"
+        },
+        {
+          "type": "w",
+          "en": "presenter",
+          "zh": "节目主持人"
+        }
+      ]
+    }
+  ]
+}

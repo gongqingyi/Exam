@@ -1,0 +1,1699 @@
+{
+  "title": "15天背完初中3500词 · 拓展补充",
+  "days": [
+    {
+      "day": 11,
+      "items": [
+        {
+          "type": "w",
+          "en": "suggestion",
+          "zh": "建议；提议"
+        },
+        {
+          "type": "w",
+          "en": "population",
+          "zh": "人口"
+        },
+        {
+          "type": "w",
+          "en": "occasion",
+          "zh": "场合；重大活动"
+        },
+        {
+          "type": "w",
+          "en": "census",
+          "zh": "人口普查"
+        },
+        {
+          "type": "w",
+          "en": "fingerprint",
+          "zh": "指纹；指印"
+        },
+        {
+          "type": "w",
+          "en": "kidnapping",
+          "zh": "绑架；劫持"
+        },
+        {
+          "type": "w",
+          "en": "resolution",
+          "zh": "决定；决议"
+        },
+        {
+          "type": "w",
+          "en": "ritual",
+          "zh": "程序；仪式；礼节"
+        },
+        {
+          "type": "w",
+          "en": "consumption",
+          "zh": "消费"
+        },
+        {
+          "type": "w",
+          "en": "nomination",
+          "zh": "提名"
+        },
+        {
+          "type": "w",
+          "en": "possibility",
+          "zh": "可能性"
+        },
+        {
+          "type": "w",
+          "en": "contribution",
+          "zh": "贡献"
+        },
+        {
+          "type": "w",
+          "en": "advertisement",
+          "zh": "广告"
+        },
+        {
+          "type": "w",
+          "en": "cyberbullying",
+          "zh": "网络欺凌"
+        },
+        {
+          "type": "w",
+          "en": "civilization",
+          "zh": "文明"
+        },
+        {
+          "type": "w",
+          "en": "local colour",
+          "zh": "地方特色"
+        },
+        {
+          "type": "sec",
+          "text": "时间和空间"
+        },
+        {
+          "type": "w",
+          "en": "gone",
+          "zh": "离开了；不在"
+        },
+        {
+          "type": "w",
+          "en": "final",
+          "zh": "最终的；最后的"
+        },
+        {
+          "type": "w",
+          "en": "still",
+          "zh": "静止的"
+        },
+        {
+          "type": "w",
+          "en": "round",
+          "zh": "圆形的；环形的"
+        },
+        {
+          "type": "w",
+          "en": "straight",
+          "zh": "直的"
+        },
+        {
+          "type": "w",
+          "en": "tonight",
+          "zh": "在今晚；今夜"
+        },
+        {
+          "type": "w",
+          "en": "sunset",
+          "zh": "日落；傍晚"
+        },
+        {
+          "type": "w",
+          "en": "sunrise",
+          "zh": "日出"
+        },
+        {
+          "type": "w",
+          "en": "midnight",
+          "zh": "午夜"
+        },
+        {
+          "type": "w",
+          "en": "daytime",
+          "zh": "白天"
+        },
+        {
+          "type": "w",
+          "en": "upwards",
+          "zh": "向上"
+        },
+        {
+          "type": "w",
+          "en": "downstairs",
+          "zh": "往楼下；在楼下"
+        },
+        {
+          "type": "w",
+          "en": "upstairs",
+          "zh": "往楼上；在楼上"
+        },
+        {
+          "type": "w",
+          "en": "overnight",
+          "zh": "一夜之间；在夜间"
+        },
+        {
+          "type": "w",
+          "en": "sometime",
+          "zh": "在某个时候"
+        },
+        {
+          "type": "w",
+          "en": "lifetime",
+          "zh": "一生；有生之年"
+        },
+        {
+          "type": "w",
+          "en": "boundary",
+          "zh": "边界；界限"
+        },
+        {
+          "type": "w",
+          "en": "midsummer",
+          "zh": "仲夏，盛夏"
+        },
+        {
+          "type": "w",
+          "en": "latest",
+          "zh": "最近的；最新的"
+        },
+        {
+          "type": "w",
+          "en": "monthly",
+          "zh": "每月的"
+        },
+        {
+          "type": "w",
+          "en": "yearly",
+          "zh": "每年的；一年一次的"
+        },
+        {
+          "type": "w",
+          "en": "annual",
+          "zh": "每年的；一年一次的"
+        },
+        {
+          "type": "w",
+          "en": "up-to-date",
+          "zh": "现在的"
+        },
+        {
+          "type": "w",
+          "en": "first-time",
+          "zh": "首次的"
+        },
+        {
+          "type": "w",
+          "en": "timeline",
+          "zh": "时间线"
+        },
+        {
+          "type": "w",
+          "en": "dynasty",
+          "zh": "朝代"
+        },
+        {
+          "type": "w",
+          "en": "round-the-clock",
+          "zh": "日夜不停的"
+        },
+        {
+          "type": "w",
+          "en": "anniversary",
+          "zh": "周年纪念日"
+        },
+        {
+          "type": "w",
+          "en": "so far",
+          "zh": "到目前为止"
+        },
+        {
+          "type": "w",
+          "en": "at a time",
+          "zh": "每次；依次"
+        },
+        {
+          "type": "w",
+          "en": "from now on",
+          "zh": "从现在起"
+        },
+        {
+          "type": "w",
+          "en": "in future",
+          "zh": "今后；从今以后"
+        },
+        {
+          "type": "w",
+          "en": "soon after",
+          "zh": "不久之后"
+        },
+        {
+          "type": "w",
+          "en": "go by",
+          "zh": "（时间）逝去；过去"
+        },
+        {
+          "type": "w",
+          "en": "for a time",
+          "zh": "一小段时间；一度；一时"
+        },
+        {
+          "type": "w",
+          "en": "at the time",
+          "zh": "那时；在那段时间"
+        },
+        {
+          "type": "w",
+          "en": "by the time",
+          "zh": "到……的时候"
+        },
+        {
+          "type": "w",
+          "en": "dividing line",
+          "zh": "分界线"
+        },
+        {
+          "type": "sec",
+          "text": "节假日"
+        },
+        {
+          "type": "w",
+          "en": "tradition",
+          "zh": "传统"
+        },
+        {
+          "type": "w",
+          "en": "festival",
+          "zh": "节日"
+        },
+        {
+          "type": "w",
+          "en": "reunion",
+          "zh": "团圆"
+        },
+        {
+          "type": "w",
+          "en": "celebrate",
+          "zh": "庆祝"
+        }
+      ]
+    },
+    {
+      "day": 12,
+      "items": [
+        {
+          "type": "w",
+          "en": "celebration",
+          "zh": "庆典"
+        },
+        {
+          "type": "w",
+          "en": "custom",
+          "zh": "风俗"
+        },
+        {
+          "type": "w",
+          "en": "parade",
+          "zh": "游行"
+        },
+        {
+          "type": "w",
+          "en": "vacation",
+          "zh": "假期；度假"
+        },
+        {
+          "type": "w",
+          "en": "firework",
+          "zh": "烟火；烟花"
+        },
+        {
+          "type": "w",
+          "en": "rehearsal",
+          "zh": "排演；排练"
+        },
+        {
+          "type": "w",
+          "en": "Thanksgiving",
+          "zh": "感恩节"
+        },
+        {
+          "type": "w",
+          "en": "red packet",
+          "zh": "红包"
+        },
+        {
+          "type": "w",
+          "en": "take a vacation",
+          "zh": "去度假"
+        },
+        {
+          "type": "w",
+          "en": "Lunar calendar",
+          "zh": "农历；阴历"
+        },
+        {
+          "type": "w",
+          "en": "National Day",
+          "zh": "国庆节"
+        },
+        {
+          "type": "w",
+          "en": "Dragon Boat Festival",
+          "zh": "端午节"
+        },
+        {
+          "type": "w",
+          "en": "Water Festival",
+          "zh": "泼水节"
+        },
+        {
+          "type": "w",
+          "en": "Mother's Day",
+          "zh": "母亲节"
+        },
+        {
+          "type": "w",
+          "en": "Father's Day",
+          "zh": "父亲节"
+        },
+        {
+          "type": "w",
+          "en": "Mid-Autumn Festival",
+          "zh": "中秋节"
+        },
+        {
+          "type": "w",
+          "en": "Spring Festival",
+          "zh": "春节"
+        },
+        {
+          "type": "w",
+          "en": "CPC Founding Day",
+          "zh": "中国共产党建党纪念日"
+        },
+        {
+          "type": "w",
+          "en": "PLA Day",
+          "zh": "中国人民解放军建军节"
+        },
+        {
+          "type": "sec",
+          "text": "其他形容词"
+        },
+        {
+          "type": "w",
+          "en": "main",
+          "zh": "主要的"
+        },
+        {
+          "type": "w",
+          "en": "usual",
+          "zh": "通常的；寻常的"
+        },
+        {
+          "type": "w",
+          "en": "slight",
+          "zh": "轻微的"
+        },
+        {
+          "type": "w",
+          "en": "major",
+          "zh": "主要的；大的"
+        },
+        {
+          "type": "w",
+          "en": "broken",
+          "zh": "破损的"
+        },
+        {
+          "type": "w",
+          "en": "equal",
+          "zh": "平等的"
+        },
+        {
+          "type": "w",
+          "en": "complete",
+          "zh": "完全的；彻底的"
+        },
+        {
+          "type": "w",
+          "en": "unlucky",
+          "zh": "不幸的；不顺利的"
+        },
+        {
+          "type": "w",
+          "en": "prime",
+          "zh": "首要的；基本的"
+        },
+        {
+          "type": "w",
+          "en": "primary",
+          "zh": "首要的"
+        },
+        {
+          "type": "w",
+          "en": "magical",
+          "zh": "奇妙的"
+        },
+        {
+          "type": "w",
+          "en": "medium",
+          "zh": "中等的"
+        },
+        {
+          "type": "w",
+          "en": "visible",
+          "zh": "看得见的；可见的"
+        },
+        {
+          "type": "w",
+          "en": "impossible",
+          "zh": "不可能的"
+        },
+        {
+          "type": "w",
+          "en": "informal",
+          "zh": "非正式的"
+        },
+        {
+          "type": "w",
+          "en": "uncommon",
+          "zh": "罕见的"
+        },
+        {
+          "type": "w",
+          "en": "improper",
+          "zh": "不合适的"
+        },
+        {
+          "type": "w",
+          "en": "accidental",
+          "zh": "意外的"
+        },
+        {
+          "type": "w",
+          "en": "underwater",
+          "zh": "水下的；用于水下的"
+        },
+        {
+          "type": "w",
+          "en": "varied",
+          "zh": "各种各样的；不相同的"
+        },
+        {
+          "type": "w",
+          "en": "unsolved",
+          "zh": "未解决的；未破解的"
+        },
+        {
+          "type": "w",
+          "en": "uncomfortable",
+          "zh": "使人不舒服的；令人不舒适的"
+        },
+        {
+          "type": "w",
+          "en": "lasting",
+          "zh": "持久的"
+        },
+        {
+          "type": "w",
+          "en": "folding",
+          "zh": "折叠式的；可折叠的"
+        },
+        {
+          "type": "w",
+          "en": "parallel",
+          "zh": "平行（的）"
+        },
+        {
+          "type": "w",
+          "en": "fascinating",
+          "zh": "迷人的"
+        },
+        {
+          "type": "w",
+          "en": "well-used",
+          "zh": "使用得多的"
+        },
+        {
+          "type": "w",
+          "en": "all-time",
+          "zh": "一向的；空前的"
+        },
+        {
+          "type": "w",
+          "en": "world-famous",
+          "zh": "世界著名的；举世闻名的"
+        },
+        {
+          "type": "sec",
+          "text": "其他副词"
+        },
+        {
+          "type": "w",
+          "en": "even",
+          "zh": "甚至；连；愈加"
+        },
+        {
+          "type": "w",
+          "en": "ever",
+          "zh": "在任何时候；从来"
+        },
+        {
+          "type": "w",
+          "en": "quite",
+          "zh": "相当；完全"
+        },
+        {
+          "type": "w",
+          "en": "yet",
+          "zh": "（用于否定句和疑问句）还"
+        },
+        {
+          "type": "w",
+          "en": "almost",
+          "zh": "几乎；差不多"
+        },
+        {
+          "type": "w",
+          "en": "twice",
+          "zh": "两次；两倍"
+        },
+        {
+          "type": "w",
+          "en": "hardly",
+          "zh": "几乎不；几乎没有"
+        },
+        {
+          "type": "w",
+          "en": "seldom",
+          "zh": "很少；不常"
+        },
+        {
+          "type": "w",
+          "en": "instead",
+          "zh": "反而；代替"
+        },
+        {
+          "type": "w",
+          "en": "perhaps",
+          "zh": "可能；也许"
+        }
+      ]
+    },
+    {
+      "day": 13,
+      "items": [
+        {
+          "type": "w",
+          "en": "rather",
+          "zh": "相当"
+        },
+        {
+          "type": "w",
+          "en": "anyway",
+          "zh": "总之"
+        },
+        {
+          "type": "w",
+          "en": "direct",
+          "zh": "径直；直接"
+        },
+        {
+          "type": "w",
+          "en": "forward",
+          "zh": "向前"
+        },
+        {
+          "type": "w",
+          "en": "further",
+          "zh": "更久远"
+        },
+        {
+          "type": "w",
+          "en": "abroad",
+          "zh": "在国外；到国外"
+        },
+        {
+          "type": "w",
+          "en": "especially",
+          "zh": "尤其；特别"
+        },
+        {
+          "type": "w",
+          "en": "specially",
+          "zh": "专门地；特意"
+        },
+        {
+          "type": "w",
+          "en": "normally",
+          "zh": "通常"
+        },
+        {
+          "type": "w",
+          "en": "properly",
+          "zh": "适当地；正确地"
+        },
+        {
+          "type": "w",
+          "en": "correctly",
+          "zh": "正确地；得体地"
+        },
+        {
+          "type": "w",
+          "en": "successfully",
+          "zh": "成功地"
+        },
+        {
+          "type": "w",
+          "en": "smoothly",
+          "zh": "平整地；顺利地"
+        },
+        {
+          "type": "w",
+          "en": "gradually",
+          "zh": "逐步地"
+        },
+        {
+          "type": "w",
+          "en": "peacefully",
+          "zh": "平静地；和平地"
+        },
+        {
+          "type": "w",
+          "en": "wisely",
+          "zh": "明智地；聪明地"
+        },
+        {
+          "type": "w",
+          "en": "firmly",
+          "zh": "坚固地"
+        },
+        {
+          "type": "w",
+          "en": "freshly",
+          "zh": "刚刚"
+        },
+        {
+          "type": "w",
+          "en": "soundly",
+          "zh": "（睡觉）酣畅地"
+        },
+        {
+          "type": "w",
+          "en": "terribly",
+          "zh": "非常糟地；非常"
+        },
+        {
+          "type": "w",
+          "en": "madly",
+          "zh": "发狂地；无法控制地"
+        },
+        {
+          "type": "w",
+          "en": "indeed",
+          "zh": "真正地"
+        },
+        {
+          "type": "w",
+          "en": "however",
+          "zh": "然而；不过"
+        },
+        {
+          "type": "w",
+          "en": "moreover",
+          "zh": "此外"
+        },
+        {
+          "type": "w",
+          "en": "unfortunately",
+          "zh": "不幸地"
+        },
+        {
+          "type": "w",
+          "en": "hopefully",
+          "zh": "有希望地"
+        },
+        {
+          "type": "w",
+          "en": "one-to-one",
+          "zh": "一对一地"
+        },
+        {
+          "type": "w",
+          "en": "beforehand",
+          "zh": "事先；预先"
+        },
+        {
+          "type": "w",
+          "en": "either",
+          "zh": "（用于否定词组后）也"
+        },
+        {
+          "type": "w",
+          "en": "widely",
+          "zh": "广泛地；普遍地"
+        },
+        {
+          "type": "w",
+          "en": "hardly ever",
+          "zh": "几乎从不"
+        },
+        {
+          "type": "w",
+          "en": "completely",
+          "zh": "完全地"
+        },
+        {
+          "type": "w",
+          "en": "quietly",
+          "zh": "轻声地；安静地"
+        },
+        {
+          "type": "w",
+          "en": "possibly",
+          "zh": "可能；或许"
+        },
+        {
+          "type": "w",
+          "en": "badly",
+          "zh": "严重地；差；非常"
+        },
+        {
+          "type": "w",
+          "en": "simply",
+          "zh": "仅仅；只；简单地"
+        },
+        {
+          "type": "w",
+          "en": "exactly",
+          "zh": "正是如此；准确地"
+        },
+        {
+          "type": "w",
+          "en": "seriously",
+          "zh": "严重地；非常"
+        },
+        {
+          "type": "w",
+          "en": "probably",
+          "zh": "很可能；大概"
+        },
+        {
+          "type": "w",
+          "en": "fairly",
+          "zh": "相当地"
+        },
+        {
+          "type": "w",
+          "en": "totally",
+          "zh": "完全；全部地"
+        },
+        {
+          "type": "w",
+          "en": "brightly",
+          "zh": "明亮地"
+        },
+        {
+          "type": "w",
+          "en": "rapidly",
+          "zh": "快地；迅速地"
+        },
+        {
+          "type": "w",
+          "en": "certainly",
+          "zh": "肯定地"
+        },
+        {
+          "type": "w",
+          "en": "mainly",
+          "zh": "大部分；主要地"
+        },
+        {
+          "type": "w",
+          "en": "heavily",
+          "zh": "大量地；沉重地"
+        },
+        {
+          "type": "sec",
+          "text": "货币与单位"
+        },
+        {
+          "type": "w",
+          "en": "pound",
+          "zh": "磅（重量单位）；英镑（英国货币单位）"
+        },
+        {
+          "type": "w",
+          "en": "kilo",
+          "zh": "千克；公斤"
+        },
+        {
+          "type": "w",
+          "en": "kg",
+          "zh": "千克；公斤"
+        },
+        {
+          "type": "w",
+          "en": "square",
+          "zh": "（用于数字后表示面积）平方的"
+        },
+        {
+          "type": "w",
+          "en": "square metre",
+          "zh": "平方米"
+        },
+        {
+          "type": "w",
+          "en": "square kilometre",
+          "zh": "平方千米"
+        },
+        {
+          "type": "w",
+          "en": "acre",
+          "zh": "英亩"
+        },
+        {
+          "type": "w",
+          "en": "hectare",
+          "zh": "公顷"
+        },
+        {
+          "type": "w",
+          "en": "km",
+          "zh": "千米；公里"
+        }
+      ]
+    },
+    {
+      "day": 14,
+      "items": [
+        {
+          "type": "w",
+          "en": "mile",
+          "zh": "英里"
+        },
+        {
+          "type": "w",
+          "en": "m",
+          "zh": "米"
+        },
+        {
+          "type": "w",
+          "en": "cm",
+          "zh": "厘米"
+        },
+        {
+          "type": "w",
+          "en": "mm",
+          "zh": "毫米"
+        },
+        {
+          "type": "w",
+          "en": "foot",
+          "zh": "英尺"
+        },
+        {
+          "type": "w",
+          "en": "yard",
+          "zh": "码"
+        },
+        {
+          "type": "w",
+          "en": "inch",
+          "zh": "英寸"
+        },
+        {
+          "type": "w",
+          "en": "litre",
+          "zh": "升"
+        },
+        {
+          "type": "w",
+          "en": "millilitre",
+          "zh": "毫升；千分之一升"
+        },
+        {
+          "type": "w",
+          "en": "spoon",
+          "zh": "一勺的量"
+        },
+        {
+          "type": "w",
+          "en": "gram",
+          "zh": "克"
+        },
+        {
+          "type": "w",
+          "en": "depth",
+          "zh": "深（度）；纵深"
+        },
+        {
+          "type": "w",
+          "en": "measure",
+          "zh": "度量单位"
+        },
+        {
+          "type": "w",
+          "en": "degree",
+          "zh": "度；度数"
+        },
+        {
+          "type": "w",
+          "en": "unit",
+          "zh": "单位"
+        },
+        {
+          "type": "w",
+          "en": "coin",
+          "zh": "硬币"
+        },
+        {
+          "type": "w",
+          "en": "note",
+          "zh": "纸币"
+        },
+        {
+          "type": "w",
+          "en": "cent",
+          "zh": "分币"
+        },
+        {
+          "type": "w",
+          "en": "yuan",
+          "zh": "元（中国货币单位）"
+        },
+        {
+          "type": "w",
+          "en": "euro",
+          "zh": "欧元（欧盟中某些国家的货币单位）"
+        },
+        {
+          "type": "w",
+          "en": "dollar",
+          "zh": "元（美国、加拿大、澳大利亚等国的货币单位）"
+        },
+        {
+          "type": "w",
+          "en": "buck",
+          "zh": "（一）美元"
+        },
+        {
+          "type": "w",
+          "en": "franc",
+          "zh": "法郎（瑞士等国的货币单位）"
+        },
+        {
+          "type": "w",
+          "en": "penny",
+          "zh": "便士（英国的小硬币和货币单位）"
+        },
+        {
+          "type": "w",
+          "en": "ounce",
+          "zh": "盎司"
+        },
+        {
+          "type": "w",
+          "en": "pint",
+          "zh": "品脱"
+        },
+        {
+          "type": "w",
+          "en": "per",
+          "zh": "每"
+        },
+        {
+          "type": "w",
+          "en": "Celsius",
+          "zh": "摄氏度（°C）"
+        },
+        {
+          "type": "w",
+          "en": "Fahrenheit",
+          "zh": "华氏度（°F）"
+        },
+        {
+          "type": "sec",
+          "text": "其他短语"
+        },
+        {
+          "type": "w",
+          "en": "a dream comes true",
+          "zh": "梦想成真"
+        },
+        {
+          "type": "w",
+          "en": "according to",
+          "zh": "根据；依照"
+        },
+        {
+          "type": "w",
+          "en": "be efficient in",
+          "zh": "在……方面高效"
+        },
+        {
+          "type": "w",
+          "en": "be popular with",
+          "zh": "深受……的喜欢"
+        },
+        {
+          "type": "w",
+          "en": "be unaware of",
+          "zh": "没意识到……"
+        },
+        {
+          "type": "w",
+          "en": "be weak in",
+          "zh": "在……差"
+        },
+        {
+          "type": "w",
+          "en": "be well-known for",
+          "zh": "因……而闻名"
+        },
+        {
+          "type": "w",
+          "en": "begin / start with",
+          "zh": "以……开始"
+        },
+        {
+          "type": "w",
+          "en": "break off",
+          "zh": "突然终止"
+        },
+        {
+          "type": "w",
+          "en": "catch fire",
+          "zh": "着火"
+        },
+        {
+          "type": "w",
+          "en": "climate change",
+          "zh": "气候变化"
+        },
+        {
+          "type": "w",
+          "en": "come across",
+          "zh": "（偶然）遇见；发现"
+        },
+        {
+          "type": "w",
+          "en": "come round",
+          "zh": "短暂访问（尤指某人的家）"
+        },
+        {
+          "type": "w",
+          "en": "concentrate on",
+          "zh": "集中时间做某事"
+        },
+        {
+          "type": "w",
+          "en": "count down",
+          "zh": "倒计时"
+        },
+        {
+          "type": "w",
+          "en": "get in the way of",
+          "zh": "挡……的路；妨碍"
+        },
+        {
+          "type": "w",
+          "en": "go against",
+          "zh": "违反"
+        },
+        {
+          "type": "w",
+          "en": "get rid of",
+          "zh": "丢弃；摆脱"
+        },
+        {
+          "type": "w",
+          "en": "get to one's feet",
+          "zh": "站起身来"
+        },
+        {
+          "type": "w",
+          "en": "get up",
+          "zh": "起床；站起"
+        },
+        {
+          "type": "w",
+          "en": "give a helping hand",
+          "zh": "帮助；伸出援助之手"
+        },
+        {
+          "type": "w",
+          "en": "give away",
+          "zh": "赠送；分发"
+        },
+        {
+          "type": "w",
+          "en": "give it a go",
+          "zh": "试一试某事"
+        },
+        {
+          "type": "w",
+          "en": "go to bed",
+          "zh": "上床睡觉"
+        },
+        {
+          "type": "w",
+          "en": "good at",
+          "zh": "擅长"
+        },
+        {
+          "type": "w",
+          "en": "good luck",
+          "zh": "祝成功，祝好运"
+        },
+        {
+          "type": "w",
+          "en": "graduation ceremony",
+          "zh": "毕业典礼"
+        },
+        {
+          "type": "w",
+          "en": "hand out",
+          "zh": "分发"
+        },
+        {
+          "type": "w",
+          "en": "have a point",
+          "zh": "有道理"
+        },
+        {
+          "type": "w",
+          "en": "have sth in common",
+          "zh": "有共同之处"
+        },
+        {
+          "type": "w",
+          "en": "head teacher",
+          "zh": "校长"
+        },
+        {
+          "type": "w",
+          "en": "hear from",
+          "zh": "得到……消息"
+        },
+        {
+          "type": "w",
+          "en": "in a word",
+          "zh": "简言之；总之"
+        },
+        {
+          "type": "w",
+          "en": "in detail",
+          "zh": "详细地"
+        },
+        {
+          "type": "w",
+          "en": "in reply",
+          "zh": "答复"
+        },
+        {
+          "type": "w",
+          "en": "in short",
+          "zh": "总之；简言之"
+        },
+        {
+          "type": "w",
+          "en": "in agreement",
+          "zh": "看法一致；同意"
+        },
+        {
+          "type": "w",
+          "en": "in danger",
+          "zh": "处于危险之中"
+        },
+        {
+          "type": "w",
+          "en": "in fact",
+          "zh": "实际上"
+        },
+        {
+          "type": "w",
+          "en": "in general",
+          "zh": "通常"
+        },
+        {
+          "type": "w",
+          "en": "in person",
+          "zh": "亲自；亲身"
+        },
+        {
+          "type": "w",
+          "en": "in that case",
+          "zh": "既然那样；假使那样的话"
+        },
+        {
+          "type": "w",
+          "en": "instead of",
+          "zh": "而不是；代替"
+        },
+        {
+          "type": "w",
+          "en": "keep ... off",
+          "zh": "使不碰到；使避开"
+        },
+        {
+          "type": "w",
+          "en": "knock around",
+          "zh": "漫游"
+        },
+        {
+          "type": "w",
+          "en": "keep (...) away from ...",
+          "zh": "（使）远离；避免……靠近"
+        }
+      ]
+    },
+    {
+      "day": 15,
+      "items": [
+        {
+          "type": "w",
+          "en": "keep on doing sth",
+          "zh": "继续做；反复做"
+        },
+        {
+          "type": "w",
+          "en": "keep one's cool",
+          "zh": "沉住气；保持冷静"
+        },
+        {
+          "type": "w",
+          "en": "kick sb off",
+          "zh": "开除某人"
+        },
+        {
+          "type": "w",
+          "en": "last but not least",
+          "zh": "最后但同等重要的"
+        },
+        {
+          "type": "w",
+          "en": "lead to",
+          "zh": "导致"
+        },
+        {
+          "type": "w",
+          "en": "leave out",
+          "zh": "忽略；不提及；不包括"
+        },
+        {
+          "type": "w",
+          "en": "leisure time",
+          "zh": "空闲时间"
+        },
+        {
+          "type": "w",
+          "en": "little by little",
+          "zh": "缓慢地；逐渐地"
+        },
+        {
+          "type": "w",
+          "en": "lock up",
+          "zh": "锁好（建筑物的）门"
+        },
+        {
+          "type": "w",
+          "en": "make a contribution to",
+          "zh": "为……做贡献"
+        },
+        {
+          "type": "w",
+          "en": "make room for",
+          "zh": "为……腾地方"
+        },
+        {
+          "type": "w",
+          "en": "move on (to sth)",
+          "zh": "换话题；开始做（别的事）"
+        },
+        {
+          "type": "w",
+          "en": "made of",
+          "zh": "由……制成的"
+        },
+        {
+          "type": "w",
+          "en": "make a list",
+          "zh": "列清单"
+        },
+        {
+          "type": "w",
+          "en": "make a mess",
+          "zh": "弄得一团糟（一塌糊涂）"
+        },
+        {
+          "type": "w",
+          "en": "make a wish",
+          "zh": "许愿"
+        },
+        {
+          "type": "w",
+          "en": "make one's own decision",
+          "zh": "自己做决定"
+        },
+        {
+          "type": "w",
+          "en": "make sb's / the bed",
+          "zh": "整理床铺；铺床"
+        },
+        {
+          "type": "w",
+          "en": "make up one's mind",
+          "zh": "决定"
+        },
+        {
+          "type": "w",
+          "en": "make use of",
+          "zh": "使用……；利用……"
+        },
+        {
+          "type": "w",
+          "en": "mix up",
+          "zh": "弄错；弄乱"
+        },
+        {
+          "type": "w",
+          "en": "music teacher",
+          "zh": "音乐老师"
+        },
+        {
+          "type": "w",
+          "en": "no matter",
+          "zh": "不论；不要紧"
+        },
+        {
+          "type": "w",
+          "en": "nothing but",
+          "zh": "只有；只是"
+        },
+        {
+          "type": "w",
+          "en": "office worker",
+          "zh": "公司职员"
+        },
+        {
+          "type": "w",
+          "en": "on business",
+          "zh": "出差"
+        },
+        {
+          "type": "w",
+          "en": "on fire",
+          "zh": "着火；起火"
+        },
+        {
+          "type": "w",
+          "en": "put one's heart into",
+          "zh": "全身心投入"
+        },
+        {
+          "type": "w",
+          "en": "pardon me",
+          "zh": "抱歉，对不起；什么，请再说一遍"
+        },
+        {
+          "type": "w",
+          "en": "parking lot",
+          "zh": "停车场；停车区"
+        },
+        {
+          "type": "w",
+          "en": "pick up",
+          "zh": "拿起；举起"
+        },
+        {
+          "type": "w",
+          "en": "play a role (in)",
+          "zh": "在……中发挥作用；扮演角色"
+        },
+        {
+          "type": "w",
+          "en": "police office",
+          "zh": "警察局"
+        },
+        {
+          "type": "w",
+          "en": "police officer",
+          "zh": "警察"
+        },
+        {
+          "type": "w",
+          "en": "post office",
+          "zh": "邮局"
+        },
+        {
+          "type": "w",
+          "en": "prepare sth for",
+          "zh": "为……把某物准备好"
+        },
+        {
+          "type": "w",
+          "en": "prime minister",
+          "zh": "首相；总理"
+        },
+        {
+          "type": "w",
+          "en": "put on",
+          "zh": "增加；穿上"
+        },
+        {
+          "type": "w",
+          "en": "put out",
+          "zh": "扑灭；把……摆好"
+        },
+        {
+          "type": "w",
+          "en": "put sth back",
+          "zh": "将……放回"
+        },
+        {
+          "type": "w",
+          "en": "put up",
+          "zh": "张贴；搭建"
+        },
+        {
+          "type": "w",
+          "en": "... per cent of ...",
+          "zh": "……的百分之……"
+        },
+        {
+          "type": "w",
+          "en": "reduce by half",
+          "zh": "减少一半"
+        },
+        {
+          "type": "w",
+          "en": "regular budget",
+          "zh": "常规预算"
+        },
+        {
+          "type": "w",
+          "en": "remind of",
+          "zh": "使想起（类似的人、地方、事物等）"
+        },
+        {
+          "type": "w",
+          "en": "say to oneself",
+          "zh": "自言自语"
+        },
+        {
+          "type": "w",
+          "en": "shut sb / sth away",
+          "zh": "把……关（藏）起来"
+        },
+        {
+          "type": "w",
+          "en": "sign language",
+          "zh": "手势语"
+        },
+        {
+          "type": "w",
+          "en": "sink or swim",
+          "zh": "不自救，必沉沦"
+        },
+        {
+          "type": "w",
+          "en": "stick to sth",
+          "zh": "坚持；维持"
+        },
+        {
+          "type": "w",
+          "en": "science museum",
+          "zh": "科学博物馆"
+        },
+        {
+          "type": "w",
+          "en": "set ... free",
+          "zh": "释放"
+        },
+        {
+          "type": "w",
+          "en": "show sb around",
+          "zh": "领某人参观"
+        },
+        {
+          "type": "w",
+          "en": "show up",
+          "zh": "赶到；露面"
+        },
+        {
+          "type": "w",
+          "en": "similar to",
+          "zh": "类似的；相像的"
+        },
+        {
+          "type": "w",
+          "en": "sit up",
+          "zh": "坐直"
+        },
+        {
+          "type": "w",
+          "en": "stay in",
+          "zh": "待在家里；没有外出"
+        },
+        {
+          "type": "w",
+          "en": "stop ... from doing",
+          "zh": "防止……；阻止……"
+        },
+        {
+          "type": "w",
+          "en": "such as",
+          "zh": "例如"
+        },
+        {
+          "type": "w",
+          "en": "suffer from",
+          "zh": "受苦；受折磨"
+        },
+        {
+          "type": "w",
+          "en": "take a break",
+          "zh": "休息一会儿"
+        },
+        {
+          "type": "w",
+          "en": "take a photo",
+          "zh": "拍照"
+        },
+        {
+          "type": "w",
+          "en": "take a shower",
+          "zh": "淋浴"
+        },
+        {
+          "type": "w",
+          "en": "take notice of",
+          "zh": "注意"
+        },
+        {
+          "type": "w",
+          "en": "take over",
+          "zh": "接替；接管；接收"
+        },
+        {
+          "type": "w",
+          "en": "take photos",
+          "zh": "拍照"
+        },
+        {
+          "type": "w",
+          "en": "take place",
+          "zh": "发生"
+        },
+        {
+          "type": "w",
+          "en": "take up",
+          "zh": "占用（时间）；占据（空间）"
+        },
+        {
+          "type": "w",
+          "en": "the food chain",
+          "zh": "食物链"
+        },
+        {
+          "type": "w",
+          "en": "to be honest",
+          "zh": "老实说"
+        },
+        {
+          "type": "w",
+          "en": "traffic lights",
+          "zh": "交通信号灯"
+        },
+        {
+          "type": "w",
+          "en": "try one's best",
+          "zh": "尽最大努力"
+        },
+        {
+          "type": "w",
+          "en": "try out",
+          "zh": "试用；试验"
+        },
+        {
+          "type": "w",
+          "en": "turn off",
+          "zh": "关掉（水、电或煤气）"
+        },
+        {
+          "type": "w",
+          "en": "upside down",
+          "zh": "上下颠倒；倒转"
+        },
+        {
+          "type": "w",
+          "en": "used to",
+          "zh": "过去常常（做）"
+        },
+        {
+          "type": "w",
+          "en": "win the heart of sb",
+          "zh": "赢得某人的心"
+        },
+        {
+          "type": "w",
+          "en": "with one's help",
+          "zh": "在某人帮助下"
+        },
+        {
+          "type": "w",
+          "en": "warm up",
+          "zh": "（使）活跃起来；热身；预热"
+        },
+        {
+          "type": "w",
+          "en": "without doubt",
+          "zh": "毫无疑问；的确"
+        },
+        {
+          "type": "w",
+          "en": "word by word",
+          "zh": "逐字地"
+        },
+        {
+          "type": "w",
+          "en": "work on",
+          "zh": "做；从事"
+        },
+        {
+          "type": "w",
+          "en": "would rather",
+          "zh": "宁愿"
+        }
+      ]
+    }
+  ]
+}

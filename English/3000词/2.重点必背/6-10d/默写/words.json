@@ -1,0 +1,1702 @@
+{
+  "title": "15天背完初中3500词 · 重点必背",
+  "days": [
+    {
+      "day": 6,
+      "items": [
+        {
+          "type": "w",
+          "en": "dust",
+          "zh": "沙土；尘土"
+        },
+        {
+          "type": "w",
+          "en": "risky",
+          "zh": "有危险（或风险）的"
+        },
+        {
+          "type": "w",
+          "en": "coast",
+          "zh": "海岸；海滨"
+        },
+        {
+          "type": "w",
+          "en": "recycle",
+          "zh": "回收利用；再利用"
+        },
+        {
+          "type": "w",
+          "en": "oxygen",
+          "zh": "氧"
+        },
+        {
+          "type": "w",
+          "en": "sunbathe",
+          "zh": "沐日光浴；晒太阳"
+        },
+        {
+          "type": "w",
+          "en": "located",
+          "zh": "位于；坐落在"
+        },
+        {
+          "type": "w",
+          "en": "polluted",
+          "zh": "被污染的"
+        },
+        {
+          "type": "w",
+          "en": "agriculture",
+          "zh": "农业"
+        },
+        {
+          "type": "w",
+          "en": "wetland",
+          "zh": "湿地"
+        },
+        {
+          "type": "w",
+          "en": "freshwater",
+          "zh": "淡水的"
+        },
+        {
+          "type": "w",
+          "en": "rainforest",
+          "zh": "雨林"
+        },
+        {
+          "type": "w",
+          "en": "recycling",
+          "zh": "回收利用"
+        },
+        {
+          "type": "w",
+          "en": "ecosystem",
+          "zh": "生态系统"
+        },
+        {
+          "type": "w",
+          "en": "advantage",
+          "zh": "优点"
+        },
+        {
+          "type": "w",
+          "en": "disadvantage",
+          "zh": "不利因素"
+        },
+        {
+          "type": "w",
+          "en": "environment",
+          "zh": "自然环境"
+        },
+        {
+          "type": "w",
+          "en": "geographical",
+          "zh": "地理的"
+        },
+        {
+          "type": "w",
+          "en": "nature reserve",
+          "zh": "自然保护区"
+        },
+        {
+          "type": "sec",
+          "text": "情感态度"
+        },
+        {
+          "type": "w",
+          "en": "cross",
+          "zh": "生气的"
+        },
+        {
+          "type": "w",
+          "en": "warmth",
+          "zh": "热情"
+        },
+        {
+          "type": "w",
+          "en": "cheerful",
+          "zh": "快乐的；高兴的"
+        },
+        {
+          "type": "w",
+          "en": "confused",
+          "zh": "困惑的"
+        },
+        {
+          "type": "w",
+          "en": "confusing",
+          "zh": "令人困惑的"
+        },
+        {
+          "type": "w",
+          "en": "stressed",
+          "zh": "焦虑不安；心力交瘁"
+        },
+        {
+          "type": "w",
+          "en": "painful",
+          "zh": "令人痛苦的"
+        },
+        {
+          "type": "w",
+          "en": "happily",
+          "zh": "快乐地；高兴地"
+        },
+        {
+          "type": "w",
+          "en": "nervously",
+          "zh": "紧张不安地"
+        },
+        {
+          "type": "w",
+          "en": "thankfully",
+          "zh": "感激地"
+        },
+        {
+          "type": "w",
+          "en": "enjoyable",
+          "zh": "令人愉快的"
+        },
+        {
+          "type": "w",
+          "en": "relaxing",
+          "zh": "令人放松的"
+        },
+        {
+          "type": "w",
+          "en": "touching",
+          "zh": "感人的；动人的"
+        },
+        {
+          "type": "w",
+          "en": "unexpected",
+          "zh": "出乎意料的"
+        },
+        {
+          "type": "w",
+          "en": "emotional",
+          "zh": "情感的；情绪的"
+        },
+        {
+          "type": "w",
+          "en": "satisfying",
+          "zh": "令人满意（或满足）的"
+        },
+        {
+          "type": "w",
+          "en": "fantastic",
+          "zh": "极好的"
+        },
+        {
+          "type": "w",
+          "en": "embarrassed",
+          "zh": "窘迫的；害羞的"
+        },
+        {
+          "type": "w",
+          "en": "embarrassing",
+          "zh": "使人害羞的"
+        },
+        {
+          "type": "w",
+          "en": "disappointed",
+          "zh": "失望的"
+        },
+        {
+          "type": "w",
+          "en": "surprisingly",
+          "zh": "出人意料地"
+        },
+        {
+          "type": "w",
+          "en": "get mad",
+          "zh": "大动肝火；气愤"
+        },
+        {
+          "type": "w",
+          "en": "scared of",
+          "zh": "害怕；恐惧"
+        },
+        {
+          "type": "w",
+          "en": "enjoy oneself",
+          "zh": "玩得痛快；得到乐趣"
+        },
+        {
+          "type": "w",
+          "en": "in fear",
+          "zh": "恐惧地；害怕地"
+        },
+        {
+          "type": "w",
+          "en": "in silence",
+          "zh": "安静地；沉默地"
+        },
+        {
+          "type": "w",
+          "en": "let down",
+          "zh": "使失望"
+        },
+        {
+          "type": "w",
+          "en": "be interested in",
+          "zh": "对……感兴趣"
+        },
+        {
+          "type": "w",
+          "en": "look forward to",
+          "zh": "盼望"
+        },
+        {
+          "type": "w",
+          "en": "be proud of",
+          "zh": "为……感到骄傲"
+        },
+        {
+          "type": "w",
+          "en": "be tired of",
+          "zh": "对……感到厌倦"
+        },
+        {
+          "type": "w",
+          "en": "to sb's surprise",
+          "zh": "出乎某人的意料"
+        },
+        {
+          "type": "w",
+          "en": "greatness",
+          "zh": "伟大"
+        },
+        {
+          "type": "w",
+          "en": "darkness",
+          "zh": "黑暗"
+        },
+        {
+          "type": "w",
+          "en": "weakness",
+          "zh": "虚弱；衰弱"
+        },
+        {
+          "type": "w",
+          "en": "brightness",
+          "zh": "亮度"
+        },
+        {
+          "type": "w",
+          "en": "happiness",
+          "zh": "快乐；高兴"
+        },
+        {
+          "type": "w",
+          "en": "sadness",
+          "zh": "悲伤；悲痛"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "items": [
+        {
+          "type": "w",
+          "en": "take pride in",
+          "zh": "为……感到自豪"
+        },
+        {
+          "type": "w",
+          "en": "worry about",
+          "zh": "为……担心"
+        },
+        {
+          "type": "w",
+          "en": "be worried about",
+          "zh": "担心"
+        },
+        {
+          "type": "w",
+          "en": "show interest in sth",
+          "zh": "对……表现出兴趣"
+        },
+        {
+          "type": "w",
+          "en": "be surprised at",
+          "zh": "对……感到惊奇"
+        },
+        {
+          "type": "w",
+          "en": "cheer up",
+          "zh": "（使）变得更高兴"
+        },
+        {
+          "type": "w",
+          "en": "be crazy about",
+          "zh": "热衷于"
+        },
+        {
+          "type": "w",
+          "en": "feel awful",
+          "zh": "感觉很糟糕"
+        },
+        {
+          "type": "w",
+          "en": "be thirsty for",
+          "zh": "渴望；渴求"
+        },
+        {
+          "type": "w",
+          "en": "be thankful to sb",
+          "zh": "对某人心存感激"
+        },
+        {
+          "type": "w",
+          "en": "ready to do sth",
+          "zh": "愿意做（某事）"
+        },
+        {
+          "type": "w",
+          "en": "look up to",
+          "zh": "钦佩；仰慕"
+        },
+        {
+          "type": "w",
+          "en": "be angry with sb",
+          "zh": "生某人的气"
+        },
+        {
+          "type": "sec",
+          "text": "心理活动"
+        },
+        {
+          "type": "w",
+          "en": "lie",
+          "zh": "说谎"
+        },
+        {
+          "type": "w",
+          "en": "hit",
+          "zh": "使突然想起"
+        },
+        {
+          "type": "w",
+          "en": "miss",
+          "zh": "想念"
+        },
+        {
+          "type": "w",
+          "en": "trust",
+          "zh": "信任；信赖"
+        },
+        {
+          "type": "w",
+          "en": "sense",
+          "zh": "感觉到；意识到"
+        },
+        {
+          "type": "w",
+          "en": "envy",
+          "zh": "羡慕；忌妒"
+        },
+        {
+          "type": "w",
+          "en": "guess",
+          "zh": "猜测；估计"
+        },
+        {
+          "type": "w",
+          "en": "touch",
+          "zh": "感动；触动"
+        },
+        {
+          "type": "w",
+          "en": "wonder",
+          "zh": "想知道"
+        },
+        {
+          "type": "w",
+          "en": "forget",
+          "zh": "忘记；遗忘"
+        },
+        {
+          "type": "w",
+          "en": "unforgettable",
+          "zh": "难以忘怀的"
+        },
+        {
+          "type": "w",
+          "en": "recall",
+          "zh": "回忆起；回想起"
+        },
+        {
+          "type": "w",
+          "en": "aware",
+          "zh": "知道；意识到"
+        },
+        {
+          "type": "w",
+          "en": "urgent",
+          "zh": "紧急的；紧迫的"
+        },
+        {
+          "type": "w",
+          "en": "intend",
+          "zh": "打算；计划"
+        },
+        {
+          "type": "w",
+          "en": "expect",
+          "zh": "预料；预计"
+        },
+        {
+          "type": "w",
+          "en": "compare",
+          "zh": "比较；对比"
+        },
+        {
+          "type": "w",
+          "en": "require",
+          "zh": "需要"
+        },
+        {
+          "type": "w",
+          "en": "satisfy",
+          "zh": "满足；使满意"
+        },
+        {
+          "type": "w",
+          "en": "remind",
+          "zh": "提醒；使想起"
+        },
+        {
+          "type": "w",
+          "en": "give up",
+          "zh": "放弃"
+        },
+        {
+          "type": "w",
+          "en": "show off",
+          "zh": "炫耀"
+        },
+        {
+          "type": "w",
+          "en": "think about",
+          "zh": "思考；考虑"
+        },
+        {
+          "type": "w",
+          "en": "look back at",
+          "zh": "回首（往事）；回忆；回顾"
+        },
+        {
+          "type": "w",
+          "en": "compare ... with ...",
+          "zh": "比较……与……"
+        },
+        {
+          "type": "sec",
+          "text": "医疗"
+        },
+        {
+          "type": "w",
+          "en": "aid",
+          "zh": "帮助；援助"
+        },
+        {
+          "type": "w",
+          "en": "flu",
+          "zh": "流行性感冒"
+        },
+        {
+          "type": "w",
+          "en": "ill",
+          "zh": "生病的"
+        },
+        {
+          "type": "w",
+          "en": "mask",
+          "zh": "口罩"
+        },
+        {
+          "type": "w",
+          "en": "case",
+          "zh": "病例；病案"
+        },
+        {
+          "type": "w",
+          "en": "blood",
+          "zh": "血"
+        },
+        {
+          "type": "w",
+          "en": "breath",
+          "zh": "呼吸的空气；一口气"
+        },
+        {
+          "type": "w",
+          "en": "stress",
+          "zh": "精神压力；紧张"
+        },
+        {
+          "type": "w",
+          "en": "guide",
+          "zh": "指南"
+        },
+        {
+          "type": "w",
+          "en": "dying",
+          "zh": "垂死的"
+        },
+        {
+          "type": "w",
+          "en": "unable",
+          "zh": "未能；无法"
+        },
+        {
+          "type": "w",
+          "en": "benefit",
+          "zh": "对……有用"
+        },
+        {
+          "type": "w",
+          "en": "system",
+          "zh": "系统；体系"
+        },
+        {
+          "type": "w",
+          "en": "rescue",
+          "zh": "救援"
+        },
+        {
+          "type": "w",
+          "en": "survive",
+          "zh": "生存；存活"
+        },
+        {
+          "type": "w",
+          "en": "unhealthy",
+          "zh": "不健康的"
+        },
+        {
+          "type": "w",
+          "en": "balance",
+          "zh": "平衡能力"
+        },
+        {
+          "type": "w",
+          "en": "pressure",
+          "zh": "压力"
+        },
+        {
+          "type": "w",
+          "en": "wounded",
+          "zh": "受伤的"
+        },
+        {
+          "type": "w",
+          "en": "medical",
+          "zh": "医疗的"
+        },
+        {
+          "type": "w",
+          "en": "backache",
+          "zh": "背痛；腰痛"
+        },
+        {
+          "type": "w",
+          "en": "fever",
+          "zh": "发烧；发热"
+        },
+        {
+          "type": "w",
+          "en": "headache",
+          "zh": "头痛"
+        },
+        {
+          "type": "w",
+          "en": "toothache",
+          "zh": "牙痛"
+        },
+        {
+          "type": "w",
+          "en": "disease",
+          "zh": "病；疾病"
+        },
+        {
+          "type": "w",
+          "en": "stomachache",
+          "zh": "胃痛；肚子疼"
+        },
+        {
+          "type": "w",
+          "en": "illness",
+          "zh": "疾病"
+        },
+        {
+          "type": "w",
+          "en": "ache",
+          "zh": "疼痛"
+        },
+        {
+          "type": "w",
+          "en": "tight",
+          "zh": "疼痛的"
+        },
+        {
+          "type": "w",
+          "en": "burn",
+          "zh": "烫伤，烧伤"
+        },
+        {
+          "type": "w",
+          "en": "sick",
+          "zh": "恶心的；生病的"
+        },
+        {
+          "type": "w",
+          "en": "sore",
+          "zh": "疼痛的；酸痛的"
+        }
+      ]
+    },
+    {
+      "day": 8,
+      "items": [
+        {
+          "type": "w",
+          "en": "necessary",
+          "zh": "必要的"
+        },
+        {
+          "type": "w",
+          "en": "examine",
+          "zh": "（仔细地）检查"
+        },
+        {
+          "type": "w",
+          "en": "medicine",
+          "zh": "药；医学"
+        },
+        {
+          "type": "w",
+          "en": "ambulance",
+          "zh": "救护车"
+        },
+        {
+          "type": "w",
+          "en": "go to hospital",
+          "zh": "去看病"
+        },
+        {
+          "type": "w",
+          "en": "take a deep breath",
+          "zh": "深呼吸"
+        },
+        {
+          "type": "sec",
+          "text": "社会生活"
+        },
+        {
+          "type": "w",
+          "en": "bet",
+          "zh": "用……打赌；下赌注"
+        },
+        {
+          "type": "w",
+          "en": "law",
+          "zh": "法律；法规"
+        },
+        {
+          "type": "w",
+          "en": "war",
+          "zh": "战争"
+        },
+        {
+          "type": "w",
+          "en": "cause",
+          "zh": "造成；导致"
+        },
+        {
+          "type": "w",
+          "en": "fact",
+          "zh": "事实；真相"
+        },
+        {
+          "type": "w",
+          "en": "fame",
+          "zh": "名声；声誉"
+        },
+        {
+          "type": "w",
+          "en": "rule",
+          "zh": "规则"
+        },
+        {
+          "type": "w",
+          "en": "sale",
+          "zh": "出售；销售"
+        },
+        {
+          "type": "w",
+          "en": "harm",
+          "zh": "伤害；损害"
+        },
+        {
+          "type": "w",
+          "en": "link",
+          "zh": "联系；连接"
+        },
+        {
+          "type": "w",
+          "en": "true",
+          "zh": "符合事实的"
+        },
+        {
+          "type": "w",
+          "en": "case",
+          "zh": "情况；实情"
+        },
+        {
+          "type": "w",
+          "en": "right",
+          "zh": "权利"
+        },
+        {
+          "type": "w",
+          "en": "trap",
+          "zh": "吸收；使落入险境"
+        },
+        {
+          "type": "w",
+          "en": "obey",
+          "zh": "遵守；顺从"
+        },
+        {
+          "type": "w",
+          "en": "goods",
+          "zh": "商品；货品"
+        },
+        {
+          "type": "w",
+          "en": "local",
+          "zh": "当地的；本地的"
+        },
+        {
+          "type": "w",
+          "en": "power",
+          "zh": "能力；权力"
+        },
+        {
+          "type": "w",
+          "en": "crime",
+          "zh": "犯罪活动；罪行"
+        },
+        {
+          "type": "w",
+          "en": "steal",
+          "zh": "偷；窃取"
+        },
+        {
+          "type": "w",
+          "en": "theft",
+          "zh": "偷窃"
+        },
+        {
+          "type": "w",
+          "en": "cheat",
+          "zh": "欺骗"
+        },
+        {
+          "type": "w",
+          "en": "force",
+          "zh": "强迫；迫使"
+        },
+        {
+          "type": "w",
+          "en": "avoid",
+          "zh": "避免；防止"
+        },
+        {
+          "type": "w",
+          "en": "event",
+          "zh": "公开活动"
+        },
+        {
+          "type": "w",
+          "en": "peace",
+          "zh": "和平；太平"
+        },
+        {
+          "type": "w",
+          "en": "waste",
+          "zh": "浪费；滥用"
+        },
+        {
+          "type": "w",
+          "en": "escape",
+          "zh": "逃跑，逃走"
+        },
+        {
+          "type": "w",
+          "en": "arrest",
+          "zh": "逮捕"
+        },
+        {
+          "type": "w",
+          "en": "charge",
+          "zh": "指控；控告"
+        },
+        {
+          "type": "w",
+          "en": "confirm",
+          "zh": "证实，确认"
+        },
+        {
+          "type": "w",
+          "en": "develop",
+          "zh": "发展；加强"
+        },
+        {
+          "type": "w",
+          "en": "donation",
+          "zh": "捐赠物"
+        },
+        {
+          "type": "w",
+          "en": "network",
+          "zh": "网络"
+        },
+        {
+          "type": "w",
+          "en": "policy",
+          "zh": "政策；方针"
+        },
+        {
+          "type": "w",
+          "en": "prove",
+          "zh": "证明；证实；显示是"
+        },
+        {
+          "type": "w",
+          "en": "public",
+          "zh": "民众"
+        },
+        {
+          "type": "w",
+          "en": "public",
+          "zh": "公开的"
+        },
+        {
+          "type": "w",
+          "en": "reflect",
+          "zh": "反映；映出"
+        },
+        {
+          "type": "w",
+          "en": "devote",
+          "zh": "把……奉献（给）"
+        },
+        {
+          "type": "w",
+          "en": "routine",
+          "zh": "常规"
+        },
+        {
+          "type": "w",
+          "en": "service",
+          "zh": "服务"
+        },
+        {
+          "type": "w",
+          "en": "finding",
+          "zh": "调查发现"
+        },
+        {
+          "type": "w",
+          "en": "method",
+          "zh": "方法；措施"
+        },
+        {
+          "type": "w",
+          "en": "manner",
+          "zh": "方式；方法"
+        },
+        {
+          "type": "w",
+          "en": "supply",
+          "zh": "供应（量）"
+        },
+        {
+          "type": "w",
+          "en": "supply",
+          "zh": "供应"
+        },
+        {
+          "type": "w",
+          "en": "wealth",
+          "zh": "财富"
+        },
+        {
+          "type": "w",
+          "en": "background",
+          "zh": "背景"
+        },
+        {
+          "type": "w",
+          "en": "society",
+          "zh": "社会"
+        },
+        {
+          "type": "w",
+          "en": "witness",
+          "zh": "目击者；证人"
+        },
+        {
+          "type": "w",
+          "en": "government",
+          "zh": "政府"
+        },
+        {
+          "type": "w",
+          "en": "opportunity",
+          "zh": "机会；时机"
+        },
+        {
+          "type": "w",
+          "en": "special offer",
+          "zh": "特价商品"
+        },
+        {
+          "type": "w",
+          "en": "run away",
+          "zh": "逃离"
+        },
+        {
+          "type": "sec",
+          "text": "交通"
+        },
+        {
+          "type": "w",
+          "en": "drive",
+          "zh": "驾驶"
+        },
+        {
+          "type": "w",
+          "en": "park",
+          "zh": "停（车）"
+        },
+        {
+          "type": "w",
+          "en": "sign",
+          "zh": "标志"
+        },
+        {
+          "type": "w",
+          "en": "cable car",
+          "zh": "缆车"
+        },
+        {
+          "type": "w",
+          "en": "flight",
+          "zh": "航班；飞机"
+        },
+        {
+          "type": "w",
+          "en": "vessel",
+          "zh": "大船"
+        },
+        {
+          "type": "w",
+          "en": "truck",
+          "zh": "卡车；货车"
+        },
+        {
+          "type": "w",
+          "en": "coach",
+          "zh": "长途汽车"
+        },
+        {
+          "type": "w",
+          "en": "traffic",
+          "zh": "交通"
+        },
+        {
+          "type": "w",
+          "en": "metro",
+          "zh": "地下铁道系统"
+        },
+        {
+          "type": "w",
+          "en": "trailer",
+          "zh": "拖车；挂车"
+        },
+        {
+          "type": "w",
+          "en": "subway",
+          "zh": "地铁"
+        },
+        {
+          "type": "w",
+          "en": "minibus",
+          "zh": "小型公共汽车"
+        }
+      ]
+    },
+    {
+      "day": 9,
+      "items": [
+        {
+          "type": "w",
+          "en": "sail",
+          "zh": "乘船航行"
+        },
+        {
+          "type": "w",
+          "en": "land",
+          "zh": "着陆；降落"
+        },
+        {
+          "type": "w",
+          "en": "fine",
+          "zh": "对……处以罚款"
+        },
+        {
+          "type": "w",
+          "en": "quick",
+          "zh": "快的；迅速的"
+        },
+        {
+          "type": "w",
+          "en": "warn",
+          "zh": "警告；告诫"
+        },
+        {
+          "type": "w",
+          "en": "warning",
+          "zh": "警告，警示"
+        },
+        {
+          "type": "w",
+          "en": "punish",
+          "zh": "处罚；惩罚"
+        },
+        {
+          "type": "w",
+          "en": "passenger",
+          "zh": "乘客"
+        },
+        {
+          "type": "w",
+          "en": "high-speed",
+          "zh": "高速的"
+        },
+        {
+          "type": "w",
+          "en": "underground",
+          "zh": "地下的"
+        },
+        {
+          "type": "w",
+          "en": "transport",
+          "zh": "交通运输系统；交通"
+        },
+        {
+          "type": "w",
+          "en": "transportation",
+          "zh": "运输业；交通运输"
+        },
+        {
+          "type": "w",
+          "en": "set off",
+          "zh": "出发；动身"
+        },
+        {
+          "type": "w",
+          "en": "go off",
+          "zh": "离开"
+        },
+        {
+          "type": "w",
+          "en": "go through",
+          "zh": "穿过"
+        },
+        {
+          "type": "w",
+          "en": "set out",
+          "zh": "出发；启程"
+        },
+        {
+          "type": "w",
+          "en": "drop off",
+          "zh": "（开车）把某人送到某处"
+        },
+        {
+          "type": "w",
+          "en": "rush hour",
+          "zh": "（上下班时的）交通高峰期"
+        },
+        {
+          "type": "sec",
+          "text": "经济"
+        },
+        {
+          "type": "w",
+          "en": "tax",
+          "zh": "税"
+        },
+        {
+          "type": "w",
+          "en": "cash",
+          "zh": "现金；金钱"
+        },
+        {
+          "type": "w",
+          "en": "share",
+          "zh": "股份"
+        },
+        {
+          "type": "w",
+          "en": "item",
+          "zh": "项目"
+        },
+        {
+          "type": "w",
+          "en": "trade",
+          "zh": "贸易"
+        },
+        {
+          "type": "w",
+          "en": "trade",
+          "zh": "做买卖"
+        },
+        {
+          "type": "w",
+          "en": "cost",
+          "zh": "花费"
+        },
+        {
+          "type": "w",
+          "en": "budget",
+          "zh": "预算"
+        },
+        {
+          "type": "w",
+          "en": "budget",
+          "zh": "精打细算"
+        },
+        {
+          "type": "w",
+          "en": "cheap",
+          "zh": "便宜的"
+        },
+        {
+          "type": "w",
+          "en": "worth",
+          "zh": "值得"
+        },
+        {
+          "type": "w",
+          "en": "raise",
+          "zh": "筹募"
+        },
+        {
+          "type": "w",
+          "en": "save",
+          "zh": "储蓄"
+        },
+        {
+          "type": "w",
+          "en": "rare",
+          "zh": "稀罕的；珍贵的"
+        },
+        {
+          "type": "w",
+          "en": "remain",
+          "zh": "保持不变；剩余"
+        },
+        {
+          "type": "w",
+          "en": "afford",
+          "zh": "买得起"
+        },
+        {
+          "type": "w",
+          "en": "account",
+          "zh": "账户"
+        },
+        {
+          "type": "w",
+          "en": "situation",
+          "zh": "形势；情况"
+        },
+        {
+          "type": "w",
+          "en": "well-paid",
+          "zh": "报酬（或薪金）丰厚的"
+        },
+        {
+          "type": "w",
+          "en": "treasure",
+          "zh": "财富"
+        },
+        {
+          "type": "w",
+          "en": "hopeless",
+          "zh": "无望的"
+        },
+        {
+          "type": "w",
+          "en": "business",
+          "zh": "生意；商业"
+        },
+        {
+          "type": "w",
+          "en": "wealthy",
+          "zh": "富有的；富裕的"
+        },
+        {
+          "type": "w",
+          "en": "valuable",
+          "zh": "贵重的"
+        },
+        {
+          "type": "w",
+          "en": "expensive",
+          "zh": "昂贵的"
+        },
+        {
+          "type": "w",
+          "en": "inexpensive",
+          "zh": "不昂贵的"
+        },
+        {
+          "type": "w",
+          "en": "sell out",
+          "zh": "卖光"
+        },
+        {
+          "type": "w",
+          "en": "pay for",
+          "zh": "付费"
+        },
+        {
+          "type": "w",
+          "en": "pocket money",
+          "zh": "零花钱"
+        },
+        {
+          "type": "w",
+          "en": "make money",
+          "zh": "赚钱"
+        },
+        {
+          "type": "w",
+          "en": "lucky money",
+          "zh": "压岁钱"
+        },
+        {
+          "type": "sec",
+          "text": "教育"
+        },
+        {
+          "type": "w",
+          "en": "goal",
+          "zh": "目标；目的"
+        },
+        {
+          "type": "w",
+          "en": "course",
+          "zh": "课程；学科"
+        },
+        {
+          "type": "w",
+          "en": "prize",
+          "zh": "奖；奖励"
+        },
+        {
+          "type": "w",
+          "en": "effort",
+          "zh": "努力；尽力"
+        },
+        {
+          "type": "w",
+          "en": "focus",
+          "zh": "集中（注意力、精力等）"
+        },
+        {
+          "type": "w",
+          "en": "teach",
+          "zh": "教"
+        },
+        {
+          "type": "w",
+          "en": "detail",
+          "zh": "细微之处"
+        },
+        {
+          "type": "w",
+          "en": "award",
+          "zh": "奖；奖品"
+        },
+        {
+          "type": "w",
+          "en": "kindergarten",
+          "zh": "幼儿园"
+        },
+        {
+          "type": "w",
+          "en": "junior high",
+          "zh": "初级中学"
+        },
+        {
+          "type": "w",
+          "en": "primary school",
+          "zh": "小学"
+        },
+        {
+          "type": "w",
+          "en": "education",
+          "zh": "教育"
+        },
+        {
+          "type": "w",
+          "en": "secondary school",
+          "zh": "中学"
+        },
+        {
+          "type": "w",
+          "en": "senior high (school)",
+          "zh": "高中"
+        },
+        {
+          "type": "w",
+          "en": "university",
+          "zh": "大学"
+        }
+      ]
+    },
+    {
+      "day": 10,
+      "items": [
+        {
+          "type": "w",
+          "en": "mistake",
+          "zh": "错误；失误"
+        },
+        {
+          "type": "w",
+          "en": "review",
+          "zh": "回顾；复习"
+        },
+        {
+          "type": "w",
+          "en": "learner",
+          "zh": "学习者"
+        },
+        {
+          "type": "w",
+          "en": "dialect",
+          "zh": "方言"
+        },
+        {
+          "type": "w",
+          "en": "language",
+          "zh": "语言"
+        },
+        {
+          "type": "w",
+          "en": "practise",
+          "zh": "训练；练习"
+        },
+        {
+          "type": "w",
+          "en": "progress",
+          "zh": "进步；进展"
+        },
+        {
+          "type": "w",
+          "en": "explain",
+          "zh": "解释；说明"
+        },
+        {
+          "type": "w",
+          "en": "possible",
+          "zh": "可能的；合理的"
+        },
+        {
+          "type": "w",
+          "en": "describe",
+          "zh": "描述；形容"
+        },
+        {
+          "type": "w",
+          "en": "efficient",
+          "zh": "效率高的"
+        },
+        {
+          "type": "w",
+          "en": "mini-goal",
+          "zh": "小目标"
+        },
+        {
+          "type": "w",
+          "en": "importance",
+          "zh": "重要性"
+        },
+        {
+          "type": "w",
+          "en": "challenging",
+          "zh": "挑战性的"
+        },
+        {
+          "type": "w",
+          "en": "meaningful",
+          "zh": "有意义的"
+        },
+        {
+          "type": "w",
+          "en": "whiteboard",
+          "zh": "白板"
+        },
+        {
+          "type": "w",
+          "en": "blackboard",
+          "zh": "黑板"
+        },
+        {
+          "type": "w",
+          "en": "mathematics",
+          "zh": "数学"
+        },
+        {
+          "type": "w",
+          "en": "sign up",
+          "zh": "报名"
+        },
+        {
+          "type": "w",
+          "en": "first prize",
+          "zh": "一等奖"
+        },
+        {
+          "type": "w",
+          "en": "make a mistake",
+          "zh": "犯错误"
+        },
+        {
+          "type": "w",
+          "en": "make an effort",
+          "zh": "作出努力"
+        },
+        {
+          "type": "w",
+          "en": "fall behind",
+          "zh": "落后"
+        },
+        {
+          "type": "w",
+          "en": "focus on",
+          "zh": "集中（注意力、精力等）于"
+        },
+        {
+          "type": "w",
+          "en": "pay attention to",
+          "zh": "注意；关注"
+        },
+        {
+          "type": "w",
+          "en": "get over",
+          "zh": "克服（困难）"
+        },
+        {
+          "type": "w",
+          "en": "look through",
+          "zh": "快速查看；浏览"
+        },
+        {
+          "type": "w",
+          "en": "fill out",
+          "zh": "填写"
+        },
+        {
+          "type": "w",
+          "en": "write about",
+          "zh": "编写；写作"
+        },
+        {
+          "type": "w",
+          "en": "make progress",
+          "zh": "取得进展"
+        },
+        {
+          "type": "sec",
+          "text": "沟通交流"
+        },
+        {
+          "type": "w",
+          "en": "deal",
+          "zh": "对付"
+        },
+        {
+          "type": "w",
+          "en": "post",
+          "zh": "邮寄"
+        },
+        {
+          "type": "w",
+          "en": "plan",
+          "zh": "计划"
+        },
+        {
+          "type": "w",
+          "en": "queue",
+          "zh": "队"
+        },
+        {
+          "type": "w",
+          "en": "media",
+          "zh": "媒介"
+        },
+        {
+          "type": "w",
+          "en": "mention",
+          "zh": "提到；说到"
+        },
+        {
+          "type": "w",
+          "en": "behave",
+          "zh": "表现；举止得体"
+        },
+        {
+          "type": "w",
+          "en": "accept",
+          "zh": "接受；同意"
+        },
+        {
+          "type": "w",
+          "en": "direct",
+          "zh": "指导"
+        },
+        {
+          "type": "w",
+          "en": "refuse",
+          "zh": "拒绝；推却"
+        },
+        {
+          "type": "w",
+          "en": "suggest",
+          "zh": "暗示"
+        },
+        {
+          "type": "w",
+          "en": "discuss",
+          "zh": "讨论；谈论"
+        },
+        {
+          "type": "w",
+          "en": "suppose",
+          "zh": "推断；料想"
+        },
+        {
+          "type": "w",
+          "en": "advise",
+          "zh": "建议；劝告"
+        },
+        {
+          "type": "w",
+          "en": "express",
+          "zh": "表达；表示"
+        },
+        {
+          "type": "w",
+          "en": "comment",
+          "zh": "议论；评论"
+        },
+        {
+          "type": "w",
+          "en": "impress",
+          "zh": "给……留下深刻印象"
+        },
+        {
+          "type": "w",
+          "en": "impression",
+          "zh": "印象"
+        },
+        {
+          "type": "w",
+          "en": "prevent",
+          "zh": "阻止；阻挠"
+        },
+        {
+          "type": "w",
+          "en": "exchange",
+          "zh": "交换"
+        },
+        {
+          "type": "w",
+          "en": "influence",
+          "zh": "影响"
+        },
+        {
+          "type": "w",
+          "en": "manner",
+          "zh": "礼仪"
+        },
+        {
+          "type": "w",
+          "en": "reply",
+          "zh": "回答；答复"
+        },
+        {
+          "type": "w",
+          "en": "contact",
+          "zh": "联系"
+        },
+        {
+          "type": "w",
+          "en": "contact",
+          "zh": "联络"
+        },
+        {
+          "type": "w",
+          "en": "congratulate",
+          "zh": "祝贺"
+        },
+        {
+          "type": "w",
+          "en": "communicate",
+          "zh": "交流；沟通"
+        },
+        {
+          "type": "w",
+          "en": "connection",
+          "zh": "联系；连接"
+        },
+        {
+          "type": "w",
+          "en": "invitation",
+          "zh": "邀请；请柬"
+        },
+        {
+          "type": "w",
+          "en": "organization",
+          "zh": "组织；机构"
+        },
+        {
+          "type": "w",
+          "en": "introduction",
+          "zh": "介绍"
+        },
+        {
+          "type": "w",
+          "en": "conversation",
+          "zh": "谈话；交谈"
+        },
+        {
+          "type": "w",
+          "en": "congratulation",
+          "zh": "祝贺"
+        }
+      ]
+    }
+  ]
+}

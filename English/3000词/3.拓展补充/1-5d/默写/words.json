@@ -1,0 +1,1622 @@
+{
+  "title": "15天背完初中3500词 · 拓展补充",
+  "days": [
+    {
+      "day": 1,
+      "items": [
+        {
+          "type": "sec",
+          "text": "人物"
+        },
+        {
+          "type": "w",
+          "en": "waist",
+          "zh": "腰"
+        },
+        {
+          "type": "w",
+          "en": "freckle",
+          "zh": "雀斑"
+        },
+        {
+          "type": "w",
+          "en": "abdomen",
+          "zh": "腹（部）"
+        },
+        {
+          "type": "w",
+          "en": "birthmark",
+          "zh": "胎记；胎痣"
+        },
+        {
+          "type": "w",
+          "en": "homestay",
+          "zh": "家庭寄宿"
+        },
+        {
+          "type": "w",
+          "en": "scholar",
+          "zh": "学者"
+        },
+        {
+          "type": "w",
+          "en": "beggar",
+          "zh": "乞丐"
+        },
+        {
+          "type": "w",
+          "en": "burglar",
+          "zh": "入室窃贼"
+        },
+        {
+          "type": "w",
+          "en": "slashie",
+          "zh": "斜杠族；多重职业者"
+        },
+        {
+          "type": "w",
+          "en": "merchant",
+          "zh": "商人；批发商"
+        },
+        {
+          "type": "w",
+          "en": "murderer",
+          "zh": "杀人犯"
+        },
+        {
+          "type": "w",
+          "en": "immigrant",
+          "zh": "（外来）移民"
+        },
+        {
+          "type": "w",
+          "en": "son-in-law",
+          "zh": "女婿"
+        },
+        {
+          "type": "w",
+          "en": "handyman",
+          "zh": "杂活工"
+        },
+        {
+          "type": "w",
+          "en": "superhero",
+          "zh": "超级英雄"
+        },
+        {
+          "type": "w",
+          "en": "homebody",
+          "zh": "喜欢待在家里的人"
+        },
+        {
+          "type": "w",
+          "en": "humanist",
+          "zh": "人文主义者"
+        },
+        {
+          "type": "w",
+          "en": "stuntman",
+          "zh": "特技替身演员"
+        },
+        {
+          "type": "w",
+          "en": "offspring",
+          "zh": "子女；后代"
+        },
+        {
+          "type": "w",
+          "en": "generation",
+          "zh": "一代人"
+        },
+        {
+          "type": "w",
+          "en": "shyness",
+          "zh": "害羞；腼腆"
+        },
+        {
+          "type": "w",
+          "en": "careless",
+          "zh": "粗心的"
+        },
+        {
+          "type": "w",
+          "en": "sociable",
+          "zh": "好交际的"
+        },
+        {
+          "type": "w",
+          "en": "forgetful",
+          "zh": "健忘的"
+        },
+        {
+          "type": "w",
+          "en": "resourceful",
+          "zh": "机敏的"
+        },
+        {
+          "type": "w",
+          "en": "determined",
+          "zh": "坚定的"
+        },
+        {
+          "type": "w",
+          "en": "ambitious",
+          "zh": "有野心的"
+        },
+        {
+          "type": "w",
+          "en": "intellectual",
+          "zh": "智力的"
+        },
+        {
+          "type": "w",
+          "en": "togetherness",
+          "zh": "和睦相处"
+        },
+        {
+          "type": "sec",
+          "text": "教育"
+        },
+        {
+          "type": "w",
+          "en": "clause",
+          "zh": "从句"
+        },
+        {
+          "type": "w",
+          "en": "idiom",
+          "zh": "习语"
+        },
+        {
+          "type": "w",
+          "en": "article",
+          "zh": "文章"
+        },
+        {
+          "type": "w",
+          "en": "essay",
+          "zh": "小品文"
+        },
+        {
+          "type": "w",
+          "en": "content",
+          "zh": "目录"
+        },
+        {
+          "type": "w",
+          "en": "theory",
+          "zh": "理论"
+        },
+        {
+          "type": "w",
+          "en": "literacy",
+          "zh": "读写能力"
+        },
+        {
+          "type": "w",
+          "en": "pronunciation",
+          "zh": "发音"
+        },
+        {
+          "type": "w",
+          "en": "degree",
+          "zh": "（大学）学位"
+        },
+        {
+          "type": "w",
+          "en": "college",
+          "zh": "学院；大学"
+        },
+        {
+          "type": "w",
+          "en": "institute",
+          "zh": "机构"
+        },
+        {
+          "type": "w",
+          "en": "graduate",
+          "zh": "毕业"
+        },
+        {
+          "type": "w",
+          "en": "graduation",
+          "zh": "毕业"
+        },
+        {
+          "type": "w",
+          "en": "ceremony",
+          "zh": "典礼；仪式"
+        },
+        {
+          "type": "w",
+          "en": "research",
+          "zh": "研究；调查"
+        },
+        {
+          "type": "w",
+          "en": "educate",
+          "zh": "教育；教导"
+        },
+        {
+          "type": "w",
+          "en": "experiment",
+          "zh": "实验"
+        },
+        {
+          "type": "w",
+          "en": "self-improvement",
+          "zh": "自我改进"
+        },
+        {
+          "type": "w",
+          "en": "emotional intelligence",
+          "zh": "情绪智力"
+        },
+        {
+          "type": "w",
+          "en": "couch potato",
+          "zh": "老泡在电视机前的人"
+        },
+        {
+          "type": "w",
+          "en": "star sign",
+          "zh": "星座"
+        },
+        {
+          "type": "w",
+          "en": "straightforward",
+          "zh": "坦率的"
+        },
+        {
+          "type": "w",
+          "en": "trustworthy",
+          "zh": "值得信任的"
+        },
+        {
+          "type": "w",
+          "en": "loyal",
+          "zh": "忠诚的；忠实的"
+        },
+        {
+          "type": "w",
+          "en": "goodness",
+          "zh": "美德"
+        },
+        {
+          "type": "w",
+          "en": "adventurous",
+          "zh": "有冒险精神的"
+        },
+        {
+          "type": "w",
+          "en": "compassionate",
+          "zh": "有同情心的"
+        },
+        {
+          "type": "w",
+          "en": "open-minded",
+          "zh": "愿意考虑不同意见的；思想开明的"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "items": [
+        {
+          "type": "w",
+          "en": "discipline",
+          "zh": "纪律"
+        },
+        {
+          "type": "w",
+          "en": "bookworm",
+          "zh": "书呆子"
+        },
+        {
+          "type": "w",
+          "en": "examination",
+          "zh": "考试"
+        },
+        {
+          "type": "w",
+          "en": "competition",
+          "zh": "比赛；竞赛"
+        },
+        {
+          "type": "w",
+          "en": "achievement",
+          "zh": "成绩；成就"
+        },
+        {
+          "type": "w",
+          "en": "philosophy",
+          "zh": "哲学"
+        },
+        {
+          "type": "w",
+          "en": "robotics",
+          "zh": "机器人科学（或技术）"
+        },
+        {
+          "type": "w",
+          "en": "geology",
+          "zh": "地质学"
+        },
+        {
+          "type": "w",
+          "en": "geometry",
+          "zh": "几何（学）"
+        },
+        {
+          "type": "w",
+          "en": "sociology",
+          "zh": "社会学"
+        },
+        {
+          "type": "w",
+          "en": "psychology",
+          "zh": "心理学"
+        },
+        {
+          "type": "w",
+          "en": "engineering",
+          "zh": "工程学"
+        },
+        {
+          "type": "w",
+          "en": "astronomy",
+          "zh": "天文学"
+        },
+        {
+          "type": "w",
+          "en": "architecture",
+          "zh": "建筑学"
+        },
+        {
+          "type": "w",
+          "en": "reasonable",
+          "zh": "合理的"
+        },
+        {
+          "type": "w",
+          "en": "communication",
+          "zh": "通信"
+        },
+        {
+          "type": "w",
+          "en": "read out",
+          "zh": "朗读"
+        },
+        {
+          "type": "w",
+          "en": "boarding school",
+          "zh": "寄宿学校"
+        },
+        {
+          "type": "w",
+          "en": "home economics",
+          "zh": "家政学"
+        },
+        {
+          "type": "sec",
+          "text": "自然灾害"
+        },
+        {
+          "type": "w",
+          "en": "famine",
+          "zh": "饥荒"
+        },
+        {
+          "type": "w",
+          "en": "plague",
+          "zh": "瘟疫"
+        },
+        {
+          "type": "w",
+          "en": "erosion",
+          "zh": "侵蚀"
+        },
+        {
+          "type": "w",
+          "en": "flood",
+          "zh": "水灾"
+        },
+        {
+          "type": "w",
+          "en": "drought",
+          "zh": "旱灾"
+        },
+        {
+          "type": "w",
+          "en": "wildfire",
+          "zh": "野火"
+        },
+        {
+          "type": "w",
+          "en": "typhoon",
+          "zh": "台风"
+        },
+        {
+          "type": "w",
+          "en": "tornado",
+          "zh": "龙卷风"
+        },
+        {
+          "type": "w",
+          "en": "hurricane",
+          "zh": "飓风"
+        },
+        {
+          "type": "w",
+          "en": "tsunami",
+          "zh": "海啸"
+        },
+        {
+          "type": "w",
+          "en": "earthquake",
+          "zh": "地震"
+        },
+        {
+          "type": "w",
+          "en": "aftershock",
+          "zh": "（地震后的）余震"
+        },
+        {
+          "type": "w",
+          "en": "blizzard",
+          "zh": "暴风雪"
+        },
+        {
+          "type": "w",
+          "en": "heatwave",
+          "zh": "热浪"
+        },
+        {
+          "type": "w",
+          "en": "landslide",
+          "zh": "滑坡；塌方"
+        },
+        {
+          "type": "w",
+          "en": "mudslide",
+          "zh": "泥流"
+        },
+        {
+          "type": "w",
+          "en": "avalanche",
+          "zh": "雪崩；山崩"
+        },
+        {
+          "type": "w",
+          "en": "toll",
+          "zh": "伤亡人数"
+        },
+        {
+          "type": "w",
+          "en": "debris",
+          "zh": "残骸"
+        },
+        {
+          "type": "w",
+          "en": "refugee",
+          "zh": "避难者"
+        },
+        {
+          "type": "w",
+          "en": "casualty",
+          "zh": "遇难者"
+        },
+        {
+          "type": "w",
+          "en": "serious",
+          "zh": "严重的"
+        },
+        {
+          "type": "w",
+          "en": "dangerous",
+          "zh": "危险的"
+        },
+        {
+          "type": "w",
+          "en": "damage",
+          "zh": "损害；毁坏"
+        },
+        {
+          "type": "w",
+          "en": "destroy",
+          "zh": "破坏；摧毁"
+        },
+        {
+          "type": "w",
+          "en": "disaster",
+          "zh": "灾难；不幸"
+        },
+        {
+          "type": "w",
+          "en": "havoc",
+          "zh": "灾害；祸患"
+        },
+        {
+          "type": "w",
+          "en": "misfortune",
+          "zh": "厄运；不幸"
+        },
+        {
+          "type": "w",
+          "en": "cataclysm",
+          "zh": "大灾难"
+        },
+        {
+          "type": "w",
+          "en": "evacuation",
+          "zh": "疏散"
+        },
+        {
+          "type": "w",
+          "en": "bush fire",
+          "zh": "野火；山林大火"
+        },
+        {
+          "type": "w",
+          "en": "tidal wave",
+          "zh": "海啸；潮浪"
+        },
+        {
+          "type": "w",
+          "en": "acid rain",
+          "zh": "酸雨"
+        },
+        {
+          "type": "sec",
+          "text": "医疗"
+        },
+        {
+          "type": "w",
+          "en": "X-ray",
+          "zh": "X光照片"
+        },
+        {
+          "type": "w",
+          "en": "germ",
+          "zh": "微生物；细菌"
+        },
+        {
+          "type": "w",
+          "en": "snowstorm",
+          "zh": "雪暴；暴风雪"
+        },
+        {
+          "type": "w",
+          "en": "thunderstorm",
+          "zh": "雷雨"
+        },
+        {
+          "type": "w",
+          "en": "rainstorm",
+          "zh": "暴风雨"
+        },
+        {
+          "type": "w",
+          "en": "hailstorm",
+          "zh": "雹暴"
+        },
+        {
+          "type": "w",
+          "en": "sandstorm",
+          "zh": "沙暴"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "items": [
+        {
+          "type": "w",
+          "en": "virus",
+          "zh": "病毒"
+        },
+        {
+          "type": "w",
+          "en": "vaccine",
+          "zh": "疫苗"
+        },
+        {
+          "type": "w",
+          "en": "cancer",
+          "zh": "癌症"
+        },
+        {
+          "type": "w",
+          "en": "pill",
+          "zh": "药丸"
+        },
+        {
+          "type": "w",
+          "en": "cure",
+          "zh": "疗法"
+        },
+        {
+          "type": "w",
+          "en": "therapy",
+          "zh": "疗法；治疗"
+        },
+        {
+          "type": "w",
+          "en": "treatment",
+          "zh": "治疗"
+        },
+        {
+          "type": "w",
+          "en": "diagnosis",
+          "zh": "诊断"
+        },
+        {
+          "type": "w",
+          "en": "operation",
+          "zh": "手术"
+        },
+        {
+          "type": "w",
+          "en": "hygiene",
+          "zh": "卫生"
+        },
+        {
+          "type": "w",
+          "en": "disability",
+          "zh": "（某种）缺陷，障碍"
+        },
+        {
+          "type": "w",
+          "en": "remedy",
+          "zh": "疗法；治疗"
+        },
+        {
+          "type": "w",
+          "en": "runny",
+          "zh": "流鼻涕的；流眼泪的"
+        },
+        {
+          "type": "w",
+          "en": "bleed",
+          "zh": "流血"
+        },
+        {
+          "type": "w",
+          "en": "nosebleed",
+          "zh": "鼻出血"
+        },
+        {
+          "type": "w",
+          "en": "wound",
+          "zh": "伤；伤口；创伤"
+        },
+        {
+          "type": "w",
+          "en": "heartbeat",
+          "zh": "心跳（声）"
+        },
+        {
+          "type": "w",
+          "en": "dizzy",
+          "zh": "头晕目眩的"
+        },
+        {
+          "type": "w",
+          "en": "allergic",
+          "zh": "过敏的"
+        },
+        {
+          "type": "w",
+          "en": "accident",
+          "zh": "意外"
+        },
+        {
+          "type": "w",
+          "en": "bruised",
+          "zh": "受了瘀伤的"
+        },
+        {
+          "type": "w",
+          "en": "injury",
+          "zh": "伤害；损伤"
+        },
+        {
+          "type": "w",
+          "en": "suffer",
+          "zh": "受苦；遭受"
+        },
+        {
+          "type": "w",
+          "en": "epidemic",
+          "zh": "流行病"
+        },
+        {
+          "type": "w",
+          "en": "chronic",
+          "zh": "长期的；慢性的"
+        },
+        {
+          "type": "w",
+          "en": "malignant",
+          "zh": "恶性的"
+        },
+        {
+          "type": "w",
+          "en": "infection",
+          "zh": "传染；感染"
+        },
+        {
+          "type": "w",
+          "en": "contagious",
+          "zh": "接触传染的"
+        },
+        {
+          "type": "w",
+          "en": "isolation",
+          "zh": "隔离"
+        },
+        {
+          "type": "w",
+          "en": "recover",
+          "zh": "康复；痊愈"
+        },
+        {
+          "type": "w",
+          "en": "condition",
+          "zh": "状况；健康状况"
+        },
+        {
+          "type": "w",
+          "en": "out of breath",
+          "zh": "上气不接下气"
+        },
+        {
+          "type": "w",
+          "en": "in excellent condition",
+          "zh": "健康状况很好"
+        },
+        {
+          "type": "w",
+          "en": "first aid",
+          "zh": "急救"
+        },
+        {
+          "type": "w",
+          "en": "health care",
+          "zh": "医疗（服务）"
+        },
+        {
+          "type": "w",
+          "en": "take one's temperature",
+          "zh": "给某人量体温"
+        },
+        {
+          "type": "sec",
+          "text": "科学"
+        },
+        {
+          "type": "w",
+          "en": "show",
+          "zh": "引；带；领"
+        },
+        {
+          "type": "w",
+          "en": "lead",
+          "zh": "带路；领路；引领"
+        },
+        {
+          "type": "w",
+          "en": "robot",
+          "zh": "机器人"
+        },
+        {
+          "type": "w",
+          "en": "online",
+          "zh": "在线的"
+        },
+        {
+          "type": "w",
+          "en": "offline",
+          "zh": "未联机的；未连线的"
+        },
+        {
+          "type": "w",
+          "en": "apply",
+          "zh": "应用"
+        },
+        {
+          "type": "w",
+          "en": "download",
+          "zh": "下载"
+        },
+        {
+          "type": "w",
+          "en": "digital",
+          "zh": "数位的；数码的；数字信息系统的"
+        },
+        {
+          "type": "w",
+          "en": "electronic",
+          "zh": "电子的；电子设备的"
+        },
+        {
+          "type": "w",
+          "en": "electric",
+          "zh": "用电的；电动的"
+        },
+        {
+          "type": "w",
+          "en": "technology",
+          "zh": "科技；工艺"
+        },
+        {
+          "type": "w",
+          "en": "discover",
+          "zh": "发现；发觉"
+        },
+        {
+          "type": "w",
+          "en": "predict",
+          "zh": "预言"
+        },
+        {
+          "type": "w",
+          "en": "scientific",
+          "zh": "科学的"
+        },
+        {
+          "type": "w",
+          "en": "rocket",
+          "zh": "火箭"
+        },
+        {
+          "type": "w",
+          "en": "planet",
+          "zh": "行星"
+        },
+        {
+          "type": "w",
+          "en": "orbit",
+          "zh": "（天体等运行的）轨道"
+        },
+        {
+          "type": "w",
+          "en": "solar",
+          "zh": "太阳的"
+        },
+        {
+          "type": "w",
+          "en": "latitude",
+          "zh": "纬度"
+        },
+        {
+          "type": "w",
+          "en": "universe",
+          "zh": "宇宙"
+        },
+        {
+          "type": "w",
+          "en": "lunar",
+          "zh": "月球的；月亮的"
+        },
+        {
+          "type": "w",
+          "en": "space",
+          "zh": "太空"
+        },
+        {
+          "type": "w",
+          "en": "aircraft",
+          "zh": "航空器"
+        },
+        {
+          "type": "w",
+          "en": "satellite",
+          "zh": "人造卫星"
+        },
+        {
+          "type": "w",
+          "en": "equator",
+          "zh": "赤道"
+        },
+        {
+          "type": "w",
+          "en": "revolution",
+          "zh": "天体运行"
+        },
+        {
+          "type": "w",
+          "en": "spacecraft",
+          "zh": "航天器"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "items": [
+        {
+          "type": "w",
+          "en": "regular",
+          "zh": "平常的；有规律的"
+        },
+        {
+          "type": "w",
+          "en": "attract",
+          "zh": "吸引；招引；引起（反应）"
+        },
+        {
+          "type": "w",
+          "en": "three-D",
+          "zh": "三维的；立体的"
+        },
+        {
+          "type": "w",
+          "en": "state",
+          "zh": "陈述；说明"
+        },
+        {
+          "type": "w",
+          "en": "base",
+          "zh": "根基；基础"
+        },
+        {
+          "type": "w",
+          "en": "rapid",
+          "zh": "瞬间的"
+        },
+        {
+          "type": "w",
+          "en": "radar",
+          "zh": "雷达"
+        },
+        {
+          "type": "w",
+          "en": "gravity",
+          "zh": "重力"
+        },
+        {
+          "type": "w",
+          "en": "alien",
+          "zh": "外星人"
+        },
+        {
+          "type": "w",
+          "en": "bomb",
+          "zh": "炸弹"
+        },
+        {
+          "type": "w",
+          "en": "battery",
+          "zh": "电池"
+        },
+        {
+          "type": "w",
+          "en": "radium",
+          "zh": "镭"
+        },
+        {
+          "type": "w",
+          "en": "heating",
+          "zh": "供暖系统"
+        },
+        {
+          "type": "w",
+          "en": "hybrid",
+          "zh": "杂交植物"
+        },
+        {
+          "type": "w",
+          "en": "discovery",
+          "zh": "被发现的事物"
+        },
+        {
+          "type": "w",
+          "en": "software",
+          "zh": "软件"
+        },
+        {
+          "type": "w",
+          "en": "calculate",
+          "zh": "计算；核算"
+        },
+        {
+          "type": "w",
+          "en": "database",
+          "zh": "数据库"
+        },
+        {
+          "type": "w",
+          "en": "upgrade",
+          "zh": "使（机器、计算机系统等）升级"
+        },
+        {
+          "type": "w",
+          "en": "instructions",
+          "zh": "用法说明"
+        },
+        {
+          "type": "w",
+          "en": "wireless",
+          "zh": "无线电报"
+        },
+        {
+          "type": "w",
+          "en": "development",
+          "zh": "发展"
+        },
+        {
+          "type": "w",
+          "en": "binoculars",
+          "zh": "双筒望远镜"
+        },
+        {
+          "type": "w",
+          "en": "lightning rod",
+          "zh": "避雷针"
+        },
+        {
+          "type": "w",
+          "en": "outer space",
+          "zh": "太空"
+        },
+        {
+          "type": "w",
+          "en": "oxygen tank",
+          "zh": "氧气罐"
+        },
+        {
+          "type": "w",
+          "en": "power pack",
+          "zh": "电源组"
+        },
+        {
+          "type": "w",
+          "en": "space travel",
+          "zh": "太空旅行"
+        },
+        {
+          "type": "w",
+          "en": "carbon dioxide",
+          "zh": "二氧化碳"
+        },
+        {
+          "type": "sec",
+          "text": "传奇故事"
+        },
+        {
+          "type": "w",
+          "en": "god",
+          "zh": "神"
+        },
+        {
+          "type": "w",
+          "en": "goddess",
+          "zh": "女神"
+        },
+        {
+          "type": "w",
+          "en": "angel",
+          "zh": "天使"
+        },
+        {
+          "type": "w",
+          "en": "genie",
+          "zh": "妖怪；鬼"
+        },
+        {
+          "type": "w",
+          "en": "monster",
+          "zh": "怪物"
+        },
+        {
+          "type": "w",
+          "en": "wizard",
+          "zh": "男巫"
+        },
+        {
+          "type": "w",
+          "en": "witch",
+          "zh": "女巫"
+        },
+        {
+          "type": "w",
+          "en": "fairy",
+          "zh": "小精灵，仙子"
+        },
+        {
+          "type": "w",
+          "en": "zombie",
+          "zh": "僵尸"
+        },
+        {
+          "type": "w",
+          "en": "vampire",
+          "zh": "吸血鬼"
+        },
+        {
+          "type": "w",
+          "en": "king",
+          "zh": "国王；君主"
+        },
+        {
+          "type": "w",
+          "en": "queen",
+          "zh": "女王；王后"
+        },
+        {
+          "type": "w",
+          "en": "prince",
+          "zh": "王子"
+        },
+        {
+          "type": "w",
+          "en": "princess",
+          "zh": "公主"
+        },
+        {
+          "type": "w",
+          "en": "sage",
+          "zh": "圣人；智者"
+        },
+        {
+          "type": "w",
+          "en": "ruler",
+          "zh": "统治者；支配者"
+        },
+        {
+          "type": "w",
+          "en": "emperor",
+          "zh": "皇帝"
+        },
+        {
+          "type": "w",
+          "en": "official",
+          "zh": "官员；高级职员"
+        },
+        {
+          "type": "w",
+          "en": "fool",
+          "zh": "蠢人；傻瓜"
+        },
+        {
+          "type": "w",
+          "en": "pauper",
+          "zh": "贫民；乞丐"
+        },
+        {
+          "type": "w",
+          "en": "lead",
+          "zh": "主角"
+        },
+        {
+          "type": "w",
+          "en": "hero",
+          "zh": "英雄；男主角"
+        },
+        {
+          "type": "w",
+          "en": "enemy",
+          "zh": "敌人"
+        },
+        {
+          "type": "w",
+          "en": "superman",
+          "zh": "超人"
+        },
+        {
+          "type": "w",
+          "en": "legend",
+          "zh": "传奇故事"
+        },
+        {
+          "type": "w",
+          "en": "myth",
+          "zh": "神话故事"
+        },
+        {
+          "type": "w",
+          "en": "fantasy",
+          "zh": "幻想作品"
+        },
+        {
+          "type": "w",
+          "en": "hunt",
+          "zh": "搜寻；狩猎"
+        },
+        {
+          "type": "w",
+          "en": "magic",
+          "zh": "魔法"
+        },
+        {
+          "type": "w",
+          "en": "magical",
+          "zh": "魔法的；神奇的"
+        },
+        {
+          "type": "w",
+          "en": "adventure",
+          "zh": "冒险"
+        },
+        {
+          "type": "w",
+          "en": "mystery",
+          "zh": "奥秘；神秘的事物"
+        },
+        {
+          "type": "w",
+          "en": "treasure",
+          "zh": "宝物；财富"
+        },
+        {
+          "type": "w",
+          "en": "heaven",
+          "zh": "天国；天堂"
+        },
+        {
+          "type": "w",
+          "en": "wonderland",
+          "zh": "仙境，奇境"
+        },
+        {
+          "type": "w",
+          "en": "unknown",
+          "zh": "未知的"
+        },
+        {
+          "type": "w",
+          "en": "strange",
+          "zh": "奇怪的；陌生的"
+        },
+        {
+          "type": "w",
+          "en": "treasure hunt",
+          "zh": "寻宝游戏"
+        },
+        {
+          "type": "sec",
+          "text": "情感与态度"
+        },
+        {
+          "type": "w",
+          "en": "thrilled",
+          "zh": "非常兴奋"
+        },
+        {
+          "type": "w",
+          "en": "obsess",
+          "zh": "使痴迷"
+        },
+        {
+          "type": "w",
+          "en": "content",
+          "zh": "满足；满意"
+        },
+        {
+          "type": "w",
+          "en": "favourable",
+          "zh": "赞同的"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "items": [
+        {
+          "type": "w",
+          "en": "subjective",
+          "zh": "主观的"
+        },
+        {
+          "type": "w",
+          "en": "prejudice",
+          "zh": "偏见"
+        },
+        {
+          "type": "w",
+          "en": "appreciative",
+          "zh": "感激的"
+        },
+        {
+          "type": "w",
+          "en": "heartbroken",
+          "zh": "极为悲伤的；心碎的"
+        },
+        {
+          "type": "w",
+          "en": "restless",
+          "zh": "坐立不安的"
+        },
+        {
+          "type": "w",
+          "en": "vulnerable",
+          "zh": "（身体上或感情上）脆弱的"
+        },
+        {
+          "type": "w",
+          "en": "unsettled",
+          "zh": "心绪不宁的"
+        },
+        {
+          "type": "w",
+          "en": "yearning",
+          "zh": "渴望"
+        },
+        {
+          "type": "w",
+          "en": "reluctant",
+          "zh": "不情愿的"
+        },
+        {
+          "type": "w",
+          "en": "nostalgic",
+          "zh": "怀旧的"
+        },
+        {
+          "type": "w",
+          "en": "bittersweet",
+          "zh": "既有欢乐又有悲伤的"
+        },
+        {
+          "type": "w",
+          "en": "jealous",
+          "zh": "妒忌的"
+        },
+        {
+          "type": "w",
+          "en": "heartless",
+          "zh": "无情的"
+        },
+        {
+          "type": "w",
+          "en": "gloomy",
+          "zh": "忧郁的"
+        },
+        {
+          "type": "w",
+          "en": "discouraged",
+          "zh": "灰心的"
+        },
+        {
+          "type": "w",
+          "en": "frustrated",
+          "zh": "失意的"
+        },
+        {
+          "type": "w",
+          "en": "dreadful",
+          "zh": "令人不快的"
+        },
+        {
+          "type": "w",
+          "en": "apathetic",
+          "zh": "冷漠的"
+        },
+        {
+          "type": "w",
+          "en": "suspicious",
+          "zh": "怀疑的"
+        },
+        {
+          "type": "w",
+          "en": "all smiles",
+          "zh": "笑容满面"
+        },
+        {
+          "type": "w",
+          "en": "feel blue",
+          "zh": "感到忧郁的"
+        },
+        {
+          "type": "w",
+          "en": "on top of the world",
+          "zh": "欢天喜地"
+        },
+        {
+          "type": "w",
+          "en": "lift sb's spirits",
+          "zh": "使某人开心起来"
+        },
+        {
+          "type": "w",
+          "en": "burst into laughter",
+          "zh": "突然大笑"
+        },
+        {
+          "type": "w",
+          "en": "smile from ear to ear",
+          "zh": "笑得合不拢嘴"
+        },
+        {
+          "type": "w",
+          "en": "hold back tears",
+          "zh": "忍住眼泪"
+        },
+        {
+          "type": "w",
+          "en": "in low spirits",
+          "zh": "情绪低落"
+        },
+        {
+          "type": "w",
+          "en": "in high spirits",
+          "zh": "情绪高涨"
+        },
+        {
+          "type": "w",
+          "en": "flush with anger",
+          "zh": "怒气冲冲"
+        },
+        {
+          "type": "w",
+          "en": "drive sb crazy / mad",
+          "zh": "使人发疯/发狂"
+        },
+        {
+          "type": "w",
+          "en": "take sb's breath away",
+          "zh": "令人惊叹"
+        },
+        {
+          "type": "w",
+          "en": "kick oneself",
+          "zh": "（因干了蠢事等）自责或懊恼"
+        },
+        {
+          "type": "w",
+          "en": "feel free (to do sth)",
+          "zh": "可以随便做某事"
+        },
+        {
+          "type": "w",
+          "en": "look on the bright side",
+          "zh": "抱乐观态度"
+        },
+        {
+          "type": "w",
+          "en": "be hard on sb",
+          "zh": "对某人苛刻"
+        },
+        {
+          "type": "sec",
+          "text": "饮食"
+        },
+        {
+          "type": "w",
+          "en": "beverage",
+          "zh": "饮料"
+        },
+        {
+          "type": "w",
+          "en": "mulberry",
+          "zh": "桑葚"
+        },
+        {
+          "type": "w",
+          "en": "breadfruit",
+          "zh": "面包果"
+        },
+        {
+          "type": "w",
+          "en": "ingredient",
+          "zh": "成分；食材"
+        },
+        {
+          "type": "w",
+          "en": "mixture",
+          "zh": "混合物"
+        },
+        {
+          "type": "w",
+          "en": "cinnamon",
+          "zh": "桂皮香料"
+        },
+        {
+          "type": "w",
+          "en": "scramble",
+          "zh": "炒（蛋）"
+        },
+        {
+          "type": "w",
+          "en": "stir-fry",
+          "zh": "翻炒；炒；煸"
+        },
+        {
+          "type": "w",
+          "en": "takeaway",
+          "zh": "外卖食物"
+        },
+        {
+          "type": "w",
+          "en": "serving",
+          "zh": "一份食物"
+        },
+        {
+          "type": "w",
+          "en": "crust",
+          "zh": "糕饼酥皮；面包皮"
+        },
+        {
+          "type": "w",
+          "en": "porridge",
+          "zh": "粥"
+        },
+        {
+          "type": "w",
+          "en": "cheeseburger",
+          "zh": "干酪汉堡包"
+        },
+        {
+          "type": "w",
+          "en": "watery",
+          "zh": "（食物、饮料等）稀薄无味的"
+        },
+        {
+          "type": "w",
+          "en": "sweetness",
+          "zh": "甜"
+        },
+        {
+          "type": "w",
+          "en": "mouthful",
+          "zh": "一满口"
+        },
+        {
+          "type": "w",
+          "en": "nutrition",
+          "zh": "营养"
+        },
+        {
+          "type": "w",
+          "en": "appetite",
+          "zh": "食欲；胃口"
+        },
+        {
+          "type": "w",
+          "en": "gluttony",
+          "zh": "暴食；暴饮"
+        },
+        {
+          "type": "w",
+          "en": "spaghetti",
+          "zh": "意大利细面条"
+        },
+        {
+          "type": "w",
+          "en": "cauliflower",
+          "zh": "花椰菜"
+        },
+        {
+          "type": "w",
+          "en": "pumpkin",
+          "zh": "南瓜"
+        },
+        {
+          "type": "w",
+          "en": "eggplant",
+          "zh": "茄子"
+        },
+        {
+          "type": "w",
+          "en": "chilli",
+          "zh": "辣椒"
+        },
+        {
+          "type": "w",
+          "en": "peanut",
+          "zh": "花生"
+        },
+        {
+          "type": "w",
+          "en": "asparagus",
+          "zh": "芦笋"
+        },
+        {
+          "type": "w",
+          "en": "cabbage",
+          "zh": "卷心菜；洋白菜"
+        }
+      ]
+    }
+  ]
+}

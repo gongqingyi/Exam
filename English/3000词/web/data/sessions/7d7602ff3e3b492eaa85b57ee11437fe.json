@@ -1,0 +1,1956 @@
+{
+  "session_id": "7d7602ff3e3b492eaa85b57ee11437fe",
+  "batch": "1.高频常用/1-5d",
+  "category": "高频常用",
+  "day": 1,
+  "direction": "en_zh",
+  "started_at": "2026-11-16T15:08:01.543+08:00",
+  "ended_at": null,
+  "finish_reason": null,
+  "choices": {
+    "0": {
+      "answer": "颜色",
+      "correct_key": "C",
+      "options": [
+        {
+          "key": "A",
+          "text": "味道"
+        },
+        {
+          "key": "B",
+          "text": "形状"
+        },
+        {
+          "key": "C",
+          "text": "颜色"
+        },
+        {
+          "key": "D",
+          "text": "声音"
+        }
+      ],
+      "source": "ai"
+    },
+    "1": {
+      "answer": "橙红色",
+      "correct_key": "C",
+      "options": [
+        {
+          "key": "A",
+          "text": "绿色"
+        },
+        {
+          "key": "B",
+          "text": "蓝色"
+        },
+        {
+          "key": "C",
+          "text": "橙红色"
+        },
+        {
+          "key": "D",
+          "text": "紫色"
+        }
+      ],
+      "source": "ai"
+    },
+    "2": {
+      "answer": "绿色",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "红色"
+        },
+        {
+          "key": "B",
+          "text": "绿色"
+        },
+        {
+          "key": "C",
+          "text": "蓝色"
+        },
+        {
+          "key": "D",
+          "text": "黄色"
+        }
+      ],
+      "source": "ai"
+    },
+    "3": {
+      "answer": "红色",
+      "correct_key": "C",
+      "options": [
+        {
+          "key": "A",
+          "text": "绿色"
+        },
+        {
+          "key": "B",
+          "text": "蓝色"
+        },
+        {
+          "key": "C",
+          "text": "红色"
+        },
+        {
+          "key": "D",
+          "text": "黄色"
+        }
+      ],
+      "source": "ai"
+    },
+    "4": {
+      "answer": "紫色",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "橙色"
+        },
+        {
+          "key": "B",
+          "text": "紫色"
+        },
+        {
+          "key": "C",
+          "text": "红色"
+        },
+        {
+          "key": "D",
+          "text": "蓝色"
+        }
+      ],
+      "source": "ai"
+    },
+    "5": {
+      "answer": "蓝色",
+      "correct_key": "A",
+      "options": [
+        {
+          "key": "A",
+          "text": "蓝色"
+        },
+        {
+          "key": "B",
+          "text": "紫色"
+        },
+        {
+          "key": "C",
+          "text": "绿色"
+        },
+        {
+          "key": "D",
+          "text": "红色"
+        }
+      ],
+      "source": "ai"
+    },
+    "6": {
+      "answer": "棕色",
+      "correct_key": "C",
+      "options": [
+        {
+          "key": "A",
+          "text": "红色"
+        },
+        {
+          "key": "B",
+          "text": "灰色"
+        },
+        {
+          "key": "C",
+          "text": "棕色"
+        },
+        {
+          "key": "D",
+          "text": "蓝色"
+        }
+      ],
+      "source": "ai"
+    },
+    "7": {
+      "answer": "黄色",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "橙色"
+        },
+        {
+          "key": "B",
+          "text": "黄色"
+        },
+        {
+          "key": "C",
+          "text": "绿色"
+        },
+        {
+          "key": "D",
+          "text": "紫色"
+        }
+      ],
+      "source": "ai"
+    },
+    "8": {
+      "answer": "白色",
+      "correct_key": "D",
+      "options": [
+        {
+          "key": "A",
+          "text": "灰色"
+        },
+        {
+          "key": "B",
+          "text": "黑色"
+        },
+        {
+          "key": "C",
+          "text": "红色"
+        },
+        {
+          "key": "D",
+          "text": "白色"
+        }
+      ],
+      "source": "ai"
+    },
+    "9": {
+      "answer": "黑色",
+      "correct_key": "A",
+      "options": [
+        {
+          "key": "A",
+          "text": "黑色"
+        },
+        {
+          "key": "B",
+          "text": "蓝色"
+        },
+        {
+          "key": "C",
+          "text": "白色"
+        },
+        {
+          "key": "D",
+          "text": "棕色"
+        }
+      ],
+      "source": "ai"
+    },
+    "10": {
+      "answer": "粉红色",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "红色"
+        },
+        {
+          "key": "B",
+          "text": "粉红色"
+        },
+        {
+          "key": "C",
+          "text": "紫色"
+        },
+        {
+          "key": "D",
+          "text": "橙色"
+        }
+      ],
+      "source": "ai"
+    },
+    "11": {
+      "answer": "银色",
+      "correct_key": "D",
+      "options": [
+        {
+          "key": "A",
+          "text": "金色"
+        },
+        {
+          "key": "B",
+          "text": "灰色"
+        },
+        {
+          "key": "C",
+          "text": "铜色"
+        },
+        {
+          "key": "D",
+          "text": "银色"
+        }
+      ],
+      "source": "ai"
+    },
+    "12": {
+      "answer": "金色",
+      "correct_key": "A",
+      "options": [
+        {
+          "key": "A",
+          "text": "金色"
+        },
+        {
+          "key": "B",
+          "text": "银色"
+        },
+        {
+          "key": "C",
+          "text": "铜色"
+        },
+        {
+          "key": "D",
+          "text": "灰色"
+        }
+      ],
+      "source": "ai"
+    },
+    "13": {
+      "answer": "金色的",
+      "correct_key": "D",
+      "options": [
+        {
+          "key": "A",
+          "text": "灰色的"
+        },
+        {
+          "key": "B",
+          "text": "银色的"
+        },
+        {
+          "key": "C",
+          "text": "铜色的"
+        },
+        {
+          "key": "D",
+          "text": "金色的"
+        }
+      ],
+      "source": "ai"
+    },
+    "14": {
+      "answer": "灰色",
+      "correct_key": "D",
+      "options": [
+        {
+          "key": "A",
+          "text": "白色"
+        },
+        {
+          "key": "B",
+          "text": "黑色"
+        },
+        {
+          "key": "C",
+          "text": "棕色"
+        },
+        {
+          "key": "D",
+          "text": "灰色"
+        }
+      ],
+      "source": "ai"
+    },
+    "15": {
+      "answer": "灰白的",
+      "correct_key": "A",
+      "options": [
+        {
+          "key": "A",
+          "text": "灰白的"
+        },
+        {
+          "key": "B",
+          "text": "乌黑的"
+        },
+        {
+          "key": "C",
+          "text": "鲜红的"
+        },
+        {
+          "key": "D",
+          "text": "深蓝的"
+        }
+      ],
+      "source": "ai"
+    },
+    "16": {
+      "answer": "深色的",
+      "correct_key": "A",
+      "options": [
+        {
+          "key": "A",
+          "text": "深色的"
+        },
+        {
+          "key": "B",
+          "text": "浅色的"
+        },
+        {
+          "key": "C",
+          "text": "透明的"
+        },
+        {
+          "key": "D",
+          "text": "鲜艳的"
+        }
+      ],
+      "source": "ai"
+    },
+    "17": {
+      "answer": "浅色的，白皙的",
+      "correct_key": "C",
+      "options": [
+        {
+          "key": "A",
+          "text": "鲜红色的"
+        },
+        {
+          "key": "B",
+          "text": "深褐色的"
+        },
+        {
+          "key": "C",
+          "text": "浅色的，白皙的"
+        },
+        {
+          "key": "D",
+          "text": "晒黑的"
+        }
+      ],
+      "source": "ai"
+    },
+    "18": {
+      "answer": "浅色的",
+      "correct_key": "D",
+      "options": [
+        {
+          "key": "A",
+          "text": "深色的"
+        },
+        {
+          "key": "B",
+          "text": "透明的"
+        },
+        {
+          "key": "C",
+          "text": "鲜艳的"
+        },
+        {
+          "key": "D",
+          "text": "浅色的"
+        }
+      ],
+      "source": "ai"
+    },
+    "19": {
+      "answer": "色度",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "亮度"
+        },
+        {
+          "key": "B",
+          "text": "色度"
+        },
+        {
+          "key": "C",
+          "text": "饱和度"
+        },
+        {
+          "key": "D",
+          "text": "透明度"
+        }
+      ],
+      "source": "ai"
+    },
+    "20": {
+      "answer": "鲜艳的；明亮的",
+      "correct_key": "A",
+      "options": [
+        {
+          "key": "A",
+          "text": "鲜艳的；明亮的"
+        },
+        {
+          "key": "B",
+          "text": "深色的"
+        },
+        {
+          "key": "C",
+          "text": "暗淡的"
+        },
+        {
+          "key": "D",
+          "text": "浑浊的"
+        }
+      ],
+      "source": "ai"
+    },
+    "21": {
+      "answer": "（色彩）鲜艳的",
+      "correct_key": "D",
+      "options": [
+        {
+          "key": "A",
+          "text": "暗淡的"
+        },
+        {
+          "key": "B",
+          "text": "素净的"
+        },
+        {
+          "key": "C",
+          "text": "单调的"
+        },
+        {
+          "key": "D",
+          "text": "（色彩）鲜艳的"
+        }
+      ],
+      "source": "ai"
+    },
+    "22": {
+      "answer": "五彩缤纷的",
+      "correct_key": "C",
+      "options": [
+        {
+          "key": "A",
+          "text": "素净的"
+        },
+        {
+          "key": "B",
+          "text": "透明的"
+        },
+        {
+          "key": "C",
+          "text": "五彩缤纷的"
+        },
+        {
+          "key": "D",
+          "text": "单色的"
+        }
+      ],
+      "source": "ai"
+    },
+    "23": {
+      "answer": "用颜料画",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "拍照"
+        },
+        {
+          "key": "B",
+          "text": "用颜料画"
+        },
+        {
+          "key": "C",
+          "text": "雕刻"
+        },
+        {
+          "key": "D",
+          "text": "用铅笔素描"
+        }
+      ],
+      "source": "ai"
+    },
+    "24": {
+      "answer": "画画",
+      "correct_key": "A",
+      "options": [
+        {
+          "key": "A",
+          "text": "画画"
+        },
+        {
+          "key": "B",
+          "text": "拍照"
+        },
+        {
+          "key": "C",
+          "text": "雕刻"
+        },
+        {
+          "key": "D",
+          "text": "用颜料画"
+        }
+      ],
+      "source": "ai"
+    },
+    "25": {
+      "answer": "彩色铅笔",
+      "correct_key": "A",
+      "options": [
+        {
+          "key": "A",
+          "text": "彩色铅笔"
+        },
+        {
+          "key": "B",
+          "text": "橡皮擦"
+        },
+        {
+          "key": "C",
+          "text": "圆规"
+        },
+        {
+          "key": "D",
+          "text": "直尺"
+        }
+      ],
+      "source": "ai"
+    },
+    "26": {
+      "answer": "家；家庭",
+      "correct_key": "D",
+      "options": [
+        {
+          "key": "A",
+          "text": "公司"
+        },
+        {
+          "key": "B",
+          "text": "军队"
+        },
+        {
+          "key": "C",
+          "text": "学校"
+        },
+        {
+          "key": "D",
+          "text": "家；家庭"
+        }
+      ],
+      "source": "ai"
+    },
+    "27": {
+      "answer": "父亲；爸爸",
+      "correct_key": "A",
+      "options": [
+        {
+          "key": "A",
+          "text": "父亲；爸爸"
+        },
+        {
+          "key": "B",
+          "text": "祖父"
+        },
+        {
+          "key": "C",
+          "text": "母亲"
+        },
+        {
+          "key": "D",
+          "text": "叔叔"
+        }
+      ],
+      "source": "ai"
+    },
+    "28": {
+      "answer": "母亲；妈妈",
+      "correct_key": "C",
+      "options": [
+        {
+          "key": "A",
+          "text": "父亲"
+        },
+        {
+          "key": "B",
+          "text": "祖母"
+        },
+        {
+          "key": "C",
+          "text": "母亲；妈妈"
+        },
+        {
+          "key": "D",
+          "text": "阿姨"
+        }
+      ],
+      "source": "ai"
+    },
+    "29": {
+      "answer": "儿子",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "外甥"
+        },
+        {
+          "key": "B",
+          "text": "儿子"
+        },
+        {
+          "key": "C",
+          "text": "女儿"
+        },
+        {
+          "key": "D",
+          "text": "侄子"
+        }
+      ],
+      "source": "ai"
+    },
+    "30": {
+      "answer": "姐；妹",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "女儿"
+        },
+        {
+          "key": "B",
+          "text": "姐；妹"
+        },
+        {
+          "key": "C",
+          "text": "哥哥"
+        },
+        {
+          "key": "D",
+          "text": "弟弟"
+        }
+      ],
+      "source": "ai"
+    },
+    "31": {
+      "answer": "兄；弟",
+      "correct_key": "C",
+      "options": [
+        {
+          "key": "A",
+          "text": "姐姐"
+        },
+        {
+          "key": "B",
+          "text": "叔叔"
+        },
+        {
+          "key": "C",
+          "text": "兄；弟"
+        },
+        {
+          "key": "D",
+          "text": "妹妹"
+        }
+      ],
+      "source": "ai"
+    },
+    "32": {
+      "answer": "婴儿",
+      "correct_key": "D",
+      "options": [
+        {
+          "key": "A",
+          "text": "儿童"
+        },
+        {
+          "key": "B",
+          "text": "青少年"
+        },
+        {
+          "key": "C",
+          "text": "老人"
+        },
+        {
+          "key": "D",
+          "text": "婴儿"
+        }
+      ],
+      "source": "ai"
+    },
+    "33": {
+      "answer": "小孩",
+      "correct_key": "C",
+      "options": [
+        {
+          "key": "A",
+          "text": "青年人"
+        },
+        {
+          "key": "B",
+          "text": "中年人"
+        },
+        {
+          "key": "C",
+          "text": "小孩"
+        },
+        {
+          "key": "D",
+          "text": "老年人"
+        }
+      ],
+      "source": "ai"
+    },
+    "34": {
+      "answer": "祖父（母）；外祖父（母）",
+      "correct_key": "C",
+      "options": [
+        {
+          "key": "A",
+          "text": "兄弟姐妹"
+        },
+        {
+          "key": "B",
+          "text": "父母"
+        },
+        {
+          "key": "C",
+          "text": "祖父（母）；外祖父（母）"
+        },
+        {
+          "key": "D",
+          "text": "子女"
+        }
+      ],
+      "source": "ai"
+    },
+    "35": {
+      "answer": "（外）孙女",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "外孙"
+        },
+        {
+          "key": "B",
+          "text": "（外）孙女"
+        },
+        {
+          "key": "C",
+          "text": "祖母"
+        },
+        {
+          "key": "D",
+          "text": "侄女"
+        }
+      ],
+      "source": "ai"
+    },
+    "36": {
+      "answer": "（外）孙子；（外）孙女",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "侄子"
+        },
+        {
+          "key": "B",
+          "text": "（外）孙子；（外）孙女"
+        },
+        {
+          "key": "C",
+          "text": "祖父母"
+        },
+        {
+          "key": "D",
+          "text": "女婿"
+        }
+      ],
+      "source": "ai"
+    },
+    "37": {
+      "answer": "孙子；外孙",
+      "correct_key": "A",
+      "options": [
+        {
+          "key": "A",
+          "text": "孙子；外孙"
+        },
+        {
+          "key": "B",
+          "text": "孙女"
+        },
+        {
+          "key": "C",
+          "text": "侄女"
+        },
+        {
+          "key": "D",
+          "text": "祖父"
+        }
+      ],
+      "source": "ai"
+    },
+    "38": {
+      "answer": "妻子",
+      "correct_key": "A",
+      "options": [
+        {
+          "key": "A",
+          "text": "妻子"
+        },
+        {
+          "key": "B",
+          "text": "丈夫"
+        },
+        {
+          "key": "C",
+          "text": "未婚妻"
+        },
+        {
+          "key": "D",
+          "text": "寡妇"
+        }
+      ],
+      "source": "ai"
+    },
+    "39": {
+      "answer": "丈夫",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "妻子"
+        },
+        {
+          "key": "B",
+          "text": "丈夫"
+        },
+        {
+          "key": "C",
+          "text": "未婚夫"
+        },
+        {
+          "key": "D",
+          "text": "鳏夫"
+        }
+      ],
+      "source": "ai"
+    },
+    "40": {
+      "answer": "双胞胎之一",
+      "correct_key": "C",
+      "options": [
+        {
+          "key": "A",
+          "text": "三胞胎之一"
+        },
+        {
+          "key": "B",
+          "text": "独生子"
+        },
+        {
+          "key": "C",
+          "text": "双胞胎之一"
+        },
+        {
+          "key": "D",
+          "text": "堂兄弟"
+        }
+      ],
+      "source": "ai"
+    },
+    "41": {
+      "answer": "亲密的",
+      "correct_key": "A",
+      "options": [
+        {
+          "key": "A",
+          "text": "亲密的"
+        },
+        {
+          "key": "B",
+          "text": "陌生的"
+        },
+        {
+          "key": "C",
+          "text": "冷淡的"
+        },
+        {
+          "key": "D",
+          "text": "遥远的"
+        }
+      ],
+      "source": "ai"
+    },
+    "42": {
+      "answer": "舒适的",
+      "correct_key": "C",
+      "options": [
+        {
+          "key": "A",
+          "text": "完整的"
+        },
+        {
+          "key": "B",
+          "text": "方便的"
+        },
+        {
+          "key": "C",
+          "text": "舒适的"
+        },
+        {
+          "key": "D",
+          "text": "常见的"
+        }
+      ],
+      "source": "ai"
+    },
+    "43": {
+      "answer": "保护；防护",
+      "correct_key": "D",
+      "options": [
+        {
+          "key": "A",
+          "text": "暴露"
+        },
+        {
+          "key": "B",
+          "text": "损坏"
+        },
+        {
+          "key": "C",
+          "text": "攻击"
+        },
+        {
+          "key": "D",
+          "text": "保护；防护"
+        }
+      ],
+      "source": "ai"
+    },
+    "44": {
+      "answer": "聚集；集合",
+      "correct_key": "A",
+      "options": [
+        {
+          "key": "A",
+          "text": "聚集；集合"
+        },
+        {
+          "key": "B",
+          "text": "解散"
+        },
+        {
+          "key": "C",
+          "text": "传播"
+        },
+        {
+          "key": "D",
+          "text": "分散"
+        }
+      ],
+      "source": "ai"
+    },
+    "45": {
+      "answer": "婚礼",
+      "correct_key": "D",
+      "options": [
+        {
+          "key": "A",
+          "text": "葬礼"
+        },
+        {
+          "key": "B",
+          "text": "毕业典礼"
+        },
+        {
+          "key": "C",
+          "text": "生日聚会"
+        },
+        {
+          "key": "D",
+          "text": "婚礼"
+        }
+      ],
+      "source": "ai"
+    },
+    "46": {
+      "answer": "拥抱；搂抱",
+      "correct_key": "A",
+      "options": [
+        {
+          "key": "A",
+          "text": "拥抱；搂抱"
+        },
+        {
+          "key": "B",
+          "text": "鞠躬"
+        },
+        {
+          "key": "C",
+          "text": "亲吻"
+        },
+        {
+          "key": "D",
+          "text": "握手"
+        }
+      ],
+      "source": "ai"
+    },
+    "47": {
+      "answer": "喂养；饲养",
+      "correct_key": "D",
+      "options": [
+        {
+          "key": "A",
+          "text": "驱赶"
+        },
+        {
+          "key": "B",
+          "text": "宰杀"
+        },
+        {
+          "key": "C",
+          "text": "捕捉"
+        },
+        {
+          "key": "D",
+          "text": "喂养；饲养"
+        }
+      ],
+      "source": "ai"
+    },
+    "48": {
+      "answer": "成员；会员",
+      "correct_key": "D",
+      "options": [
+        {
+          "key": "A",
+          "text": "领导"
+        },
+        {
+          "key": "B",
+          "text": "访客"
+        },
+        {
+          "key": "C",
+          "text": "创始人"
+        },
+        {
+          "key": "D",
+          "text": "成员；会员"
+        }
+      ],
+      "source": "ai"
+    },
+    "49": {
+      "answer": "亲爱的；宝贝",
+      "correct_key": "C",
+      "options": [
+        {
+          "key": "A",
+          "text": "陌生人"
+        },
+        {
+          "key": "B",
+          "text": "同事"
+        },
+        {
+          "key": "C",
+          "text": "亲爱的；宝贝"
+        },
+        {
+          "key": "D",
+          "text": "敌人"
+        }
+      ],
+      "source": "ai"
+    },
+    "50": {
+      "answer": "夫妻；情侣",
+      "correct_key": "D",
+      "options": [
+        {
+          "key": "A",
+          "text": "朋友"
+        },
+        {
+          "key": "B",
+          "text": "兄弟"
+        },
+        {
+          "key": "C",
+          "text": "父子"
+        },
+        {
+          "key": "D",
+          "text": "夫妻；情侣"
+        }
+      ],
+      "source": "ai"
+    },
+    "51": {
+      "answer": "客人；宾客",
+      "correct_key": "C",
+      "options": [
+        {
+          "key": "A",
+          "text": "主人"
+        },
+        {
+          "key": "B",
+          "text": "邻居"
+        },
+        {
+          "key": "C",
+          "text": "客人；宾客"
+        },
+        {
+          "key": "D",
+          "text": "服务员"
+        }
+      ],
+      "source": "ai"
+    },
+    "52": {
+      "answer": "亲戚；亲属",
+      "correct_key": "D",
+      "options": [
+        {
+          "key": "A",
+          "text": "邻居"
+        },
+        {
+          "key": "B",
+          "text": "同事"
+        },
+        {
+          "key": "C",
+          "text": "朋友"
+        },
+        {
+          "key": "D",
+          "text": "亲戚；亲属"
+        }
+      ],
+      "source": "ai"
+    },
+    "53": {
+      "answer": "照顾；处理",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "拒绝"
+        },
+        {
+          "key": "B",
+          "text": "照顾；处理"
+        },
+        {
+          "key": "C",
+          "text": "抛弃"
+        },
+        {
+          "key": "D",
+          "text": "忽略"
+        }
+      ],
+      "source": "ai"
+    },
+    "54": {
+      "answer": "听；倾听",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "看"
+        },
+        {
+          "key": "B",
+          "text": "听；倾听"
+        },
+        {
+          "key": "C",
+          "text": "写"
+        },
+        {
+          "key": "D",
+          "text": "说"
+        }
+      ],
+      "source": "ai"
+    },
+    "55": {
+      "answer": "食用油",
+      "correct_key": "C",
+      "options": [
+        {
+          "key": "A",
+          "text": "醋"
+        },
+        {
+          "key": "B",
+          "text": "料酒"
+        },
+        {
+          "key": "C",
+          "text": "食用油"
+        },
+        {
+          "key": "D",
+          "text": "酱油"
+        }
+      ],
+      "source": "ai"
+    },
+    "56": {
+      "answer": "火锅",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "麻辣烫"
+        },
+        {
+          "key": "B",
+          "text": "火锅"
+        },
+        {
+          "key": "C",
+          "text": "关东煮"
+        },
+        {
+          "key": "D",
+          "text": "烧烤"
+        }
+      ],
+      "source": "ai"
+    },
+    "57": {
+      "answer": "片；块",
+      "correct_key": "C",
+      "options": [
+        {
+          "key": "A",
+          "text": "盒"
+        },
+        {
+          "key": "B",
+          "text": "袋"
+        },
+        {
+          "key": "C",
+          "text": "片；块"
+        },
+        {
+          "key": "D",
+          "text": "瓶"
+        }
+      ],
+      "source": "ai"
+    },
+    "58": {
+      "answer": "火腿",
+      "correct_key": "D",
+      "options": [
+        {
+          "key": "A",
+          "text": "香肠"
+        },
+        {
+          "key": "B",
+          "text": "腊肉"
+        },
+        {
+          "key": "C",
+          "text": "培根"
+        },
+        {
+          "key": "D",
+          "text": "火腿"
+        }
+      ],
+      "source": "ai"
+    },
+    "59": {
+      "answer": "煮沸；烧开；沸腾；沸点",
+      "correct_key": "C",
+      "options": [
+        {
+          "key": "A",
+          "text": "烤"
+        },
+        {
+          "key": "B",
+          "text": "炸"
+        },
+        {
+          "key": "C",
+          "text": "煮沸；烧开；沸腾；沸点"
+        },
+        {
+          "key": "D",
+          "text": "蒸"
+        }
+      ],
+      "source": "ai"
+    },
+    "60": {
+      "answer": "黄油",
+      "correct_key": "D",
+      "options": [
+        {
+          "key": "A",
+          "text": "酸奶"
+        },
+        {
+          "key": "B",
+          "text": "奶油"
+        },
+        {
+          "key": "C",
+          "text": "奶酪"
+        },
+        {
+          "key": "D",
+          "text": "黄油"
+        }
+      ],
+      "source": "ai"
+    },
+    "61": {
+      "answer": "炸薯条",
+      "correct_key": "A",
+      "options": [
+        {
+          "key": "A",
+          "text": "炸薯条"
+        },
+        {
+          "key": "B",
+          "text": "薯饼"
+        },
+        {
+          "key": "C",
+          "text": "汉堡"
+        },
+        {
+          "key": "D",
+          "text": "炸鸡"
+        }
+      ],
+      "source": "ai"
+    },
+    "62": {
+      "answer": "果酱",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "蜂蜜"
+        },
+        {
+          "key": "B",
+          "text": "果酱"
+        },
+        {
+          "key": "C",
+          "text": "沙拉酱"
+        },
+        {
+          "key": "D",
+          "text": "花生酱"
+        }
+      ],
+      "source": "ai"
+    },
+    "63": {
+      "answer": "日常饮食",
+      "correct_key": "C",
+      "options": [
+        {
+          "key": "A",
+          "text": "运动"
+        },
+        {
+          "key": "B",
+          "text": "睡眠"
+        },
+        {
+          "key": "C",
+          "text": "日常饮食"
+        },
+        {
+          "key": "D",
+          "text": "作息"
+        }
+      ],
+      "source": "ai"
+    },
+    "64": {
+      "answer": "一道菜；盘子",
+      "correct_key": "D",
+      "options": [
+        {
+          "key": "A",
+          "text": "杯子"
+        },
+        {
+          "key": "B",
+          "text": "筷子"
+        },
+        {
+          "key": "C",
+          "text": "碗"
+        },
+        {
+          "key": "D",
+          "text": "一道菜；盘子"
+        }
+      ],
+      "source": "ai"
+    },
+    "65": {
+      "answer": "果馅饼；肉馅饼",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "蛋糕"
+        },
+        {
+          "key": "B",
+          "text": "果馅饼；肉馅饼"
+        },
+        {
+          "key": "C",
+          "text": "饼干"
+        },
+        {
+          "key": "D",
+          "text": "面包"
+        }
+      ],
+      "source": "ai"
+    },
+    "66": {
+      "answer": "谷物；谷粒",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "坚果"
+        },
+        {
+          "key": "B",
+          "text": "谷物；谷粒"
+        },
+        {
+          "key": "C",
+          "text": "豆类"
+        },
+        {
+          "key": "D",
+          "text": "面粉"
+        }
+      ],
+      "source": "ai"
+    },
+    "67": {
+      "answer": "油炸的",
+      "correct_key": "A",
+      "options": [
+        {
+          "key": "A",
+          "text": "油炸的"
+        },
+        {
+          "key": "B",
+          "text": "蒸的"
+        },
+        {
+          "key": "C",
+          "text": "煮的"
+        },
+        {
+          "key": "D",
+          "text": "烤的"
+        }
+      ],
+      "source": "ai"
+    }
+  },
+  "results": [
+    {
+      "index": 0,
+      "prompt": "colour",
+      "expected_answer": "颜色",
+      "en": "colour",
+      "zh": "颜色",
+      "transcript": "颜色",
+      "choice_key": "C",
+      "score": 100,
+      "verdict": "correct",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T07:08:01.690+00:00",
+      "item_ended_at": "2026-11-16T15:08:06.046+08:00",
+      "response_ms": 4469,
+      "ended_reason": "scored",
+      "note": ""
+    },
+    {
+      "index": 1,
+      "prompt": "orange",
+      "expected_answer": "橙红色",
+      "en": "orange",
+      "zh": "橙红色",
+      "transcript": "蓝色",
+      "choice_key": "B",
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T07:08:07.908+00:00",
+      "item_ended_at": "2026-11-16T15:09:00.480+08:00",
+      "response_ms": 52679,
+      "ended_reason": "scored",
+      "note": ""
+    }
+  ],
+  "report_path": null,
+  "summary": null,
+  "words": [
+    {
+      "en": "colour",
+      "zh": "颜色",
+      "section": "颜色"
+    },
+    {
+      "en": "orange",
+      "zh": "橙红色",
+      "section": "颜色"
+    },
+    {
+      "en": "green",
+      "zh": "绿色",
+      "section": "颜色"
+    },
+    {
+      "en": "red",
+      "zh": "红色",
+      "section": "颜色"
+    },
+    {
+      "en": "purple",
+      "zh": "紫色",
+      "section": "颜色"
+    },
+    {
+      "en": "blue",
+      "zh": "蓝色",
+      "section": "颜色"
+    },
+    {
+      "en": "brown",
+      "zh": "棕色",
+      "section": "颜色"
+    },
+    {
+      "en": "yellow",
+      "zh": "黄色",
+      "section": "颜色"
+    },
+    {
+      "en": "white",
+      "zh": "白色",
+      "section": "颜色"
+    },
+    {
+      "en": "black",
+      "zh": "黑色",
+      "section": "颜色"
+    },
+    {
+      "en": "pink",
+      "zh": "粉红色",
+      "section": "颜色"
+    },
+    {
+      "en": "silver",
+      "zh": "银色",
+      "section": "颜色"
+    },
+    {
+      "en": "gold",
+      "zh": "金色",
+      "section": "颜色"
+    },
+    {
+      "en": "golden",
+      "zh": "金色的",
+      "section": "颜色"
+    },
+    {
+      "en": "grey",
+      "zh": "灰色",
+      "section": "颜色"
+    },
+    {
+      "en": "pale",
+      "zh": "灰白的",
+      "section": "颜色"
+    },
+    {
+      "en": "dark",
+      "zh": "深色的",
+      "section": "颜色"
+    },
+    {
+      "en": "fair",
+      "zh": "浅色的，白皙的",
+      "section": "颜色"
+    },
+    {
+      "en": "light",
+      "zh": "浅色的",
+      "section": "颜色"
+    },
+    {
+      "en": "shade",
+      "zh": "色度",
+      "section": "颜色"
+    },
+    {
+      "en": "bright",
+      "zh": "鲜艳的；明亮的",
+      "section": "颜色"
+    },
+    {
+      "en": "lively",
+      "zh": "（色彩）鲜艳的",
+      "section": "颜色"
+    },
+    {
+      "en": "colourful",
+      "zh": "五彩缤纷的",
+      "section": "颜色"
+    },
+    {
+      "en": "paint",
+      "zh": "用颜料画",
+      "section": "颜色"
+    },
+    {
+      "en": "draw",
+      "zh": "画画",
+      "section": "颜色"
+    },
+    {
+      "en": "crayon",
+      "zh": "彩色铅笔",
+      "section": "颜色"
+    },
+    {
+      "en": "family",
+      "zh": "家；家庭",
+      "section": "家庭"
+    },
+    {
+      "en": "father",
+      "zh": "父亲；爸爸",
+      "section": "家庭"
+    },
+    {
+      "en": "mother",
+      "zh": "母亲；妈妈",
+      "section": "家庭"
+    },
+    {
+      "en": "son",
+      "zh": "儿子",
+      "section": "家庭"
+    },
+    {
+      "en": "sister",
+      "zh": "姐；妹",
+      "section": "家庭"
+    },
+    {
+      "en": "brother",
+      "zh": "兄；弟",
+      "section": "家庭"
+    },
+    {
+      "en": "baby",
+      "zh": "婴儿",
+      "section": "家庭"
+    },
+    {
+      "en": "kid",
+      "zh": "小孩",
+      "section": "家庭"
+    },
+    {
+      "en": "grandparent",
+      "zh": "祖父（母）；外祖父（母）",
+      "section": "家庭"
+    },
+    {
+      "en": "granddaughter",
+      "zh": "（外）孙女",
+      "section": "家庭"
+    },
+    {
+      "en": "grandchild",
+      "zh": "（外）孙子；（外）孙女",
+      "section": "家庭"
+    },
+    {
+      "en": "grandson",
+      "zh": "孙子；外孙",
+      "section": "家庭"
+    },
+    {
+      "en": "wife",
+      "zh": "妻子",
+      "section": "家庭"
+    },
+    {
+      "en": "husband",
+      "zh": "丈夫",
+      "section": "家庭"
+    },
+    {
+      "en": "twin",
+      "zh": "双胞胎之一",
+      "section": "家庭"
+    },
+    {
+      "en": "close",
+      "zh": "亲密的",
+      "section": "家庭"
+    },
+    {
+      "en": "comfortable",
+      "zh": "舒适的",
+      "section": "家庭"
+    },
+    {
+      "en": "protect",
+      "zh": "保护；防护",
+      "section": "家庭"
+    },
+    {
+      "en": "gather",
+      "zh": "聚集；集合",
+      "section": "家庭"
+    },
+    {
+      "en": "wedding",
+      "zh": "婚礼",
+      "section": "家庭"
+    },
+    {
+      "en": "hug",
+      "zh": "拥抱；搂抱",
+      "section": "家庭"
+    },
+    {
+      "en": "feed",
+      "zh": "喂养；饲养",
+      "section": "家庭"
+    },
+    {
+      "en": "member",
+      "zh": "成员；会员",
+      "section": "家庭"
+    },
+    {
+      "en": "darling",
+      "zh": "亲爱的；宝贝",
+      "section": "家庭"
+    },
+    {
+      "en": "couple",
+      "zh": "夫妻；情侣",
+      "section": "家庭"
+    },
+    {
+      "en": "guest",
+      "zh": "客人；宾客",
+      "section": "家庭"
+    },
+    {
+      "en": "relative",
+      "zh": "亲戚；亲属",
+      "section": "家庭"
+    },
+    {
+      "en": "take care of",
+      "zh": "照顾；处理",
+      "section": "家庭"
+    },
+    {
+      "en": "listen to",
+      "zh": "听；倾听",
+      "section": "家庭"
+    },
+    {
+      "en": "oil",
+      "zh": "食用油",
+      "section": "饮食"
+    },
+    {
+      "en": "hot pot",
+      "zh": "火锅",
+      "section": "饮食"
+    },
+    {
+      "en": "piece",
+      "zh": "片；块",
+      "section": "饮食"
+    },
+    {
+      "en": "ham",
+      "zh": "火腿",
+      "section": "饮食"
+    },
+    {
+      "en": "boil",
+      "zh": "煮沸；烧开；沸腾；沸点",
+      "section": "饮食"
+    },
+    {
+      "en": "butter",
+      "zh": "黄油",
+      "section": "饮食"
+    },
+    {
+      "en": "chip",
+      "zh": "炸薯条",
+      "section": "饮食"
+    },
+    {
+      "en": "jam",
+      "zh": "果酱",
+      "section": "饮食"
+    },
+    {
+      "en": "diet",
+      "zh": "日常饮食",
+      "section": "饮食"
+    },
+    {
+      "en": "dish",
+      "zh": "一道菜；盘子",
+      "section": "饮食"
+    },
+    {
+      "en": "pie",
+      "zh": "果馅饼；肉馅饼",
+      "section": "饮食"
+    },
+    {
+      "en": "grain",
+      "zh": "谷物；谷粒",
+      "section": "饮食"
+    },
+    {
+      "en": "fried",
+      "zh": "油炸的",
+      "section": "饮食"
+    }
+  ]
+}

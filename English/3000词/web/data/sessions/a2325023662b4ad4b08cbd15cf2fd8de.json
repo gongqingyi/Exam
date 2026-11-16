@@ -1,0 +1,3078 @@
+{
+  "session_id": "a2325023662b4ad4b08cbd15cf2fd8de",
+  "batch": "1.高频常用/1-5d",
+  "category": "高频常用",
+  "day": 1,
+  "direction": "en_zh",
+  "started_at": "2026-11-16T14:19:25.536+08:00",
+  "ended_at": null,
+  "finish_reason": null,
+  "choices": {
+    "0": {
+      "answer": "颜色",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "声音"
+        },
+        {
+          "key": "B",
+          "text": "颜色"
+        },
+        {
+          "key": "C",
+          "text": "形状"
+        },
+        {
+          "key": "D",
+          "text": "味道"
+        }
+      ],
+      "source": "ai"
+    },
+    "1": {
+      "answer": "橙红色",
+      "correct_key": "A",
+      "options": [
+        {
+          "key": "A",
+          "text": "橙红色"
+        },
+        {
+          "key": "B",
+          "text": "紫色"
+        },
+        {
+          "key": "C",
+          "text": "灰色"
+        },
+        {
+          "key": "D",
+          "text": "蓝色"
+        }
+      ],
+      "source": "ai"
+    },
+    "2": {
+      "answer": "绿色",
+      "correct_key": "C",
+      "options": [
+        {
+          "key": "A",
+          "text": "黄色"
+        },
+        {
+          "key": "B",
+          "text": "蓝色"
+        },
+        {
+          "key": "C",
+          "text": "绿色"
+        },
+        {
+          "key": "D",
+          "text": "紫色"
+        }
+      ],
+      "source": "ai"
+    },
+    "3": {
+      "answer": "红色",
+      "correct_key": "D",
+      "options": [
+        {
+          "key": "A",
+          "text": "绿色"
+        },
+        {
+          "key": "B",
+          "text": "蓝色"
+        },
+        {
+          "key": "C",
+          "text": "黄色"
+        },
+        {
+          "key": "D",
+          "text": "红色"
+        }
+      ],
+      "source": "ai"
+    },
+    "4": {
+      "answer": "紫色",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "绿色"
+        },
+        {
+          "key": "B",
+          "text": "紫色"
+        },
+        {
+          "key": "C",
+          "text": "棕色"
+        },
+        {
+          "key": "D",
+          "text": "红色"
+        }
+      ],
+      "source": "ai"
+    },
+    "5": {
+      "answer": "蓝色",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "红色"
+        },
+        {
+          "key": "B",
+          "text": "蓝色"
+        },
+        {
+          "key": "C",
+          "text": "黄色"
+        },
+        {
+          "key": "D",
+          "text": "黑色"
+        }
+      ],
+      "source": "ai"
+    },
+    "6": {
+      "answer": "棕色",
+      "correct_key": "A",
+      "options": [
+        {
+          "key": "A",
+          "text": "棕色"
+        },
+        {
+          "key": "B",
+          "text": "绿色"
+        },
+        {
+          "key": "C",
+          "text": "蓝色"
+        },
+        {
+          "key": "D",
+          "text": "紫色"
+        }
+      ],
+      "source": "ai"
+    },
+    "7": {
+      "answer": "黄色",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "蓝色"
+        },
+        {
+          "key": "B",
+          "text": "黄色"
+        },
+        {
+          "key": "C",
+          "text": "红色"
+        },
+        {
+          "key": "D",
+          "text": "绿色"
+        }
+      ],
+      "source": "ai"
+    },
+    "8": {
+      "answer": "白色",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "红色"
+        },
+        {
+          "key": "B",
+          "text": "白色"
+        },
+        {
+          "key": "C",
+          "text": "黑色"
+        },
+        {
+          "key": "D",
+          "text": "蓝色"
+        }
+      ],
+      "source": "ai"
+    },
+    "9": {
+      "answer": "黑色",
+      "correct_key": "D",
+      "options": [
+        {
+          "key": "A",
+          "text": "白色"
+        },
+        {
+          "key": "B",
+          "text": "棕色"
+        },
+        {
+          "key": "C",
+          "text": "黄色"
+        },
+        {
+          "key": "D",
+          "text": "黑色"
+        }
+      ],
+      "source": "ai"
+    },
+    "10": {
+      "answer": "粉红色",
+      "correct_key": "A",
+      "options": [
+        {
+          "key": "A",
+          "text": "粉红色"
+        },
+        {
+          "key": "B",
+          "text": "橙色"
+        },
+        {
+          "key": "C",
+          "text": "紫色"
+        },
+        {
+          "key": "D",
+          "text": "棕色"
+        }
+      ],
+      "source": "ai"
+    },
+    "11": {
+      "answer": "银色",
+      "correct_key": "C",
+      "options": [
+        {
+          "key": "A",
+          "text": "金色"
+        },
+        {
+          "key": "B",
+          "text": "蓝色"
+        },
+        {
+          "key": "C",
+          "text": "银色"
+        },
+        {
+          "key": "D",
+          "text": "铜色"
+        }
+      ],
+      "source": "ai"
+    },
+    "12": {
+      "answer": "金色",
+      "correct_key": "C",
+      "options": [
+        {
+          "key": "A",
+          "text": "黄色"
+        },
+        {
+          "key": "B",
+          "text": "铜色"
+        },
+        {
+          "key": "C",
+          "text": "金色"
+        },
+        {
+          "key": "D",
+          "text": "银色"
+        }
+      ],
+      "source": "ai"
+    },
+    "13": {
+      "answer": "金色的",
+      "correct_key": "A",
+      "options": [
+        {
+          "key": "A",
+          "text": "金色的"
+        },
+        {
+          "key": "B",
+          "text": "铜色的"
+        },
+        {
+          "key": "C",
+          "text": "灰色的"
+        },
+        {
+          "key": "D",
+          "text": "银色的"
+        }
+      ],
+      "source": "ai"
+    },
+    "14": {
+      "answer": "灰色",
+      "correct_key": "D",
+      "options": [
+        {
+          "key": "A",
+          "text": "蓝色"
+        },
+        {
+          "key": "B",
+          "text": "绿色"
+        },
+        {
+          "key": "C",
+          "text": "紫色"
+        },
+        {
+          "key": "D",
+          "text": "灰色"
+        }
+      ],
+      "source": "ai"
+    },
+    "15": {
+      "answer": "灰白的",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "深红色的"
+        },
+        {
+          "key": "B",
+          "text": "灰白的"
+        },
+        {
+          "key": "C",
+          "text": "乌黑的"
+        },
+        {
+          "key": "D",
+          "text": "鲜绿色的"
+        }
+      ],
+      "source": "ai"
+    },
+    "16": {
+      "answer": "深色的",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "透明的"
+        },
+        {
+          "key": "B",
+          "text": "深色的"
+        },
+        {
+          "key": "C",
+          "text": "浅色的"
+        },
+        {
+          "key": "D",
+          "text": "明亮的"
+        }
+      ],
+      "source": "ai"
+    },
+    "17": {
+      "answer": "浅色的，白皙的",
+      "correct_key": "C",
+      "options": [
+        {
+          "key": "A",
+          "text": "乌黑的"
+        },
+        {
+          "key": "B",
+          "text": "深色的"
+        },
+        {
+          "key": "C",
+          "text": "浅色的，白皙的"
+        },
+        {
+          "key": "D",
+          "text": "棕褐色的"
+        }
+      ],
+      "source": "ai"
+    },
+    "18": {
+      "answer": "浅色的",
+      "correct_key": "D",
+      "options": [
+        {
+          "key": "A",
+          "text": "沉重的"
+        },
+        {
+          "key": "B",
+          "text": "昏暗的"
+        },
+        {
+          "key": "C",
+          "text": "深色的"
+        },
+        {
+          "key": "D",
+          "text": "浅色的"
+        }
+      ],
+      "source": "ai"
+    },
+    "19": {
+      "answer": "色度",
+      "correct_key": "D",
+      "options": [
+        {
+          "key": "A",
+          "text": "透明度"
+        },
+        {
+          "key": "B",
+          "text": "亮度"
+        },
+        {
+          "key": "C",
+          "text": "饱和度"
+        },
+        {
+          "key": "D",
+          "text": "色度"
+        }
+      ],
+      "source": "ai"
+    },
+    "20": {
+      "answer": "鲜艳的；明亮的",
+      "correct_key": "A",
+      "options": [
+        {
+          "key": "A",
+          "text": "鲜艳的；明亮的"
+        },
+        {
+          "key": "B",
+          "text": "模糊的"
+        },
+        {
+          "key": "C",
+          "text": "暗淡的"
+        },
+        {
+          "key": "D",
+          "text": "深色的"
+        }
+      ],
+      "source": "ai"
+    },
+    "21": {
+      "answer": "（色彩）鲜艳的",
+      "correct_key": "D",
+      "options": [
+        {
+          "key": "A",
+          "text": "朴素的"
+        },
+        {
+          "key": "B",
+          "text": "暗淡的"
+        },
+        {
+          "key": "C",
+          "text": "单调的"
+        },
+        {
+          "key": "D",
+          "text": "（色彩）鲜艳的"
+        }
+      ],
+      "source": "ai"
+    },
+    "22": {
+      "answer": "五彩缤纷的",
+      "correct_key": "A",
+      "options": [
+        {
+          "key": "A",
+          "text": "五彩缤纷的"
+        },
+        {
+          "key": "B",
+          "text": "褪色的"
+        },
+        {
+          "key": "C",
+          "text": "灰暗的"
+        },
+        {
+          "key": "D",
+          "text": "单色的"
+        }
+      ],
+      "source": "ai"
+    },
+    "23": {
+      "answer": "用颜料画",
+      "correct_key": "D",
+      "options": [
+        {
+          "key": "A",
+          "text": "用钢笔画"
+        },
+        {
+          "key": "B",
+          "text": "用蜡笔画"
+        },
+        {
+          "key": "C",
+          "text": "用铅笔画"
+        },
+        {
+          "key": "D",
+          "text": "用颜料画"
+        }
+      ],
+      "source": "ai"
+    },
+    "24": {
+      "answer": "画画",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "写字"
+        },
+        {
+          "key": "B",
+          "text": "画画"
+        },
+        {
+          "key": "C",
+          "text": "雕刻"
+        },
+        {
+          "key": "D",
+          "text": "涂色"
+        }
+      ],
+      "source": "ai"
+    },
+    "25": {
+      "answer": "彩色铅笔",
+      "correct_key": "A",
+      "options": [
+        {
+          "key": "A",
+          "text": "彩色铅笔"
+        },
+        {
+          "key": "B",
+          "text": "圆珠笔"
+        },
+        {
+          "key": "C",
+          "text": "水彩笔"
+        },
+        {
+          "key": "D",
+          "text": "毛笔"
+        }
+      ],
+      "source": "ai"
+    },
+    "26": {
+      "answer": "家；家庭",
+      "correct_key": "D",
+      "options": [
+        {
+          "key": "A",
+          "text": "朋友"
+        },
+        {
+          "key": "B",
+          "text": "房子"
+        },
+        {
+          "key": "C",
+          "text": "邻居"
+        },
+        {
+          "key": "D",
+          "text": "家；家庭"
+        }
+      ],
+      "source": "ai"
+    },
+    "27": {
+      "answer": "父亲；爸爸",
+      "correct_key": "A",
+      "options": [
+        {
+          "key": "A",
+          "text": "父亲；爸爸"
+        },
+        {
+          "key": "B",
+          "text": "叔叔"
+        },
+        {
+          "key": "C",
+          "text": "母亲"
+        },
+        {
+          "key": "D",
+          "text": "兄弟"
+        }
+      ],
+      "source": "ai"
+    },
+    "28": {
+      "answer": "母亲；妈妈",
+      "correct_key": "D",
+      "options": [
+        {
+          "key": "A",
+          "text": "父亲"
+        },
+        {
+          "key": "B",
+          "text": "阿姨"
+        },
+        {
+          "key": "C",
+          "text": "女儿"
+        },
+        {
+          "key": "D",
+          "text": "母亲；妈妈"
+        }
+      ],
+      "source": "ai"
+    },
+    "29": {
+      "answer": "儿子",
+      "correct_key": "C",
+      "options": [
+        {
+          "key": "A",
+          "text": "女儿"
+        },
+        {
+          "key": "B",
+          "text": "兄弟"
+        },
+        {
+          "key": "C",
+          "text": "儿子"
+        },
+        {
+          "key": "D",
+          "text": "侄子"
+        }
+      ],
+      "source": "ai"
+    },
+    "30": {
+      "answer": "姐；妹",
+      "correct_key": "D",
+      "options": [
+        {
+          "key": "A",
+          "text": "表姐"
+        },
+        {
+          "key": "B",
+          "text": "嫂子"
+        },
+        {
+          "key": "C",
+          "text": "姑妈"
+        },
+        {
+          "key": "D",
+          "text": "姐；妹"
+        }
+      ],
+      "source": "ai"
+    },
+    "31": {
+      "answer": "兄；弟",
+      "correct_key": "C",
+      "options": [
+        {
+          "key": "A",
+          "text": "叔叔"
+        },
+        {
+          "key": "B",
+          "text": "侄子"
+        },
+        {
+          "key": "C",
+          "text": "兄；弟"
+        },
+        {
+          "key": "D",
+          "text": "表哥"
+        }
+      ],
+      "source": "ai"
+    },
+    "32": {
+      "answer": "婴儿",
+      "correct_key": "C",
+      "options": [
+        {
+          "key": "A",
+          "text": "幼儿"
+        },
+        {
+          "key": "B",
+          "text": "老人"
+        },
+        {
+          "key": "C",
+          "text": "婴儿"
+        },
+        {
+          "key": "D",
+          "text": "少年"
+        }
+      ],
+      "source": "ai"
+    },
+    "33": {
+      "answer": "小孩",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "成人"
+        },
+        {
+          "key": "B",
+          "text": "小孩"
+        },
+        {
+          "key": "C",
+          "text": "老人"
+        },
+        {
+          "key": "D",
+          "text": "婴儿"
+        }
+      ],
+      "source": "ai"
+    },
+    "34": {
+      "answer": "祖父（母）；外祖父（母）",
+      "correct_key": "D",
+      "options": [
+        {
+          "key": "A",
+          "text": "舅舅"
+        },
+        {
+          "key": "B",
+          "text": "父母"
+        },
+        {
+          "key": "C",
+          "text": "孙子"
+        },
+        {
+          "key": "D",
+          "text": "祖父（母）；外祖父（母）"
+        }
+      ],
+      "source": "ai"
+    },
+    "35": {
+      "answer": "（外）孙女",
+      "correct_key": "D",
+      "options": [
+        {
+          "key": "A",
+          "text": "女儿"
+        },
+        {
+          "key": "B",
+          "text": "外孙"
+        },
+        {
+          "key": "C",
+          "text": "侄女"
+        },
+        {
+          "key": "D",
+          "text": "（外）孙女"
+        }
+      ],
+      "source": "ai"
+    },
+    "36": {
+      "answer": "（外）孙子；（外）孙女",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "子女"
+        },
+        {
+          "key": "B",
+          "text": "（外）孙子；（外）孙女"
+        },
+        {
+          "key": "C",
+          "text": "外甥"
+        },
+        {
+          "key": "D",
+          "text": "侄子"
+        }
+      ],
+      "source": "ai"
+    },
+    "37": {
+      "answer": "孙子；外孙",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "孙女"
+        },
+        {
+          "key": "B",
+          "text": "孙子；外孙"
+        },
+        {
+          "key": "C",
+          "text": "侄子"
+        },
+        {
+          "key": "D",
+          "text": "儿子"
+        }
+      ],
+      "source": "ai"
+    },
+    "38": {
+      "answer": "妻子",
+      "correct_key": "D",
+      "options": [
+        {
+          "key": "A",
+          "text": "丈夫"
+        },
+        {
+          "key": "B",
+          "text": "母亲"
+        },
+        {
+          "key": "C",
+          "text": "女儿"
+        },
+        {
+          "key": "D",
+          "text": "妻子"
+        }
+      ],
+      "source": "ai"
+    },
+    "39": {
+      "answer": "丈夫",
+      "correct_key": "C",
+      "options": [
+        {
+          "key": "A",
+          "text": "父亲"
+        },
+        {
+          "key": "B",
+          "text": "妻子"
+        },
+        {
+          "key": "C",
+          "text": "丈夫"
+        },
+        {
+          "key": "D",
+          "text": "儿子"
+        }
+      ],
+      "source": "ai"
+    },
+    "40": {
+      "answer": "双胞胎之一",
+      "correct_key": "A",
+      "options": [
+        {
+          "key": "A",
+          "text": "双胞胎之一"
+        },
+        {
+          "key": "B",
+          "text": "独生子女"
+        },
+        {
+          "key": "C",
+          "text": "邻居"
+        },
+        {
+          "key": "D",
+          "text": "表亲"
+        }
+      ],
+      "source": "ai"
+    },
+    "41": {
+      "answer": "亲密的",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "冷淡的"
+        },
+        {
+          "key": "B",
+          "text": "亲密的"
+        },
+        {
+          "key": "C",
+          "text": "陌生的"
+        },
+        {
+          "key": "D",
+          "text": "遥远的"
+        }
+      ],
+      "source": "ai"
+    },
+    "42": {
+      "answer": "舒适的",
+      "correct_key": "A",
+      "options": [
+        {
+          "key": "A",
+          "text": "舒适的"
+        },
+        {
+          "key": "B",
+          "text": "常见的"
+        },
+        {
+          "key": "C",
+          "text": "完整的"
+        },
+        {
+          "key": "D",
+          "text": "方便的"
+        }
+      ],
+      "source": "ai"
+    },
+    "43": {
+      "answer": "保护；防护",
+      "correct_key": "C",
+      "options": [
+        {
+          "key": "A",
+          "text": "攻击"
+        },
+        {
+          "key": "B",
+          "text": "暴露"
+        },
+        {
+          "key": "C",
+          "text": "保护；防护"
+        },
+        {
+          "key": "D",
+          "text": "惩罚"
+        }
+      ],
+      "source": "ai"
+    },
+    "44": {
+      "answer": "聚集；集合",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "分散"
+        },
+        {
+          "key": "B",
+          "text": "聚集；集合"
+        },
+        {
+          "key": "C",
+          "text": "离开"
+        },
+        {
+          "key": "D",
+          "text": "解散"
+        }
+      ],
+      "source": "ai"
+    },
+    "45": {
+      "answer": "婚礼",
+      "correct_key": "C",
+      "options": [
+        {
+          "key": "A",
+          "text": "生日聚会"
+        },
+        {
+          "key": "B",
+          "text": "葬礼"
+        },
+        {
+          "key": "C",
+          "text": "婚礼"
+        },
+        {
+          "key": "D",
+          "text": "毕业典礼"
+        }
+      ],
+      "source": "ai"
+    },
+    "46": {
+      "answer": "拥抱；搂抱",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "挥手"
+        },
+        {
+          "key": "B",
+          "text": "拥抱；搂抱"
+        },
+        {
+          "key": "C",
+          "text": "握手"
+        },
+        {
+          "key": "D",
+          "text": "亲吻"
+        }
+      ],
+      "source": "ai"
+    },
+    "47": {
+      "answer": "喂养；饲养",
+      "correct_key": "D",
+      "options": [
+        {
+          "key": "A",
+          "text": "驱赶"
+        },
+        {
+          "key": "B",
+          "text": "捕捉"
+        },
+        {
+          "key": "C",
+          "text": "训练"
+        },
+        {
+          "key": "D",
+          "text": "喂养；饲养"
+        }
+      ],
+      "source": "ai"
+    },
+    "48": {
+      "answer": "成员；会员",
+      "correct_key": "A",
+      "options": [
+        {
+          "key": "A",
+          "text": "成员；会员"
+        },
+        {
+          "key": "B",
+          "text": "领导"
+        },
+        {
+          "key": "C",
+          "text": "对手"
+        },
+        {
+          "key": "D",
+          "text": "来宾"
+        }
+      ],
+      "source": "ai"
+    },
+    "49": {
+      "answer": "亲爱的；宝贝",
+      "correct_key": "C",
+      "options": [
+        {
+          "key": "A",
+          "text": "仆人"
+        },
+        {
+          "key": "B",
+          "text": "陌生人"
+        },
+        {
+          "key": "C",
+          "text": "亲爱的；宝贝"
+        },
+        {
+          "key": "D",
+          "text": "敌人"
+        }
+      ],
+      "source": "ai"
+    },
+    "50": {
+      "answer": "夫妻；情侣",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "双胞胎"
+        },
+        {
+          "key": "B",
+          "text": "夫妻；情侣"
+        },
+        {
+          "key": "C",
+          "text": "单身者"
+        },
+        {
+          "key": "D",
+          "text": "同事"
+        }
+      ],
+      "source": "ai"
+    },
+    "51": {
+      "answer": "客人；宾客",
+      "correct_key": "A",
+      "options": [
+        {
+          "key": "A",
+          "text": "客人；宾客"
+        },
+        {
+          "key": "B",
+          "text": "房东"
+        },
+        {
+          "key": "C",
+          "text": "主人"
+        },
+        {
+          "key": "D",
+          "text": "服务员"
+        }
+      ],
+      "source": "ai"
+    },
+    "52": {
+      "answer": "亲戚；亲属",
+      "correct_key": "A",
+      "options": [
+        {
+          "key": "A",
+          "text": "亲戚；亲属"
+        },
+        {
+          "key": "B",
+          "text": "朋友"
+        },
+        {
+          "key": "C",
+          "text": "邻居"
+        },
+        {
+          "key": "D",
+          "text": "同事"
+        }
+      ],
+      "source": "ai"
+    },
+    "53": {
+      "answer": "照顾；处理",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "打扰"
+        },
+        {
+          "key": "B",
+          "text": "照顾；处理"
+        },
+        {
+          "key": "C",
+          "text": "拒绝"
+        },
+        {
+          "key": "D",
+          "text": "忽视"
+        }
+      ],
+      "source": "ai"
+    },
+    "54": {
+      "answer": "听；倾听",
+      "correct_key": "D",
+      "options": [
+        {
+          "key": "A",
+          "text": "诉说"
+        },
+        {
+          "key": "B",
+          "text": "记录"
+        },
+        {
+          "key": "C",
+          "text": "观看"
+        },
+        {
+          "key": "D",
+          "text": "听；倾听"
+        }
+      ],
+      "source": "ai"
+    },
+    "55": {
+      "answer": "食用油",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "糖"
+        },
+        {
+          "key": "B",
+          "text": "食用油"
+        },
+        {
+          "key": "C",
+          "text": "盐"
+        },
+        {
+          "key": "D",
+          "text": "醋"
+        }
+      ],
+      "source": "ai"
+    },
+    "56": {
+      "answer": "火锅",
+      "correct_key": "A",
+      "options": [
+        {
+          "key": "A",
+          "text": "火锅"
+        },
+        {
+          "key": "B",
+          "text": "汤面"
+        },
+        {
+          "key": "C",
+          "text": "烧烤"
+        },
+        {
+          "key": "D",
+          "text": "炒饭"
+        }
+      ],
+      "source": "ai"
+    },
+    "57": {
+      "answer": "片；块",
+      "correct_key": "D",
+      "options": [
+        {
+          "key": "A",
+          "text": "滴"
+        },
+        {
+          "key": "B",
+          "text": "串"
+        },
+        {
+          "key": "C",
+          "text": "双"
+        },
+        {
+          "key": "D",
+          "text": "片；块"
+        }
+      ],
+      "source": "ai"
+    },
+    "58": {
+      "answer": "火腿",
+      "correct_key": "C",
+      "options": [
+        {
+          "key": "A",
+          "text": "牛排"
+        },
+        {
+          "key": "B",
+          "text": "香肠"
+        },
+        {
+          "key": "C",
+          "text": "火腿"
+        },
+        {
+          "key": "D",
+          "text": "培根"
+        }
+      ],
+      "source": "ai"
+    },
+    "59": {
+      "answer": "煮沸；烧开；沸腾；沸点",
+      "correct_key": "C",
+      "options": [
+        {
+          "key": "A",
+          "text": "炸"
+        },
+        {
+          "key": "B",
+          "text": "蒸"
+        },
+        {
+          "key": "C",
+          "text": "煮沸；烧开；沸腾；沸点"
+        },
+        {
+          "key": "D",
+          "text": "烤"
+        }
+      ],
+      "source": "ai"
+    },
+    "60": {
+      "answer": "黄油",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "酸奶"
+        },
+        {
+          "key": "B",
+          "text": "黄油"
+        },
+        {
+          "key": "C",
+          "text": "奶酪"
+        },
+        {
+          "key": "D",
+          "text": "蜂蜜"
+        }
+      ],
+      "source": "ai"
+    },
+    "61": {
+      "answer": "炸薯条",
+      "correct_key": "C",
+      "options": [
+        {
+          "key": "A",
+          "text": "洋葱圈"
+        },
+        {
+          "key": "B",
+          "text": "炸鸡块"
+        },
+        {
+          "key": "C",
+          "text": "炸薯条"
+        },
+        {
+          "key": "D",
+          "text": "土豆泥"
+        }
+      ],
+      "source": "ai"
+    },
+    "62": {
+      "answer": "果酱",
+      "correct_key": "A",
+      "options": [
+        {
+          "key": "A",
+          "text": "果酱"
+        },
+        {
+          "key": "B",
+          "text": "蜂蜜"
+        },
+        {
+          "key": "C",
+          "text": "奶油"
+        },
+        {
+          "key": "D",
+          "text": "花生酱"
+        }
+      ],
+      "source": "ai"
+    },
+    "63": {
+      "answer": "日常饮食",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "作息"
+        },
+        {
+          "key": "B",
+          "text": "日常饮食"
+        },
+        {
+          "key": "C",
+          "text": "体检"
+        },
+        {
+          "key": "D",
+          "text": "锻炼"
+        }
+      ],
+      "source": "ai"
+    },
+    "64": {
+      "answer": "一道菜；盘子",
+      "correct_key": "A",
+      "options": [
+        {
+          "key": "A",
+          "text": "一道菜；盘子"
+        },
+        {
+          "key": "B",
+          "text": "餐桌"
+        },
+        {
+          "key": "C",
+          "text": "菜单"
+        },
+        {
+          "key": "D",
+          "text": "厨房"
+        }
+      ],
+      "source": "ai"
+    },
+    "65": {
+      "answer": "果馅饼；肉馅饼",
+      "correct_key": "B",
+      "options": [
+        {
+          "key": "A",
+          "text": "布丁"
+        },
+        {
+          "key": "B",
+          "text": "果馅饼；肉馅饼"
+        },
+        {
+          "key": "C",
+          "text": "饼干"
+        },
+        {
+          "key": "D",
+          "text": "蛋糕"
+        }
+      ],
+      "source": "ai"
+    },
+    "66": {
+      "answer": "谷物；谷粒",
+      "correct_key": "A",
+      "options": [
+        {
+          "key": "A",
+          "text": "谷物；谷粒"
+        },
+        {
+          "key": "B",
+          "text": "蔬菜"
+        },
+        {
+          "key": "C",
+          "text": "水果"
+        },
+        {
+          "key": "D",
+          "text": "坚果"
+        }
+      ],
+      "source": "ai"
+    },
+    "67": {
+      "answer": "油炸的",
+      "correct_key": "D",
+      "options": [
+        {
+          "key": "A",
+          "text": "蒸的"
+        },
+        {
+          "key": "B",
+          "text": "煮的"
+        },
+        {
+          "key": "C",
+          "text": "烤的"
+        },
+        {
+          "key": "D",
+          "text": "油炸的"
+        }
+      ],
+      "source": "ai"
+    }
+  },
+  "results": [
+    {
+      "index": 0,
+      "prompt": "colour",
+      "expected_answer": "颜色",
+      "en": "colour",
+      "zh": "颜色",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:19:25.547+00:00",
+      "item_ended_at": "2026-11-16T14:24:01.021+08:00",
+      "response_ms": 275462,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 1,
+      "prompt": "orange",
+      "expected_answer": "橙红色",
+      "en": "orange",
+      "zh": "橙红色",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:01.026+00:00",
+      "item_ended_at": "2026-11-16T14:24:01.218+08:00",
+      "response_ms": 188,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 2,
+      "prompt": "green",
+      "expected_answer": "绿色",
+      "en": "green",
+      "zh": "绿色",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:01.224+00:00",
+      "item_ended_at": "2026-11-16T14:24:01.395+08:00",
+      "response_ms": 169,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 3,
+      "prompt": "red",
+      "expected_answer": "红色",
+      "en": "red",
+      "zh": "红色",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:01.398+00:00",
+      "item_ended_at": "2026-11-16T14:24:01.591+08:00",
+      "response_ms": 191,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 4,
+      "prompt": "purple",
+      "expected_answer": "紫色",
+      "en": "purple",
+      "zh": "紫色",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:01.597+00:00",
+      "item_ended_at": "2026-11-16T14:24:01.792+08:00",
+      "response_ms": 191,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 5,
+      "prompt": "blue",
+      "expected_answer": "蓝色",
+      "en": "blue",
+      "zh": "蓝色",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:01.795+00:00",
+      "item_ended_at": "2026-11-16T14:24:01.980+08:00",
+      "response_ms": 182,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 6,
+      "prompt": "brown",
+      "expected_answer": "棕色",
+      "en": "brown",
+      "zh": "棕色",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:01.987+00:00",
+      "item_ended_at": "2026-11-16T14:24:02.158+08:00",
+      "response_ms": 168,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 7,
+      "prompt": "yellow",
+      "expected_answer": "黄色",
+      "en": "yellow",
+      "zh": "黄色",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:02.164+00:00",
+      "item_ended_at": "2026-11-16T14:24:02.353+08:00",
+      "response_ms": 186,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 8,
+      "prompt": "white",
+      "expected_answer": "白色",
+      "en": "white",
+      "zh": "白色",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:02.357+00:00",
+      "item_ended_at": "2026-11-16T14:24:02.545+08:00",
+      "response_ms": 185,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 9,
+      "prompt": "black",
+      "expected_answer": "黑色",
+      "en": "black",
+      "zh": "黑色",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:02.553+00:00",
+      "item_ended_at": "2026-11-16T14:24:02.734+08:00",
+      "response_ms": 179,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 10,
+      "prompt": "pink",
+      "expected_answer": "粉红色",
+      "en": "pink",
+      "zh": "粉红色",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:02.741+00:00",
+      "item_ended_at": "2026-11-16T14:24:02.927+08:00",
+      "response_ms": 185,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 11,
+      "prompt": "silver",
+      "expected_answer": "银色",
+      "en": "silver",
+      "zh": "银色",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:02.934+00:00",
+      "item_ended_at": "2026-11-16T14:24:03.112+08:00",
+      "response_ms": 177,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 12,
+      "prompt": "gold",
+      "expected_answer": "金色",
+      "en": "gold",
+      "zh": "金色",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:03.117+00:00",
+      "item_ended_at": "2026-11-16T14:24:03.307+08:00",
+      "response_ms": 188,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 13,
+      "prompt": "golden",
+      "expected_answer": "金色的",
+      "en": "golden",
+      "zh": "金色的",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:03.311+00:00",
+      "item_ended_at": "2026-11-16T14:24:03.488+08:00",
+      "response_ms": 174,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 14,
+      "prompt": "grey",
+      "expected_answer": "灰色",
+      "en": "grey",
+      "zh": "灰色",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:03.491+00:00",
+      "item_ended_at": "2026-11-16T14:24:03.684+08:00",
+      "response_ms": 190,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 15,
+      "prompt": "pale",
+      "expected_answer": "灰白的",
+      "en": "pale",
+      "zh": "灰白的",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:03.687+00:00",
+      "item_ended_at": "2026-11-16T14:24:03.869+08:00",
+      "response_ms": 179,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 16,
+      "prompt": "dark",
+      "expected_answer": "深色的",
+      "en": "dark",
+      "zh": "深色的",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:03.872+00:00",
+      "item_ended_at": "2026-11-16T14:24:04.054+08:00",
+      "response_ms": 179,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 17,
+      "prompt": "fair",
+      "expected_answer": "浅色的，白皙的",
+      "en": "fair",
+      "zh": "浅色的，白皙的",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:04.058+00:00",
+      "item_ended_at": "2026-11-16T14:24:04.252+08:00",
+      "response_ms": 189,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 18,
+      "prompt": "light",
+      "expected_answer": "浅色的",
+      "en": "light",
+      "zh": "浅色的",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:04.259+00:00",
+      "item_ended_at": "2026-11-16T14:24:04.440+08:00",
+      "response_ms": 178,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 19,
+      "prompt": "shade",
+      "expected_answer": "色度",
+      "en": "shade",
+      "zh": "色度",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:04.444+00:00",
+      "item_ended_at": "2026-11-16T14:24:04.632+08:00",
+      "response_ms": 186,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 20,
+      "prompt": "bright",
+      "expected_answer": "鲜艳的；明亮的",
+      "en": "bright",
+      "zh": "鲜艳的；明亮的",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:04.637+00:00",
+      "item_ended_at": "2026-11-16T14:24:04.830+08:00",
+      "response_ms": 190,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 21,
+      "prompt": "lively",
+      "expected_answer": "（色彩）鲜艳的",
+      "en": "lively",
+      "zh": "（色彩）鲜艳的",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:04.834+00:00",
+      "item_ended_at": "2026-11-16T14:24:05.021+08:00",
+      "response_ms": 185,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 22,
+      "prompt": "colourful",
+      "expected_answer": "五彩缤纷的",
+      "en": "colourful",
+      "zh": "五彩缤纷的",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:05.026+00:00",
+      "item_ended_at": "2026-11-16T14:24:05.217+08:00",
+      "response_ms": 189,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 23,
+      "prompt": "paint",
+      "expected_answer": "用颜料画",
+      "en": "paint",
+      "zh": "用颜料画",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:05.221+00:00",
+      "item_ended_at": "2026-11-16T14:24:05.411+08:00",
+      "response_ms": 188,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 24,
+      "prompt": "draw",
+      "expected_answer": "画画",
+      "en": "draw",
+      "zh": "画画",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:05.417+00:00",
+      "item_ended_at": "2026-11-16T14:24:05.589+08:00",
+      "response_ms": 170,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 25,
+      "prompt": "crayon",
+      "expected_answer": "彩色铅笔",
+      "en": "crayon",
+      "zh": "彩色铅笔",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:05.593+00:00",
+      "item_ended_at": "2026-11-16T14:24:05.790+08:00",
+      "response_ms": 196,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 26,
+      "prompt": "family",
+      "expected_answer": "家；家庭",
+      "en": "family",
+      "zh": "家；家庭",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:05.793+00:00",
+      "item_ended_at": "2026-11-16T14:24:05.972+08:00",
+      "response_ms": 176,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 27,
+      "prompt": "father",
+      "expected_answer": "父亲；爸爸",
+      "en": "father",
+      "zh": "父亲；爸爸",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:05.975+00:00",
+      "item_ended_at": "2026-11-16T14:24:06.167+08:00",
+      "response_ms": 189,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 28,
+      "prompt": "mother",
+      "expected_answer": "母亲；妈妈",
+      "en": "mother",
+      "zh": "母亲；妈妈",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:06.170+00:00",
+      "item_ended_at": "2026-11-16T14:24:06.367+08:00",
+      "response_ms": 194,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 29,
+      "prompt": "son",
+      "expected_answer": "儿子",
+      "en": "son",
+      "zh": "儿子",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:06.372+00:00",
+      "item_ended_at": "2026-11-16T14:24:06.537+08:00",
+      "response_ms": 162,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 30,
+      "prompt": "sister",
+      "expected_answer": "姐；妹",
+      "en": "sister",
+      "zh": "姐；妹",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:06.543+00:00",
+      "item_ended_at": "2026-11-16T14:24:06.719+08:00",
+      "response_ms": 173,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 31,
+      "prompt": "brother",
+      "expected_answer": "兄；弟",
+      "en": "brother",
+      "zh": "兄；弟",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:06.727+00:00",
+      "item_ended_at": "2026-11-16T14:24:06.907+08:00",
+      "response_ms": 175,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 32,
+      "prompt": "baby",
+      "expected_answer": "婴儿",
+      "en": "baby",
+      "zh": "婴儿",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:06.910+00:00",
+      "item_ended_at": "2026-11-16T14:24:07.104+08:00",
+      "response_ms": 191,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 33,
+      "prompt": "kid",
+      "expected_answer": "小孩",
+      "en": "kid",
+      "zh": "小孩",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:07.110+00:00",
+      "item_ended_at": "2026-11-16T14:24:07.294+08:00",
+      "response_ms": 183,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 34,
+      "prompt": "grandparent",
+      "expected_answer": "祖父（母）；外祖父（母）",
+      "en": "grandparent",
+      "zh": "祖父（母）；外祖父（母）",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:07.297+00:00",
+      "item_ended_at": "2026-11-16T14:24:07.499+08:00",
+      "response_ms": 200,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 35,
+      "prompt": "granddaughter",
+      "expected_answer": "（外）孙女",
+      "en": "granddaughter",
+      "zh": "（外）孙女",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:07.502+00:00",
+      "item_ended_at": "2026-11-16T14:24:07.712+08:00",
+      "response_ms": 206,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 36,
+      "prompt": "grandchild",
+      "expected_answer": "（外）孙子；（外）孙女",
+      "en": "grandchild",
+      "zh": "（外）孙子；（外）孙女",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:07.714+00:00",
+      "item_ended_at": "2026-11-16T14:24:07.908+08:00",
+      "response_ms": 189,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 37,
+      "prompt": "grandson",
+      "expected_answer": "孙子；外孙",
+      "en": "grandson",
+      "zh": "孙子；外孙",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:07.913+00:00",
+      "item_ended_at": "2026-11-16T14:24:08.111+08:00",
+      "response_ms": 195,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 38,
+      "prompt": "wife",
+      "expected_answer": "妻子",
+      "en": "wife",
+      "zh": "妻子",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:08.115+00:00",
+      "item_ended_at": "2026-11-16T14:24:08.303+08:00",
+      "response_ms": 187,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 39,
+      "prompt": "husband",
+      "expected_answer": "丈夫",
+      "en": "husband",
+      "zh": "丈夫",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:08.307+00:00",
+      "item_ended_at": "2026-11-16T14:24:08.490+08:00",
+      "response_ms": 181,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 40,
+      "prompt": "twin",
+      "expected_answer": "双胞胎之一",
+      "en": "twin",
+      "zh": "双胞胎之一",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:08.494+00:00",
+      "item_ended_at": "2026-11-16T14:24:08.684+08:00",
+      "response_ms": 187,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 41,
+      "prompt": "close",
+      "expected_answer": "亲密的",
+      "en": "close",
+      "zh": "亲密的",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:08.688+00:00",
+      "item_ended_at": "2026-11-16T14:24:08.875+08:00",
+      "response_ms": 184,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 42,
+      "prompt": "comfortable",
+      "expected_answer": "舒适的",
+      "en": "comfortable",
+      "zh": "舒适的",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:08.881+00:00",
+      "item_ended_at": "2026-11-16T14:24:09.074+08:00",
+      "response_ms": 191,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 43,
+      "prompt": "protect",
+      "expected_answer": "保护；防护",
+      "en": "protect",
+      "zh": "保护；防护",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:09.078+00:00",
+      "item_ended_at": "2026-11-16T14:24:09.271+08:00",
+      "response_ms": 190,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 44,
+      "prompt": "gather",
+      "expected_answer": "聚集；集合",
+      "en": "gather",
+      "zh": "聚集；集合",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:09.276+00:00",
+      "item_ended_at": "2026-11-16T14:24:09.466+08:00",
+      "response_ms": 186,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 45,
+      "prompt": "wedding",
+      "expected_answer": "婚礼",
+      "en": "wedding",
+      "zh": "婚礼",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:09.470+00:00",
+      "item_ended_at": "2026-11-16T14:24:09.653+08:00",
+      "response_ms": 179,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 46,
+      "prompt": "hug",
+      "expected_answer": "拥抱；搂抱",
+      "en": "hug",
+      "zh": "拥抱；搂抱",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:09.657+00:00",
+      "item_ended_at": "2026-11-16T14:24:09.853+08:00",
+      "response_ms": 195,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 47,
+      "prompt": "feed",
+      "expected_answer": "喂养；饲养",
+      "en": "feed",
+      "zh": "喂养；饲养",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:09.860+00:00",
+      "item_ended_at": "2026-11-16T14:24:10.043+08:00",
+      "response_ms": 179,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 48,
+      "prompt": "member",
+      "expected_answer": "成员；会员",
+      "en": "member",
+      "zh": "成员；会员",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:10.047+00:00",
+      "item_ended_at": "2026-11-16T14:24:10.236+08:00",
+      "response_ms": 185,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 49,
+      "prompt": "darling",
+      "expected_answer": "亲爱的；宝贝",
+      "en": "darling",
+      "zh": "亲爱的；宝贝",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:10.240+00:00",
+      "item_ended_at": "2026-11-16T14:24:10.430+08:00",
+      "response_ms": 187,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 50,
+      "prompt": "couple",
+      "expected_answer": "夫妻；情侣",
+      "en": "couple",
+      "zh": "夫妻；情侣",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:10.434+00:00",
+      "item_ended_at": "2026-11-16T14:24:10.630+08:00",
+      "response_ms": 194,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 51,
+      "prompt": "guest",
+      "expected_answer": "客人；宾客",
+      "en": "guest",
+      "zh": "客人；宾客",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:10.635+00:00",
+      "item_ended_at": "2026-11-16T14:24:10.825+08:00",
+      "response_ms": 187,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 52,
+      "prompt": "relative",
+      "expected_answer": "亲戚；亲属",
+      "en": "relative",
+      "zh": "亲戚；亲属",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:10.829+00:00",
+      "item_ended_at": "2026-11-16T14:24:11.022+08:00",
+      "response_ms": 191,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 53,
+      "prompt": "take care of",
+      "expected_answer": "照顾；处理",
+      "en": "take care of",
+      "zh": "照顾；处理",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:11.026+00:00",
+      "item_ended_at": "2026-11-16T14:24:11.217+08:00",
+      "response_ms": 189,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 54,
+      "prompt": "listen to",
+      "expected_answer": "听；倾听",
+      "en": "listen to",
+      "zh": "听；倾听",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:11.222+00:00",
+      "item_ended_at": "2026-11-16T14:24:11.411+08:00",
+      "response_ms": 188,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 55,
+      "prompt": "oil",
+      "expected_answer": "食用油",
+      "en": "oil",
+      "zh": "食用油",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:11.414+00:00",
+      "item_ended_at": "2026-11-16T14:24:11.612+08:00",
+      "response_ms": 196,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 56,
+      "prompt": "hot pot",
+      "expected_answer": "火锅",
+      "en": "hot pot",
+      "zh": "火锅",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:11.618+00:00",
+      "item_ended_at": "2026-11-16T14:24:11.826+08:00",
+      "response_ms": 206,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 57,
+      "prompt": "piece",
+      "expected_answer": "片；块",
+      "en": "piece",
+      "zh": "片；块",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:11.830+00:00",
+      "item_ended_at": "2026-11-16T14:24:12.018+08:00",
+      "response_ms": 185,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 58,
+      "prompt": "ham",
+      "expected_answer": "火腿",
+      "en": "ham",
+      "zh": "火腿",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:12.022+00:00",
+      "item_ended_at": "2026-11-16T14:24:12.214+08:00",
+      "response_ms": 189,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 59,
+      "prompt": "boil",
+      "expected_answer": "煮沸；烧开；沸腾；沸点",
+      "en": "boil",
+      "zh": "煮沸；烧开；沸腾；沸点",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:12.220+00:00",
+      "item_ended_at": "2026-11-16T14:24:12.398+08:00",
+      "response_ms": 176,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 60,
+      "prompt": "butter",
+      "expected_answer": "黄油",
+      "en": "butter",
+      "zh": "黄油",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:12.406+00:00",
+      "item_ended_at": "2026-11-16T14:24:12.614+08:00",
+      "response_ms": 204,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 61,
+      "prompt": "chip",
+      "expected_answer": "炸薯条",
+      "en": "chip",
+      "zh": "炸薯条",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:12.617+00:00",
+      "item_ended_at": "2026-11-16T14:24:12.815+08:00",
+      "response_ms": 196,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 62,
+      "prompt": "jam",
+      "expected_answer": "果酱",
+      "en": "jam",
+      "zh": "果酱",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:12.822+00:00",
+      "item_ended_at": "2026-11-16T14:24:13.025+08:00",
+      "response_ms": 200,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 63,
+      "prompt": "diet",
+      "expected_answer": "日常饮食",
+      "en": "diet",
+      "zh": "日常饮食",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:13.030+00:00",
+      "item_ended_at": "2026-11-16T14:24:13.221+08:00",
+      "response_ms": 188,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 64,
+      "prompt": "dish",
+      "expected_answer": "一道菜；盘子",
+      "en": "dish",
+      "zh": "一道菜；盘子",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:13.226+00:00",
+      "item_ended_at": "2026-11-16T14:24:13.400+08:00",
+      "response_ms": 171,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 65,
+      "prompt": "pie",
+      "expected_answer": "果馅饼；肉馅饼",
+      "en": "pie",
+      "zh": "果馅饼；肉馅饼",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:13.406+00:00",
+      "item_ended_at": "2026-11-16T14:24:13.966+08:00",
+      "response_ms": 558,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 66,
+      "prompt": "grain",
+      "expected_answer": "谷物；谷粒",
+      "en": "grain",
+      "zh": "谷物；谷粒",
+      "transcript": "",
+      "choice_key": null,
+      "score": 0,
+      "verdict": "wrong",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:13.972+00:00",
+      "item_ended_at": "2026-11-16T14:24:14.737+08:00",
+      "response_ms": 763,
+      "ended_reason": "skipped",
+      "note": "未作答，直接下一题"
+    },
+    {
+      "index": 67,
+      "prompt": "fried",
+      "expected_answer": "油炸的",
+      "en": "fried",
+      "zh": "油炸的",
+      "transcript": "油炸的",
+      "choice_key": "D",
+      "score": 100,
+      "verdict": "correct",
+      "judge_source": "choice",
+      "item_started_at": "2026-11-16T06:24:14.748+00:00",
+      "item_ended_at": "2026-11-16T14:24:23.277+08:00",
+      "response_ms": 8525,
+      "ended_reason": "scored",
+      "note": ""
+    }
+  ],
+  "report_path": null,
+  "summary": null,
+  "words": [
+    {
+      "en": "colour",
+      "zh": "颜色",
+      "section": "颜色"
+    },
+    {
+      "en": "orange",
+      "zh": "橙红色",
+      "section": "颜色"
+    },
+    {
+      "en": "green",
+      "zh": "绿色",
+      "section": "颜色"
+    },
+    {
+      "en": "red",
+      "zh": "红色",
+      "section": "颜色"
+    },
+    {
+      "en": "purple",
+      "zh": "紫色",
+      "section": "颜色"
+    },
+    {
+      "en": "blue",
+      "zh": "蓝色",
+      "section": "颜色"
+    },
+    {
+      "en": "brown",
+      "zh": "棕色",
+      "section": "颜色"
+    },
+    {
+      "en": "yellow",
+      "zh": "黄色",
+      "section": "颜色"
+    },
+    {
+      "en": "white",
+      "zh": "白色",
+      "section": "颜色"
+    },
+    {
+      "en": "black",
+      "zh": "黑色",
+      "section": "颜色"
+    },
+    {
+      "en": "pink",
+      "zh": "粉红色",
+      "section": "颜色"
+    },
+    {
+      "en": "silver",
+      "zh": "银色",
+      "section": "颜色"
+    },
+    {
+      "en": "gold",
+      "zh": "金色",
+      "section": "颜色"
+    },
+    {
+      "en": "golden",
+      "zh": "金色的",
+      "section": "颜色"
+    },
+    {
+      "en": "grey",
+      "zh": "灰色",
+      "section": "颜色"
+    },
+    {
+      "en": "pale",
+      "zh": "灰白的",
+      "section": "颜色"
+    },
+    {
+      "en": "dark",
+      "zh": "深色的",
+      "section": "颜色"
+    },
+    {
+      "en": "fair",
+      "zh": "浅色的，白皙的",
+      "section": "颜色"
+    },
+    {
+      "en": "light",
+      "zh": "浅色的",
+      "section": "颜色"
+    },
+    {
+      "en": "shade",
+      "zh": "色度",
+      "section": "颜色"
+    },
+    {
+      "en": "bright",
+      "zh": "鲜艳的；明亮的",
+      "section": "颜色"
+    },
+    {
+      "en": "lively",
+      "zh": "（色彩）鲜艳的",
+      "section": "颜色"
+    },
+    {
+      "en": "colourful",
+      "zh": "五彩缤纷的",
+      "section": "颜色"
+    },
+    {
+      "en": "paint",
+      "zh": "用颜料画",
+      "section": "颜色"
+    },
+    {
+      "en": "draw",
+      "zh": "画画",
+      "section": "颜色"
+    },
+    {
+      "en": "crayon",
+      "zh": "彩色铅笔",
+      "section": "颜色"
+    },
+    {
+      "en": "family",
+      "zh": "家；家庭",
+      "section": "家庭"
+    },
+    {
+      "en": "father",
+      "zh": "父亲；爸爸",
+      "section": "家庭"
+    },
+    {
+      "en": "mother",
+      "zh": "母亲；妈妈",
+      "section": "家庭"
+    },
+    {
+      "en": "son",
+      "zh": "儿子",
+      "section": "家庭"
+    },
+    {
+      "en": "sister",
+      "zh": "姐；妹",
+      "section": "家庭"
+    },
+    {
+      "en": "brother",
+      "zh": "兄；弟",
+      "section": "家庭"
+    },
+    {
+      "en": "baby",
+      "zh": "婴儿",
+      "section": "家庭"
+    },
+    {
+      "en": "kid",
+      "zh": "小孩",
+      "section": "家庭"
+    },
+    {
+      "en": "grandparent",
+      "zh": "祖父（母）；外祖父（母）",
+      "section": "家庭"
+    },
+    {
+      "en": "granddaughter",
+      "zh": "（外）孙女",
+      "section": "家庭"
+    },
+    {
+      "en": "grandchild",
+      "zh": "（外）孙子；（外）孙女",
+      "section": "家庭"
+    },
+    {
+      "en": "grandson",
+      "zh": "孙子；外孙",
+      "section": "家庭"
+    },
+    {
+      "en": "wife",
+      "zh": "妻子",
+      "section": "家庭"
+    },
+    {
+      "en": "husband",
+      "zh": "丈夫",
+      "section": "家庭"
+    },
+    {
+      "en": "twin",
+      "zh": "双胞胎之一",
+      "section": "家庭"
+    },
+    {
+      "en": "close",
+      "zh": "亲密的",
+      "section": "家庭"
+    },
+    {
+      "en": "comfortable",
+      "zh": "舒适的",
+      "section": "家庭"
+    },
+    {
+      "en": "protect",
+      "zh": "保护；防护",
+      "section": "家庭"
+    },
+    {
+      "en": "gather",
+      "zh": "聚集；集合",
+      "section": "家庭"
+    },
+    {
+      "en": "wedding",
+      "zh": "婚礼",
+      "section": "家庭"
+    },
+    {
+      "en": "hug",
+      "zh": "拥抱；搂抱",
+      "section": "家庭"
+    },
+    {
+      "en": "feed",
+      "zh": "喂养；饲养",
+      "section": "家庭"
+    },
+    {
+      "en": "member",
+      "zh": "成员；会员",
+      "section": "家庭"
+    },
+    {
+      "en": "darling",
+      "zh": "亲爱的；宝贝",
+      "section": "家庭"
+    },
+    {
+      "en": "couple",
+      "zh": "夫妻；情侣",
+      "section": "家庭"
+    },
+    {
+      "en": "guest",
+      "zh": "客人；宾客",
+      "section": "家庭"
+    },
+    {
+      "en": "relative",
+      "zh": "亲戚；亲属",
+      "section": "家庭"
+    },
+    {
+      "en": "take care of",
+      "zh": "照顾；处理",
+      "section": "家庭"
+    },
+    {
+      "en": "listen to",
+      "zh": "听；倾听",
+      "section": "家庭"
+    },
+    {
+      "en": "oil",
+      "zh": "食用油",
+      "section": "饮食"
+    },
+    {
+      "en": "hot pot",
+      "zh": "火锅",
+      "section": "饮食"
+    },
+    {
+      "en": "piece",
+      "zh": "片；块",
+      "section": "饮食"
+    },
+    {
+      "en": "ham",
+      "zh": "火腿",
+      "section": "饮食"
+    },
+    {
+      "en": "boil",
+      "zh": "煮沸；烧开；沸腾；沸点",
+      "section": "饮食"
+    },
+    {
+      "en": "butter",
+      "zh": "黄油",
+      "section": "饮食"
+    },
+    {
+      "en": "chip",
+      "zh": "炸薯条",
+      "section": "饮食"
+    },
+    {
+      "en": "jam",
+      "zh": "果酱",
+      "section": "饮食"
+    },
+    {
+      "en": "diet",
+      "zh": "日常饮食",
+      "section": "饮食"
+    },
+    {
+      "en": "dish",
+      "zh": "一道菜；盘子",
+      "section": "饮食"
+    },
+    {
+      "en": "pie",
+      "zh": "果馅饼；肉馅饼",
+      "section": "饮食"
+    },
+    {
+      "en": "grain",
+      "zh": "谷物；谷粒",
+      "section": "饮食"
+    },
+    {
+      "en": "fried",
+      "zh": "油炸的",
+      "section": "饮食"
+    }
+  ]
+}

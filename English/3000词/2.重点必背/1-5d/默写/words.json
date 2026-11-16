@@ -1,0 +1,1777 @@
+{
+  "title": "15天背完初中3500词 · 重点必背",
+  "days": [
+    {
+      "day": 1,
+      "items": [
+        {
+          "type": "sec",
+          "text": "人物"
+        },
+        {
+          "type": "w",
+          "en": "host",
+          "zh": "主人；东道主"
+        },
+        {
+          "type": "w",
+          "en": "hostess",
+          "zh": "女主人"
+        },
+        {
+          "type": "w",
+          "en": "victim",
+          "zh": "受害者；罹难者"
+        },
+        {
+          "type": "w",
+          "en": "enemy",
+          "zh": "敌人；仇人"
+        },
+        {
+          "type": "w",
+          "en": "customer",
+          "zh": "顾客；客户"
+        },
+        {
+          "type": "w",
+          "en": "traveller",
+          "zh": "旅行者"
+        },
+        {
+          "type": "w",
+          "en": "storyteller",
+          "zh": "讲故事的人"
+        },
+        {
+          "type": "w",
+          "en": "ancestor",
+          "zh": "祖宗；祖先"
+        },
+        {
+          "type": "w",
+          "en": "teenage",
+          "zh": "青少年的"
+        },
+        {
+          "type": "w",
+          "en": "teenager",
+          "zh": "青少年"
+        },
+        {
+          "type": "w",
+          "en": "pioneer",
+          "zh": "先驱"
+        },
+        {
+          "type": "w",
+          "en": "teammate",
+          "zh": "队友"
+        },
+        {
+          "type": "w",
+          "en": "gentleman",
+          "zh": "绅士"
+        },
+        {
+          "type": "w",
+          "en": "interviewer",
+          "zh": "面试官"
+        },
+        {
+          "type": "w",
+          "en": "competitor",
+          "zh": "参赛者"
+        },
+        {
+          "type": "w",
+          "en": "married",
+          "zh": "已婚的；婚姻的"
+        },
+        {
+          "type": "w",
+          "en": "sense",
+          "zh": "理解力；感觉"
+        },
+        {
+          "type": "w",
+          "en": "fault",
+          "zh": "过失；缺点"
+        },
+        {
+          "type": "w",
+          "en": "courage",
+          "zh": "勇敢；勇气"
+        },
+        {
+          "type": "w",
+          "en": "absent",
+          "zh": "缺席的；不在的"
+        },
+        {
+          "type": "w",
+          "en": "pretend",
+          "zh": "假装；伪装"
+        },
+        {
+          "type": "w",
+          "en": "secret",
+          "zh": "秘密；秘诀"
+        },
+        {
+          "type": "w",
+          "en": "attention",
+          "zh": "注意；留心"
+        },
+        {
+          "type": "w",
+          "en": "succeed",
+          "zh": "成功；达到目标"
+        },
+        {
+          "type": "w",
+          "en": "scream",
+          "zh": "尖叫"
+        },
+        {
+          "type": "w",
+          "en": "appearance",
+          "zh": "外表；公开露面"
+        },
+        {
+          "type": "w",
+          "en": "similarity",
+          "zh": "相似之处"
+        },
+        {
+          "type": "w",
+          "en": "difference",
+          "zh": "差异"
+        },
+        {
+          "type": "w",
+          "en": "responsibility",
+          "zh": "责任"
+        },
+        {
+          "type": "w",
+          "en": "consider",
+          "zh": "认为；仔细考虑"
+        },
+        {
+          "type": "w",
+          "en": "owner",
+          "zh": "主人"
+        },
+        {
+          "type": "w",
+          "en": "absent from",
+          "zh": "缺席；不在"
+        },
+        {
+          "type": "w",
+          "en": "the elderly",
+          "zh": "上了年纪的人"
+        },
+        {
+          "type": "w",
+          "en": "in need",
+          "zh": "处于贫困中；生活困难"
+        },
+        {
+          "type": "w",
+          "en": "in one's forties",
+          "zh": "四十多岁"
+        },
+        {
+          "type": "sec",
+          "text": "人物特征"
+        },
+        {
+          "type": "w",
+          "en": "temper",
+          "zh": "脾气；怒气"
+        },
+        {
+          "type": "w",
+          "en": "pretty",
+          "zh": "漂亮的；标致的"
+        },
+        {
+          "type": "w",
+          "en": "purity",
+          "zh": "纯洁"
+        },
+        {
+          "type": "w",
+          "en": "untidy",
+          "zh": "不整洁的"
+        },
+        {
+          "type": "w",
+          "en": "pleasant",
+          "zh": "友好的"
+        },
+        {
+          "type": "w",
+          "en": "creative",
+          "zh": "有创造力的"
+        },
+        {
+          "type": "w",
+          "en": "outgoing",
+          "zh": "外向的"
+        },
+        {
+          "type": "w",
+          "en": "excellent",
+          "zh": "优秀的"
+        },
+        {
+          "type": "w",
+          "en": "romantic",
+          "zh": "浪漫的"
+        },
+        {
+          "type": "w",
+          "en": "direct",
+          "zh": "直率的"
+        },
+        {
+          "type": "w",
+          "en": "impatient",
+          "zh": "不耐烦的"
+        },
+        {
+          "type": "w",
+          "en": "thoughtful",
+          "zh": "体贴的；关心别人的"
+        },
+        {
+          "type": "w",
+          "en": "attractive",
+          "zh": "英俊的"
+        },
+        {
+          "type": "w",
+          "en": "responsible",
+          "zh": "有责任心的"
+        },
+        {
+          "type": "w",
+          "en": "imaginative",
+          "zh": "创新的"
+        },
+        {
+          "type": "w",
+          "en": "hard-working",
+          "zh": "辛勤的"
+        },
+        {
+          "type": "w",
+          "en": "inspirational",
+          "zh": "鼓舞人心的"
+        },
+        {
+          "type": "w",
+          "en": "sense of humour",
+          "zh": "幽默感"
+        },
+        {
+          "type": "sec",
+          "text": "动作行为"
+        },
+        {
+          "type": "w",
+          "en": "set",
+          "zh": "使处于某种状况"
+        },
+        {
+          "type": "w",
+          "en": "stay",
+          "zh": "停留；待"
+        },
+        {
+          "type": "w",
+          "en": "kill",
+          "zh": "杀死；弄死"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "items": [
+        {
+          "type": "w",
+          "en": "sink",
+          "zh": "下沉；沉没"
+        },
+        {
+          "type": "w",
+          "en": "last",
+          "zh": "坚持下去"
+        },
+        {
+          "type": "w",
+          "en": "mean",
+          "zh": "意思是；打算"
+        },
+        {
+          "type": "w",
+          "en": "rise",
+          "zh": "起床；升起；增长"
+        },
+        {
+          "type": "w",
+          "en": "pass",
+          "zh": "通过"
+        },
+        {
+          "type": "w",
+          "en": "feel",
+          "zh": "感觉；觉得"
+        },
+        {
+          "type": "w",
+          "en": "heat",
+          "zh": "加热；变热"
+        },
+        {
+          "type": "w",
+          "en": "dare",
+          "zh": "敢于；胆敢"
+        },
+        {
+          "type": "w",
+          "en": "hide",
+          "zh": "躲藏"
+        },
+        {
+          "type": "w",
+          "en": "risk",
+          "zh": "使……冒风险"
+        },
+        {
+          "type": "w",
+          "en": "drop",
+          "zh": "落下"
+        },
+        {
+          "type": "w",
+          "en": "start",
+          "zh": "开始；着手"
+        },
+        {
+          "type": "w",
+          "en": "store",
+          "zh": "贮藏；贮存"
+        },
+        {
+          "type": "w",
+          "en": "seem",
+          "zh": "似乎；好像"
+        },
+        {
+          "type": "w",
+          "en": "untie",
+          "zh": "解开……的结"
+        },
+        {
+          "type": "w",
+          "en": "cross",
+          "zh": "穿越；横过"
+        },
+        {
+          "type": "w",
+          "en": "ring",
+          "zh": "打电话"
+        },
+        {
+          "type": "w",
+          "en": "offer",
+          "zh": "主动提出"
+        },
+        {
+          "type": "w",
+          "en": "finish",
+          "zh": "结束；完成"
+        },
+        {
+          "type": "w",
+          "en": "act",
+          "zh": "扮演；行动"
+        },
+        {
+          "type": "w",
+          "en": "hurry",
+          "zh": "匆忙"
+        },
+        {
+          "type": "w",
+          "en": "arrive",
+          "zh": "到达"
+        },
+        {
+          "type": "w",
+          "en": "leave",
+          "zh": "离开；留下"
+        },
+        {
+          "type": "w",
+          "en": "collect",
+          "zh": "收集；采集"
+        },
+        {
+          "type": "w",
+          "en": "relate",
+          "zh": "把……联系起来"
+        },
+        {
+          "type": "w",
+          "en": "allow",
+          "zh": "允许"
+        },
+        {
+          "type": "w",
+          "en": "cover",
+          "zh": "遮盖；包括"
+        },
+        {
+          "type": "w",
+          "en": "check",
+          "zh": "检查；查明"
+        },
+        {
+          "type": "w",
+          "en": "limit",
+          "zh": "限制；限定"
+        },
+        {
+          "type": "w",
+          "en": "renew",
+          "zh": "重新开始"
+        },
+        {
+          "type": "w",
+          "en": "happen",
+          "zh": "发生"
+        },
+        {
+          "type": "w",
+          "en": "choose",
+          "zh": "选择"
+        },
+        {
+          "type": "w",
+          "en": "cancel",
+          "zh": "取消；终止"
+        },
+        {
+          "type": "w",
+          "en": "raise",
+          "zh": "使升高"
+        },
+        {
+          "type": "w",
+          "en": "search",
+          "zh": "寻找；搜寻"
+        },
+        {
+          "type": "w",
+          "en": "depend",
+          "zh": "决定于"
+        },
+        {
+          "type": "w",
+          "en": "record",
+          "zh": "记录"
+        },
+        {
+          "type": "w",
+          "en": "display",
+          "zh": "展示；陈列"
+        },
+        {
+          "type": "w",
+          "en": "appear",
+          "zh": "出现；呈现"
+        },
+        {
+          "type": "w",
+          "en": "return",
+          "zh": "回来；归还"
+        },
+        {
+          "type": "w",
+          "en": "receive",
+          "zh": "接受；收到"
+        },
+        {
+          "type": "w",
+          "en": "borrow",
+          "zh": "借"
+        },
+        {
+          "type": "w",
+          "en": "include",
+          "zh": "包含；包括"
+        },
+        {
+          "type": "w",
+          "en": "react",
+          "zh": "回应"
+        },
+        {
+          "type": "w",
+          "en": "stick",
+          "zh": "粘贴"
+        },
+        {
+          "type": "w",
+          "en": "clear",
+          "zh": "清除"
+        },
+        {
+          "type": "w",
+          "en": "throw",
+          "zh": "扔；抛"
+        },
+        {
+          "type": "w",
+          "en": "stare",
+          "zh": "盯着看；凝视"
+        },
+        {
+          "type": "w",
+          "en": "operate",
+          "zh": "动手术"
+        },
+        {
+          "type": "w",
+          "en": "kidnap",
+          "zh": "劫持；绑架"
+        },
+        {
+          "type": "w",
+          "en": "donate",
+          "zh": "捐赠；赠送"
+        },
+        {
+          "type": "w",
+          "en": "practise",
+          "zh": "从事；执业"
+        },
+        {
+          "type": "w",
+          "en": "imagine",
+          "zh": "想象"
+        },
+        {
+          "type": "w",
+          "en": "involve",
+          "zh": "包含；牵涉"
+        },
+        {
+          "type": "w",
+          "en": "translate",
+          "zh": "翻译"
+        },
+        {
+          "type": "w",
+          "en": "decorate",
+          "zh": "装饰；装潢"
+        },
+        {
+          "type": "w",
+          "en": "manage",
+          "zh": "完成（困难的事）；应付（困难局面）"
+        },
+        {
+          "type": "w",
+          "en": "connect",
+          "zh": "（使）连接；与……有联系"
+        },
+        {
+          "type": "w",
+          "en": "harvest",
+          "zh": "收割（庄稼）"
+        },
+        {
+          "type": "w",
+          "en": "announce",
+          "zh": "宣布"
+        },
+        {
+          "type": "w",
+          "en": "remember",
+          "zh": "记住"
+        },
+        {
+          "type": "w",
+          "en": "organize",
+          "zh": "组织"
+        },
+        {
+          "type": "w",
+          "en": "request",
+          "zh": "要求；请求"
+        },
+        {
+          "type": "w",
+          "en": "oversleep",
+          "zh": "睡过头"
+        },
+        {
+          "type": "w",
+          "en": "overcome",
+          "zh": "克服"
+        },
+        {
+          "type": "w",
+          "en": "apologize",
+          "zh": "道歉"
+        },
+        {
+          "type": "w",
+          "en": "safeguard",
+          "zh": "保护；捍卫"
+        },
+        {
+          "type": "w",
+          "en": "represent",
+          "zh": "代表；作为……的象征"
+        },
+        {
+          "type": "w",
+          "en": "recognize",
+          "zh": "认出"
+        },
+        {
+          "type": "w",
+          "en": "slow",
+          "zh": "（使）放慢速度"
+        },
+        {
+          "type": "w",
+          "en": "continue",
+          "zh": "继续做"
+        },
+        {
+          "type": "w",
+          "en": "discovery",
+          "zh": "发现；发觉"
+        },
+        {
+          "type": "w",
+          "en": "recommend",
+          "zh": "推荐"
+        },
+        {
+          "type": "w",
+          "en": "discussion",
+          "zh": "讨论；商讨"
+        },
+        {
+          "type": "w",
+          "en": "disappear",
+          "zh": "消失；不见"
+        },
+        {
+          "type": "w",
+          "en": "separate",
+          "zh": "（使）分开；隔开"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "items": [
+        {
+          "type": "w",
+          "en": "roll out",
+          "zh": "将……轧平"
+        },
+        {
+          "type": "w",
+          "en": "take action",
+          "zh": "采取行动"
+        },
+        {
+          "type": "w",
+          "en": "search for",
+          "zh": "寻找"
+        },
+        {
+          "type": "w",
+          "en": "look for",
+          "zh": "寻找"
+        },
+        {
+          "type": "w",
+          "en": "find out",
+          "zh": "查明；弄清"
+        },
+        {
+          "type": "w",
+          "en": "take back",
+          "zh": "撤回；收回"
+        },
+        {
+          "type": "w",
+          "en": "get out",
+          "zh": "逃脱；离开"
+        },
+        {
+          "type": "w",
+          "en": "pass by",
+          "zh": "路过；经过"
+        },
+        {
+          "type": "w",
+          "en": "make up",
+          "zh": "编造"
+        },
+        {
+          "type": "w",
+          "en": "try on",
+          "zh": "试穿"
+        },
+        {
+          "type": "w",
+          "en": "bite through",
+          "zh": "咬穿"
+        },
+        {
+          "type": "w",
+          "en": "reach for",
+          "zh": "伸手触碰"
+        },
+        {
+          "type": "w",
+          "en": "hear of",
+          "zh": "听说；得知"
+        },
+        {
+          "type": "w",
+          "en": "have a try",
+          "zh": "试一试"
+        },
+        {
+          "type": "w",
+          "en": "stop short",
+          "zh": "突然停住"
+        },
+        {
+          "type": "w",
+          "en": "take apart",
+          "zh": "拆卸，拆开（机器等）"
+        },
+        {
+          "type": "w",
+          "en": "take a message",
+          "zh": "捎个口信"
+        },
+        {
+          "type": "w",
+          "en": "leave a message",
+          "zh": "留个口信"
+        },
+        {
+          "type": "w",
+          "en": "separate from",
+          "zh": "分离；隔开"
+        },
+        {
+          "type": "w",
+          "en": "hold your breath",
+          "zh": "屏气"
+        },
+        {
+          "type": "w",
+          "en": "take one's temperature",
+          "zh": "给某人量体温"
+        },
+        {
+          "type": "w",
+          "en": "connect ... with",
+          "zh": "把……和……连接或联系起来"
+        },
+        {
+          "type": "sec",
+          "text": "时间"
+        },
+        {
+          "type": "w",
+          "en": "second",
+          "zh": "秒"
+        },
+        {
+          "type": "w",
+          "en": "hour",
+          "zh": "小时"
+        },
+        {
+          "type": "w",
+          "en": "eve",
+          "zh": "前夕；前夜"
+        },
+        {
+          "type": "w",
+          "en": "noon",
+          "zh": "正午；中午"
+        },
+        {
+          "type": "w",
+          "en": "soon",
+          "zh": "不久；很快"
+        },
+        {
+          "type": "w",
+          "en": "past",
+          "zh": "过去；过去的"
+        },
+        {
+          "type": "w",
+          "en": "once",
+          "zh": "曾经"
+        },
+        {
+          "type": "w",
+          "en": "since",
+          "zh": "自……以后"
+        },
+        {
+          "type": "w",
+          "en": "later",
+          "zh": "后来（的）"
+        },
+        {
+          "type": "w",
+          "en": "while",
+          "zh": "一段时间；一会儿"
+        },
+        {
+          "type": "w",
+          "en": "spare",
+          "zh": "空闲的"
+        },
+        {
+          "type": "w",
+          "en": "date",
+          "zh": "日期；日子"
+        },
+        {
+          "type": "w",
+          "en": "future",
+          "zh": "将来；未来"
+        },
+        {
+          "type": "w",
+          "en": "moment",
+          "zh": "某个时刻"
+        },
+        {
+          "type": "w",
+          "en": "present",
+          "zh": "现在的"
+        },
+        {
+          "type": "w",
+          "en": "time",
+          "zh": "时期；时代"
+        },
+        {
+          "type": "w",
+          "en": "season",
+          "zh": "季；季节"
+        },
+        {
+          "type": "w",
+          "en": "weekend",
+          "zh": "周末"
+        },
+        {
+          "type": "w",
+          "en": "workday",
+          "zh": "工作日"
+        },
+        {
+          "type": "w",
+          "en": "period",
+          "zh": "一段时间；时期"
+        },
+        {
+          "type": "w",
+          "en": "nowadays",
+          "zh": "现今；现在"
+        },
+        {
+          "type": "w",
+          "en": "forever",
+          "zh": "永远"
+        },
+        {
+          "type": "w",
+          "en": "century",
+          "zh": "世纪"
+        },
+        {
+          "type": "w",
+          "en": "every day",
+          "zh": "每天"
+        },
+        {
+          "type": "w",
+          "en": "some day",
+          "zh": "将来；有朝一日"
+        },
+        {
+          "type": "w",
+          "en": "at the weekend",
+          "zh": "在周末"
+        },
+        {
+          "type": "w",
+          "en": "at weekends",
+          "zh": "在周末"
+        },
+        {
+          "type": "w",
+          "en": "on weekdays",
+          "zh": "在工作日"
+        },
+        {
+          "type": "w",
+          "en": "working day",
+          "zh": "工作日"
+        },
+        {
+          "type": "w",
+          "en": "at present",
+          "zh": "现在；目前"
+        },
+        {
+          "type": "w",
+          "en": "right now",
+          "zh": "现在；立刻"
+        },
+        {
+          "type": "w",
+          "en": "long ago",
+          "zh": "很久以前"
+        },
+        {
+          "type": "w",
+          "en": "at first",
+          "zh": "起初；最初"
+        },
+        {
+          "type": "w",
+          "en": "at night",
+          "zh": "在夜晚"
+        },
+        {
+          "type": "w",
+          "en": "since then",
+          "zh": "从那以后"
+        },
+        {
+          "type": "w",
+          "en": "ever since",
+          "zh": "自从"
+        },
+        {
+          "type": "w",
+          "en": "right away",
+          "zh": "立即；马上"
+        },
+        {
+          "type": "w",
+          "en": "in the future",
+          "zh": "将来；未来"
+        },
+        {
+          "type": "w",
+          "en": "at the moment",
+          "zh": "现在；此刻"
+        },
+        {
+          "type": "w",
+          "en": "at the start",
+          "zh": "开始；起初"
+        },
+        {
+          "type": "w",
+          "en": "from ... to ...",
+          "zh": "从……到……"
+        },
+        {
+          "type": "w",
+          "en": "in the end",
+          "zh": "最后；终究"
+        },
+        {
+          "type": "w",
+          "en": "day by day",
+          "zh": "一天天；逐日"
+        },
+        {
+          "type": "w",
+          "en": "once in a while",
+          "zh": "偶尔地；间或"
+        },
+        {
+          "type": "w",
+          "en": "by the end of",
+          "zh": "在（某时间点）以前"
+        },
+        {
+          "type": "w",
+          "en": "to start with",
+          "zh": "起初；开始时"
+        },
+        {
+          "type": "w",
+          "en": "all day long",
+          "zh": "整天"
+        },
+        {
+          "type": "w",
+          "en": "as soon as",
+          "zh": "一……就……"
+        },
+        {
+          "type": "w",
+          "en": "on time",
+          "zh": "准时"
+        },
+        {
+          "type": "w",
+          "en": "at that time",
+          "zh": "那时"
+        },
+        {
+          "type": "w",
+          "en": "next time",
+          "zh": "下次"
+        },
+        {
+          "type": "w",
+          "en": "in time",
+          "zh": "来得及；及时"
+        },
+        {
+          "type": "w",
+          "en": "all the time",
+          "zh": "一直"
+        },
+        {
+          "type": "w",
+          "en": "time",
+          "zh": "时间"
+        },
+        {
+          "type": "w",
+          "en": "by the time ...",
+          "zh": "在……以前"
+        },
+        {
+          "type": "w",
+          "en": "once upon a time",
+          "zh": "很久以前"
+        },
+        {
+          "type": "w",
+          "en": "at the same time",
+          "zh": "同时；一起"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "items": [
+        {
+          "type": "sec",
+          "text": "空间"
+        },
+        {
+          "type": "w",
+          "en": "by",
+          "zh": "靠近；在……旁边"
+        },
+        {
+          "type": "w",
+          "en": "end",
+          "zh": "末尾"
+        },
+        {
+          "type": "w",
+          "en": "edge",
+          "zh": "边；边缘"
+        },
+        {
+          "type": "w",
+          "en": "wide",
+          "zh": "宽的；宽阔的"
+        },
+        {
+          "type": "w",
+          "en": "upon",
+          "zh": "在……上"
+        },
+        {
+          "type": "w",
+          "en": "indoor",
+          "zh": "（在）室内的"
+        },
+        {
+          "type": "w",
+          "en": "level",
+          "zh": "高度"
+        },
+        {
+          "type": "w",
+          "en": "above",
+          "zh": "在（或向）……上面"
+        },
+        {
+          "type": "w",
+          "en": "middle",
+          "zh": "中间；中央"
+        },
+        {
+          "type": "w",
+          "en": "narrow",
+          "zh": "狭窄的"
+        },
+        {
+          "type": "w",
+          "en": "circle",
+          "zh": "圆形；圆圈"
+        },
+        {
+          "type": "w",
+          "en": "bedside",
+          "zh": "床边"
+        },
+        {
+          "type": "w",
+          "en": "outside",
+          "zh": "在外面"
+        },
+        {
+          "type": "w",
+          "en": "inside",
+          "zh": "在……里面"
+        },
+        {
+          "type": "w",
+          "en": "below",
+          "zh": "在（或到）……下面"
+        },
+        {
+          "type": "w",
+          "en": "along",
+          "zh": "沿着；顺着"
+        },
+        {
+          "type": "w",
+          "en": "within",
+          "zh": "在……里"
+        },
+        {
+          "type": "w",
+          "en": "opposite",
+          "zh": "在……对面"
+        },
+        {
+          "type": "w",
+          "en": "bottom",
+          "zh": "底部；最下部"
+        },
+        {
+          "type": "w",
+          "en": "central",
+          "zh": "中心的；中央的"
+        },
+        {
+          "type": "w",
+          "en": "nearby",
+          "zh": "附近的；在附近"
+        },
+        {
+          "type": "w",
+          "en": "across",
+          "zh": "在（……）对面"
+        },
+        {
+          "type": "w",
+          "en": "border",
+          "zh": "边界"
+        },
+        {
+          "type": "w",
+          "en": "corner",
+          "zh": "角；墙角；街角"
+        },
+        {
+          "type": "w",
+          "en": "towards",
+          "zh": "向；朝"
+        },
+        {
+          "type": "w",
+          "en": "direction",
+          "zh": "方向；方位"
+        },
+        {
+          "type": "w",
+          "en": "location",
+          "zh": "地点；位置"
+        },
+        {
+          "type": "w",
+          "en": "north-eastern",
+          "zh": "东北的"
+        },
+        {
+          "type": "w",
+          "en": "south-western",
+          "zh": "西南的"
+        },
+        {
+          "type": "w",
+          "en": "next to",
+          "zh": "紧邻；在……近旁"
+        },
+        {
+          "type": "w",
+          "en": "across from",
+          "zh": "在对面"
+        },
+        {
+          "type": "w",
+          "en": "in the middle",
+          "zh": "在中间"
+        },
+        {
+          "type": "w",
+          "en": "in front of",
+          "zh": "在……前面"
+        },
+        {
+          "type": "w",
+          "en": "at the back (of)",
+          "zh": "在（……）后面"
+        },
+        {
+          "type": "w",
+          "en": "at the end",
+          "zh": "最后；在末尾"
+        },
+        {
+          "type": "w",
+          "en": "in line with",
+          "zh": "与……成一排"
+        },
+        {
+          "type": "w",
+          "en": "on top of",
+          "zh": "在……上面"
+        },
+        {
+          "type": "w",
+          "en": "northern",
+          "zh": "北方的；北部的"
+        },
+        {
+          "type": "w",
+          "en": "north",
+          "zh": "北部；北；北方"
+        },
+        {
+          "type": "w",
+          "en": "north-west",
+          "zh": "西北方"
+        },
+        {
+          "type": "w",
+          "en": "west",
+          "zh": "西部；西；西方"
+        },
+        {
+          "type": "w",
+          "en": "western",
+          "zh": "西方的；西部的"
+        },
+        {
+          "type": "w",
+          "en": "south-west",
+          "zh": "西南方"
+        },
+        {
+          "type": "w",
+          "en": "north-east",
+          "zh": "东北方"
+        },
+        {
+          "type": "w",
+          "en": "east",
+          "zh": "东部；东；东方"
+        },
+        {
+          "type": "w",
+          "en": "eastern",
+          "zh": "东方的；东部的"
+        },
+        {
+          "type": "w",
+          "en": "south-east",
+          "zh": "东南方"
+        },
+        {
+          "type": "w",
+          "en": "southern",
+          "zh": "南部的；向南的"
+        },
+        {
+          "type": "w",
+          "en": "south",
+          "zh": "南部；南；南方"
+        },
+        {
+          "type": "w",
+          "en": "at the top of",
+          "zh": "在……顶部或顶端"
+        },
+        {
+          "type": "sec",
+          "text": "音乐"
+        },
+        {
+          "type": "w",
+          "en": "beat",
+          "zh": "节拍"
+        },
+        {
+          "type": "w",
+          "en": "band",
+          "zh": "乐队"
+        },
+        {
+          "type": "w",
+          "en": "type",
+          "zh": "类型；种类"
+        },
+        {
+          "type": "w",
+          "en": "pop",
+          "zh": "（= pop music）流行音乐"
+        },
+        {
+          "type": "w",
+          "en": "rock",
+          "zh": "（= rock music）摇滚乐"
+        },
+        {
+          "type": "w",
+          "en": "jazz",
+          "zh": "爵士乐"
+        },
+        {
+          "type": "w",
+          "en": "folk",
+          "zh": "（= folk music）民间音乐"
+        },
+        {
+          "type": "w",
+          "en": "drum",
+          "zh": "鼓"
+        },
+        {
+          "type": "w",
+          "en": "flute",
+          "zh": "长笛"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "items": [
+        {
+          "type": "w",
+          "en": "stage",
+          "zh": "舞台"
+        },
+        {
+          "type": "w",
+          "en": "smooth",
+          "zh": "悦耳的"
+        },
+        {
+          "type": "w",
+          "en": "work",
+          "zh": "作品"
+        },
+        {
+          "type": "w",
+          "en": "guitar",
+          "zh": "吉他"
+        },
+        {
+          "type": "w",
+          "en": "song",
+          "zh": "歌曲"
+        },
+        {
+          "type": "w",
+          "en": "violin",
+          "zh": "小提琴"
+        },
+        {
+          "type": "w",
+          "en": "classical",
+          "zh": "古典的"
+        },
+        {
+          "type": "w",
+          "en": "lyrics",
+          "zh": "歌词"
+        },
+        {
+          "type": "w",
+          "en": "concert",
+          "zh": "音乐会"
+        },
+        {
+          "type": "w",
+          "en": "audience",
+          "zh": "听众；观众"
+        },
+        {
+          "type": "w",
+          "en": "keyboard",
+          "zh": "键盘式电子乐器"
+        },
+        {
+          "type": "w",
+          "en": "musical",
+          "zh": "音乐的"
+        },
+        {
+          "type": "w",
+          "en": "accordion",
+          "zh": "手风琴"
+        },
+        {
+          "type": "w",
+          "en": "instrument",
+          "zh": "乐器"
+        },
+        {
+          "type": "w",
+          "en": "country music",
+          "zh": "乡村音乐"
+        },
+        {
+          "type": "w",
+          "en": "music video",
+          "zh": "音乐短片"
+        },
+        {
+          "type": "w",
+          "en": "musical instrument",
+          "zh": "乐器"
+        },
+        {
+          "type": "w",
+          "en": "play the guitar",
+          "zh": "弹吉他"
+        },
+        {
+          "type": "sec",
+          "text": "艺术"
+        },
+        {
+          "type": "w",
+          "en": "act",
+          "zh": "（戏剧等）一幕"
+        },
+        {
+          "type": "w",
+          "en": "play",
+          "zh": "戏剧；剧本"
+        },
+        {
+          "type": "w",
+          "en": "plot",
+          "zh": "故事情节"
+        },
+        {
+          "type": "w",
+          "en": "tale",
+          "zh": "故事"
+        },
+        {
+          "type": "w",
+          "en": "clue",
+          "zh": "线索"
+        },
+        {
+          "type": "w",
+          "en": "craft",
+          "zh": "手艺；工艺"
+        },
+        {
+          "type": "w",
+          "en": "film",
+          "zh": "电影"
+        },
+        {
+          "type": "w",
+          "en": "folk",
+          "zh": "民间的；民俗的"
+        },
+        {
+          "type": "w",
+          "en": "movie",
+          "zh": "电影"
+        },
+        {
+          "type": "w",
+          "en": "paint",
+          "zh": "绘画颜料"
+        },
+        {
+          "type": "w",
+          "en": "poem",
+          "zh": "诗；韵文"
+        },
+        {
+          "type": "w",
+          "en": "novel",
+          "zh": "（长篇）小说"
+        },
+        {
+          "type": "w",
+          "en": "opera",
+          "zh": "歌剧"
+        },
+        {
+          "type": "w",
+          "en": "exhibition",
+          "zh": "展览"
+        },
+        {
+          "type": "w",
+          "en": "poster",
+          "zh": "海报"
+        },
+        {
+          "type": "w",
+          "en": "classic",
+          "zh": "经典作品"
+        },
+        {
+          "type": "w",
+          "en": "comedy",
+          "zh": "喜剧"
+        },
+        {
+          "type": "w",
+          "en": "culture",
+          "zh": "文化"
+        },
+        {
+          "type": "w",
+          "en": "drama",
+          "zh": "戏剧"
+        },
+        {
+          "type": "w",
+          "en": "master",
+          "zh": "大师；能手"
+        },
+        {
+          "type": "w",
+          "en": "shape",
+          "zh": "形状；外形"
+        },
+        {
+          "type": "w",
+          "en": "modern",
+          "zh": "现代的；当代的"
+        },
+        {
+          "type": "w",
+          "en": "publish",
+          "zh": "出版"
+        },
+        {
+          "type": "w",
+          "en": "inspiration",
+          "zh": "灵感"
+        },
+        {
+          "type": "w",
+          "en": "sculpture",
+          "zh": "雕像；雕塑品"
+        },
+        {
+          "type": "w",
+          "en": "creativity",
+          "zh": "创造力；独创性"
+        },
+        {
+          "type": "w",
+          "en": "brush",
+          "zh": "画笔"
+        },
+        {
+          "type": "w",
+          "en": "flash",
+          "zh": "闪光灯"
+        },
+        {
+          "type": "w",
+          "en": "artwork",
+          "zh": "艺术作品"
+        },
+        {
+          "type": "w",
+          "en": "spread",
+          "zh": "传播"
+        },
+        {
+          "type": "w",
+          "en": "symbol",
+          "zh": "象征；符号"
+        },
+        {
+          "type": "w",
+          "en": "ancient",
+          "zh": "古代的"
+        },
+        {
+          "type": "w",
+          "en": "cartoon",
+          "zh": "漫画；动画片"
+        },
+        {
+          "type": "w",
+          "en": "carve",
+          "zh": "雕刻"
+        },
+        {
+          "type": "w",
+          "en": "cultural",
+          "zh": "文化的"
+        },
+        {
+          "type": "w",
+          "en": "figure",
+          "zh": "雕像，塑像"
+        },
+        {
+          "type": "w",
+          "en": "painting",
+          "zh": "绘画作品"
+        },
+        {
+          "type": "w",
+          "en": "pattern",
+          "zh": "图案；式样"
+        },
+        {
+          "type": "w",
+          "en": "perform",
+          "zh": "表演"
+        },
+        {
+          "type": "w",
+          "en": "photograph",
+          "zh": "照片"
+        },
+        {
+          "type": "w",
+          "en": "historical",
+          "zh": "历史的"
+        },
+        {
+          "type": "w",
+          "en": "literature",
+          "zh": "文学"
+        },
+        {
+          "type": "w",
+          "en": "traditional",
+          "zh": "传统的"
+        },
+        {
+          "type": "w",
+          "en": "action film",
+          "zh": "动作片"
+        },
+        {
+          "type": "w",
+          "en": "fairy tale",
+          "zh": "童话故事"
+        },
+        {
+          "type": "w",
+          "en": "science fiction",
+          "zh": "科幻小说（或影片等）"
+        },
+        {
+          "type": "sec",
+          "text": "自然"
+        },
+        {
+          "type": "w",
+          "en": "oil",
+          "zh": "石油；燃油"
+        },
+        {
+          "type": "w",
+          "en": "gas",
+          "zh": "气体；燃气"
+        },
+        {
+          "type": "w",
+          "en": "moon",
+          "zh": "月亮；月球"
+        },
+        {
+          "type": "w",
+          "en": "exploration",
+          "zh": "勘探；探索"
+        },
+        {
+          "type": "w",
+          "en": "solution",
+          "zh": "解决办法"
+        },
+        {
+          "type": "w",
+          "en": "protection",
+          "zh": "保护"
+        },
+        {
+          "type": "w",
+          "en": "conditions",
+          "zh": "环境，条件"
+        },
+        {
+          "type": "w",
+          "en": "pollution",
+          "zh": "污染"
+        },
+        {
+          "type": "w",
+          "en": "conservation",
+          "zh": "保护"
+        }
+      ]
+    }
+  ]
+}
