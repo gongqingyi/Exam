@@ -1,0 +1,3459 @@
+{
+ "source": "《学生实用英汉大词典》（1999年最新版，刘锐诚、李仁发 主编）扫描版 PDF，1260 页",
+ "note": "词语用法辨析框（带边框）自动提取结果。page 为 PDF 0 基页号，dict_page = page - 21 为原书页码。",
+ "box_count": 279,
+ "boxes": [
+  {
+   "page": 544,
+   "dict_page": 523,
+   "title": "a little 与 a bit",
+   "title_box": [
+    376,
+    649,
+    580,
+    679
+   ],
+   "bottom_y": 1403,
+   "content": "相同处\n〔作状语，修饰比较等级：\nHe is a little（或a bit） better today.\n他今天（的情况）略有好转。\n②作主语或宾语：\nPlease give me a little（或a bit）.\n请给我-点儿吧。\n不同处\n①与 not 连用：\nnot a little=very\nnot a bit=not at all\nHe is not a little tired.\n他非常累。\nHe is not a bit tired.\n他一点也不累。\n②前置定语时后常接 of，但 a little\n（of）可省去of，而a bit of后的of不可\n省略：\na little （of）money a bit of money\n一点儿钱"
+  },
+  {
+   "page": 596,
+   "dict_page": 575,
+   "title": "a most 与 the most",
+   "title_box": [
+    1025,
+    1373,
+    1281,
+    1402
+   ],
+   "bottom_y": 1706,
+   "content": "most 前加定冠词the 表示最高级：\nShe is the most beautiful girl in the\nsmall town.\n她是这个小镇中最漂亮的姑娘。\nmost 前加不定冠词a时表示“非常”，\n“极”：\nShe is a most beautiful girl.\n她是一个极美丽的女孩。"
+  },
+  {
+   "page": 636,
+   "dict_page": 615,
+   "title": "a number of 和 the number of",
+   "title_box": [
+    292,
+    989,
+    704,
+    1019
+   ],
+   "bottom_y": 1391,
+   "content": "a number of 意思为“许多…”，后接复数\n名词，谓语通常用复数：\nA number of comrades were absent\nfrom the meeting.\n许多同志没有到会。\nthe number of 意思为“…的总数”，后接\n复数名词，但谓语要用单数：\nThe number of comrades absent from\nthe meeting was surprising.\n没有到会的同志人数很惊人。"
+  },
+  {
+   "page": 25,
+   "dict_page": 4,
+   "title": "表示“关于”的 about 与 on",
+   "title_box": [
+    321,
+    869,
+    679,
+    905
+   ],
+   "bottom_y": 1199,
+   "content": "用on时，表示是严肃的或学术性的，是\n供专门研究用的\n用about时，表示内容较普通，不太正式\na book for children about Africa and\nits people 一本供儿童阅读的关于非\n洲和非洲人的书\na textbook on African history 一本关\n于非洲历史的教科书"
+  },
+  {
+   "page": 25,
+   "dict_page": 4,
+   "title": "表示“在…之上”的 above, over, on",
+   "title_box": [
+    931,
+    1128,
+    1398,
+    1168
+   ],
+   "bottom_y": 1760,
+   "content": "above 只表示在上方或位置高出，与\nbelow 相对：\nThe plane was flying above the clouds.\n飞机正在云上飞行。\nover 有“覆盖在上”，“越过”，“正上方”\n之意，与 under 相对：\nThere is thick cloud over the South of\nEngland.\n英格兰南部乌云密布。\non 表示在某物的上面，表面相互接触，\n与 beneath 相对：\nThere is a glass on the table.\n桌上有一个玻璃杯。\n▲在书或文件中，注意区别：\nsee below 是“见下文”\nsee over 是“见下页”\nsee above 是“见上文”"
+  },
+  {
+   "page": 27,
+   "dict_page": 6,
+   "title": "accept 与 receive",
+   "title_box": [
+    1047,
+    1888,
+    1277,
+    1917
+   ],
+   "bottom_y": null,
+   "content": "receive 是客观上收到，而 accept 是主观\n上接受：\nI received his invitation but did not\naccept it.\n我收到了他的请帖，但并没有接受他\n的邀请。"
+  },
+  {
+   "page": 32,
+   "dict_page": 11,
+   "title": "表示“穿过”的 across 与 through",
+   "title_box": [
+    277,
+    1095,
+    715,
+    1135
+   ],
+   "bottom_y": 1503,
+   "content": "across 横过，穿过；着重指从一条线或一\n物体表面的一边到另一边；含义与 on\n有关：\nacross the street\n横过马路（从马路一边到另一边）\nthrough 过，从⋯中通过；着重指从空\n间的一头纵穿到另一头；含义与 in有\nthrough the tunnel\n穿过隧道（从隧道中间通过）"
+  },
+  {
+   "page": 32,
+   "dict_page": 11,
+   "title": "act 与 action",
+   "title_box": [
+    1073,
+    1584,
+    1245,
+    1615
+   ],
+   "bottom_y": 2065,
+   "content": "act 指具体的行为、短暂而简单的行动：\n着重于效果：\nHe was caught in the act of stealing.\n他正偷窃时被当场抓获。\naction 指抽象的行为、持续而复杂的行\n动：着重行为的过程及作用：\nHe was praised for the action of cover-\ning the retreat of his group.\n他因掩护小组撤退这一行动而受到表\n扬。\n▲action 作可数名词时，意义和act一样：\na kind act（或 action）一个仁慈的举动"
+  },
+  {
+   "page": 38,
+   "dict_page": 17,
+   "title": "表示“影响”的 affect 与 effect",
+   "title_box": [
+    949,
+    1135,
+    1358,
+    1176
+   ],
+   "bottom_y": 1630,
+   "content": "affect 主要用作动词，意为“影响”（=\nhave an effect on）：\nSmoking affects health，\n抽烟影响健康。\neffect 作名词时是指 affect（影响）的结\n果：\nHe fell sick from the effect of weather.\n他因天气的影响病倒了.\n▲effect 还可作为动词，意思是“产生”、\n“实现”：\nI will effect my purpose.\n我一定要达到目的。"
+  },
+  {
+   "page": 646,
+   "dict_page": 625,
+   "title": "aged 和 old 的异同",
+   "title_box": [
+    1025,
+    1132,
+    1281,
+    1165
+   ],
+   "bottom_y": null,
+   "content": "①表示“年老的”时，两词一样：\n一位老人\nan aged（或old）man\n②表示“岁”时，位置不同：\n50岁的人\na man aged 50; a man 50 years old"
+  },
+  {
+   "page": 47,
+   "dict_page": 26,
+   "title": "allow, permit 和 let",
+   "title_box": [
+    361,
+    1285,
+    631,
+    1311
+   ],
+   "bottom_y": 2129,
+   "content": "allow 和 permit都表示“允许”，用法也\n一样，在许多情况下可以互相换用，只\n是词意的强弱上有些差别。\nallow词意较弱，含有“听任”、“默许”、\n“不加阻止”的意思：\nThat teacher allows too much noise in\nthe classroom.\n那位老师听任教室里大声吵闹。\nPermit词意较强，强调“正式认可”、“批\n准”的意思：\nSchools do not permit smoking.\n学校不准吸烟。\nThe nurse allowed him to remain\nthere,though it was not permitted.\n护士让他留在那里，虽然这是（规定）\n不允许的。\nlet 表示“让”，词意最弱，较口语化，用法\n上也不同于 allow 和 permit；在 let 后\n面的宾补为不带to的动词不定式；let\n一般不能用被动语态：\nLet me help you.\n让我帮你吧。"
+  },
+  {
+   "page": 48,
+   "dict_page": 27,
+   "title": "almost 与 nearly",
+   "title_box": [
+    423,
+    657,
+    646,
+    686
+   ],
+   "bottom_y": 1643,
+   "content": "①这两个词意思相近，肯定句中可以换\n用；一般说来，almost 的差别比 nearly\n小，因此，在差一刻开午饭时，可以说：\nIt's nearly lunchtime.\n快开午饭了。\n在差5分钟的时候，可以说：\nIt's almost lunchtime.\n马上要开午饭了。\n②almost 能和 never,no,none,nothing，\nnobody，nowhere 等连用，这种情况下\n不能用nearly（▲可用 hardly，但后面\n不用否定词）：\nalmost never\n｝几乎从不\nhardly ever\nalmost nobody"
+  },
+  {
+   "page": 551,
+   "dict_page": 530,
+   "title": "aloud, loud 与 loudly",
+   "title_box": [
+    376,
+    1165,
+    653,
+    1194
+   ],
+   "bottom_y": 1765,
+   "content": "aloud 出声地，大声地；指为使人能听见\n而发声，不是心想，不是默读：\nread aloud 朗读\nthink aloud 自言自语\nloud大声地；主要指说话声和笑声等，\n常用比较级形式（aloud 除作副词外还\n有形容词词性）：\nlaugh loud and long 大声笑个不停\nTry to sing louder.\n试着再大点声唱。\nloudly 大声地，吵闹地；可指人声、敲门\n声或其他各种声音，强调声音高、喧闹、\n不悦耳：\nargue loudly 大声争辩\nexplode loudly 轰隆一声爆炸"
+  },
+  {
+   "page": 49,
+   "dict_page": 28,
+   "title": "already, still 和 yet",
+   "title_box": [
+    368,
+    609,
+    628,
+    642
+   ],
+   "bottom_y": 1577,
+   "content": "already 已经；惊讶某事发生的时间比预\n期的早，在疑问句中表示意外、惊讶的\n程度更强些：\nThe tea is already cold.\n茶已经凉了。\nIs the tea cold already? That's too\nquick.\n茶已经凉了？真太快了。\nstill 仍：惊讶某事仍在继续，比预期结束\n得晚：\nThe tea is still hot.\n茶仍然热着。\nyet 尚（未），已经；用于否定句和疑问句\n中，用来谈预期发生的事情：\nThe tea is not cold yet.\n茶还没凉。\nIs the tea cold yet ？\n茶凉了吗？"
+  },
+  {
+   "page": 49,
+   "dict_page": 28,
+   "title": "also, as well, too 和 either",
+   "title_box": [
+    317,
+    1585,
+    664,
+    1618
+   ],
+   "bottom_y": 2249,
+   "content": "这几个词语都可以表示“也”，但用法不\nalso 较正式，位置通常接近动词，不用于\n句末：\nHe also plays the piano.\n他也弹钢琴。\ntoo 多用于口语，位置通常在句末，前边常\n有逗号；也可以在句中，前后均有逗号：\nHe is a worker,too.\n他也是个工人。\nas well 也多用于口语，只用于句末：\nHe plays the guitar as well.\n他也弹吉他。\n▲以上3个词都不用于否定句，否定句\n中用（not...） either：\nHe was not there either.\n他也不在那里，"
+  },
+  {
+   "page": 49,
+   "dict_page": 28,
+   "title": "although 与 though",
+   "title_box": [
+    1022,
+    2001,
+    1281,
+    2038
+   ],
+   "bottom_y": null,
+   "content": "这两个词都可作连词，引导让步状语从\n句，意思是“虽然…但是”；在英语里如\n用了 although或though，就不能再用\n•\nbut，但可以用yet 或 still：\n虽然他身体不好，但是他工作努力。\n正：Although（或Though）he is in poor\n……（续见词典第 29 页）"
+  },
+  {
+   "page": 51,
+   "dict_page": 30,
+   "title": "amount 和 number",
+   "title_box": [
+    1040,
+    1453,
+    1296,
+    1483
+   ],
+   "bottom_y": null,
+   "content": "amount 后接不可数名词\nnumber 后接可数名词复数\nthe amount of+ ［U］\n…的总数量\nthe number of+［C］\nthe amount of money 钱的总数额\nthe number of our students 我们学生\n的总数\na large amount of+［U］\na large number of+［C］大量的：\na large amount of land 大量的土地\na large number of mistakes 大量的错误"
+  },
+  {
+   "page": 636,
+   "dict_page": 615,
+   "title": "amount, number 和 quantity",
+   "title_box": [
+    299,
+    1870,
+    679,
+    1910
+   ],
+   "bottom_y": null,
+   "content": "①许多;很多(与不定冠词连用,或没有冠词):\nan amount(或 amounts)of+名词[U][+单数动词]\na number(或 numbers)of+名词[C][+复数动词]\na quantity of+名词[C;U][+单数动词]\nquantities of+名词[C;U][+复数动词]"
+  },
+  {
+   "page": 54,
+   "dict_page": 33,
+   "title": "animal, beast 和 creature",
+   "title_box": [
+    335,
+    266,
+    686,
+    295
+   ],
+   "bottom_y": 482,
+   "content": "animal 动物；以区别于植物、矿物等\nbeast 野兽；较大的四足兽，以区别于爬\n行动物和昆虫等\ncreature 生物；英语中指造物主创造的\n生命，常带有感情色彩"
+  },
+  {
+   "page": 55,
+   "dict_page": 34,
+   "title": "answer, reply 和 respond",
+   "title_box": [
+    321,
+    986,
+    664,
+    1019
+   ],
+   "bottom_y": 1724,
+   "content": "这3个词都可以表示“回答”，意义有所\n不同：\nanswer用法较广泛，可指口说或笔写的\n答复：\nI called, but no one answered.\n我叫了，可是没人回答。\nreply 指较正式的、经过考虑后的答复：\nI sent in my application,and\nthe\nuniversity replied immediately.\n我把申请书送去，那所大学立即答复\nrespond 在表示“回答”时用得较少，指\n正式的、毫不踌躇的答复：\nWhen we requested information,the\nchairman responded.\n当我们询问情况时，主席做了答复。\n▲这3个词的句型搭配也不同：answer\nsb.）L用作w.或 vi. ］；reply to sb.\n［用作 vi.］,respond［用作 vi.］"
+  },
+  {
+   "page": 56,
+   "dict_page": 35,
+   "title": "anybody, anyone 和 any one",
+   "title_box": null,
+   "bottom_y": null,
+   "content": "anybody 和 anyone 都指“任何人”，后接\n单数动词：\nHas anybody called？\n有人打电话来吗？\nanybody 和 anyone 在 not 后面表示全\n都否定，但不能放在 not 前；否定主语\n时要用 nobody："
+  },
+  {
+   "page": 64,
+   "dict_page": 43,
+   "title": "arrive, reach 和 get to",
+   "title_box": [
+    314,
+    295,
+    617,
+    328
+   ],
+   "bottom_y": 867,
+   "content": "arrive 表示“到达某地”时，后面要接介\n词，到达的地方范围较大时多用 in：地\n方较小时多用 at：\nWe arrived in Paris（France,Europe）.\n我们到达巴黎（法国、欧洲）。\nWe arrived at the station（my native\ntown,the bridge）.\n我们到达车站（我的家乡、那座桥）。\nreach 后面直接跟表示地点的词：\nHe reached London.\n他到达了伦敦。\nget to 是口头用语：\nWhat time shall we get to Shanghai？\n我们什么时候到上海？"
+  },
+  {
+   "page": 429,
+   "dict_page": 408,
+   "title": "assist 与 help",
+   "title_box": [
+    1084,
+    1632,
+    1270,
+    1673
+   ],
+   "bottom_y": 2163,
+   "content": "assist 帮助，援助；正式用语，受帮助者自\n己也出力：\nStudents assisted the professor in do-\ning the experiment.\n学生协助教授做实验。\n句型：assist sb.with sth.（或 to do sth.\n或 in doing sth.）帮助某人做某事\nhelp 帮助，常用语，受帮助者也可以是出力\n者，也可以是不出力者：\nIf he is in difficulties,you help him.\n如果他遇到困难，你就帮助他。\n句型：help sb.with sth.（或（to）do sth.）\n帮助某人做某事"
+  },
+  {
+   "page": 77,
+   "dict_page": 56,
+   "title": "back, backward(s), behind 和 after",
+   "title_box": [
+    927,
+    883,
+    1413,
+    913
+   ],
+   "bottom_y": 1505,
+   "content": "back 在后，向后；表示物体的位置或行\n进的方向：\nHe goes back.\n他返回去。\nbackward（s） 向后；表示行进的方式：\nHe goes backward （s）.\n他倒著走（退步）。\nbehind 后面；表示场所，与他物相对的位\n置：\nHe stands behind.\n他站在后面。（表示他之前还有他人）\n▲stand back 后退\nafter 在后，次于；表示时间和顺序：\nWe arrived soon after.\n我们随后很快就到了。\n▲She ran behind.她在后面跑。"
+  },
+  {
+   "page": 24,
+   "dict_page": 3,
+   "title": "be able to 与 can",
+   "title_box": [
+    1062,
+    284,
+    1292,
+    317
+   ],
+   "bottom_y": 806,
+   "content": "can 没有将来式和完成式。因此在 shall，\nwill,have 等后面，要用 be able to：\nI'll be able to speak Japanese in an-\nother few months.\n再过几个月我就会说日语了。\nHe has not been able to get there be-\nfore dark.\n他没能在天黑前赶到那里。\n▲can 与 be able to 不能重 使用：\n误：He can be able to do it well.\n他能做好这件事。\n正：He can（或is able to） do it well.\n［参见 could］"
+  },
+  {
+   "page": 39,
+   "dict_page": 18,
+   "title": "be afraid to do 与 be afraid of doing",
+   "title_box": null,
+   "bottom_y": null,
+   "content": "be afraid to do 与 be afraid of doing 都可以表示“害怕”、“不敢”，但是，谈论我们\n自己也无法左右的突发事情时，要用\ndoing 的形式：\nI'm afraid to dive into the swimming\npool.\n我不敢在游泳池里跳水。\nI'm afraid of falling into the swim-\nming pool.\n我担心会掉进游泳池里去。"
+  },
+  {
+   "page": 456,
+   "dict_page": 435,
+   "title": "be ignorant, ignore 和 disregard",
+   "title_box": [
+    960,
+    434,
+    1387,
+    467
+   ],
+   "bottom_y": 1016,
+   "content": "be ignorant 不知道，没意识到：\nShe didn't see him,so she was ignor-ant of his presence.（或•••was ignor-ant that he was present）.\n她没看见他，因此她不知道他在场。\nignore 装作不知，故意不理睬：\nShe saw him coming,but she ignored him.\n她看见他走过来了，可是她故意不理\n他，\ndisregard（经考虑后）认为不重要：看轻\n⋯；\nWe disregarded the gossip and rumors\n我们没把闲话和谣言放在心上。"
+  },
+  {
+   "page": 633,
+   "dict_page": 612,
+   "title": "be noted for 和 be noted as",
+   "title_box": [
+    314,
+    1468,
+    679,
+    1497
+   ],
+   "bottom_y": 1799,
+   "content": "be noted for 某人（或物）因拥有⋯而出\n名：\nJingdezhen is noted for its pottery.\n景德镇以陶器著名。\nbe noted as 某人（或物）因自身是⋯而出\n名：\nBeidaihe is noted as a summer resort.\n北戴河以避暑胜地而著称于世。"
+  },
+  {
+   "page": 462,
+   "dict_page": 441,
+   "title": "be of importance 与 be important",
+   "title_box": [
+    266,
+    993,
+    719,
+    1022
+   ],
+   "bottom_y": null,
+   "content": "be of +（形容词）＋抽象名词\nbe 十（副词）＋形容词（与上面抽象名词\n同词根）\n这件事很重要。\nThis matter is of great importance.\nThis matter is very important.\n这对你有用吗？\nWill this be of value to you？\nWill this be valuable to you？\n▲可用于以上结构的抽象名词及对应的\n形容词有：value-valuable,importance-\nimportant, use-useful,significance-sig\nnificent,interest interesting 等\n▲可用于修饰抽象名词的形容词有: great, little, some, any, no, not much"
+  },
+  {
+   "page": 652,
+   "dict_page": 631,
+   "title": "be open 与 be opened",
+   "title_box": [
+    346,
+    1720,
+    631,
+    1753
+   ],
+   "bottom_y": null,
+   "content": "The door was open.\n这门开着。（表示状态）\nThe door was opened.\n这门被打开了。（表示动态）"
+  },
+  {
+   "page": 746,
+   "dict_page": 725,
+   "title": "be proud of 与 be proud about",
+   "title_box": null,
+   "bottom_y": null,
+   "content": "be proud of 正当，尊重；常用于褒义：\nWe are proud of our motherland.\n我们为祖国而自豪。\nbe proud about 自觉了不起，高于别人或\n盛气凌人；常用于贬义：\nWe've nothing to be proud about.\n我们没有什么值得骄傲的。\n▲两词组后都可以接名词、代词或动名\n词"
+  },
+  {
+   "page": 957,
+   "dict_page": 936,
+   "title": "be sure of 与 be sure to do",
+   "title_box": null,
+   "bottom_y": null,
+   "content": "be sure of（或 that）主语是人，主语感到\n“有把握，确信”\nbe sure to do 主语可以是人或物，表示\n说话人推测“一定，必然会”\nHe is sure of his success.\nHe is sure that he will succeed.\n他确信他会成功。（主语 He 的信念）\nHe is sure to succeed.\n他一定会成功。（说话人的意见）\nIt is sure to rain.\n天准会下雨。"
+  },
+  {
+   "page": 92,
+   "dict_page": 71,
+   "title": "before long 与 long before",
+   "title_box": [
+    967,
+    953,
+    1325,
+    986
+   ],
+   "bottom_y": null,
+   "content": "before long 不久（以后）：与将来式、过去\n式连用：\nThe work will be finished before long.\n该项工作不久即将完成。\nBefore long they didn't have to wo-\nrry about their chickens.\n不久，他们就不必担心他们的鸡了。\nlong before很久以前；与过去式连用：\n~~；\nWe heard of it long before.\n我们很久以前就听说过这件事。"
+  },
+  {
+   "page": 94,
+   "dict_page": 73,
+   "title": "believe sb. 和 believe in sb.",
+   "title_box": [
+    960,
+    258,
+    1325,
+    288
+   ],
+   "bottom_y": 442,
+   "content": "believe sb. 相信某人（所说的话是真的）\nbelieve in sb. 信任某人\nI believe him.but I can't believe in him.\n我相信他的话是真的，但我不能信任他。"
+  },
+  {
+   "page": 552,
+   "dict_page": 531,
+   "title": "beloved, lovely 与 loving",
+   "title_box": [
+    324,
+    401,
+    653,
+    431
+   ],
+   "bottom_y": null,
+   "content": "beloved 深受爱戴的（常与by连用，有尊\n敬、严肃的含义），钟爱的：\na man beloved by all 人人爱戴的人\nhis beloved wife 他的爱妻\nlovely 可爱的、漂亮的，迷人的（外观外\n貌）.宜人的：\na lovely girl (scene）\n漂亮的女孩（迷人的以景）\na lovely song 优美动听的歌"
+  },
+  {
+   "page": 98,
+   "dict_page": 77,
+   "title": "between 和 among",
+   "title_box": [
+    349,
+    944,
+    595,
+    979
+   ],
+   "bottom_y": null,
+   "content": "一般指“在两者之间”\nbetween\namong 指“三者（或三者以上）之中”\nShe is sitting between Jane and Mary.\n她坐在珍妮和玛丽之间。She is sitting\namong the children.\n她坐在孩子们之中。\n▲between 后接二者或三者以上物体时，\n是把这些物体分别看待，指每两者之间：\nShe takes some medicine between three\nmeals every day.\n她每天在两餐之间吃药。"
+  },
+  {
+   "page": 99,
+   "dict_page": 78,
+   "title": "big, large, great",
+   "title_box": [
+    1047,
+    1033,
+    1281,
+    1066
+   ],
+   "bottom_y": null,
+   "content": "big 大的（［反］little），与 large 一样都指\n具体事物，big 多指体积之大，还可表示\n“长大、伟大、重要”等意思：\nHe is a big man.\n他是个大人物。\nChina is a big country.\n中国是个大国。（强调实力）\nlarge 大的（［反］small）；多指面积之大：\nHe had a large family to support.\n他要养活…个人口众多的家庭。\nChina is a large country.\n中国是个大国。（强调面积）\ngreat 巨大的，伟大的，重大的（［反］\nlittle，small）；除表示数量、体积之大\n外，又指抽象的程度：\nHe has made great progress.\n他取得了很大进步。\nChina is a great country.\n中国是个伟大的国家．（强调伟大）"
+  },
+  {
+   "page": 125,
+   "dict_page": 104,
+   "title": "bright, wise, clever",
+   "title_box": [
+    365,
+    1614,
+    624,
+    1647
+   ],
+   "bottom_y": null,
+   "content": "bright 聪明的，伶俐的；常指年轻人或小\n孩（口语）\nwise 聪明的，博学的，有智慧的，可指人、\n行为、言语、计划等（正式用语）：\na wise saying 至理名言\nclever 聪明的，伶俐的，灵巧的，机敏的；\n应用范围广：\nclever hands 巧手"
+  },
+  {
+   "page": 127,
+   "dict_page": 106,
+   "title": "broad 与 wide",
+   "title_box": [
+    401,
+    507,
+    591,
+    536
+   ],
+   "bottom_y": 1131,
+   "content": "两词都有“宽的”含义，常可换用：如：\nThe river is\n300 feet broad（或 wide）.\n这条河有300英尺宽。\n但两词还是各有侧重：\nbroad 着重指幅面的宽广；此外，还修饰\n背、肩、胸等的宽阔：\nWe saw the broad ocean.\n我们看到了广阔的海洋。\nHis back （shoulder,chest） is broad.\n他的背部（肩膀、胸部）很宽阔。\nwide 着重指从一边到另一一边的距离；此\n外还修饰口，眼睛的“大”：\nHow wide is the cloth？\n这块布有多宽？\nShe stared at him with wide eyes.\n她睁大眼睛注视着他。"
+  },
+  {
+   "page": 136,
+   "dict_page": 115,
+   "title": "by 与 near",
+   "title_box": [
+    394,
+    1182,
+    536,
+    1216
+   ],
+   "bottom_y": 1475,
+   "content": "by 就在⋯旁边（比 near 较近）\nWe live by the sea.\n我们就住在海边。（可以看见大海）\nnear 在⋯附近\nWe live near the sea.\n我们住在靠近大海的地方。（也许看\n不见大海）"
+  },
+  {
+   "page": 141,
+   "dict_page": 120,
+   "title": "calm, quiet, still 和 silent",
+   "title_box": [
+    346,
+    262,
+    690,
+    295
+   ],
+   "bottom_y": 997,
+   "content": "calm 平静的，沉着的；指无风浪或人的\n心情不激动\nquiet 宁静的，安静的；指没有声音，不吵\n闹或心里没有烦恼、焦虑\nstill 静止的，不动的，指没有运动或动作\n的状态\nsilent 寂静的，缄默的，不发音的；指没有\n声音或不讲话\nTell the children to keep calm.\n告诉孩子们沉着些。（指不慌张、冷静）\nAsk the boys to keep quiet.\n让孩子们安静。（指不要闹）\nThe officer asked the Swede to keep\nstill.\n军官叫那个瑞典人别动。（指不移动\n也不出声）\nShe kept silent about the matter.\n她对这件事情保持沉默。（指什么也\n不说）"
+  },
+  {
+   "page": 142,
+   "dict_page": 121,
+   "title": "表示“允许”的 can, could, may, might",
+   "title_box": [
+    237,
+    390,
+    752,
+    431
+   ],
+   "bottom_y": 1073,
+   "content": "二当请求允许做某事时，can 最常用；在\n没有把握能否得到允许或为表现得更\n客气一些时，可用 could；而 may 和\nmight 则多用于正式文体或第一人称：\nCould I use your phone？\n我可以用一下你的电话吗？\nMay I make a suggestion？\n我可以提个建议吗？\n▲当表示允许某人做某事时，要用 can\n或 may，不能用 could 和 might：\n“Could I borrow your car？\"\n“Yes,of course you can.\n“我能借用你的汽车吗？”\n“当然可以。\n“Might I trouble you for a light？\"\n“You may indeed！\"\n“借个火好吗？”\n“当然可以！”"
+  },
+  {
+   "page": 156,
+   "dict_page": 135,
+   "title": "chance 与 opportunity",
+   "title_box": [
+    328,
+    744,
+    624,
+    774
+   ],
+   "bottom_y": null,
+   "content": "▲当表示有机会做某件事时，这两个词\n的用法相同，后面可接to do或 of do-\nlog：\nI had the chance（或 opportunity） f\nvisiting Beijing.\n我曾有机会参观北京。\nI had no chance（或opportunity）t\nsee him.\n我没有机会见到他。\n▲chance 后面可接从句，opportunity\n则不能：\nThere is a chance that he will succeed.\n他有可能成功。"
+  },
+  {
+   "page": 165,
+   "dict_page": 144,
+   "title": "city 与 town",
+   "title_box": [
+    1109,
+    1519,
+    1274,
+    1552
+   ],
+   "bottom_y": 1918,
+   "content": "city 城市，指较大的、较重要的城市，但\n在美国，city用得较广，小镇也称作 city\ntown 城镇；比 village“村”大，但称不上\n是 city； town 和 country（side） \"乡下”\n相对应，如：\nnarrow down the difference between\ntown and countryside 缩小城乡差别\n▲在词组中，city 前常加冠词，town前常\n不加冠词：\ngo to the city,go to town 进城"
+  },
+  {
+   "page": 168,
+   "dict_page": 147,
+   "title": "clean 与 clear",
+   "title_box": [
+    1073,
+    1077,
+    1259,
+    1106
+   ],
+   "bottom_y": 1569,
+   "content": "①作形容词时：\nclean 指没有尘埃、脏东西（［反］dirty）：\nclean water 洁净的水\nclear 指清澈透明（［反］muddy）：\nclear water of the lake\n清澈见底的湖水\n②作动词时：\nclean 指弄干净，清洁：\nclean the classroom 打扫教室\nclear 指收拾掉不要的东西：\nclear the table after dinner\n饭后收拾饭桌"
+  },
+  {
+   "page": 171,
+   "dict_page": 150,
+   "title": "clothes, clothing 和 dress",
+   "title_box": [
+    1015,
+    1720,
+    1350,
+    1753
+   ],
+   "bottom_y": null,
+   "content": "clothes 是最常用词，统指身上的各种服\n装，包括上衣、裤子、内衣等；是复数名\n词，不能直接与数词连用，后面要接复\n数动词：\nShe often wears beautiful clothes.\n她经常穿漂亮的衣服。\nclothing 是物质名词，是服装的总称，除\n衣裤外还包括帽子、鞋袜等；没有复数\n形式，后面要接单数动词，“一件衣服”\n要说 an article of clothing：\nThis shop sells women's clothing.\n这家商店出售妇女服装。\n……（续见词典第 151 页）"
+  },
+  {
+   "page": 194,
+   "dict_page": 173,
+   "title": "continual 与 continuous",
+   "title_box": [
+    295,
+    766,
+    613,
+    792
+   ],
+   "bottom_y": null,
+   "content": "continual 是指事情在一段时间内屡次发\n生，而且这段时间较长，多为令人不快：\ncontinual interruptions\n连续不断的打扰\ncontinuous 是指不间断的延续：\nsix hour continuous driving\n连续开车6小时"
+  },
+  {
+   "page": 200,
+   "dict_page": 179,
+   "title": "could 与 was(were) able to",
+   "title_box": [
+    956,
+    660,
+    1325,
+    690
+   ],
+   "bottom_y": 1173,
+   "content": "▲could 和 was（were）able to 都可以表\n示过去的”般的能力”：\nShe could（或 was able to）play the\npiano when she was three.\n她3岁就会弹钢琴。\n▲表示过去“具体的能力”（即在某具体\n场合成功地做了某事时）.要用 was\n（were） able to (=managed to do），不能\n用 could：\nI was able to get the ticket yester\nday.昨天我总算搞到票了。\n▲否定式 couldn't既可表示”一般的能\n力”，也可表示某“具体的能力”"
+  },
+  {
+   "page": 202,
+   "dict_page": 181,
+   "title": "couple 与 pair",
+   "title_box": [
+    383,
+    335,
+    576,
+    369
+   ],
+   "bottom_y": 808,
+   "content": "pair 指两件不能分开使用的东西：它们\n可以是两件互不相连的东西.如鞋、袜、\n手套等.也可以是由两个部分构成的\n件东西•如裤子、剪刀等：\na pair of shoes（socks, gloves）\n一双鞋（袜、手套）\na pair of scissors（compasses）\n一把剪刀（圆规）\ncouple 指任何两件同类的东西：\na couple of cats 两只猫\nfive couple（s） of rabbits 5 对兔子\n［参见 pair］"
+  },
+  {
+   "page": 202,
+   "dict_page": 181,
+   "title": "courage 与 bravery",
+   "title_box": [
+    353,
+    1231,
+    610,
+    1267
+   ],
+   "bottom_y": 1713,
+   "content": "courage 勇气，勇敢；指使人面对危险、困\n难、痛苦等而不感到惧怕的精神力量：\nAlthough blinded by the explosion.\nhe faced the future with courage.\n他虽然炸瞎了眼睛，但仍勇敢地面\n对未来。\nbravery 勇敢；指处于某种紧迫情况下大胆无畏的行动勇气：\nHe showed great bravery in saving\nthe drowning child.\n他在抢救落水儿童的过程中表现得\n极为勇敢。"
+  },
+  {
+   "page": 209,
+   "dict_page": 188,
+   "title": "cry, weep, sob 和 sniffle",
+   "title_box": [
+    996,
+    1881,
+    1347,
+    1910
+   ],
+   "bottom_y": null,
+   "content": "cry一般指因悲伤、痛苦、愤怒或恐惧而\n哭泣；通常指哭出声来\nweep 指小声或无声的哭泣，尤其指“痛\n哭流涕”；多用于书面语言\nsob 指因极度悲伤、痛苦而呜咽、抽泣，\n尤其指“泣不成声”\nsniffle抽鼻子（哭）"
+  },
+  {
+   "page": 226,
+   "dict_page": 205,
+   "title": "date 和 day",
+   "title_box": [
+    1066,
+    1646,
+    1223,
+    1680
+   ],
+   "bottom_y": 2197,
+   "content": "你的出生日期是什么时候？\n误：What's the day of your birthday？\n正：What's the date of your birthday：\ndate 日期：某件事发生的年月日\nday日子\nWhat day is it today！\n今天星期几？\nIt's Sunday （Monday).\n今天星期日（星期一）。\nWhat is the date today？\n今天几号？\nIt's Oct.26. 或 It's the twenty-sixth\nof October.\n今天10月26日："
+  },
+  {
+   "page": 229,
+   "dict_page": 208,
+   "title": "dealer, trader, merchant, pedlar",
+   "title_box": [
+    978,
+    1899,
+    1413,
+    1936
+   ],
+   "bottom_y": null,
+   "content": "dealer 主要出售个别商品，并对这种商\n品有专门知识的商人：\nHe is a used-car dealer.\n他是一个旧汽车商。\ntrader 不是正式开买卖，主要是在市场\n上随意卖些家用物品的商人；也可指在\n国际上做买卖的商人：\nHe is a street trader.\n他是沿街叫卖的小贩。\nmerchant 出售的是某种（经常是进口\n的）大宗商品的商人：\nHe's a coal(wine,tea) merchant.\n他是经营煤炭（酒、茶叶）的商人。\npedlar, pedler（挨户兜售的）小贩、（沿\n街叫卖的）商贩、货郎"
+  },
+  {
+   "page": 232,
+   "dict_page": 211,
+   "title": "decide 和 make up one's mind",
+   "title_box": [
+    277,
+    328,
+    679,
+    361
+   ],
+   "bottom_y": null,
+   "content": "decide 做出定的选择；强调经过考虑\n或商议：\nHe decided to go on Monday.\n他决定星期⋯走。\nmake up one's mind 打定主意；与迟疑、\n动摇、困惑相对：\nAt last she made up her mind to tell\nhim about it.\n最后她打定主意把那事告诉他。"
+  },
+  {
+   "page": 232,
+   "dict_page": 211,
+   "title": "decided 和 decisive 之不同",
+   "title_box": [
+    963,
+    368,
+    1321,
+    401
+   ],
+   "bottom_y": 589,
+   "content": "decided 决定了的；可用于人或事物：\na decided man 一个坚决的人\na decided victory 已成定局的胜利\ndecisive 有决定性的；一般只用于事物：\na decisive victory 决定性的胜利"
+  },
+  {
+   "page": 253,
+   "dict_page": 232,
+   "title": "decrease 和 diminish",
+   "title_box": [
+    1040,
+    1015,
+    1318,
+    1040
+   ],
+   "bottom_y": 1347,
+   "content": "decrease 减少：渐渐地、匀速地：\nThe speed decreased.\n速度渐减了。\ndiminish 减少；从整体中一点一点地取\n出其中一部分：\nThe medical bills diminished my savings.\n药费的开销使我的储蓄减少。"
+  },
+  {
+   "page": 241,
+   "dict_page": 220,
+   "title": "dependent on 与 independent of",
+   "title_box": [
+    963,
+    397,
+    1391,
+    427
+   ],
+   "bottom_y": 618,
+   "content": "虽是同根词，后接介词却不同\n“依靠”后用 on或 upon:depend （vi. ）.\ndependent （a. ）， dependence （n.）\n“独立”后用 of:independent （a.），\nindependence （n.）"
+  },
+  {
+   "page": 244,
+   "dict_page": 223,
+   "title": "desirable 和 desirous",
+   "title_box": [
+    1004,
+    1493,
+    1285,
+    1523
+   ],
+   "bottom_y": null,
+   "content": "desirable 可喜的（以事为主语）：\nSuccess is desirable to me.\n成功对我来说是可喜的。\ndesirous 人渴望的（以人为主语）：\nI am desirous of success.\n我渴望成功。"
+  },
+  {
+   "page": 251,
+   "dict_page": 230,
+   "title": "die of 与 die from",
+   "title_box": null,
+   "bottom_y": null,
+   "content": "die of 因患…而死，后常加这样的名词：\ndie of hunger (cold, poison, illness,\nold age, a disease, cancer, boredom,\nthirst, sorrow, disappointed love, a\nfever, heat...) 死于饿（寒冷、中毒、\n病、年老、疾病、癌症、无聊、渴、忧伤、失\n恋、发烧、热…）\ndie from 由于…而死（原因常是来自外\n部），后常加这样的名词：\ndie from a wound (an accident, over\nwork, cancer, carelessness, drinking,\nsome unknown cause...) 死于受伤（事\n故、工作过量、癌症、粗心、饮酒过量、不\n明原因…）"
+  },
+  {
+   "page": 257,
+   "dict_page": 236,
+   "title": "disappointed 和 disappointing",
+   "title_box": [
+    306,
+    1690,
+    701,
+    1731
+   ],
+   "bottom_y": 1881,
+   "content": "disappointed（指人）失望的，失意的：\na disappointed man 失意人\ndisappointing 令人失望、扫兴的：\na disappointing man 令人失望的人"
+  },
+  {
+   "page": 258,
+   "dict_page": 237,
+   "title": "disclose, exhibit, expose",
+   "title_box": [
+    306,
+    1956,
+    646,
+    1991
+   ],
+   "bottom_y": null,
+   "content": "disclose 揭示；把原来隐藏的东西翻出来\n使人可以看见\nexhibit 展览，显示；不含对象原来被隐\n藏起来的意思\nexpose 揭露；揭露的对象一般是丑恶的、\n见不得人的，也指把人或物暴露于不利\n的位置"
+  },
+  {
+   "page": 259,
+   "dict_page": 238,
+   "title": "discover 与 invent",
+   "title_box": [
+    387,
+    1961,
+    631,
+    1990
+   ],
+   "bottom_y": 2176,
+   "content": "discover发现：指发现的对象是本来存\n在的，只是以前不知道而已；也可指发\n现新奇或意外之物或发现某种情况\ninvent 发明；发明的对象是以前没有的\n新东西，如工具、手段或方法"
+  },
+  {
+   "page": 259,
+   "dict_page": 238,
+   "title": "discuss sth. 和 discussion about sth.",
+   "title_box": [
+    934,
+    1737,
+    1417,
+    1779
+   ],
+   "bottom_y": null,
+   "content": "他们讨论了有关那件事。\n误：They discussed about the matter.\n正：They discussed the matter.\n正：They had a discussion about（或 on）\nthe matter.\n▲discuss 是及物动词，其后不能跟介词\ndiscussion 是名词，其后要带介词about\n或 on"
+  },
+  {
+   "page": 260,
+   "dict_page": 239,
+   "title": "disease, illness, sickness, trouble",
+   "title_box": [
+    266,
+    613,
+    701,
+    639
+   ],
+   "bottom_y": null,
+   "content": "disease 指特定的具体的疾病：\nchronic disease 慢性病\nheart disease 心脏病\nillness 和 sickness 常可通用，很少指具\n体疾病，只表示抽象的疾病和生病的状\n态：\n3 long\nperiod of illness（或 sickness）\n长期患病\n你生的什么病？\n误：What is your disease（或 illness、\nsickness）？\n正：What is your trouble？"
+  },
+  {
+   "page": 260,
+   "dict_page": 239,
+   "title": "disgust 与 revolt",
+   "title_box": [
+    1040,
+    1442,
+    1259,
+    1475
+   ],
+   "bottom_y": 1752,
+   "content": "disgust 厌恶，憎恶；主要指卑鄙无耻的\n伎俩、表现或事物的“使人憎厌”或“使\n人受不了”，有时甚至含有生理反应的：\n“令人欲呕”\nrevolt 反感，反抗；主要指极端残酷、肮\n脏的事物或现象“使人憎恨、憎恶”•感\n觉有必要起来反抗以制止或改变它\n“我憎恶它.”的译法"
+  },
+  {
+   "page": 261,
+   "dict_page": 240,
+   "title": "disinterested 和 uninterested",
+   "title_box": [
+    996,
+    240,
+    1380,
+    266
+   ],
+   "bottom_y": 649,
+   "content": "disinterested 无私的；指不考虑个人利\n益或不从个人利益出发：\na disinterested person 没有私心的人\nuninterested 不关心、无动于衷：\nan uninterested observer 冷漠的旁观者\n▲不要用 disinterested 或 uninterested\n来表示“没有兴趣”；要用：be not\ninterested in sth. 的句型：\nHe is not interested in it.\n他对此事没有兴趣。"
+  },
+  {
+   "page": 263,
+   "dict_page": 242,
+   "title": "disregarding 与 in spite of",
+   "title_box": [
+    1018,
+    628,
+    1376,
+    661
+   ],
+   "bottom_y": 1270,
+   "content": "disregarding 顾；用作前置词，是由现\n在分词变来，因此与主语关系较密切，\n有逻辑上的主谓关系，表示有意地“不\n理睬”；\nDisregarding the teacher's repeated\nwarnings,the boy played truant again.\n这孩子不顾老师的屡次警告，又逃学\n了。\nin spite of 尽管；与主语的主观意图无\n关：\nIn spite of the heavy snow.he manag-\ned to come.\n尽管大雪纷飞，他还是设法来了。\n▲despite, in despite of 和 in spite of 完\n全同义，是较旧的说法，可用 in spite of\n的地方，就不必用它们"
+  },
+  {
+   "page": 265,
+   "dict_page": 244,
+   "title": "distrust 和 mistrust",
+   "title_box": [
+    1051,
+    1727,
+    1321,
+    1760
+   ],
+   "bottom_y": 2212,
+   "content": "distrust 不信任；语气较强、是对某人不\n信任：\nI distrusted the large promises made\nby him.\n我不相信他许下的慷慨诺言。\nmistrust 不相信：语气较轻，主要是针对\n自己而言：\nI mistrust myself.\n我对自己没信心。\n▲“不信任自己”只能用 mistrust 来表\n达，不能用 distrust"
+  },
+  {
+   "page": 267,
+   "dict_page": 246,
+   "title": "divide 和 separate",
+   "title_box": [
+    401,
+    244,
+    649,
+    277
+   ],
+   "bottom_y": 630,
+   "content": "divide 划分；把整体分为若干部分，如：\nThe world is divided into five contin-\nents.\n世界分成五大洲。\nseparate 分隔；把原来连在一起或靠近\n的分隔开来，如：\nThe grinding\nmachine separates the\ngrain from the husk.\n碾谷机把米和糠分开。"
+  },
+  {
+   "page": 558,
+   "dict_page": 537,
+   "title": "do 与 make 表示不同的“做”",
+   "title_box": [
+    967,
+    1157,
+    1358,
+    1194
+   ],
+   "bottom_y": 1670,
+   "content": "两词都有“做”的意思。通常说“做一个动\n作”.用 do 来表示；而制造一种从前许\n不存在的东西，则用 make 来表示•如：\ndo the shopping 买东西\nmake a noise 发出噪音\nA:What are you doing?B: Cooking.\n甲：你在做什么？乙：我在烧饭。\nA: What are you making? B:A cake.\n甲：你在做什么？乙：在做蛋糕。\n此外，do 和 make还分别有许多固定\n的表达方式，如：\ndo a favour 帮个忙\nmake a war 开战"
+  },
+  {
+   "page": 281,
+   "dict_page": 260,
+   "title": "during 与 for",
+   "title_box": [
+    1088,
+    712,
+    1270,
+    748
+   ],
+   "bottom_y": 1165,
+   "content": "during 表示一段时间；其长度明确，起止\n分明，后面连接精确说明长度和始点、\n终点的词：\nduring the week\n在这一周中（整个期间）\nfor 表示一段时间；不特定或长度不明\n确，后面连接表示不特定的时间或期间\n的词：\nfor a week 一周的时间\n▲在 some time,a long time 前只能用\nfor，不宜用 during"
+  },
+  {
+   "page": 283,
+   "dict_page": 262,
+   "title": "dynasty 和 period",
+   "title_box": [
+    394,
+    332,
+    631,
+    368
+   ],
+   "bottom_y": 621,
+   "content": "dynasty 朝代；表示一姓皇族统治，前面\n要加冠词：\nthe Ching dynasty 清朝\nperiod 时代：表示历史上混乱、分裂、非\n-姓所统治的：\nthe period of the Warring States\n战国时代"
+  },
+  {
+   "page": 285,
+   "dict_page": 264,
+   "title": "each 和 every",
+   "title_box": [
+    426,
+    390,
+    610,
+    421
+   ],
+   "bottom_y": 924,
+   "content": "Each一定数目中的“每一个”；“个别”意\n义较重，表示“各有不同”，更强调个人\n或个别：\nEach one has his weakness.\n每人都有每人的缺点。\nevery 数目不确定的许多人或物中间的\n“每一个”；“总合“意义较重，更强调个\n人或个别，表示“大家一致”：\nEvery one is here.\n大家都到了。\n▲①each 和 every 后的动词必须是单数\n②each 可作主语、同位语、定语和状语，\n而 every 只能作定语"
+  },
+  {
+   "page": 285,
+   "dict_page": 264,
+   "title": "eager 和 anxious",
+   "title_box": [
+    397,
+    1165,
+    620,
+    1194
+   ],
+   "bottom_y": 1616,
+   "content": "eager 强调“对成功的期望”或“进取的热\n情”，含有积极向上的意思：\nI am eager to do that interesting work.\n我急于做那件有趣的工作。（有积极\n的干劲和热情）\nanxious 强调“担心”或“焦急”，对结果感\n到不安：\nI am anxious to know the news from\nthe battlefield.\n我急于想知道战场传来的消息。（心"
+  },
+  {
+   "page": 287,
+   "dict_page": 266,
+   "title": "easy 和 simple",
+   "title_box": [
+    412,
+    1508,
+    613,
+    1541
+   ],
+   "bottom_y": 1806,
+   "content": "easy不需要费力而能做（能理解）：\nLunch was easy to prepare.\n做午饭是容易的。\nsimple 因内容不复杂而能简单地做（能\n理解、能使用的）：\nThat's a very simple puzzle.\n那是个很简单的谜。"
+  },
+  {
+   "page": 291,
+   "dict_page": 270,
+   "title": "elect, choose, select",
+   "title_box": null,
+   "bottom_y": null,
+   "content": "elect 选举（指通过正式手续）；后接人及\n所任的职位：\nWe elected him Chairman.\n我们选他当主席。\nchoose 选择、抉择；用途最广，指一般的\n“选择”；指“抉择”时侧重意志或判断：\nHe chooses a book from among these.\n他在这些书籍中挑选了一本。\nselect 精选，指在同种的许多东西中，仔\n细审慎地加以“选择”，标准较严格，即\n在“精选”之中有所淘汰：\nThey were selected from among many\napplicants.\n他们是从许多报名者中挑出来的。\n▲choose 和 select 有时可通用。但：\n①choose 往往是以个人好恶亦即对个人\n是否合适为标准，select 则更强调客观\n优劣，或为了达到某一目的条件上的优\n劣\n②choose 有选定后就要“坚守”或“从\n事”的含义，select 则没有此义\n③choose 后可接不定式，表示“宁愿”、\n“决定”；select 不能接不定式"
+  },
+  {
+   "page": 291,
+   "dict_page": 270,
+   "title": "electric 与 electrical",
+   "title_box": [
+    1051,
+    1088,
+    1321,
+    1114
+   ],
+   "bottom_y": 1311,
+   "content": "electric 指以电为动力进行工作的装置：\nelectric iron 电熨斗\nelectrical 指关于电的知识或电的研究\n内容的：\nelectrical engineering 电工学"
+  },
+  {
+   "page": 292,
+   "dict_page": 271,
+   "title": "elementary 与 primary",
+   "title_box": [
+    343,
+    1274,
+    649,
+    1307
+   ],
+   "bottom_y": null,
+   "content": "elementary（或 primary）education 初等\n教育\n▲elementary 表示“基本的“或“浅的”时\n候，不能用 primary 代替\n▲primary 表示“头等的“或“主要的“时\n候，不能用 elementary 代替"
+  },
+  {
+   "page": 295,
+   "dict_page": 274,
+   "title": "empty, vacant, blank, hollow",
+   "title_box": [
+    332,
+    1347,
+    711,
+    1377
+   ],
+   "bottom_y": null,
+   "content": "empty 空的：\nan empty house\n既没有家具又没有人占用的房屋\nvacant 空着的：\na vacant house\n没有人住，准备出租的房子\nblank 空白的：\na blank page\n一页未印刷的纸（空页）\nhollow 空心的：\nhollow tree\n一棵空心的树"
+  },
+  {
+   "page": 299,
+   "dict_page": 278,
+   "title": "enough 和 sufficient",
+   "title_box": [
+    387,
+    1552,
+    664,
+    1585
+   ],
+   "bottom_y": null,
+   "content": "enough是就数量、分量或程度方面来说\n的，针对物质方面的欲望\nsufficient 偏重质量方面，针对物质或精\n神方面的需要，多用于书面语"
+  },
+  {
+   "page": 306,
+   "dict_page": 285,
+   "title": "ever 与 always",
+   "title_box": [
+    1058,
+    781,
+    1256,
+    812
+   ],
+   "bottom_y": 1008,
+   "content": "我将永远记住你。\n说：/will ever remember you.\n正：I will always remember you.\n▲ever 表示“在任何时候”\nalways 表示“-向、一直”"
+  },
+  {
+   "page": 307,
+   "dict_page": 286,
+   "title": "everyday 和 every day",
+   "title_box": [
+    365,
+    1241,
+    660,
+    1271
+   ],
+   "bottom_y": null,
+   "content": "everyday 是形容词，只作定语，表示“日\n常的，平常的”：\nThe everyday English should be lea-\nrnt by heart.\n日常英语应该记住。\nevery day 是副词词组，作状语.表示“每\n天，天天”：\nWe speak English every day.\n我们天天讲英语。"
+  },
+  {
+   "page": 307,
+   "dict_page": 286,
+   "title": "everyone 和 every one",
+   "title_box": [
+    353,
+    1688,
+    658,
+    1738
+   ],
+   "bottom_y": null,
+   "content": "我们每个人都有工作的权利。\n误：Everyone of us has the right to\nwork.\n正：Every one of us has the right to\nwork.\n▲everyone 可用介词短语作定语，但习\n惯上不能用of 短语作定语，如：\nHe knows everyone in our village.\n他认识我们村里的每个人。\n▲everyone （= everybody）只指人；而\nevery one 不仅可指人而且可指物\n▲anyone 与 any one; someone 与 some\none 和 everyone 与 every one 用法相似"
+  },
+  {
+   "page": 309,
+   "dict_page": 288,
+   "title": "except, except for, except that",
+   "title_box": [
+    309,
+    1624,
+    716,
+    1674
+   ],
+   "bottom_y": null,
+   "content": "except 将一个或几个人或物从同一类或\n普通的种类中除外；其后可接名词、代\n词、副词、介词短语、不定式（短语）或\nwh-从句，\nAll came except Jane.\n除了珍妮外，大家都来了。\n▲except for 说明整个基本情况后，对细节\n加以改正；其后一般接名词：\nHe is a good man except for hot tem-\nper.\n他是个好人，只是脾气暴躁而已。\nexcept that用来表示理由或细节，修正\n前面所说的情况，其后须接从句，可以\n与 except for 互换：\nYour article is quite good except that\nthere are several spelling mistakes.\n(= Your article is quite good except\nfor several spelling mistakes.)\n你的文章很好，只是有几处拼写错误。"
+  },
+  {
+   "page": 313,
+   "dict_page": 292,
+   "title": "expect 和 look forward to",
+   "title_box": [
+    324,
+    909,
+    675,
+    942
+   ],
+   "bottom_y": null,
+   "content": "expect 确信“某事必将发生，某人必会到\n来而等待者”，多用于好的事物，但也用\n于坏的事物：\nI am expecting him.\n我正等待着他。\nlook forward to 是以“特别愉快的心情\n期待者”：\nI am looking forward to seeing him.\n我期待着见他。"
+  },
+  {
+   "page": 314,
+   "dict_page": 293,
+   "title": "explode, burst 和 erupt 表示“爆炸”",
+   "title_box": [
+    934,
+    909,
+    1416,
+    946
+   ],
+   "bottom_y": 1093,
+   "content": "explode 指炸弹、火药、瓦斯的爆炸\nburst 指炸弹、堤坝、血管、气球等的爆炸\n或突裂\nerupt 指火山的爆发"
+  },
+  {
+   "page": 325,
+   "dict_page": 304,
+   "title": "face, look, appearance",
+   "title_box": [
+    354,
+    781,
+    675,
+    814
+   ],
+   "bottom_y": 1330,
+   "content": "face 脸，面孔；表示“在脸上”时多用on：\nWith a smile on the face 面带微笑\na mark on one's face 脸上的斑点\nWrinkles on （in） the face 脸上的皱纹\nlook 脸色，神气，外表：用复数时，指面\na brave Look 勇敢的神气\ngood looks美貌\na new look 新面貌\nappearance 外表，外貌；用单数时，着重\n指人，往往包括衣着：\none's personal appearance\n一个人的仪表，丰采"
+  },
+  {
+   "page": 325,
+   "dict_page": 304,
+   "title": "factory, plant, mill, works",
+   "title_box": [
+    985,
+    1135,
+    1369,
+    1165
+   ],
+   "bottom_y": null,
+   "content": "factory “工厂”的通称，是从事制造和装\n配的工厂的最常用词，用来指一般的\n“工厂“或规模较大的“工厂”：\na glass （car,food） factory\n玻璃（汽车、食品）厂\nplant 往往用于电气业、机械制造业的\n“工厂”，多用于美国英语，特别指工业\n加工：\nan electric-power （a machinery, a\npaper, an ice） plant\n发电（机械、造纸、制冰）\nmill 原意“磨坊”，现也用来指工厂，特别\n是一些“轻工业工厂”，常与某种原材料\n的加工有关：\na silk （textile, paper,flour.an oil）mill\n丝织（纺织、造纸、面粉、油）厂\nworks 指由较大群体建筑和机械组成的\n工厂，一般不生产成品，多指钢铁等“重\n工业”方面的工厂：\na steel （gas,printing,brick.an iron）\nworks\n炼钢（煤气、印刷、砖瓦、炼铁）厂\n▲works 形式上是复数，但要作为单复\n数同形的名词使用\n有些专业工厂有专门的词：\nfoundry 铸造厂 refinery 炼油厂"
+  },
+  {
+   "page": 327,
+   "dict_page": 306,
+   "title": "fairly 和 rather 表示“相当”",
+   "title_box": null,
+   "bottom_y": null,
+   "content": "这是一个相当容易的问题。\nIt is a fairly easy question."
+  },
+  {
+   "page": 327,
+   "dict_page": 306,
+   "title": "fairly, quite, rather, pretty",
+   "title_box": null,
+   "bottom_y": null,
+   "content": "这4个词都可以用来改变形容词和副词\n的分量，区别是：\nfairly 分量最轻：\nHe speaks English fairly well.\n他英语讲得一般。（日常对话还能应付，\n无法参加难度较大的讨论）\nquite 比 fairly 稍强：\nThe book is quite good.\n这是一本不错的书。（肯定值得一看）\nrather 又稍重一些：\nThe pen is rather good.\n这支笔相当不错。（胜过其他笔）\npretty 相当于 rather，一般用于非正式文\n体\n▲quite 和 rather 可以用在冠词前，也可\n和动词连用，fairly 和 pretty 则不能这\n样用：\nquite（或 rather）a nice day\n非常晴朗的一天\nI quite（或 rather）like it.\n我相当喜欢这个。\nHe is rather nice.\n他很不错。（语气是意外的高兴——\n以前并没想到他有那么好）"
+  },
+  {
+   "page": 758,
+   "dict_page": 737,
+   "title": "fairly, quite, rather, pretty",
+   "title_box": [
+    967,
+    953,
+    1354,
+    986
+   ],
+   "bottom_y": 2175,
+   "content": "fairly 还行，相当；语气最弱，如：\nThe film is fairly good.\n这电影还能看。（但勉强）\nHe speaks English fairly well.\n他的英语还行，（指一般日常对话还能\n应付，不是太好）\nhis\nquite 相当；语气强于 fairly，如：\nThe film is quite good.\n这电影不算最佳，但值得一看。（有推荐\n之意）\nHe speaks English quite well.\n他的英语很好。（指难度较大的会话也\n能应付了）\nrather 相当；语气最重，如：\nThe film is rather good.\n电影很好。（优于一般电影）\nHe speaks English rather well.\n他精通英语。（到专业程度了）\nIt is rather hot.\n天太热了。（热得受不了）\n-\npretty 相当；口语中常用，大多数情况下\n不用于书面英语中（=rather）\n注意以下用法：\n① not quite 意思为“不完全是那样”，表\n示部分否定\n②只有 rather 可以和比较级连用\n③只有rather 可以和too 连用\n④ quite 和rather 都可用在冠词前面，也\n可以和动词连用，如：quite a nice\nday,rather like sb.，但 pretty 和\nfairly 不能这样用\n⑤pretty well 意思为 almost"
+  },
+  {
+   "page": 329,
+   "dict_page": 308,
+   "title": "familiar to 与 familiar with",
+   "title_box": [
+    993,
+    1625,
+    1372,
+    1662
+   ],
+   "bottom_y": null,
+   "content": "物＋familiar to sb. 某事对某人是熟悉的\n/sb.与某人亲密\n人＋familiar with\nsth.熟悉某事"
+  },
+  {
+   "page": 330,
+   "dict_page": 309,
+   "title": "family, house, home",
+   "title_box": [
+    346,
+    1581,
+    631,
+    1610
+   ],
+   "bottom_y": null,
+   "content": "family 家，家庭，家里的人；不指住房：\nMy family are early risers.\n我们全家都是早起的人。\nHouse 住宅；指居住的房屋：\nThey are to move to new houses.\n他们将迁入新居。\nhome 家；指同家人共同生活的地方，不\n一定含有建筑物的意思，可以在船上、\n窑洞或帐篷里组织家庭，特别强调家里\n的氛围和环境：\nBe it ever humble,there is no place\nlike home.\n家再怎么简陋，也没有任何地方可比\n得上家。\nHer house was burnt and her family\nwere dead so she made her home in a\nhotel for a time."
+  },
+  {
+   "page": 330,
+   "dict_page": 309,
+   "title": "famous for 和 famous as",
+   "title_box": [
+    989,
+    1282,
+    1321,
+    1311
+   ],
+   "bottom_y": null,
+   "content": "人 + be famous for 以某种知识、技能或特征出名：\n人 + be famous as 以某种身份出名：\nEinstein was famous for his Theory of Relativity.\n爱因斯坦以他的相对论而闻名。\nEinstein was famous as a great scientist.\n爱因斯坦以一位伟大的科学家著称。\n地方 + be famous for 以某种特产而出名：\n地方 + be famous as 以什么样的产地或地方而出名：\nThe area is famous for its green tea.\n这个地区以绿茶而出名。\nThe area is famous as a green tea producing place.\n这个地区作为绿茶产地而出名。\n▲famous for 后的介词宾语是主语的所\n属内容\n▲famous as 后的介词宾语与主语是同\n位成分"
+  },
+  {
+   "page": 332,
+   "dict_page": 311,
+   "title": "far 和 a long way 表示“远”",
+   "title_box": [
+    295,
+    547,
+    679,
+    580
+   ],
+   "bottom_y": 1025,
+   "content": "far 通常用于疑问句和否定句：\nHow far is it? It is not far.\n有多远？不远。\nA long way 用于肯定句：\nHe went a long way.\n他走远了。\n▲far 不用在肯定句中表示明确的距离：\n她住得离这儿10英里远。\n误：She lives ten miles far from here.\n（有具体数量词时，不再加 far）\n正：She lives ten miles from here."
+  },
+  {
+   "page": 332,
+   "dict_page": 311,
+   "title": "farther 与 further",
+   "title_box": [
+    1025,
+    1709,
+    1270,
+    1738
+   ],
+   "bottom_y": null,
+   "content": "farther 距离或时间上“更远的（地＞”：叮\n用于比较级句子中，与than从句连用\nfurther 程度上“进一步的（地）”\n在现代英语中，这两个词的区别并不\n十分严格，有时可互换"
+  },
+  {
+   "page": 334,
+   "dict_page": 313,
+   "title": "fat, plump 和 stout 表示“胖”",
+   "title_box": [
+    281,
+    1165,
+    679,
+    1201
+   ],
+   "bottom_y": 1348,
+   "content": "fat [贬]胖得难看\nplump [褒]胖得丰满、健康;用于婴儿或年轻女性\nstout 胖而粗壮;用于中年人发福"
+  },
+  {
+   "page": 337,
+   "dict_page": 316,
+   "title": "feel 和 touch",
+   "title_box": [
+    1087,
+    1054,
+    1267,
+    1089
+   ],
+   "bottom_y": 1349,
+   "content": "feel 由触、摸而感知：\nYou seem to be ill. Let me feel your\npulse.\n你似乎病了，我给你摸一下脉吧。\ntouch只表示接触：\nDon't touch the exhibits,please.\n请勿触摸展品。"
+  },
+  {
+   "page": 341,
+   "dict_page": 320,
+   "title": "fight for, fight against, fight with",
+   "title_box": [
+    941,
+    821,
+    1420,
+    863
+   ],
+   "bottom_y": 1715,
+   "content": "fight for 后一般接抽象名词，意思是为\n事业、自由、真理、权利等方面斗争：\nThey are fighting for freedom.\n他们正为自由而战。\nfight against ①接事物名词，意思“为反\n对…而斗争”②接人和国家名词，意思\n是“与…战斗”：\nThey are fighting against oppression.\n他们为反对压迫而斗争。\nThey fought against the enemy.\n他们和敌人战斗。\nfight with 只接人或国家的名词，表示\n“同⋯（并肩）战斗”：\nThey fought with the Italians in the\nlast war and against them in this.\n在上次战斗中他们和意大利并肩战斗，但这次他们却和意大利打起来了\n▲fight with 也可表示 fight against之\n意：\nHave you been fighting with（或\nagainst） your brother again？\n你又和你兄弟打架了吗？"
+  },
+  {
+   "page": 344,
+   "dict_page": 323,
+   "title": "find, find out, discover",
+   "title_box": [
+    343,
+    1530,
+    653,
+    1559
+   ],
+   "bottom_y": 2206,
+   "content": "find 多指偶然发现，碰到；后可接名词、\n复合结构或 that 从句：\nHave you found the book you have\nbeen looking for？\n你一直找的书找到了吗？\nfind out 指通过观察、探索而发现事实的\n真相、真情，漏查找出原因，或发现秘\n密、错误等；后一般接名词、代词或从\nHave you found out why he was late？\n你弄清了他为什么迟到吗？\ndiscover 指发现客观事物的存在，发现\n已存在而不为人所知的事情；可指发现\n好事，也可指发现坏事；但用于好的事\n物较多：\nColumbus discovered America.\n哥伦布发现了美洲。"
+  },
+  {
+   "page": 345,
+   "dict_page": 324,
+   "title": "finish 与 end",
+   "title_box": [
+    1084,
+    507,
+    1259,
+    537
+   ],
+   "bottom_y": 658,
+   "content": "finish 完毕，结束（=complete）\nend 终止，完结，与 begin 相反，但不一定\n完成"
+  },
+  {
+   "page": 880,
+   "dict_page": 859,
+   "title": "foolish, silly 和 stupid",
+   "title_box": [
+    332,
+    949,
+    646,
+    986
+   ],
+   "bottom_y": 1549,
+   "content": "3个词都含“蠢”意，但略有不同，概括起\n来，相当于汉语的“愚蠢、傻和笨”；其\n中 stupid 意思最强，指智力、理解力和\n学习能力差，虽有时与前两词通用；\nsilly指头脑简单、傻头傻脑、可笑；\nfoolish 最普通：\nStop asking such silly questions.\n别再问这样傻的问题了。\nYou silly child.\n你这傻孩子。（带感情色彩）\nHe is stupid in learning maths.\n他学数学很笨。\nYou are foolish to throw away such a\nchance.\n你真蠢，丢掉这么一个机会。"
+  },
+  {
+   "page": 358,
+   "dict_page": 337,
+   "title": "for good 和 good for",
+   "title_box": [
+    1007,
+    1256,
+    1285,
+    1285
+   ],
+   "bottom_y": null,
+   "content": "for good 永远、永久;可写成 for and all 的形式:\nHe decided to settle in the quiet town for good.\n他决定永远在那个宁静的小镇上安家。\ngood for 价值为:后接币值名词:\nThat is a bike good for 400 yuan.\n那是一辆价值为400元的自行车。"
+  },
+  {
+   "page": 359,
+   "dict_page": 338,
+   "title": "for 和 since 表示一段时间",
+   "title_box": [
+    343,
+    500,
+    708,
+    533
+   ],
+   "bottom_y": 728,
+   "content": "for 与表示“段时间”概念的词连用：\nfor two hours（持续了）两个小时\nsince 自从；与表示“过去某点时间”的词\n连用：\nsince two o'clock 自从两点钟以来"
+  },
+  {
+   "page": 361,
+   "dict_page": 340,
+   "title": "forget 和 leave 表示“忘了”",
+   "title_box": [
+    314,
+    1610,
+    690,
+    1647
+   ],
+   "bottom_y": null,
+   "content": "如有地点状语时，用 leave，不用 forget，\n如：\n他把雨伞落在火车上了。\n误：He forgot his umbrella on the train.\n正：He left his umbrella on the train.\nI forgot my umbrella.\n我忘了带雨伞了。"
+  },
+  {
+   "page": 31,
+   "dict_page": 10,
+   "title": "friend, companion 和 acquaintance",
+   "title_box": [
+    945,
+    437,
+    1420,
+    471
+   ],
+   "bottom_y": 806,
+   "content": "acquaintance 熟人；尤指在工作和事业中\n认识的人：\na nodding acquaintance 点头之交\ncompanion同伴，伙伴；是指共同参加某\n种活动或在某种情况下同甘共苦的人：\na travelling companion 旅伴\na companion in despair 患难之交\nfriend 朋友；是指关系密切感情较深者：\na trusted friend 知己"
+  },
+  {
+   "page": 366,
+   "dict_page": 345,
+   "title": "frightened 和 afraid",
+   "title_box": [
+    350,
+    759,
+    620,
+    785
+   ],
+   "bottom_y": null,
+   "content": "frightened 受惊吓的,害怕…的;可作表语,也可作定语用:\nA frightened girl is crying.\n一个受惊的女孩正在哭\nafraid 害怕;只能作表语,而不能作定语,后接 of 短语或不定式短语:\nShe is afraid of a snake.\n她害怕蛇。\n▲afraid 后接 that 从句,表示“恐怕”,是\n婉转拒绝别人的一种表达方法"
+  },
+  {
+   "page": 366,
+   "dict_page": 345,
+   "title": "from 与 since",
+   "title_box": [
+    1058,
+    1336,
+    1245,
+    1362
+   ],
+   "bottom_y": 1614,
+   "content": "from 只表示某事的开始起点；可跟现\n在、过去、将来的时态连用\nsince 自从某时（到现在），用完成时态：\n他从上星期日起一直病着。\n误：He has been ill from last Sunday.\n正：He has been ill since last Sunday."
+  },
+  {
+   "page": 374,
+   "dict_page": 353,
+   "title": "gate, door 和 entrance",
+   "title_box": [
+    358,
+    441,
+    635,
+    471
+   ],
+   "bottom_y": null,
+   "content": "gate 指城墙或围墙的“门”或“门口”,学校、公园、工厂和大住宅四周有围墙,就都有 gate;gate 前面一般有较大的空地,它不指一般屋子的门或门口\ndoor 指屋子、衣柜等的“门”或“门口”;它前面一般没有较大的空地,它还可指有比喻意义的“门”,如:\nthe door to success 成功的途径\nentrance 指“入口处”,不一定有“门”,如:\nthe entrance to the garden 花园入口处"
+  },
+  {
+   "page": 378,
+   "dict_page": 357,
+   "title": "get 与 have 带复宾的异同",
+   "title_box": [
+    317,
+    1599,
+    675,
+    1636
+   ],
+   "bottom_y": null,
+   "content": "（i）表示“叫（别人）把某事做了”时，都可\n用过去分词作宾补；get 比 have更加\n口语化：\nGet（或 Have）the work finished by\nnoon.\n中午以前把工作做完。\n② 表示“叫（或让）某人做某事”时，get\n后用带to的不定式，have 后用不带\nto\n的不定式：\nGet him to finish the work by noon.\nHave him finish the work by noon.\n让他中午前把工作做完。"
+  },
+  {
+   "page": 383,
+   "dict_page": 362,
+   "title": "give up 和 give in",
+   "title_box": [
+    394,
+    1439,
+    638,
+    1475
+   ],
+   "bottom_y": null,
+   "content": "give in\n①意思上：放弃，让步\n②形式上：作不及物动词。\n他终于投降了。\nAt last he gave in.\ngive up\n①意思上：放弃\ngive in 意思上：屈服\n②形式上：give up 可作及物动词，后接名词或动名词；give in 只作不及物动词，后不接宾语。\n她将放弃这次旅行。\n误：She will give in this journey.\n正：She will give up this journey."
+  },
+  {
+   "page": 389,
+   "dict_page": 368,
+   "title": "go on doing sth. 和 go on to do sth.",
+   "title_box": null,
+   "bottom_y": null,
+   "content": "go on doing sth. 继续做某事;指前后做的是同一件事:\nGo on reading Lesson Three.\n继续读第3课。(刚才读的就是第3课)\nI hope it won't go on raining all day.\n我希望不要整天下雨。(一天都在下雨)\ngo on to do sth. 接着又做另一件事;指前后做的不是同一件事:\nGo on to read Lesson Three.\n接着读第3课。(刚才也许读的是第2课或者干别的事)\nHe went on to talk about the world situation.\n他接着又谈起了世界形势。(刚才谈的是别的问题,话题一转,谈起了问题)\n▲go on with + 名词(≈ go on doing sth.) 继续做某事:前后做的是同一件事,但中间有暂停情况:\nI went on with my story just where I had left off.\n我继续在我刚才停下的地方讲故事。"
+  },
+  {
+   "page": 389,
+   "dict_page": 368,
+   "title": "go out 和 put out",
+   "title_box": [
+    1069,
+    956,
+    1303,
+    986
+   ],
+   "bottom_y": null,
+   "content": "告诉孩子把火熄灭。\n误：Tell the children to go out the fire.\n正：Tell the children to put out the fire.\n▲go out 作不及物动词用，表示自行“熄\n灭”，其后不能跟宾语，如：\nThe fire went out gradually.\n火渐渐熄灭了。\n▲put out 作及物动词用，表示“熄火、扑\n灭灯、火等，其后须跟名词作宾语"
+  },
+  {
+   "page": 387,
+   "dict_page": 366,
+   "title": "go to school 和 go to the school",
+   "title_box": [
+    310,
+    993,
+    737,
+    1022
+   ],
+   "bottom_y": 1366,
+   "content": "It's time for the boy to go to school.\n那孩子该去上学了。（去求学，目的很\n明确）\nIt's time for his father to go to the\nschool.\n他爸爸该去（那所）学校了。（不一定是\n去求学，可能是去开家长会，也能有什\n么其他事去办）"
+  },
+  {
+   "page": 882,
+   "dict_page": 861,
+   "title": "常见的短暂动词：go, come, become, join, leave, arrive, open, break, get up",
+   "title_box": null,
+   "bottom_y": null,
+   "content": "▲常见的短暂动词：go, come, become,\njoin, leave, arrive, open, break, get up\n等\n［参见语法插页 301 页］"
+  },
+  {
+   "page": 397,
+   "dict_page": 376,
+   "title": "grasp, grip, seize, snatch, grab",
+   "title_box": [
+    978,
+    1179,
+    1380,
+    1212
+   ],
+   "bottom_y": null,
+   "content": "grasp 抓紧:\nI grasped him by the arm.\n我抓住他的手臂。\ngrip 紧握;比 grasp 更强。\nThe frightened girl gripped her mother's arm.\n那受惊的女孩紧抓住她母亲的手臂。\nseize 抓紧;还有“夺过去强占”的含义:\nThey seized all the belongings of the peasants.\n他们抢走了农民所有的财物。\nsnatch 较突然、迅速的“抢夺”的:\nThe man snatched her bag and ran away.\n那人抢了她的包逃跑了。\ngrab 匆忙、粗鲁,以满有把握的动作抓住某物:\nEach of you may have a sweet, but don't grab.\n你们每天可以吃一块糖,但不要抢。"
+  },
+  {
+   "page": 398,
+   "dict_page": 377,
+   "title": "grave, tomb, cemetery",
+   "title_box": [
+    1011,
+    960,
+    1307,
+    989
+   ],
+   "bottom_y": null,
+   "content": "grave 坟，冢，墓穴\ntomb 墓；指高出地面的坟头\ncemetery 公墓"
+  },
+  {
+   "page": 399,
+   "dict_page": 378,
+   "title": "great, big, large",
+   "title_box": [
+    1069,
+    715,
+    1285,
+    752
+   ],
+   "bottom_y": 935,
+   "content": "great大，伟大：常用于抽象、精神上的\n大，对内部的、质量上的东西含有\n感情\nbig大；指容积、体积大的\nlarge 大；指面积大的"
+  },
+  {
+   "page": 413,
+   "dict_page": 392,
+   "title": "happen, chance, take place",
+   "title_box": [
+    324,
+    1577,
+    701,
+    1611
+   ],
+   "bottom_y": null,
+   "content": "happen 发生，碰巧：指偶然性：\nI happened to be there.\n我碰巧在那儿。\nchance 碰巧发生，偶然发生（［同］happ-\nen）；正式用语：\nShe chanced to be in the park when I\nwas there.\n我在公园时碰巧她也在那儿。\ntake place 发生；常指经过安排的：\nWhen will the wedding take place？\n婚礼什么时候举行？"
+  },
+  {
+   "page": 414,
+   "dict_page": 393,
+   "title": "副词 hard 与 hardly",
+   "title_box": null,
+   "bottom_y": null,
+   "content": "hard 努力地,辛苦地:\nHe studies hard.\n他学习努力。\nhardly 几乎不,简直不:\nHe hardly studies.\n他几乎不学习。"
+  },
+  {
+   "page": 414,
+   "dict_page": 393,
+   "title": "harden 和 get harder",
+   "title_box": [
+    1011,
+    587,
+    1292,
+    617
+   ],
+   "bottom_y": null,
+   "content": "harden（使）变硬；当 hard 表示“牢固、坚硬”或“冷酷、严厉”时才可用 harden:\nWater is hardened by lime.\n石灰使水硬化。\nget harder 变难，艰难；除 harden 中的意思外，其他则用 get harder:\nLife means to be getting harder for everyone.\n人人都觉得生活越来越艰难。"
+  },
+  {
+   "page": 387,
+   "dict_page": 366,
+   "title": "have gone 和 have been",
+   "title_box": [
+    361,
+    1377,
+    679,
+    1402
+   ],
+   "bottom_y": null,
+   "content": "They have gone to England.\n他们去英国了。（目前不在此地，或者\n正在去英国的路上或者已在英国）\nThey have been to England.\n他们曾去过英国。（人不在英国，只表\n示一种经历）"
+  },
+  {
+   "page": 957,
+   "dict_page": 936,
+   "title": "“ He is sure to win.” 的替代句",
+   "title_box": null,
+   "bottom_y": null,
+   "content": "He is sure to win.\n他一定会赢。\n▲这一句可有如下几种说法：\nHe will surely win.\nI am sure（或 certain）that he will win.\nIt is certain that he will win.\n▲sure + that 句型中主语必须是人，通\n常不说 It is sure that...\n▲certain 与 sure 同意，但常更有力地表\n示确实知道某事是真的\n▲答语表示“当然”时：[英] certainly,\n[美] sure, surely"
+  },
+  {
+   "page": 425,
+   "dict_page": 404,
+   "title": "healthful 与 healthy",
+   "title_box": [
+    1036,
+    1709,
+    1310,
+    1746
+   ],
+   "bottom_y": 1928,
+   "content": "healthful 有益于健康的（指物）：\na healthful food 有益健康的食物\nhealthy 健康的（指人）：\nHe is healthy.\n他很健康。"
+  },
+  {
+   "page": 428,
+   "dict_page": 407,
+   "title": "height 与 highness",
+   "title_box": [
+    1025,
+    1490,
+    1274,
+    1526
+   ],
+   "bottom_y": null,
+   "content": "height（物的）高度，具体的：\nthe height of the house 房子的高度\nhighness 高的状态，抽象的：\nthe highness of the house（=that the\nhouse is high）这房子很高"
+  },
+  {
+   "page": 433,
+   "dict_page": 412,
+   "title": "high 与 tall",
+   "title_box": [
+    419,
+    1355,
+    573,
+    1388
+   ],
+   "bottom_y": null,
+   "content": "high 高的（［反］low），常用于物和空间的\n高度：\na high wall（hill） 高墙（山）\na log cabin high up in the hill\n高山上的小木屋\n▲a big nose 高鼻子\ntall高的（［反］short），指人的身材和细\n长物的高度：\na tall man（tree） 高个子（高树）\n▲high 与 tall 都可修饰building"
+  },
+  {
+   "page": 442,
+   "dict_page": 421,
+   "title": "hope 与 wish",
+   "title_box": [
+    393,
+    629,
+    573,
+    667
+   ],
+   "bottom_y": 1710,
+   "content": "相同点：表示“想”，“希望”；宾语可以是 to-v.，不可以是 v.-ing：\nI hope（或wish）to visit Guilin.\n我希望访问桂林。\n不同点：\n①wish + sb. + to-v.，表示命令；hope 无\n此用法：\nI wish you to go.\n我要你去。\n②hope 后不能直接举名词作宾语，可跟 for+名词，表示可实现的“希望”；wish\n虽也跟for+名词，但表示难实现的“愿\n望”；\nI hope for success.\n我希望成功。I wish for a car.\n我很想（得到）小汽车。\n③hope 和 wish 都可跟 that 从句，但\nhope +that 表示“希望”；wish +that表\n示“愿望”，且从句动词用虚拟语气［参\n见语法插页351 页］\nI hope you'll be better soon.\n我希望你能很快好起来。\nI wish I were ten years younger.\n我但愿自己能年轻10岁。\n④wish 可跟双宾语：\nWe wish you a happy New Year.\n我们祝你新年快乐！"
+  },
+  {
+   "page": 443,
+   "dict_page": 422,
+   "title": "horror 与 terror",
+   "title_box": [
+    394,
+    1263,
+    613,
+    1293
+   ],
+   "bottom_y": null,
+   "content": "horror 令人毛骨悚然的恐怖：\nTo her horror she saw her boy fall\nfrom the stairs.\n她看见孩子从楼梯上摔下来吓坏了。\nterror 感到身受危险的恐怖：\nThis added to our terrors.\n这增加了我们的恐怖。"
+  },
+  {
+   "page": 225,
+   "dict_page": 204,
+   "title": "I dare say 与 I dare to say",
+   "title_box": [
+    339,
+    671,
+    697,
+    701
+   ],
+   "bottom_y": 926,
+   "content": "I dare say 可能，也许（侧重不肯定）：\nI dare say that he'll come.\n可能他会来，\nI dare to say 我敢说（侧重肯定）：\nI dare to say that he'll come.\n我敢说他定来"
+  },
+  {
+   "page": 572,
+   "dict_page": 551,
+   "title": "I 和 me 作表语或比较状语从句主语",
+   "title_box": null,
+   "bottom_y": null,
+   "content": "在as, than, be 之后,在口语中,要用宾格形式: him, her, me, us 和 them; 但在正式书面语中,则多用主格形式 he, she, I, we 和 they\n作表语:\nIt's me! [口]\nIt's I! [正式]\n是我!\n作从句主语:\nHe is taller than me. [口]\nHe is taller than I. [正式]\n他比我高。\nI'm not as pretty as her. [口]\nI'm not as pretty as she. [正式]\n我不像她那么漂亮。\n▲从句中含有可能引起误会的宾语时,即使是口语也要用主格:\nI love you as dearly as she. (=... as she loves you.)\nI love you as dearly as her. (= as I love her.)"
+  },
+  {
+   "page": 455,
+   "dict_page": 434,
+   "title": "idle 与 lazy",
+   "title_box": [
+    423,
+    777,
+    580,
+    815
+   ],
+   "bottom_y": 1142,
+   "content": "idle 主要表示“闲，无所事事”：\nHe is idle because the factory was\nclosed.\n他现在无事可做，因为工厂关闭了。\nLazy 主要表示“懒，厌恶劳动”：\nLazy people tend to become fat.\n懒人容易发胖。\n▲idle 也可以表示“懒”，但无“厌恶劳\n动”、“懒虫”等贬义"
+  },
+  {
+   "page": 456,
+   "dict_page": 435,
+   "title": "ill, sick 和 sickly 表示“生病的”",
+   "title_box": [
+    949,
+    1556,
+    1380,
+    1592
+   ],
+   "bottom_y": null,
+   "content": "①ill ［只作表语］：\nHe was ill yesterday.\n他昨天病了。\n②sick［英语中用作定语；美语中还可作\n表语］：\nHe is taking care of the sick child.\n他在照顾生病的孩子。\n③sickly ［既作表语，又作定语］多病的，不健康的：\nHe is a sickly child and he looks sickly.\n他是个多病的孩子，看起来气色不好。\n▲ill 作定语时，意思为“坏的、恶劣的；\n而sick作表语时，意思为“恶心的，呕吐的”；美语中也表示“生病的”"
+  },
+  {
+   "page": 462,
+   "dict_page": 441,
+   "title": "impossible 与 unable",
+   "title_box": [
+    1011,
+    1559,
+    1292,
+    1585
+   ],
+   "bottom_y": null,
+   "content": "这两个词作表语时，均为“不可能”、“不\n能”之意，但 impossible 不能由人作主\n语，而unable 要求只能由人作主语：\n我们无法从水路去那里。\n误：We are impossible to go there by\nwater.\n正：It is impossible for us to go there\nby water.\n正：We are unable to go there by water."
+  },
+  {
+   "page": 482,
+   "dict_page": 461,
+   "title": "in an instant 与 for an instant",
+   "title_box": [
+    942,
+    299,
+    1350,
+    328
+   ],
+   "bottom_y": 804,
+   "content": "in an instant一会儿，马上•立刻（［同］in\na while, in a moment, in a minute）；通\n常用于将来时，常与终止性动词连用：\nHe'll come back in an instant.\n他一会儿就回来。\nfor an instant 暂时，一时（［同］for a\nwhile,for a moment, for a minute）：.\n般用于完成时态、-般时态或将来时\n态，常与持续性动词连用：\nHe couldn't answer for an instant.\n他一时答不上来。\n▲for instance 例如（［同］for example）"
+  },
+  {
+   "page": 656,
+   "dict_page": 635,
+   "title": "in order to 和 so as to",
+   "title_box": [
+    974,
+    1932,
+    1354,
+    1961
+   ],
+   "bottom_y": null,
+   "content": "in order to 只能表示“目的”，其位置句\n首或句中均可，否定结构用 in order\nnot to，比 so as to 正式\nso as to既可表示“目的”又可表示“结\n果”，其位置一般在句中，否定结构用\nso as not to\nIn order to catch the train,he hurried\nthrough his work."
+  },
+  {
+   "page": 470,
+   "dict_page": 449,
+   "title": "increase by 与 increase to",
+   "title_box": [
+    321,
+    240,
+    664,
+    270
+   ],
+   "bottom_y": 686,
+   "content": "increase by +倍数或百分数，表示增加\n了 倍（或百分 ）\nincrease to+具体的增长后的数字，表示\n增加到了⋯\nyear,our coal\nCompared with last\noutput has increased by three times.\n与去年相比，我们的煤产量增长了3\n倍。\nOur coal output has increased to 6\nmillion tons this year.\n我们今年煤产量增长到了600万吨。"
+  },
+  {
+   "page": 481,
+   "dict_page": 460,
+   "title": "inside 与 within",
+   "title_box": [
+    423,
+    299,
+    642,
+    332
+   ],
+   "bottom_y": 664,
+   "content": "这两个介词都可表示“在⋯里”：\nInside 表示具体的位置关系：\ninside the car 在汽车里\nwithin 表示不超出某个范围，尤其是在\n正式文体中（日海中也可用 inside 表示\n“在…时间范围内”）：\nwithin the law 在法律范围内\nwithin（或 inside） a month\n在一个月之内"
+  },
+  {
+   "page": 484,
+   "dict_page": 463,
+   "title": "insure, ensure 与 assure",
+   "title_box": [
+    295,
+    1490,
+    624,
+    1519
+   ],
+   "bottom_y": null,
+   "content": "Insure（对人或物进行）投保，保险\nensure 确保，保证（也可写为 insure）\nassure 让…放心、使⋯深信\nHe insured himself against accident\nfor ten million yuan.\n他投了1000万元的意外保险。\nTo ensure the child's quick recovery•\nthe doctor gave him an injection.\n为了确保孩子很快地恢复，大夫给他\n打了针。\nMy words assured her.\n我的话使她放心了。\n▲assure 还可作：为专业术语“对…进行\n保险“（尤指人寿保险）"
+  },
+  {
+   "page": 488,
+   "dict_page": 467,
+   "title": "introduce 与 recommend",
+   "title_box": [
+    996,
+    1070,
+    1325,
+    1099
+   ],
+   "bottom_y": null,
+   "content": "两个动词都有“介绍”的意思\nintroduce 介绍⋯与⋯认识（to）：\nAllow me to introduce Mr. Green to\nyou.\n请允许我向你（们）介绍格林先生。\nrecommend 向⋯介绍或推荐⋯（带有个\n人倾向）：\nHe recommended me a book on Eng\nlish study.\n他向我推荐了本关于英语学习 的书”"
+  },
+  {
+   "page": 499,
+   "dict_page": 478,
+   "title": "job 与 work 表示“工作”",
+   "title_box": [
+    985,
+    1866,
+    1321,
+    1899
+   ],
+   "bottom_y": null,
+   "content": "job 工作,零工(可数名词)\nwork 工作(不可数名词)\nHe wanted a job, any sort of a job.\n他想找份工作,任何工作都行。\nI cannot find work in this town.\n我在这个镇里找不到工作。"
+  },
+  {
+   "page": 503,
+   "dict_page": 482,
+   "title": "just, fair 与 impartial",
+   "title_box": [
+    1018,
+    1249,
+    1314,
+    1285
+   ],
+   "bottom_y": 1770,
+   "content": "just 公平的，公正的，合理的，正义的（符\n合公认的客观道义标准）：\na just man （decision）公正的人（公平的\n决定）\nthe just cause 正义的事业\nfair 公平合理的；强调没有任何欺诈、强迫或采用不正当手段的地方：\nfair play 公平竞争\nfair prices 公道的价格\nImpartial 公平的，大公无私的，无所偏袒的：\nHe is impartial to his students.\n他对待学生公平无所偏袒。"
+  },
+  {
+   "page": 507,
+   "dict_page": 486,
+   "title": "keep house 与 keep the house",
+   "title_box": [
+    963,
+    1395,
+    1358,
+    1428
+   ],
+   "bottom_y": null,
+   "content": "keep house 管理家务，当家：\nHis aunt keeps house for him.\n他的婶婶替他管家。\nkeep the house（某人）留在家中不外出；\n暂时看守房屋：\nJoan said that she would keep the\nhouse until her mother returns.\n琼说她等母亲回来再出去。"
+  },
+  {
+   "page": 510,
+   "dict_page": 489,
+   "title": "kind 与 sort",
+   "title_box": [
+    405,
+    1548,
+    569,
+    1578
+   ],
+   "bottom_y": null,
+   "content": "kind 种类\nsort 种类（常与 kind 同义•在口语和商\n业语言中更常用，还可表示轻蔑的意\n思）：\nThis kind（或sort）of questions is easy\nto answer.\n这类问题好问答。\nTry this sort of black tea.\n试试这种红茶。\nHow did you get this sort of ideas in\nyour mind.\n你怎么会把这种想法装进脑袋里去？"
+  },
+  {
+   "page": 514,
+   "dict_page": 493,
+   "title": "know 与 learn 的异同",
+   "title_box": [
+    324,
+    894,
+    617,
+    927
+   ],
+   "bottom_y": null,
+   "content": "①不同处:\nknow [无进行时][+宾]懂得(知识);认识(人);明白(…做):\nHe knows French.\n他懂法语。\nHe knows a lot of people.\n他认识很多的人。\nHe knows what to do.\n他明白该怎么做。(▲know 加不定式短语作宾语时,不定式前必须加 wh-)\nlearn [不受时态限制][+宾]学习(一门学科);学着(…做)(▲learn 后不直接跟“人”作宾语,常用 from sb. 等):\nHe is learning French.\n他在学法语。\nHe is learning (how) to drive.\n他正在学开车。\n②共同处:\nknow [+宾从]知道,了解到(某事)\nlearn [+宾从]获悉,得知(某事)\nI knew(learned) I had passed the test.\n我了解到(听说)我考试及格了。"
+  },
+  {
+   "page": 529,
+   "dict_page": 508,
+   "title": "lead, guide 与 direct",
+   "title_box": [
+    350,
+    1713,
+    631,
+    1749
+   ],
+   "bottom_y": 2231,
+   "content": "在为人指示方向时，注意区别使用：\nlead 带路，牵引，走在前头，引到目的地\nguide 引着参观，导游；一直陪在一旁，边走\n边讲\ndirect 指路；指出方向，不一同去\nThe usher led him to his seat.\n对号员带他找到了座位。\nShe guided the tourists around the\ncity.\n她引着旅游者参观了这个城市。\nCould you direct me to the railway\nstation？\n你能指给我去火车站的路吗？"
+  },
+  {
+   "page": 530,
+   "dict_page": 509,
+   "title": "learned, aged, crooked, blessed 的两种读音和意义",
+   "title_box": [
+    923,
+    1559,
+    1369,
+    1589
+   ],
+   "bottom_y": 2249,
+   "content": "的两种读音和意义\nLearned\n［land］v.learn（学会）的过去式和过\n去分词\n［1la:nid a. 有学问的，博学的\naged\n［eidsd］v.age（变老）的过去式和过去\n分词\n［eidgid］a.年老的\ncrooked\n［krukt］v.crook（弯曲）的过去式\n［'krukt］a. 弯曲的，不诚实的\nblessed\n［blest］v.bless（祝福）的过去式和过\n去分词\n［\"blesid］a. 神圣的，幸福的\n▲wretched ['retʃid] a. 可怜的\nbeloved [bi'lʌvid] a. [作定语]亲爱的"
+  },
+  {
+   "page": 534,
+   "dict_page": 513,
+   "title": "let us 与 let's",
+   "title_box": [
+    1062,
+    1771,
+    1248,
+    1800
+   ],
+   "bottom_y": null,
+   "content": "let us do sth. 让（或允许）我们做某事：\n即提出请求，请对方允许，而对方不做\n我们做；疑问句尾用 will you？：\nLet us have a rest,will you？\n让我们休息一下，行吗？\nlet's do sth. 咱们去做某事吧：即提出建\n议.劝诱对方一同做某事；疑问句尾用\nshall we?：\nLet's have a rest, shall we？\n咱们休息一下，好吗？"
+  },
+  {
+   "page": 543,
+   "dict_page": 522,
+   "title": "little, small 和 tiny 表示“小的”",
+   "title_box": [
+    960,
+    1084,
+    1402,
+    1121
+   ],
+   "bottom_y": 1549,
+   "content": "little 小的，小巧的（带有感情色彩.表示\n喜欢、可怜或讨厌）；常与形容词 nice，\npretty，poor 或 silly 搭配使用：\na nice little dog 一只可爱的小狗\na silly little fool 一个小傻瓜\nsmall 小的，不大（单纯指面积、体积等）：\nThe room is too small for three per-\nsons to live in.\n这屋子太小，3个人住不下。\ntiny 极小的，微小的（强调特别小）：\na tiny insect 一只微小的昆虫"
+  },
+  {
+   "page": 544,
+   "dict_page": 523,
+   "title": "live 与 stay",
+   "title_box": [
+    1058,
+    1522,
+    1212,
+    1557
+   ],
+   "bottom_y": 1974,
+   "content": "live 居住（安家之处），生活：\nHis parents live in the countryside.\nand they live happily.\n他的父母亲住在农村、他们生活得很\n幸福。\nstay 暂住，停留，呆（短期逗留）：\nCan you stay a little longer？\n你能再留⋯会吗？\n▲live 后可接同源宾语（体现及物动词\n的特性）、如：live a happy life 过幸福\n生活；而 stay 没有这个特点"
+  },
+  {
+   "page": 551,
+   "dict_page": 530,
+   "title": "love 等词不用于进行时",
+   "title_box": [
+    920,
+    1300,
+    1453,
+    1333
+   ],
+   "bottom_y": 1780,
+   "content": "以下词通常不用于进行时态:\nlove, like, know, see, want, wish, believe, mean, understand, appear, seem, have(有), find(发现), remain, remember, recognize, belong, hate, hope, 还有 feel(摸起来)等感官动词,如:\n他现在不喜欢我了。\n正: He doesn't love me any longer.\n误: He isn't loving me any longer.\n▲但是以上有些词在词意转变后可用于进行时,如 have 当“有”讲时不用于进行时,但 have a report 有进行时:\nWe are having a report.\n我们在听报告。"
+  },
+  {
+   "page": 560,
+   "dict_page": 539,
+   "title": "make up a bed 与 make the beds",
+   "title_box": [
+    949,
+    945,
+    1387,
+    975
+   ],
+   "bottom_y": 1239,
+   "content": "make up a bed 为特需要准备床铺：\nThey made up a bed for the unex-\npected guest.\n他们为突然来到的客人准备床铺、\nmake the beds铺床（准备睡觉）：\nUsually mother makes the beds.\n通常是妈妈铺床。"
+  },
+  {
+   "page": 560,
+   "dict_page": 539,
+   "title": "make up sth. 与 make up for sth.",
+   "title_box": [
+    945,
+    481,
+    1398,
+    515
+   ],
+   "bottom_y": 924,
+   "content": "make up sth. 补上，补做（误了的事情），\n如：\nBecause you were ill,you will have to\nmake up the final exam.\n你在期末考试时生病，所以你得参加\n补考。\nmake up for sth.（用其他方式）弥补，使\n平衡.如：\nDo you think her beauty could make\nup for her stupidity？\n你认为她的美丽能弥补她的感意吗？"
+  },
+  {
+   "page": 564,
+   "dict_page": 543,
+   "title": "many 与 much",
+   "title_box": [
+    401,
+    909,
+    595,
+    938
+   ],
+   "bottom_y": 1349,
+   "content": "many 与可数名词连用：\nmany cars 许多汽车\nmuch 与不可数名词连用：\nmuch traffic 交通繁忙\n▲a lot of,plenty of 既可与可数名词又\n可与不可数名词连用，如：\ncars\na lot of\nmuch traffic\n在肯定句中常用 a lot of 替代 many\n或 much\n［参见lot］"
+  },
+  {
+   "page": 566,
+   "dict_page": 545,
+   "title": "如何使用 marry 一词",
+   "title_box": [
+    879,
+    1566,
+    1420,
+    1610
+   ],
+   "bottom_y": null,
+   "content": "①marry 在大多数情况下是及物动词,需要宾语或用被动语态:\n她什么时候结的婚?\n误: When did she marry?\n正: When did she get married?\n②在有副词修饰时,marry 可作不及物动词用:\nShe married very early.\n她结婚很早。\n③“和某人结婚”,不能用 with,要用 to,也可以什么介词也不用,但注意句型搭配:\n她和一个医生结了婚。\n误: She married with a doctor.\n误: She was married with a doctor.\n正: She married a doctor.\n正: She was married to a doctor.\n④marry 和 get married 都是非延续性动词,因此不能与表示一段时间的状语连用;表示结婚已有一段时间应该用 be married:\n他们结婚已经10年了。\n误: They have (got) married for ten years.\n正: They have been married for ten years.\n⑤问现在的婚姻“状态”时,可说“Is she married (or single)?”但不说 “Has she married?”"
+  },
+  {
+   "page": 570,
+   "dict_page": 549,
+   "title": "material, matter, substance",
+   "title_box": [
+    303,
+    434,
+    686,
+    460
+   ],
+   "bottom_y": 1089,
+   "content": "material 指“材料”：\nWe are faced with a shortage of\nmanpower,not of raw materials.\n我们面临的问题是缺乏人力而不是\n原料。\nmatter 指科学上概括性的“物质”（与“精\n神”相对），也可指“内容”（与“形式”相\n对）：还表示抽象意义上的“事情”\n’“东\n西”、“问题”：\nThat's a matter of principle.\n这是个原则问题。\nsubstance 指具体的“物质”，借喻为“大\n'、“大意”，也指具有分量的“内容”：\nIron is a hard substance.\n铁是一种坚硬的物质。\nI can tell you the substance of the story.\n我可以把故事大意讲给你听。"
+  },
+  {
+   "page": 571,
+   "dict_page": 550,
+   "title": "may 与 can 表示“可能”时的区别",
+   "title_box": [
+    971,
+    1157,
+    1394,
+    1190
+   ],
+   "bottom_y": 2199,
+   "content": "①在肯定句中：\nmay 表示实际的、马上能应验的具体的可\n能性\ncan 表示理论上的、按常情推断的、抽象的\n可能性\nI may fly to Amsterdam next week.\n下周我可能要“飞往阿姆斯特丹。\nOne can travel to Holland by boat.\nby hovercraft,or by air.\n你可以乘船、气垫船或飞机去荷兰。\n② 在否定句中：\nmay not 也许不（推断时不太有把握）\ncan not 不可能（推断时很有把握）\nShe may not be at home.(=It\npossible that she is not at home.）\n她也许不在家。\nShe can't be at home.（=It is not\npossible that she is at home.）\n她不可能在家。\n③.在疑问句中：\nmay 表示可能性时不用于疑问句，要用别\n的词替代\ncan ①用于be 动词前 ②与 possibly一同\n用于行为动词前\n今晚会下雨吗？\n误：May it rain tonight？\n正：Can it possibly rain tonight？\n正：Is it likely to rain tonight？"
+  },
+  {
+   "page": 572,
+   "dict_page": 551,
+   "title": "maybe 与 may be",
+   "title_box": null,
+   "bottom_y": null,
+   "content": "maybe [副词;作状语][美]很可能,大概(=[英]perhaps):\nMaybe you are right.\n大概你是对的。\nmay be [情态动词+动词原形,作谓语]可能是:\nYou may be right.\n你可能是对的。"
+  },
+  {
+   "page": 572,
+   "dict_page": 551,
+   "title": "meadow 与 pasture",
+   "title_box": [
+    1029,
+    240,
+    1285,
+    270
+   ],
+   "bottom_y": 587,
+   "content": "meadow 场，牧（草）场；在水利便利的低地\n上培植青草，供刈取牧草或晒干草之用：\nThe meadow is not yet mown.\n草场还没有刈草。\npasture 牧场；长满牧草的广大而无设备\n的场地，供放牧之用：\nHorses are grazing in the pasture.\n马在牧场上吃草。"
+  },
+  {
+   "page": 575,
+   "dict_page": 554,
+   "title": "medicine 和 drug",
+   "title_box": [
+    1080,
+    251,
+    1314,
+    288
+   ],
+   "bottom_y": null,
+   "content": "medicine 指起治疗作用的“药”，通常只\n指口服的药，一般不用复数形式，如：\nI'll give you some medicine to\nmake\nyou sleep better.\n我可以给你一点药吃，让你睡得好些。\n▲在英语中表示“吃”药，应说 take some\nmedicine，而不用eat或 drink\ndrug 在广义上可以指任何“药剂”，但更\n、“毒品”.如：\n多用来指狭义的“麻醉剂”\nThe drug is habit-forming.\n吃这种药会上瘾的。\na drug-addict一个吸毒的人\n外用药一般用较具体的词，如：\nlotion 擦抹的药水\nointment 药膏\nplaster 膏药"
+  },
+  {
+   "page": 979,
+   "dict_page": 958,
+   "title": "melt 与 thaw",
+   "title_box": [
+    1084,
+    1877,
+    1259,
+    1910
+   ],
+   "bottom_y": null,
+   "content": "melt 指固体被热融化：\nThe warm air melted the butter.\n暖风把奶油融化。\nthaw 指冰冻状态的东西溶成水：\nThe snow has thawed.\n雪已融化了。"
+  },
+  {
+   "page": 579,
+   "dict_page": 558,
+   "title": "middle 与 centre",
+   "title_box": [
+    1073,
+    1563,
+    1299,
+    1592
+   ],
+   "bottom_y": null,
+   "content": "middle 中间，中部；多指面\ncentre 中心；多指点\nIn the middle of the park there is a\nfountain.\n公园中部有一个喷泉。（不一定在正中心）\nAt the centre of the park there is a\nfountain.\n公园正中心有一个喷泉。\n▲middle 可通用于空间与时间；centre 则只用于空间观念\n▲centre 可借喻为学术、工业、商业的中\n心；middle 则不能借喻\n▲在某些习语中，只能用 middle. 不用\ncentre：\nhold a middle position 处于中间状态\nmiddle course 或 middle-of-the-road\n中间路线"
+  },
+  {
+   "page": 585,
+   "dict_page": 564,
+   "title": "mischief, prank, trick",
+   "title_box": [
+    357,
+    606,
+    668,
+    639
+   ],
+   "bottom_y": 1266,
+   "content": "这3个词都有“恶作剧”的意思\nmischief 原意是“危害”，但常用来指性\n质很轻的“捣乱”\n、“胡闹”，如：\nWhat mischief are you up\nyou\nnaughty boy？\n你这淘气的孩子又在捣什么鬼？\nprank 指具体的“玩笑”、“瞎闹”行为，常\n用于儿童或少年身上，意味着一种高兴\n情绪的流露，很少带恶意，如：\nHe is fond of playing childish pranks\non his friends.\n他喜欢跟朋友们开孩子气的玩笑。\ntrick含意较广，带有“计谋”、“诡诈”、\n俩”的意思，如：\nHe had used up all his tricks.\n他一切伎俩都使完了。"
+  },
+  {
+   "page": 587,
+   "dict_page": 566,
+   "title": "missing, lost 和 gone",
+   "title_box": [
+    383,
+    708,
+    671,
+    737
+   ],
+   "bottom_y": 1366,
+   "content": "missing 表示“丢失”、“不见”，强调“应\n该有而缺少”，如：\nA word seems to be missing here.\n这儿好像掉了一个字。［作表语］\nI've found the missing book.\n原来不见的那本书我找到了。［作定语］\nI found a number of books missing.\n我发现有几本书丢了。［作宾语补足语］\nlost 有“遗失”、“不易找到”的意思，如：\nlost keys 丢失的钥匙［作定语］\nthe Lost and Found\n失物招领处作类名词］\nMy pen is lost.\n我的笔丢了。［作表语］"
+  },
+  {
+   "page": 587,
+   "dict_page": 566,
+   "title": "mistake, error, fault 与 wrong",
+   "title_box": [
+    985,
+    1193,
+    1395,
+    1238
+   ],
+   "bottom_y": 2129,
+   "content": "这 4 个词都可表示“错误”，但各有侧重：\nmistake 强调日常生活中判断和看法的\n错误；\nIt was a mistake buying that car.\n买那辆车是个错误。\nerror 强调违反某一标准做的错事，包括\n道德上的错误：\nHe can't forget the errors of his youth.\n他忘不了他青年时代犯的错误。\nwrong 坏事，冤屈，不道德，犯罪：\nright a wrong 矫枉，雪冤\ndo wrong 做错，作恶，犯罪\nfault 强调过失的责任或性格上的弱点：\nIt is my fault that we are late.\n我们迟到了，责任在我。\n注意这些词各自的固定搭配：\nin error 搞错\nan error of judgement 判断错误\nby mistake 弄错\nfind fault with sb.（或 sth.）\n挑错，找岔\nput sb.in the wrong\n冤枉某人，委屈某人"
+  },
+  {
+   "page": 588,
+   "dict_page": 567,
+   "title": "mix 与 blend",
+   "title_box": [
+    1066,
+    1135,
+    1241,
+    1165
+   ],
+   "bottom_y": 1688,
+   "content": "两词都可作“混合”讲，有时可通用，区\n别在于：mix 是指两个以上不同的东\n西混合起来，有“混杂”、“乱”的意思；\n而 blend 则是把两个以上相似的东西\n混合起来，有“和谐”的意思，如：\nIn making this drink, several kinds\nof spirits are mixed（或 blended）to-\ngether.\n在做这种饮料时，要将几种酒混在\n一起。\nDon't mix up his letters with mine.\n别把他的信和我的信混在一起。\nThe two colours blend well.\n两种颜色配得很好。"
+  },
+  {
+   "page": 576,
+   "dict_page": 555,
+   "title": "molten, melted 和 melting",
+   "title_box": [
+    971,
+    240,
+    1332,
+    273
+   ],
+   "bottom_y": null,
+   "content": "molten 意思为“熔化了的”，只用来指高\n温下熔化的东西：\nmolten rock 岩液\nmolten metal 金属熔液\nmelted 指普通物质的熔化•意思为“化了\n的”：\nmelted chocolate 熔化了的巧克力\nmelting 意思为“柔情的”，“伤感的”，多\n用于比喻：\nin a melting voice 以感伤的声音"
+  },
+  {
+   "page": 604,
+   "dict_page": 583,
+   "title": "must, have to, should, ought to",
+   "title_box": [
+    265,
+    2090,
+    708,
+    2131
+   ],
+   "bottom_y": null,
+   "content": "must 用来表示两种意思:①必须 ②肯定或很可能\n①在表示“必须”时,过去时常用 had to:\nI had to get up early yesterday.\n昨天我必须很早起床。\n▲否定式可以是 mustn't(表示禁止),也可以是 needn't(表示没有必要):\nYou mustn't smoke in this part of the train.\n在列车的这一部分不得吸烟。\nYou needn't arrive here at 5 o'clock.\n你没有必要在5点钟到达这里。\n②当 must 表示“肯定”或“很可能”时,它的过去式是 must have+过去分词\n▲否定式是 can't+原形动词(现在)和 can't have+过去分词(过去):\nThey must have got lost.\n他们一定是迷路了。\nThey can't have got lost.\n他们不可能迷路。\nought to 和 should 也可用来表示上述两种意思,只是语气不如 must 强:\nThe doctor told me I must stop smoking.\n医生对我说必须戒烟。\nMy friends told me I ought to(或 should) stop smoking.\n我的朋友对我说,我应该戒烟。\n……（原框跨双栏,右栏内容已据页图补入）"
+  },
+  {
+   "page": 608,
+   "dict_page": 587,
+   "title": "naked 和 bare",
+   "title_box": [
+    401,
+    642,
+    591,
+    668
+   ],
+   "bottom_y": 823,
+   "content": "naked 裸体的\na naked boy 裸体的男孩\nbare 露出身体的一部分\nbare shoulders 露出来的肩膀"
+  },
+  {
+   "page": 611,
+   "dict_page": 590,
+   "title": "near 和 nearly",
+   "title_box": [
+    405,
+    1950,
+    603,
+    1980
+   ],
+   "bottom_y": null,
+   "content": "near ①副词\n②形容词 ③介词 ④动词；\n意思为“近”，“接近”，作副词时还有“几\n乎”之意\nnearly副词；意思为“几乎”，“差不多”"
+  },
+  {
+   "page": 612,
+   "dict_page": 591,
+   "title": "need, require 和 want",
+   "title_box": [
+    1018,
+    1146,
+    1321,
+    1176
+   ],
+   "bottom_y": null,
+   "content": "①三者后接名词、代词或数词，意思为\n“要”或“需要”：\nThe work needs（或 requires, wants）\npatience.\n这工作需要耐心。\n②二者后接被动的不定式或主动的动名\n/\n词，意思为”需要”或“应该”：\nThe house needs（或 requires, wants）\nto be cleaned（或 cleaning）.\n这房子需要被清扫。\n③need（需要）和 want（想要）可以接主\n动的不定式作宾语，而require 不可以：\nHe needs （或 wants） to see you.\n他要见你。\n①require 和 want 可以接复合宾语•而\nneed 不可以：\nI require（或 want） you to be here this\nevening.\n我请你今晚到这儿来。\n⑤require 可以接宾语从句，而且从句谓语\n必须用*（should）+动词原形\"；need\n和 want 不可以：\nThey require that I （should）appear.\n他们要求我出场。\n3need 可以作情态动词，而 require 和\nwant 不可以：\nYou need not write down your trans-\nlation.\n你们不必写下译文。"
+  },
+  {
+   "page": 614,
+   "dict_page": 593,
+   "title": "neither 和 none",
+   "title_box": [
+    1022,
+    330,
+    1234,
+    370
+   ],
+   "bottom_y": 1496,
+   "content": "neither 否定两个人或物\nnone 否定3个及多个人或物\n这4个学生都没及格。\n误：Neither of the four pupils passed.\n正：None of the four pupils passed."
+  },
+  {
+   "page": 614,
+   "dict_page": 593,
+   "title": "neither, either 和 both",
+   "title_box": [
+    295,
+    1647,
+    606,
+    1680
+   ],
+   "bottom_y": 2259,
+   "content": "neither A nor B 意思“非A亦非 B”：\nNeither she nor I am right.\n她和我都不对。\neither A or B 意思“非A即B”：\nEither she or I am right.\n她和我必有一人对。\nboth A and B 意思“AB 两者都”：\nBoth she and I are right.\n她和我都对。\n▲3个短语中，A 和B的结构须一致：\nneither hot nor cold 即不热又不冷\neither for or against the plan\n要么赞成这个计划要么反对\nboth fame and wealth 名和利\n▲neither...nor 和 either...or 连接主语时，谓语动词与邻近的部分要取得一致"
+  },
+  {
+   "page": 614,
+   "dict_page": 593,
+   "title": "neither, nor 和 so",
+   "title_box": [
+    339,
+    1084,
+    584,
+    1114
+   ],
+   "bottom_y": null,
+   "content": "①否定句+neither+be(have,助动词或情态动词)+另一主语,表示“也不”:\nIf you won't go, neither will I.\n如果你不去,我也不去。\n▲nor 与 neither 用法同\n②肯定句+so+be(have,助动词或情态动词)+另一主语,表示“也”:\nShe likes apples, and so does he.\n她喜欢苹果,他也喜欢。\n[参见 nor 和 so]"
+  },
+  {
+   "page": 620,
+   "dict_page": 599,
+   "title": "next 与 the next",
+   "title_box": [
+    427,
+    1183,
+    642,
+    1212
+   ],
+   "bottom_y": null,
+   "content": "Let's start next Sunday.\n下个星期我们出发吧。\nWe started the next Sunday.\n我们在当时的下一个星期日出发了。\n以过去某一时间为基准，说“下周（月、\n年）”等时要加 the，尤其多见于间接引\n语中"
+  },
+  {
+   "page": 357,
+   "dict_page": 336,
+   "title": "no fool 和 not a fool",
+   "title_box": [
+    1022,
+    1227,
+    1299,
+    1256
+   ],
+   "bottom_y": 1422,
+   "content": "He is no fool.\n他决不是傻瓜。（指他精明强干，\nHe is not a fool.\n他不是傻瓜。"
+  },
+  {
+   "page": 629,
+   "dict_page": 608,
+   "title": "no one 和 none",
+   "title_box": [
+    376,
+    1840,
+    576,
+    1866
+   ],
+   "bottom_y": null,
+   "content": "no one 用于指人,不与 of 短语连用,用作单数:\nNo one told us about that.\n关于那件事没人告诉过我们。(不用 none)\nnone 用于指人或物,可与 of 短语连用,用作单数或复数,而且常用于习语中:\n“How many elephants did you see there?” “None.”\n“你在那儿看到几头大象?”“一头也没有看到。”(不用 no one)\nNone of them have(或 has) arrived.\n他们中谁也没到。(不用 no one)\n……（原框跨双栏,右栏续例已据页图补入）"
+  },
+  {
+   "page": 646,
+   "dict_page": 625,
+   "title": "older, oldest 和 elder, eldest",
+   "title_box": [
+    949,
+    1965,
+    1347,
+    1994
+   ],
+   "bottom_y": null,
+   "content": "①older, oldest 泛指新旧、老幼或年龄大\n小关系；而 elder,eldest 主要用来表示\n兄弟姊妹及子女之间的长幼关系：\nHe is the oldest boy in the class.\n他是班上年龄最大的孩子，\nThe eldest son died last year.\n最大的儿子去年去世了。"
+  },
+  {
+   "page": 194,
+   "dict_page": 173,
+   "title": "on the contrary 与 on the other hand",
+   "title_box": [
+    868,
+    1066,
+    1369,
+    1099
+   ],
+   "bottom_y": null,
+   "content": "on the contrary 意思为“正好相反”，用\n来表示相反的意见，即说某事不是真\n的：\n“The job wasn't interesting,was it？\"\n“On the contrary,it was fascinating.I\nlove it.”\n“那件工作没多大意思吧？”“恰恰相反，\nI\n那件工作有意思极了，我很喜欢。”\non the other hand 意思为“然而，⋯也是\n对的”，是为了说明问题的另一个方面：\nThe job wasn't very interesting,but\non the other hand it was well-paid.\n那个工作没多大意思，但另一方面工\n工资很高。"
+  },
+  {
+   "page": 648,
+   "dict_page": 627,
+   "title": "表示时间的 on, in 和 at",
+   "title_box": [
+    324,
+    1307,
+    657,
+    1344
+   ],
+   "bottom_y": 1894,
+   "content": "on 日，周日或特定某日中的一段时间：\non July 27月2日\non Sunday 星期日\non the morning of last Sunday\n上星期天早晨\nin一日中的早、下午、晚，周，季，年，世\n纪：\nin the afternoon 在下午\nin a week （summer,year）\n一周（在夏季、一年）\nat点钟，一日中的黎明、中午、黄昏、半\nat six （dawn） 6点钟（在黎明）\nA如果时间词前面有next,this,last\nevery 等修饰语时，常不用介词"
+  },
+  {
+   "page": 649,
+   "dict_page": 628,
+   "title": "one day 和 some day",
+   "title_box": [
+    1003,
+    1655,
+    1282,
+    1691
+   ],
+   "bottom_y": null,
+   "content": "两者都可表示“有一天”，但是：\none day 既可用于表示“将来有一天”，也\n可表示“过去曾经有一天”\nsome day 只表示“将来有一天”\nI'll see you again one day （或some day）.\n我改天再来看你。\nOne day an old man came to see you.\n有一天一个老人来看你了。"
+  },
+  {
+   "page": 651,
+   "dict_page": 630,
+   "title": "only if 和 if only",
+   "title_box": [
+    1047,
+    255,
+    1277,
+    292
+   ],
+   "bottom_y": null,
+   "content": "only if 只要⋯；引导用陈述语气的真\n实条件句：\nOnly if you study hard,you will pass\nthe test.\n只要你努力学习，就会通过考试。\n②if only 但愿…，要是⋯就好；常引导虚拟语气的条件句或感叹句：\nIf only we had arrived in time,we\nwould not have missed the train.\n要是我们按时到，就不会误车。\nIf only I were younger！\n要是我年轻点儿就好了！\n▲if only 有时也可引导陈述语气的真实\n条件句，意思为“只要⋯”；\nIf only it clears up, we'll go.\n只要天一放晴，我们就去。"
+  },
+  {
+   "page": 654,
+   "dict_page": 633,
+   "title": "oppress 和 suppress",
+   "title_box": [
+    1044,
+    543,
+    1318,
+    580
+   ],
+   "bottom_y": 801,
+   "content": "oppress 压迫，压制；压抑，烦恼\noppress the people 压迫人民\noppress one's spirit 精神压抑\nsuppress 镇压；抑制，忍住\nsuppress a rebellion 镇压叛乱\nSuppress a laugh忍住笑"
+  },
+  {
+   "page": 669,
+   "dict_page": 648,
+   "title": "pain, ache 与 smart 表示“疼痛”",
+   "title_box": [
+    284,
+    1004,
+    719,
+    1044
+   ],
+   "bottom_y": 1533,
+   "content": "pain 痛苦；一般用语，指心的或身的痛苦\n均可：\npain 持续的疼痛\na continued\na pain in the ear 耳痛\nIt was done with pains.\n它是辛苦做成的。\nache 疼；指连续的、隐隐的、局部的钝痛，\n常和表示疼的部位的词连用，如：\nheadache,toothache 等\nsmart 疼痛，伤心；指剧烈的痛，又指心\n的痛苦：\nPepper makes the eyes smart.\n胡椒使眼睛剧痛。"
+  },
+  {
+   "page": 673,
+   "dict_page": 652,
+   "title": "pardon, excuse 和 forgive 表示“原谅”",
+   "title_box": [
+    909,
+    591,
+    1420,
+    624
+   ],
+   "bottom_y": null,
+   "content": "pardon 原谅：指宽恕严重的过失、罪恶\n或严重的冒犯、尤指反法律、反道德的\n过失，如：\nWe must pardon him for his faults.\n我们一定会原谅他的过失。\nexcuse 原谅：指宽恕小的过失（对社交或\n惯例的疏忽等），如：\nExcuse me for coming so late.\n请原谅我来晚了。\nforgive 原谅；指宽恕他人对自己的冒\n犯，如：\nWe forgive our friends their faults.\n我们宽恕朋友们的过失。"
+  },
+  {
+   "page": 675,
+   "dict_page": 654,
+   "title": "part from 与 part with",
+   "title_box": [
+    339,
+    1037,
+    649,
+    1070
+   ],
+   "bottom_y": null,
+   "content": "part from sb. 与某人分别：\nI parted from him at the gate.\n我在大门口和他分别。\npart with sth. 放弃物品：\nIt was intolerable to part with\nthe\nbook.\n真舍不得放弃那本书。"
+  },
+  {
+   "page": 677,
+   "dict_page": 656,
+   "title": "pass 和 pass by",
+   "title_box": [
+    1044,
+    668,
+    1245,
+    697
+   ],
+   "bottom_y": 854,
+   "content": "pass 经过；指在人或物面前或旁边经过\npass by 经过；指经过人或物面前或旁边\n不停顿也不注意的经过\n▲二者常通用"
+  },
+  {
+   "page": 682,
+   "dict_page": 661,
+   "title": "peaceful, peaceable 与 pacific",
+   "title_box": [
+    993,
+    335,
+    1387,
+    368
+   ],
+   "bottom_y": null,
+   "content": "peaceful和平的；表示和平的状态\npeaceable 和平的，爱好和平的；主要指\nli suspend\n人的性格、气质等\npacific 和平的；就人而言，是“爱好和平\n的”；就物而言，是“促进和平的”"
+  },
+  {
+   "page": 683,
+   "dict_page": 662,
+   "title": "pebbles, stones 和 rocks",
+   "title_box": [
+    993,
+    441,
+    1321,
+    471
+   ],
+   "bottom_y": null,
+   "content": "pebbles 小圆石，鹅卵石（由于水的作用\n而形成的圆形、光滑的小圆石）\nstones 石头，石块（各种形状）\nrocks 岩石"
+  },
+  {
+   "page": 689,
+   "dict_page": 668,
+   "title": "permit 与 permission",
+   "title_box": [
+    379,
+    503,
+    660,
+    533
+   ],
+   "bottom_y": null,
+   "content": "permit被用作名词时，指成文的允许，也\n用于指“执照”\n“许可证”；如：\na permit to hunt 狩猎的许可证\npermission 常指口头的允许：如：\nI asked his permission to use the car.\n我请求他允许我使用汽车。"
+  },
+  {
+   "page": 690,
+   "dict_page": 669,
+   "title": "persuade, convince, advise",
+   "title_box": [
+    993,
+    401,
+    1339,
+    427
+   ],
+   "bottom_y": 1284,
+   "content": "persuade 和 convince 意思均为“说服”；\n前者着重情感上的“敦促、劝告”，后者\n着重理智方面的“辩论、证明”，两者结\n构相同，即：\npersuade（或 convince）sb.that...\npersuade（或 convince）sb.of sth.\nHe persuaded me that that was not\nworth buying.\n他说服我，那东西不值得买。\n▲persuade 还可表示“说服某人做（或不\n做）某事”，其结构为：\npersuade sb.not to do sth.\npersuade sb. into（或 out of） doing sth.\nHe persuaded me to do that.\n（=He persuaded me into doing that.）\n他说服了我去做那事。\n▲persuade 和 convince 都表示结果，即\n说服了；若表示“说服”或“劝说”的动\n作，常用 try to persuade（或 convince），\n也可用advise 来表示：\nI advised（或tried to persuade） him\nto start early but he couldn't listen.\n我说服他早点动身，可他不听。"
+  },
+  {
+   "page": 696,
+   "dict_page": 675,
+   "title": "pile 与 heap",
+   "title_box": [
+    423,
+    1420,
+    587,
+    1457
+   ],
+   "bottom_y": 1531,
+   "content": "pile 堆，指整齐地堆放的“堆”\nheap 堆；堆凌乱地放在一起的“堆”"
+  },
+  {
+   "page": 699,
+   "dict_page": 678,
+   "title": "pitch, throw 与 toss",
+   "title_box": [
+    368,
+    1574,
+    642,
+    1603
+   ],
+   "bottom_y": null,
+   "content": "pitch 投，掷；指把球、石等轻的东西投\n向目标：\nHe pitched the letter into the fire.\n他把信投入火中。\nthrow 投，掷；一般用语，含有用力的意思：\nHe threw a stone at the dog.\n他投石子打狗。\ntoss 投，掷；指把东西轻轻向上抛：\nHe tossed the ball.\n他把球投出。"
+  },
+  {
+   "page": 700,
+   "dict_page": 679,
+   "title": "place, put 与 set 表示“放置”",
+   "title_box": null,
+   "bottom_y": null,
+   "content": "Put 放；最通俗而意义最不一定的用语，\n例如说：把书放在桌上，把钱放入袋\n中，把靴放在一旁等：\nI put the book on the desk.\n我把那本书放在桌上。\nplace 放；比 put 意思较确定并较为正式\n的用语，暗示着某一定位置的意义，例\n如：把书放在桌上，用 put；把书放在书\n架上适当的位置，用 place：\nHe placed a pretty bunch of roses in\nher lap.\n他把一束玫瑰花插在她的裙兜里。\nset 放；指放成垂直的位置，例如把书本\n插在书架上或把铅字插列成行"
+  },
+  {
+   "page": 700,
+   "dict_page": 679,
+   "title": "place, station, situation, position, post, site",
+   "title_box": null,
+   "bottom_y": null,
+   "content": "place 位置；是意思极广的惯熟用语\nstation 位置；指事物被放置的场所\nsituation [英]位置；大体与 position 同\n义，指事物被放置的状态，转义而表示\n境遇、地位等，特指书记、教师、家仆等\n雇员的地位或位置，如：\nThe hotel stands in a good situation.\n这旅馆位于一个很好的位置。\nposition [美]位置；situation 指物的位\n置与其他物的关系，position 指物自体\n的位置，不含比较，如：\nthe position of a city on a map\n城市在地图上的位置\npost 位置，职位；指负有一定职务的地位\nsite 位置；指建筑物、都会等的位置"
+  },
+  {
+   "page": 702,
+   "dict_page": 681,
+   "title": "plant 与 vegetable",
+   "title_box": [
+    1069,
+    368,
+    1314,
+    401
+   ],
+   "bottom_y": 590,
+   "content": "plant植物①广义：指一般的植物②狭\n义：指树和灌木以外的植物\nvegetable 植物，蔬菜；指为食用而栽培\n的植物，如：tomato 番茄，cabbage 洋白"
+  },
+  {
+   "page": 711,
+   "dict_page": 690,
+   "title": "poison 和 venom",
+   "title_box": [
+    1047,
+    1026,
+    1263,
+    1055
+   ],
+   "bottom_y": 1322,
+   "content": "poison 毒；一般用语，用处较广，如农药、\n毒药等：\nHe tried to kill himself by taking\npoison.\n他曾试图服毒自杀。\nvenom 毒；指蛇、蝎、蜂等动物分泌的毒\n液"
+  },
+  {
+   "page": 728,
+   "dict_page": 707,
+   "title": "practice 和 exercise",
+   "title_box": [
+    350,
+    1713,
+    613,
+    1742
+   ],
+   "bottom_y": null,
+   "content": "practice 实习；指有规律的练习，特指反\n复练习，不断练习，如：大音乐家需要不\n断的 practice\nexercise 练习；一般用语，可指训练、锻\n炼、操练等，如：spelling exercises 拼写\n练习；a field exercise 野外练习；lack of\nexercise 缺乏锻炼；do one's exercises 做\n练习（或做功课）等"
+  },
+  {
+   "page": 731,
+   "dict_page": 710,
+   "title": "prepare for 为…做准备",
+   "title_box": null,
+   "bottom_y": null,
+   "content": "prepare for 为…做准备；for 的宾语\n一般只是谓语动作要达到的目的，如：\nprepare for the battle 为战斗做准备\n▲此类动词还有：search for;\nask for; dig, dig for; leave, leave\nfor; arrange, arrange for 等"
+  },
+  {
+   "page": 731,
+   "dict_page": 710,
+   "title": "prepare 和 prepare for",
+   "title_box": null,
+   "bottom_y": null,
+   "content": "prepare 准备；谓语动作直接体现在宾语\n上，如：\nShe is preparing lunch.\n她正在准备午饭。"
+  },
+  {
+   "page": 732,
+   "dict_page": 711,
+   "title": "present, at present 和 presently",
+   "title_box": [
+    288,
+    1128,
+    719,
+    1161
+   ],
+   "bottom_y": 1494,
+   "content": "Present 现在的，现今的出席的、现在的：\nWhat is your present address？\n你现在的住址是哪里？\nat present 现在，当今（=now）：\nWe are very busy at present.\n我们现在很忙。\nPresently 不久，马上（=soon）：\nShe will be home presently.\n她不久将会回家。"
+  },
+  {
+   "page": 738,
+   "dict_page": 717,
+   "title": "price 和 prize",
+   "title_box": [
+    1073,
+    1592,
+    1263,
+    1625
+   ],
+   "bottom_y": 1884,
+   "content": "price 价钱；指买东西应付的钱\nPrize 奖金；指在比赛中获胜时或有特殊\n贡献时所得的奖励\nWhat's the price of the dictionary？\n这本字典卖多少钱？\nHe received the Nobel Prize for peace.\n他获得了诺贝尔和平奖。"
+  },
+  {
+   "page": 735,
+   "dict_page": 714,
+   "title": "price, cost, value 与 worth",
+   "title_box": [
+    988,
+    312,
+    1336,
+    347
+   ],
+   "bottom_y": 795,
+   "content": "price 价，定价；指卖方对物品所要求的\n价钱，高于 cost\ncost 价值，成本；包括对货物所付的一切代价，如制作、包装、运输等\nvalue 价值；指物品本身的价值，但也随\n市场行情而改变，因此一物品的 value\n也常按人的主观见解而变\nworth 价值：指物品本身的价值，而且永远不变，如：\nNobody knew the true worth of his\nwork.\n没有人知道他的工作的真实价值。"
+  },
+  {
+   "page": 738,
+   "dict_page": 717,
+   "title": "prison 与 jail",
+   "title_box": [
+    416,
+    697,
+    602,
+    730
+   ],
+   "bottom_y": 989,
+   "content": "同：都有“监狱”\n、“监禁”的意思\n异：①jailer 或 jailor 是“管监牢的人”；而\nprisoner 则是“被监禁的犯人\"②jail既\n作名词，又作动词，而 prison 的动词是\nimprison\n/［美］jail jailer 或 jailor\n上注意拼写\n［英］gaol gaoler"
+  },
+  {
+   "page": 739,
+   "dict_page": 718,
+   "title": "problem 和 question",
+   "title_box": [
+    328,
+    1504,
+    602,
+    1534
+   ],
+   "bottom_y": 1918,
+   "content": "问题；指被提出的问题，特别指\nproblem|\n疑难的、困难的问题，如数学、几何、失\n业等问题或令人困惑的事（或人、情况\n等）\nquestion 问题；意思极广，指需要解决或\n解答的问题，如劳动、国际、政治、社会、\n金钱、考试等方面的问题\n在考试中，解决数理问题用 solve the\nproblem，回答英语、史地等问题为\nanswer the question"
+  },
+  {
+   "page": 740,
+   "dict_page": 719,
+   "title": "produce, product(s) 与 production",
+   "title_box": null,
+   "bottom_y": null,
+   "content": "produce 产品：指农业生产的物品\nproduct(s) 产品：指工业生产的物品\nproduction 产品：指剧院、电视等演播的\n剧本、电影等"
+  },
+  {
+   "page": 741,
+   "dict_page": 720,
+   "title": "progressive 与 advanced",
+   "title_box": [
+    982,
+    1903,
+    1307,
+    1932
+   ],
+   "bottom_y": null,
+   "content": "progressive 前进的；进步的：\nprogressive ideas 进步思想\nadvanced 先进的（已达“高级“阶段的）：\nadvanced ideas 先进思想"
+  },
+  {
+   "page": 742,
+   "dict_page": 721,
+   "title": "promise 和 consent",
+   "title_box": [
+    1047,
+    1552,
+    1307,
+    1581
+   ],
+   "bottom_y": 1890,
+   "content": "promise 允许；是自己积极主动约定的，\nHe promised me a book.\n他允许给我一本书。\nconsent 应许；是先由他人请求而后予\n以同意的，如：\nI consent to your marriage.\n我同意你的婚事。"
+  },
+  {
+   "page": 746,
+   "dict_page": 725,
+   "title": "prove 与 turn out",
+   "title_box": [
+    383,
+    1745,
+    624,
+    1775
+   ],
+   "bottom_y": null,
+   "content": "prove 被证明为：\nShe proved a very good player.\n她被证明是个好选手。\nturn out 被察为⋯；含有较强的意外\n之意：\nHe turned out to be a thief.\n他原来是个贼。"
+  },
+  {
+   "page": 753,
+   "dict_page": 732,
+   "title": "put up 与 set up",
+   "title_box": [
+    1047,
+    949,
+    1266,
+    986
+   ],
+   "bottom_y": null,
+   "content": "Put up 搭起，竖起；更常见，可与 set up\nset up 搭起，竖起；还有“建立、成立（某\n一机构、团体）的意思"
+  },
+  {
+   "page": 758,
+   "dict_page": 737,
+   "title": "quick, swift, rapid, fast 与 speedy 表示“迅速”",
+   "title_box": null,
+   "bottom_y": null,
+   "content": "quick 迅速的；一般用语，意思为立即行\n动，毫不拖延，如：\na quick answer 迅速的回答\nswift 迅速的；指动得非常迅速的东西，\n如风车、水车等，常和 quick 通用，如：\na swift arrow (horse) 快速的箭（马）\nrapid 急速的；常指急流、旋涡等，语气比\nquick 和 swift 要强，如：\na rapid stream 湍急的小河\nfast 迅速的；指动作等的迅速（多用于副\n词），和 rapid 通用，但侧重于动的东西，\n如：\na fast train 快速行驶的火车。\nspeedy 迅速的；表示动作的迅速，如：\na speedy horse 奔驰着的马"
+  },
+  {
+   "page": 761,
+   "dict_page": 740,
+   "title": "race, nation, state 和 tribe",
+   "title_box": [
+    306,
+    617,
+    675,
+    642
+   ],
+   "bottom_y": 1496,
+   "content": "这些词都是用以划分人类大型群体的名\nrace 种族：是其中最大的群体、指具有相\n同肤色或体型的人，如：\nthe yellow race 黄种人\nnation民族，国家；指具有共同语言和历\n史．通常居住在同一地域，比 race 小的\n人类群体，如：\nthe Chinese nation 中华民族\nstate 国家，州：与 race 和 nation 都不同，\n是一种政治上的划分，既可指独立的\n“国家”，也可指一个国家内部半独立的\n实体（如美国）的“州”，如：\nthe State of Texas 德克萨斯州\nthe modern states of Africa\n非洲的现代国家\ntribe 部落；指具有相同的风俗习惯和宗\n教信仰，通常也有相同的语言，比\nnation 小的社会群体，通常译为“部\n落”，如：\na tribe of hunters living in the Amaz-\non forest 居住在亚马逊原始森林中以\n狩猎为生的部落"
+  },
+  {
+   "page": 760,
+   "dict_page": 739,
+   "title": "race, run 与 dash 表示“跑”",
+   "title_box": [
+    974,
+    1713,
+    1343,
+    1742
+   ],
+   "bottom_y": 2082,
+   "content": "race 跑，赛跑；一般指一种跑的竞赛，可\n以是人，也可以是动物，但一般不指短\n距离赛跑\nrun 跑，跑步；普通用语，指所有的跑\ndash 跑，急奔；指短距离赛跑（=run\nquickly and suddenly），也常用于田径\n项目中的短跑，如：\n100（200）-metre dash\n100（200）米短跑"
+  },
+  {
+   "page": 763,
+   "dict_page": 742,
+   "title": "raise 还是 rise?",
+   "title_box": null,
+   "bottom_y": null,
+   "content": "raise vt. 举起，提起，抬起；说明主语发出\n的动作是要作用于其他事物的\nrise vi. 升起，上升，起立，起床；说明主语\n自身移向较高的位置\n▲有些情况二者都可用，如：\n①Prices have been raised up.\n价格被提高了。（强调人为的因素）\n②Prices rose gradually.\n价格渐渐地涨上去了。（强调客观情况）\n▲raise 和 rise 作名词意思为“加薪”时，\nraise 为美语，rise 为英语"
+  },
+  {
+   "page": 766,
+   "dict_page": 745,
+   "title": "rate, ratio, proportion",
+   "title_box": [
+    335,
+    1881,
+    653,
+    1910
+   ],
+   "bottom_y": 2092,
+   "content": "rate 比率；一般用词，常用来指各种百分\n率，如利率、速率等\nratio 比例，仅用在数字和计算上\nProportion 比例；科学上用语，指各部分\n的相称"
+  },
+  {
+   "page": 768,
+   "dict_page": 747,
+   "title": "reach at, reach after 和 reach for",
+   "title_box": [
+    269,
+    854,
+    734,
+    889
+   ],
+   "bottom_y": 1320,
+   "content": "She reached at（或after） the flowers\nin my hand.\n她伸手想摸我手中的花。（企图而已，\n往往不达目的）\nHe reached after the flowers he had\ndropped\n他伸手想抓住从手中落下的花。（企\n图去摸或抓；也可引伸为企图获得名\n利、弄懂问题等）\nHe reached for the match.\n他伸手去拿火柴。（无”企图”之意，正\n正当当伸手去拿具体实物）"
+  },
+  {
+   "page": 769,
+   "dict_page": 748,
+   "title": "ready for 与 ready with",
+   "title_box": null,
+   "bottom_y": null,
+   "content": "ready for 准备好干什么；做好准备\n去做某事（=be ready to do sth.）；准\n备应付或对付；乐意做某事，如：\nWe are ready for a holiday. = We\nare ready to spend a holiday.\n我们准备度假。\nready with 准备好所说的话：一般后接\nexcuse, answer, reply, explanation,\nsuggestion 等词，如：\nShe is ready with excuses.\n她随时都有借口。"
+  },
+  {
+   "page": 769,
+   "dict_page": 748,
+   "title": "real, true, actual 都表示“真实”",
+   "title_box": null,
+   "bottom_y": null,
+   "content": "real 真实的、实在的；表示实际存在的意\n义，如实情、实况、实例、实物等\n反义词：imaginary 想象的\nfeigned 伪造的\ninvented 虚构的\ntrue 真的；指某种事实、故事、消息、信\n息、朋友、证人、爱情等是真的，不是假\n的、错的\n反义词：false 虚伪的\nerroneous 错误的\nfictitious 假造的\nactual 现实的；表示知识、经验、行为、财\n产、价值、状态等的存在\n反义词：supposed 假定的\nreported 谣传的\n▲以上三个词常可互用"
+  },
+  {
+   "page": 770,
+   "dict_page": 749,
+   "title": "reality 与 truth",
+   "title_box": [
+    401,
+    248,
+    613,
+    285
+   ],
+   "bottom_y": null,
+   "content": "reality 真实，实在；指某事物的确存在，\n如：\nthe grim realities of war\n战争的冷酷现实\ntruth 真实，真理；指人或事实而言，如：\nThis is an eternal truth.\n这是个永恒的真理。"
+  },
+  {
+   "page": 771,
+   "dict_page": 750,
+   "title": "rebellion 与 revolt",
+   "title_box": [
+    1044,
+    774,
+    1299,
+    807
+   ],
+   "bottom_y": null,
+   "content": "rebellion（指谋反政府的）武装叛乱，最\n后常流于失败；成功的为 revolution\nrevolt 指不再效忠而拒绝接受现状的叛\n变，如：\nThe people rose in revolt against the\ngovernment.\n民众掀起暴动反抗政府。"
+  },
+  {
+   "page": 772,
+   "dict_page": 751,
+   "title": "recently, lately 和 presently",
+   "title_box": null,
+   "bottom_y": null,
+   "content": "recently 最近；指过去不久的某一时刻，\n和一般过去时连用；或指过去不久到现\n在的一段时间，和现在完成时连用；后\n者多用，一般不和一般现在时连用，如：\nI haven't heard from her recently.\n我最近没听到她的消息。\nlately 最近；基本用法同 recently，但表\n示过去不久的某一时刻多见，有时也和\n一般现在时连用（口语中常用于疑问句\n和否定句中），如：\nHave you seen them lately?\n你最近见到过他们吗？\npresently(=soon) 近来；指不久的将来\n的某一时刻，只能与一般将来时连用\n（不能用来表示现在和过去），如：\nShe will be home presently.\n她不久将回家。"
+  },
+  {
+   "page": 774,
+   "dict_page": 753,
+   "title": "recover, restore 与 recuperate",
+   "title_box": [
+    978,
+    1011,
+    1391,
+    1044
+   ],
+   "bottom_y": 1426,
+   "content": "recover 恢复；指用自己的力量恢复原\n状，如恢复失去的财产、物、土地、力量、\n健康、食欲、爱情、自由、官位等，如：\nHis health was recovered\n他恢复了自己的健康。\nrestore 恢复；指用他力恢复旧状，如：\nHis health was restored to him.\n（他人使）他的健康恢复。\nrecuperate 恢复；指从疲劳、疾病、损失\n中等恢复，和recover同义"
+  },
+  {
+   "page": 778,
+   "dict_page": 757,
+   "title": "regard...as 与 as regards",
+   "title_box": null,
+   "bottom_y": null,
+   "content": "regard...as 把…看作，把…认为：as 是\n介词，后接名词、形容词、动名词等，作\n补足语；类似的表达法有 consider...\nas, look upon...as, take...as, think\nof...as 等，如：\nI regard him as my friend.\n我把他当朋友。\nThey regard him as foolish.\n他们认为他傻。\nas regards 至于，关于；一般位于句首，起\n介词作用，后接名词、动名词或 what 从\n句，表示叙述的内容；类似的表达法还\n有 as to, as for, in regard to（或 of）,\nwith regard to 等，如：\nAs regards wheat, prices are rising.\n小麦的价钱涨了。"
+  },
+  {
+   "page": 781,
+   "dict_page": 760,
+   "title": "relation 和 relative 表示“亲戚”",
+   "title_box": [
+    270,
+    777,
+    701,
+    814
+   ],
+   "bottom_y": null,
+   "content": "relation 亲戚：表示特别亲密的、友好的\nrelative 亲戚：单纯的亲戚关系\n二者法律上通用：在一般情况下多用\nrelative"
+  },
+  {
+   "page": 783,
+   "dict_page": 762,
+   "title": "remember doing 与 remember to do",
+   "title_box": [
+    237,
+    1771,
+    722,
+    1804
+   ],
+   "bottom_y": null,
+   "content": "remember doing 记得做过某事：动名词\ndoing 具有完成的意义，如：\nI remember taking（或having taken）\nthe medicine at the right time.\n我记得已按时服过药了。（吃过了）\nremember to do 记住去做某事；不定式\nto do 表示未做的动作，如：\nI remember to take the medicine at the\nright time.\n我记住要按时服药。（还没吃）\n类似的单词有 regret,forget等"
+  },
+  {
+   "page": 786,
+   "dict_page": 765,
+   "title": "report 与 report to",
+   "title_box": [
+    1029,
+    1154,
+    1292,
+    1190
+   ],
+   "bottom_y": null,
+   "content": "report报告；后接动名词、从句、带不定\n式的复合宾语，但不直接跟动词不定式\n（例句见本词条）\nreport to 向…汇报（to 为介词）\nI shall report to you.\n我将向你汇报。\nI shall report you.\n我要告发你。"
+  },
+  {
+   "page": 788,
+   "dict_page": 767,
+   "title": "research, search 与 inspection",
+   "title_box": [
+    956,
+    1230,
+    1369,
+    1260
+   ],
+   "bottom_y": 1643,
+   "content": "research 研究，调查；指审慎的探究，有\n科学的研究或批判的探究的意思，用于\n学问、宗教、物理、心理、天文、古物等方\n面的调查或研究，常用复数\nsearch搜索，探究；指审慎的和持续的调\n查或研究，用于搜寻失窃物或探究知\n识、真理、自由、珍宝、奇术等\ninspection 检查，视察（=examination）；\n是职务上的用语，用于学校、军队、武\n器、土木建筑的或商品的视察、检查"
+  },
+  {
+   "page": 790,
+   "dict_page": 769,
+   "title": "resolve 与 solve",
+   "title_box": [
+    379,
+    1227,
+    591,
+    1256
+   ],
+   "bottom_y": null,
+   "content": "resolve 表示决心，解决（困难），分解等，\n如：\nThe mystery was resolved.\n这个秘密被解开了.\nsolve 主要表示解答数字等难题，如：\nHave you solved all the problems yet？\n你已把所有的问题都解答了吗？"
+  },
+  {
+   "page": 790,
+   "dict_page": 769,
+   "title": "respect, honour 与 regard 表示“尊敬”",
+   "title_box": null,
+   "bottom_y": null,
+   "content": "respect 尊敬；正式用语，指对父母、年长\n者、正直的人、学者、法律、秘密等的尊\n敬或敬重，如：\nHe respects his parents.\n他尊敬父母。\nhonour 尊敬，非常尊敬（=respect high-\nly）；指对君主、长辈、父母、贵人、德高\n之人、正直之人、大神等的敬意，如：\nHe was honoured as a man of courage.\n他被尊为勇者。\nregard 尊敬；指对父母、他人的感情、法\n律、安息日等的尊敬，如：\nWe all regard our English teacher hig-\nhly.\n我们都很尊敬我们的英语老师。"
+  },
+  {
+   "page": 797,
+   "dict_page": 776,
+   "title": "rich, wealthy 与 well off",
+   "title_box": [
+    985,
+    1168,
+    1325,
+    1198
+   ],
+   "bottom_y": null,
+   "content": "rich 丰富的、富有的；可指钱财，也可指\n物质上、精神上的其他东西；富的可以\n是人，也可以是物\nwealthy 富的；一般指财势上的“富裕”、\n常指拥有大量财产的人，有时也指拥\n有其他东西，此时与 rich通用\nwell off 富裕的；指人的富裕，但程度不\n如wealthy，通常指小康的富足"
+  },
+  {
+   "page": 798,
+   "dict_page": 777,
+   "title": "ride 与 drive",
+   "title_box": null,
+   "bottom_y": null,
+   "content": "ride 乘；可以乘车辆，也可以乘其他工具\n（如马、自行车、人肩等）；指车辆时，是\n乘车而不是开车\ndrive 驾驶，驱赶；宾语为“车辆”时，意思\n为“驾驶”，是别的东西时，意思为“驱\n赶”\nride 和 drive 都可作名词，仍有“乘车”\n与“开车”之别，但表示一段车程时无以\n别，如：\nan hour's ride = an hour's drive"
+  },
+  {
+   "page": 63,
+   "dict_page": 42,
+   "title": "rise, raise, arise 和 arouse",
+   "title_box": [
+    343,
+    2049,
+    690,
+    2078
+   ],
+   "bottom_y": 2231,
+   "content": "rise （rose, risen）升起（vi.）\nraise （raised ,raised）举起（vt.）\narise（arose, arisen）出现（vi.）\narouse （aroused ;aroused）唤起（vt.）"
+  },
+  {
+   "page": 803,
+   "dict_page": 782,
+   "title": "rob 与 steal",
+   "title_box": [
+    412,
+    715,
+    573,
+    741
+   ],
+   "bottom_y": null,
+   "content": "rob 盗；指公然地用暴力抢劫他人的所\n有物，句型为“rob＋被盗人或地方+of\n十被盗物”（of以后的部分有时可省）。\n如：\nThey robbed me.\n他们抢了我（的东西）。\nsteal 偷；指暗中窃取，句型为“steal+被\n偷之物＋from＋被偷人或地方”；\nTheir ship was stolen.\n他们的船被偷（或抢）走了。\nTheir ship was robbed.\n他们船上的东西被抢走了。\nHe stole her watch from her.\nHe robbed her of her watch.\n他偷（抢）了她的表。\n▲steal 有时跟双宾语：steal sb.sth. 意\n思为“ 某人偷窃某物”，如：\nHe stole her a watch.\n他偷了一只表给她。\n▲steal 还有“偷偷地走”，“溜进”的意\n思，如：\nShe stole into the courtyard.\n她溜进了院子。"
+  },
+  {
+   "page": 806,
+   "dict_page": 785,
+   "title": "room, place 与 space",
+   "title_box": [
+    372,
+    964,
+    660,
+    993
+   ],
+   "bottom_y": 1262,
+   "content": "room 房间（可数）、地方（不可数）：指可\n以容纳东西或为其他目的而使用的空\n间\nplace 地方；指某一具体地点\nspace 空间；普通用语，表示万物存在之\n处，与 time 为相对概念，如果意思为\n“间距”时，指无空隙"
+  },
+  {
+   "page": 809,
+   "dict_page": 788,
+   "title": "route 与 course",
+   "title_box": [
+    387,
+    1450,
+    595,
+    1475
+   ],
+   "bottom_y": null,
+   "content": "route 路程；特指熟悉的或预先决定的路\ncourse 行程；指已经走过的路或距离。！\n义指行进的路程，如：\nThe ship held her course westward.\n这船向西方航行。"
+  },
+  {
+   "page": 809,
+   "dict_page": 788,
+   "title": "row, line 和 column",
+   "title_box": [
+    1022,
+    807,
+    1299,
+    836
+   ],
+   "bottom_y": null,
+   "content": "row 排：通常指横队、横行、可指人也\n可指物\nline 一行；纵、横都可以，可以指人也可\n指别的东西，如：\nThey are waiting in a line to get on the\ntrain.\n他们排队等着上火车。\ncolumn 一队：通常指纵队，也可以是数\n字、单词的纵行，如：\na column of threes (fours)）\n路（四路）纵队"
+  },
+  {
+   "page": 811,
+   "dict_page": 790,
+   "title": "rude 与 rough",
+   "title_box": [
+    426,
+    926,
+    613,
+    962
+   ],
+   "bottom_y": null,
+   "content": "rude 粗野的（［反］polite 文雅的）：指缺\n礼仪、文雅与精致\nrough粗糙的（［反］smooth光滑的）；\n一般用语，指物体表面凹凸不平，如：\nThe rough road made the car shake.\n高低不平的路面使汽车颠簸"
+  },
+  {
+   "page": 814,
+   "dict_page": 793,
+   "title": "run out 与 run out of",
+   "title_box": [
+    372,
+    960,
+    660,
+    989
+   ],
+   "bottom_y": 1519,
+   "content": "run out 用完了（=become used up）；其\n主语通常为时间、食物、金钱等名词，\n如：\nHis money soon ran out.\n他的钱很快就花完了。\nrun out of 用完了；表示主动含义，主语\n一般是人，如：\nHe is always running out of money be-\nfor payday.\n他老是发工资的日子还没到就把钱花\n完了。\n▲run out of 还有“从…流出”，”跑出”的\n意思；run out 也有“流出”的意思，但不\n可接宾语"
+  },
+  {
+   "page": 815,
+   "dict_page": 794,
+   "title": "rural 与 rustic",
+   "title_box": [
+    394,
+    1599,
+    591,
+    1629
+   ],
+   "bottom_y": null,
+   "content": "rural 乡村的，农村的（［反］urban 城市\n的）；客观地指与 urban 相对，如：\nHe lived a rural life.\n他过 田园生活。\nrustic 乡村的，质朴的（［反］urbane文雅\n的，文质彬彬的）；强调乡村的朴素、粗\n野，如：\nThe cottage has a rustic charm.\n这间小屋带有朴素之美。"
+  },
+  {
+   "page": 831,
+   "dict_page": 810,
+   "title": "say, tell, inform, speak 和 talk",
+   "title_box": [
+    259,
+    1694,
+    697,
+    1731
+   ],
+   "bottom_y": null,
+   "content": "say说，述说；用系统的言语表达自己的\n想法，学语的婴儿虽能 speak 或 talk，\n但不能say（宾语是话语，而非人，say\nsth.）\ntell 告诉；传达某事给某人（常有双\n宾语，人和话语，tell sb.sth.）\ninform 告诉，通知；tell 的正式说法\nspeak 说话，发言；意义广，可指系统的\n长篇大论或断断续续的说话\ntalk 讲，谈话；指交流式说话\nThe baby is learning to speak（或talk）.\n婴儿在学说话。\nHe is speaking in public.\n他在当众演讲。"
+  },
+  {
+   "page": 832,
+   "dict_page": 811,
+   "title": "scarce, rare, uncommon, unusual",
+   "title_box": [
+    952,
+    1928,
+    1391,
+    1958
+   ],
+   "bottom_y": null,
+   "content": "scarce 主要指有用的一般事物、但目前\n数量不够\nrare 通常指罕见而有价值的事物\nuncommon 指因不经常发生\nunusual 不寻常而值得注意的事物\nCan you name some rare elements？\n你能说出几种稀有元素吗？\nWater is scarce in the desert."
+  },
+  {
+   "page": 853,
+   "dict_page": 832,
+   "title": "separate 与 divide",
+   "title_box": [
+    1029,
+    916,
+    1277,
+    946
+   ],
+   "bottom_y": null,
+   "content": "separate 往往指把原来结合在一起、混\n合在一起的分开或隔离\ndivide 着重指将整体分成若干部分\nSeparate your things from mine.\n把你的东西和我的分开。\nThis house is divided into parts.\n这座房屋分作几部分。\npart［尤正式］［书］分开，分手（［同\nseparate,divided）"
+  },
+  {
+   "page": 860,
+   "dict_page": 839,
+   "title": "shade 与 shadow",
+   "title_box": [
+    1040,
+    902,
+    1270,
+    931
+   ],
+   "bottom_y": 1090,
+   "content": "shade 任何照不到阳光、阴凉的地方，与\nheat 相对而言\nshadow 具体的人、物挡住了光线而形成\n的清晰的影子，与light 相对而言"
+  },
+  {
+   "page": 869,
+   "dict_page": 848,
+   "title": "shoot 和 shoot at",
+   "title_box": [
+    379,
+    1797,
+    609,
+    1822
+   ],
+   "bottom_y": null,
+   "content": "He shot a bird and killed it.\n他射中了鸟，把它打死了。\nHe shot at a bird, but missed it.\n他对着鸟开枪，但没有射中：\n▲at 与若干动词连用表示某种攻击的目\n标，如 throw at,shout\nat, jump at，\nrush at， aim at 等；与 to（表示方向）的\n区别，参见 throw"
+  },
+  {
+   "page": 884,
+   "dict_page": 863,
+   "title": "sit, seat, set",
+   "title_box": [
+    1058,
+    1745,
+    1219,
+    1779
+   ],
+   "bottom_y": null,
+   "content": "▲sit at（或on，in）..［vi.+prep. ］\nsit at a table （a desk）\n坐在桌前（书桌旁）\nsit on a chair （a bench,a branch, a\nbicycle,the ground）\n坐在椅子（长凳、树枝、自行车、地）上\nsit in a tree（a car,a garden.an\narmchair）\n坐在树上（汽车里、花园里、扶手椅里）\n▲seat 使就座：He was seated.\nHe seated himself. = He sat down.\n［参见 seat］"
+  },
+  {
+   "page": 890,
+   "dict_page": 869,
+   "title": "slide, slip 与 glide 表示“滑”",
+   "title_box": null,
+   "bottom_y": null,
+   "content": "slide 在一个光滑的表面持续地滑动\nslip 意外而不自主的滑动\nglide 与 slide 同义，但另有“滑翔”之意"
+  },
+  {
+   "page": 898,
+   "dict_page": 877,
+   "title": "So he does. 与 So does he.",
+   "title_box": [
+    328,
+    657,
+    693,
+    686
+   ],
+   "bottom_y": 1030,
+   "content": "上述④与⑤的用法容易混淆.应特别注\n意：\nHe likes swimming. 他喜欢游泳。\nSo he does.他的确喜欢（游泳）。\n表示赞同，主语指同一人时，主谓不倒\nHe likes oranges, and so does she.\n他喜欢桔子。她也一样。\n主语是另一人时，主谓倒装。"
+  },
+  {
+   "page": 902,
+   "dict_page": 881,
+   "title": "some 与 any 与复数名词和不可数名词",
+   "title_box": [
+    894,
+    401,
+    1445,
+    438
+   ],
+   "bottom_y": 1220,
+   "content": "连用时，表示不定的数、量或程度；否\n定、疑问、条件句中常用 any（包含 some\n或any 的其他复合词，用法相同）：\n肯定句：I have some books.\n疑问句：Do you have any books？\n否定句：I haven't any（=have no）\nbooks.\nThere's hardly any bread left.\n几乎没剩下什么面包。\n在表示请求，建议的疑问句中，须用\nsome：\nWill you have some tea？\n你要喝茶吗？\n比较：Is there something to eat？（1\nIn.\nsmell food! Give me some,will\ncan\nyou？）\n有什么东西吃吗？\nIs there anything to eat？ （I am hungry.\nDo you have any...？）\n有没有什么东西吃？\n［参见 any］"
+  },
+  {
+   "page": 906,
+   "dict_page": 885,
+   "title": "sound, voice 与 noise",
+   "title_box": null,
+   "bottom_y": null,
+   "content": "sound 声音；普通字\nvoice 嗓音，说话声\nnoise 噪音，嘈杂声"
+  },
+  {
+   "page": 909,
+   "dict_page": 888,
+   "title": "speak 和 say",
+   "title_box": [
+    1087,
+    1603,
+    1256,
+    1636
+   ],
+   "bottom_y": null,
+   "content": "speak 使用语言\nsay说出语言\nSpeak English.\n说英语。\nSay “English\".\n说出“英语“这个词，\nSpeak in English.\n用英语讲."
+  },
+  {
+   "page": 911,
+   "dict_page": 890,
+   "title": "spectator 和 audience",
+   "title_box": [
+    354,
+    1157,
+    649,
+    1187
+   ],
+   "bottom_y": null,
+   "content": "spectator（看比赛等的）观众；可数名词\naudience（看表演，听演说等的）观众、听\n众；集合名词\nmany spectators\n许多观众\na large audience\na few spectators\n少数观众\na small audience"
+  },
+  {
+   "page": 916,
+   "dict_page": 895,
+   "title": "sports 与 games",
+   "title_box": [
+    974,
+    229,
+    1186,
+    259
+   ],
+   "bottom_y": 1338,
+   "content": "且（-1ng\n这两个词均可指娱乐性、锻炼性或竞赛\n性的体育运动\nsport 运动，体育活动；指用体力的户外\n活动，如游泳、登山、拳击等\ngame 游戏，运动，比赛；可以是户内或户\n外、体力或脑力的，通常有一定的规则，\n在两人或两队之间进行的；“打球”英语\n叫“play... ball ”. 多数户外运动称作\ngame 的都用球，因此我们说“Games\nare played.\"\nHe likes sport,not music. Bicycling\nand hunting are his favourite sports.\n他喜爱运动，不喜欢音乐。骑自行车\n和打猎是他最喜爱的运动。\nFootball is a game which\ninterests\nmany people.\n足球是使许多人感兴趣的运动。\nLet's play（或 have） a game of chess.\n咱们来下盘棋吧。\n▲球赛等，［美］常用game.［英］常用\nmatch\n▲athletic events 田径比赛\nfield events 田赛项目：\nhigh jump 跳高\nIw.\ntrack events 径赛项目：\na 100-metre dash 百米赛跑\n▲sports 可指运动会，= sports meet；\n|～：\ngames 常指大型国际体育运动会，如：\nthe Olympic Games 奥林匹克运动会"
+  },
+  {
+   "page": 937,
+   "dict_page": 916,
+   "title": "stop doing 和 stop to do",
+   "title_box": [
+    328,
+    635,
+    660,
+    668
+   ],
+   "bottom_y": null,
+   "content": "stop doing 停止做某事（doing 作宾语）\nstop to do 停下来去做某事（to do 表示\n停下来的目的，作状语）\nWe stopped talking.\n我们停止说话。\nWe stopped （in order） to talk.\n我们停下来说话。"
+  },
+  {
+   "page": 938,
+   "dict_page": 917,
+   "title": "story 与 tale",
+   "title_box": [
+    416,
+    1324,
+    588,
+    1359
+   ],
+   "bottom_y": 1551,
+   "content": "story 真实的或虚构的故事\ntale 传说或带有童话性质的故事\na fairy tale 童话\nshort story 短篇小说\nnovel 长篇小说"
+  },
+  {
+   "page": 940,
+   "dict_page": 919,
+   "title": "stream：小河, 大溪",
+   "title_box": [
+    1011,
+    1815,
+    1270,
+    1852
+   ],
+   "bottom_y": null,
+   "content": "river > stream\n>brook\n江、河\n〔小）河、溪小溪\na stream =a small river=a large brook"
+  },
+  {
+   "page": 950,
+   "dict_page": 929,
+   "title": "success 与 succession 两组词",
+   "title_box": [
+    303,
+    247,
+    697,
+    277
+   ],
+   "bottom_y": 395,
+   "content": "success 成功\nsuccession 连续\nsuccessful 成功的\nsuccessive 连续的\nsuccessfully 成功地 successively 连续地"
+  },
+  {
+   "page": 950,
+   "dict_page": 929,
+   "title": "such 和 so",
+   "title_box": [
+    1087,
+    1573,
+    1230,
+    1600
+   ],
+   "bottom_y": 2010,
+   "content": "such 修饰名词（单数、复数或不可数）\nso 修饰形容词或副词\n但下列情况下，“so+形”可修饰名词：\n①修饰单数名词：\nsuch a nice city=［书］so nice a city\n如此美丽的城市（▲排列顺序不同）\n②“many +复数名词”，“much +不可数\n名词”等之前要用so：\nsuch a lot of people =so many people\n这么多人\n［参见 so］"
+  },
+  {
+   "page": 952,
+   "dict_page": 931,
+   "title": "suggest 只有一个宾语",
+   "title_box": null,
+   "bottom_y": null,
+   "content": "我向他提议我们早点动身去飞机场。\n误：I suggested him that we leave early\nfor the airport.\n正：I suggested to him that we leave\nearly for the airport.\n▲表示向某人建议某事用 to sb.，置于\n宾语之后；也可以因强调宾语或句子结\n构的需要而置于宾语之前，但不可以省\n去 to；类似的动词有：explain 解释；\nannounce 宣布，通知；report 报告，报到"
+  },
+  {
+   "page": 952,
+   "dict_page": 931,
+   "title": "suggest(ion)等后用虚拟语气的情况",
+   "title_box": null,
+   "bottom_y": null,
+   "content": "我们表示“建议”、“要求”或“命令”“应当\n做…”这一意义时，suggest 等动词后的\n宾语从句中的谓语常用“(should＋)原\n形动词”；这类动词的字头记忆口诀是：\nI DROP CAPS. 具体为：insist 坚持；\ndemand 要求，desire 要求、请求；\nrequest 请求，require 需要、要求；\norder 命令；propose 建议；command\n命令；ask 要求，advise 建议；prefer\n宁愿；suggest 建议\n▲这些动词变被动语态（如：It is\nsuggested＋that 主语从句）形式后，主\n语从句谓语动词仍用“(should＋)动词\n原形”\n▲这些动词变名词（如：suggestion）后，\n其后的表语从句和同位语从句中的谓\n语部分仍用“(should＋)动词原形”\n▲此类动词不表达“某事必须做或很重\n要”这一意义时，宾语从句中不用虚拟\n语气，如：\nShe insisted that she heard somebody\nin the house.\nHer expression suggested she was\nangry."
+  },
+  {
+   "page": 958,
+   "dict_page": 937,
+   "title": "surprise, astonish, amaze 与 astound 表示“吃惊”",
+   "title_box": null,
+   "bottom_y": null,
+   "content": "surprise 叫人诧异；出乎意料；是此意最\n常用的词，意思较弱\nastonish 使大吃一惊（=surprise greatly）\namaze 令人惊愕；含惊叹、佩服之意\nastound 令人震惊（=astonish greatly）\n▲其他可表示此类意思的词：wonder,\nshock, dumbfound, startle, stun, take-\nback 等"
+  },
+  {
+   "page": 968,
+   "dict_page": 947,
+   "title": "tall 与 high",
+   "title_box": [
+    430,
+    1131,
+    587,
+    1169
+   ],
+   "bottom_y": null,
+   "content": "tall用于人、树木、烟囱等细长物（［反］\nshort）\nhigh 用于指物而不指人之高度（［反］\nlow）\na tall building 细长的建筑物\na high building 宽度与深度都相当大\n的建筑物\n▲price,level 一般要用high修饰"
+  },
+  {
+   "page": 970,
+   "dict_page": 949,
+   "title": "teach 和 instruct",
+   "title_box": [
+    1080,
+    1245,
+    1310,
+    1271
+   ],
+   "bottom_y": null,
+   "content": "teach 教授；指传递信息，传授技能、技巧\n以便他人学会的任何形式或方法，是一般用语\ninstruct 教授；含有以系统的方法教授之\n意，是正式用语"
+  },
+  {
+   "page": 975,
+   "dict_page": 954,
+   "title": "terrible 与 horrible",
+   "title_box": [
+    1033,
+    1596,
+    1303,
+    1625
+   ],
+   "bottom_y": null,
+   "content": "terrible 可怕的•恐怖的；指极端的恐怖，\n足以压服人的理解力\nhorrible 可怕的，可怖的；含有恐怖到\n产生战栗的意思"
+  },
+  {
+   "page": 977,
+   "dict_page": 956,
+   "title": "than before 与 than ever",
+   "title_box": [
+    335,
+    1457,
+    671,
+    1486
+   ],
+   "bottom_y": null,
+   "content": "than before 比从前，比以前：\nHe is no happier than before.\n他不比从前幸福些。\nthan ever 比以前任何时候，比到现在为止的任何时候：\nIt is raining harder than ever.\n现在雨比先前任何时候下得都大。"
+  },
+  {
+   "page": 977,
+   "dict_page": 956,
+   "title": "thank you for 与 thank you to",
+   "title_box": [
+    974,
+    726,
+    1383,
+    756
+   ],
+   "bottom_y": null,
+   "content": "thank you + for + n.（或 v.-ing）用于事情已发生的场合：\nThank you for sending me such a nice present.\n谢谢你寄给我这么好的礼物。\n▲与 will 连用，表示请求或要求：\nI will thank you for a cup of tea.\n请你给我一杯茶。\nthank you + to-v. 用于事情未发生的场合，与 will 连用，表示请求或责备：\nI will thank you to come at 6.\n请你6点钟来。"
+  },
+  {
+   "page": 987,
+   "dict_page": 966,
+   "title": "thin, lean 和 slender",
+   "title_box": [
+    1025,
+    1183,
+    1314,
+    1209
+   ],
+   "bottom_y": null,
+   "content": "thin 瘦的：大多指因疾病或疲劳而消瘦\nlean 瘦的：指天生缺少脂肪的瘦削的人或动物\nslender 指苗条的、优美的、瘦的状态"
+  },
+  {
+   "page": 562,
+   "dict_page": 541,
+   "title": "try to do 与 manage to do",
+   "title_box": [
+    332,
+    321,
+    686,
+    350
+   ],
+   "bottom_y": null,
+   "content": "try to do尽力（去）做（强调动作）\nmanage to do 设法（去）做成（强调结果）！\nHe tried to get the work done with lit\ntle help.\n他尽量在没有什么帮助的情况下完成工作。〔不知完成与否）\nHe managed to get the work done with\nvery little help.\n他在没有什么帮助的情况下，设法完成了工作。\nA: Will you come tonight？\nB: I'll try （to come）.\nC: I'll manage （to come）.\n甲：你今晚来吗？\n乙：试试看吧。（不一定能来）\n丙：我一定想办法来。"
+  },
+  {
+   "page": 1016,
+   "dict_page": 995,
+   "title": "twilight, dawn, dusk",
+   "title_box": [
+    1022,
+    2023,
+    1292,
+    2053
+   ],
+   "bottom_y": null,
+   "content": "twilight 日出前及日没后的微明，特别指日没后的薄暮\ndawn 早晨的微光、拂晓、黎明\ndusk 比黄昏的 twilight 更暗的状态，傍晚"
+  },
+  {
+   "page": 1024,
+   "dict_page": 1003,
+   "title": "under 和 below",
+   "title_box": [
+    383,
+    934,
+    587,
+    960
+   ],
+   "bottom_y": 1786,
+   "content": "表示位置“在⋯之下”时的区别\n①垂直位置用 under，此外用 below：\nNow the bridge is under the plane.\n现在这座桥处于飞机的正下方。\nAll the fields are below the plane.\n所有那些田野都在飞机之下。\n②贴近用 under，非此用 below：\nOur school building has four storeys.\nThe fourth floor is under the roof; the\nothers are below the roof.\n我们的教学楼有4层。4 楼紧贴楼顶，\n其他3层在下。"
+  },
+  {
+   "page": 1024,
+   "dict_page": 1003,
+   "title": "under 和 below 表示等级时的不同",
+   "title_box": [
+    237,
+    1943,
+    708,
+    1983
+   ],
+   "bottom_y": null,
+   "content": "直接关系用 under，非此关系用 below：\nBoth Tom and Jack are officers in this army, but Jack is under Tom.\n汤姆和杰克都是这支部队的军官，但是，杰克没有汤姆职位高。（直接上下级关系）"
+  },
+  {
+   "page": 1026,
+   "dict_page": 1005,
+   "title": "undress 和 take off",
+   "title_box": [
+    361,
+    1325,
+    628,
+    1355
+   ],
+   "bottom_y": null,
+   "content": "undress 的宾语是“（穿着衣服的）人”\ntake off 的宾语是“衣服”\n“她脱下了孩子们的衣服。”\n误：She undressed her children's clothes.\n正：She undressed her children.\n正：She took off her children's clothes."
+  },
+  {
+   "page": 1040,
+   "dict_page": 1019,
+   "title": "vacation 和 holiday",
+   "title_box": [
+    1036,
+    1358,
+    1299,
+    1388
+   ],
+   "bottom_y": 1549,
+   "content": "holiday 假日\nvacation ［英］专指学校法院等的假期：\n［美］泛指一般假期，相当于 holidays\n▲ 这两个词都不用于病假"
+  },
+  {
+   "page": 1046,
+   "dict_page": 1025,
+   "title": "very, much, very much",
+   "title_box": [
+    876,
+    1826,
+    1431,
+    1863
+   ],
+   "bottom_y": null,
+   "content": "修饰动词用 much, very much，不用 very：\n我很喜欢狗。\n误：I very like dogs.\n正：I like dogs very much.\nvery 和 much 修饰最高级，以加强语气时位置不同：\n这是所有的里面最好的。\nThis is the very best of all.\nThis is much the best of all.\n▲美语、口语里，修饰表示心理的过去分词，多用 very 来加强语气：\nvery（delighted, excited, pleased, surprised 等）\n非常（高兴、激动、满意、惊讶等）"
+  },
+  {
+   "page": 1095,
+   "dict_page": 1074,
+   "title": "with 和 in 表示“用”的区别",
+   "title_box": [
+    310,
+    792,
+    686,
+    832
+   ],
+   "bottom_y": 1128,
+   "content": "with 用工具：\nwrite with a pen（a pencil）\n用钢笔（铅笔）写\nin 用语言、写字材料：\nwrite articles in Chinese\n用汉语写文章\nwrite in ink（pencil）\n用钢笔（铅笔）写（▲无冠词）"
+  },
+  {
+   "page": 1112,
+   "dict_page": 1091,
+   "title": "yet 与 already 在疑问句中",
+   "title_box": [
+    985,
+    500,
+    1339,
+    536
+   ],
+   "bottom_y": 988,
+   "content": "Is my coat dry yet？\n我的外套干了吗？\nIs my coat dry already? That's quick！\n我的外套已经干了？真快啊！\n前句是想了解情况：干了还是没干？\n后句并不是真正的疑问句，而是表示惊奇\n▲肯定句中表示“已经”，要用 already；\n否定句中用 yet［参见 already］：\nMy coat is already dry.\n我的外套已干了。"
+  },
+  {
+   "page": 853,
+   "dict_page": 832,
+   "title": "“句子”的说法种种",
+   "title_box": null,
+   "bottom_y": null,
+   "content": "a simple (compound, complex, compound) sentence\n简单（并列、复合、并列复合）句\na clause (phrase)\n分句，从句（短语，词组）\na statement (question, command, ex-\nclamation) sentence\n陈述（疑问、祈使、感叹）句\nan affirmative (an interrogative, a neg-\native) sentence\n肯定（疑问、否定）句\nanalyse (correct, make) a sentence\n分析（改正、造）一个句子\nA sentence usually has a subject and\na predicate verb, and (in writing) be-\ngins with a capital letter and ends\nwith one of the marks \".?!\".\n一个句子通常有一个主语和一个谓语\n动词，（书写时）以一个大写字母开始，\n结束时要有一个句号、问号或感叹号。"
+  },
+  {
+   "page": 275,
+   "dict_page": 254,
+   "title": "“客厅”种种",
+   "title_box": null,
+   "bottom_y": null,
+   "content": "drawing-room 是英国用语，指较大、较\n正式的客厅，一般专为招待客人用\nliving-room 和 sitting-room 除了用来招\n待客人外，也供自己家里人用，和 bed-\nroom（卧室）相对\nparlour 是美国用语用法，和 living\nroom、sitting-room 相同；另外\nparlour\n也可以指商业性的“室”，如：\nbeauty parlour 美容室\nshoe-shining parlour 擦鞋室\n▲公共机关的会客室，应说 reception\nroom, waiting room"
+  },
+  {
+   "page": 277,
+   "dict_page": 256,
+   "title": "不同的“喝”",
+   "title_box": null,
+   "bottom_y": 924,
+   "content": "drink tea (wine, beer, milk, coffee, and\nso on) 喝茶（酒、啤酒、牛奶、咖啡等）\neat soup 喝汤\ntake medicine 喝药"
+  },
+  {
+   "page": 570,
+   "dict_page": 549,
+   "title": "表示“事情”的名词",
+   "title_box": [
+    226,
+    1254,
+    642,
+    1289
+   ],
+   "bottom_y": null,
+   "content": "一般来讲, affair, business, event, matter, thing 都可以表达“事情”的意思,如:\nI don't understand this business (或 affair, event, matter, thing).\n这事我不能理解。\n但在具体的语言环境中,则各有侧重:\naffair ①(小)事 ②[复]事务,要事 ③恋事:\na very small affair 极琐碎的小事\na private(public) affair 私事(公事)\na love affair 风流韵事\naffairs of state 国事,政务\nbusiness 表示“事情”,主要用于以下习语中,常带有厌恶感:\nIt's none of your business.\n这不关你的事。\nMind your own business.\n少管闲事。\nevent 指“大事”:\nthe chief events of the year\n一年中的大事\na historical event 历史事件\nmatter ①事情 ②[复]事态 ③[the matter]出事,出毛病:\nIt's a matter of importance.\n那是件重要的事情。\nthing ①事情(=matter) ②[复]事态,情况(=matters) ③事件(=event):\nThere is one more thing to say.\n还有一件事要说。Things are getting worse and worse.\n情况变得越来越坏了。\n▲thing 除上述意思外,在不同的上下文还可表示不同的含义,如“想法、习惯、东西、财产、衣物等”,注意区别。"
+  },
+  {
+   "page": 571,
+   "dict_page": 550,
+   "title": "表示“许可”的情态动词",
+   "title_box": [
+    927,
+    543,
+    1460,
+    577
+   ],
+   "bottom_y": null,
+   "content": "①may, might, can, could 都可用来提出请求、要求、许可,might 和 could 比起 may 和 can 表达提出请求时更尊重对方或心里更没底,更带有试探性;这时的 might 和 could 不表示过去时态:\nMay(或 Can) I make a suggestion?\n我能提个建议吗?\nMight(或 could) I ask you something if you're not too busy?\n要是你不太忙的话,我能不能问你点事呢?\n②表示“给出许可”一般用 may 或 can,而不用 might 或 could...:\nA: Could I use your phone?\nB: Yes, of course you can.\n甲:我能不能用用你的电话?\n乙:可以,当然可以。\n▲不能说: Yes, of course you could."
+  }
+ ]
+}

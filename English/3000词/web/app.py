@@ -17,7 +17,7 @@ from pydantic import BaseModel, Field
 from choices import CHUNK_SIZE, build_all_choices
 from report import big_category_from_batch, build_summary, index_entry, write_report
 from stats import build_error_stats
-from store import list_history, load_session, save_session, upsert_index
+from store import delete_history, list_history, load_session, save_session, upsert_index
 
 ROOT = Path(__file__).resolve().parent
 VOCAB_ROOT = ROOT.parent
@@ -430,6 +430,18 @@ def api_history_detail(session_id: str):
     summary["report_path"] = session.get("report_path")
     summary["session_path"] = f"data/sessions/{session_id}.json"
     return summary
+
+
+@app.delete("/api/history/{session_id}")
+def api_history_delete(session_id: str):
+    try:
+        result = delete_history(session_id)
+    except FileNotFoundError:
+        raise HTTPException(404, "session not found")
+    SESSIONS.pop(session_id, None)
+    with _SESSION_LOCKS_GUARD:
+        _SESSION_LOCKS.pop(session_id, None)
+    return result
 
 
 @app.get("/api/stats/errors")

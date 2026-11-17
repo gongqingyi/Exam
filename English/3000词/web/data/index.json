@@ -34,23 +34,6 @@
     "session_path": "data/sessions/bcda72ee76cf4eedbf3cc38018f1f43f.json"
   },
   {
-    "session_id": "c11fbaef7a2745549305b62e704e5879",
-    "date": "2026-11-16",
-    "started_at": "2026-11-16T16:55:49.452+08:00",
-    "ended_at": "2026-11-16T16:56:55.726+08:00",
-    "batch": "1.高频常用/1-5d",
-    "category": "高频常用",
-    "day": 1,
-    "day_label": "第1天",
-    "direction": "zh_en",
-    "direction_label": "中 → 英",
-    "item_count": 5,
-    "accuracy": 0.8,
-    "finish_reason": "aborted",
-    "report_path": "reports/高频常用/2026-11-16/day1_zh_en_165549.md",
-    "session_path": "data/sessions/c11fbaef7a2745549305b62e704e5879.json"
-  },
-  {
     "session_id": "3df17bb5fc904efb894605ceb70f45cc",
     "date": "2026-11-16",
     "started_at": "2026-11-16T15:26:06.794+08:00",
@@ -100,23 +83,6 @@
     "finish_reason": "completed",
     "report_path": "reports/高频常用/2026-11-16/day1_zh_en_145901.md",
     "session_path": "data/sessions/558e1d7d38c74428b9edd0c1f999083d.json"
-  },
-  {
-    "session_id": "169912326262407db78b119d7a383a76",
-    "date": "2026-11-16",
-    "started_at": "2026-11-16T14:40:22.393+08:00",
-    "ended_at": "2026-11-16T14:42:15.709+08:00",
-    "batch": "1.高频常用/1-5d",
-    "category": "高频常用",
-    "day": 1,
-    "day_label": "第1天",
-    "direction": "en_zh",
-    "direction_label": "英 → 中",
-    "item_count": 28,
-    "accuracy": 0.9642857142857143,
-    "finish_reason": "aborted",
-    "report_path": "reports/高频常用/2026-11-16/day1_en_zh_144022.md",
-    "session_path": "data/sessions/169912326262407db78b119d7a383a76.json"
   },
   {
     "session_id": "aef5b510d6b9425f87b79203c741088f",

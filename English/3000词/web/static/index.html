@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>词汇练习</title>
-  <link rel="stylesheet" href="/static/app.css?v=20261116opt">
+  <link rel="stylesheet" href="/static/app.css?v=20261117ceping">
 </head>
 <body>
   <div id="loading-overlay" class="loading-overlay hidden" aria-live="polite">
@@ -124,18 +124,19 @@
 
     <!-- Report -->
     <section id="view-report" class="view hidden">
-      <header class="page-head">
-        <div class="page-head-row">
-          <h1>汇总报告</h1>
-          <div class="page-head-actions">
-            <button type="button" class="ghost" id="back-home-from-report">返回首页</button>
-            <button type="button" class="ghost" id="back-history-from-report">历史测评</button>
-          </div>
+      <header class="page-head page-head-row">
+        <div class="page-head-actions report-actions-only">
+          <button type="button" class="ghost" id="back-home-from-report">返回首页</button>
+          <button type="button" class="ghost" id="back-history-from-report">历史测评</button>
         </div>
-        <p id="report-path" class="lead mono"></p>
       </header>
+      <div class="report-meta-row">
+        <p id="report-meta" class="report-meta"></p>
+        <p id="report-time" class="report-time"></p>
+      </div>
       <div class="table-wrap summary-wrap">
-        <table id="summary-table" class="summary-table">
+        <table id="summary-table" class="summary-table summary-table-h">
+          <thead></thead>
           <tbody></tbody>
         </table>
       </div>
@@ -173,18 +174,30 @@
         </div>
       </div>
       <div id="history-day-nav" class="batch day-nav"></div>
-      <div class="table-wrap">
+      <div class="table-wrap history-table-wrap">
         <table id="history-table" class="grid-table">
+          <colgroup>
+            <col class="col-date" />
+            <col class="col-start" />
+            <col class="col-end" />
+            <col class="col-dur" />
+            <col class="col-day" />
+            <col class="col-count" />
+            <col class="col-acc" />
+            <col class="col-detail" />
+            <col class="col-del" />
+          </colgroup>
           <thead>
             <tr>
-              <th>评测日期</th>
+              <th>测评日期</th>
               <th>开始</th>
               <th>结束</th>
               <th>用时</th>
               <th>内容</th>
               <th>词条数</th>
               <th>正确率</th>
-              <th>报告详细</th>
+              <th>详细</th>
+              <th>删除</th>
             </tr>
           </thead>
           <tbody></tbody>
@@ -215,10 +228,10 @@
               <th>序号</th>
               <th>原词条</th>
               <th>正确答案</th>
-              <th>评测次数</th>
+              <th>测评次数</th>
               <th>错误次数</th>
               <th id="stats-error-rate-th" class="sortable" data-sort="error_rate" title="点击切换排序">错误率 ▾</th>
-              <th>最近评测时间</th>
+              <th>最近测评时间</th>
             </tr>
           </thead>
           <tbody></tbody>
@@ -226,6 +239,6 @@
       </div>
     </section>
   </div>
-  <script src="/static/app.js?v=20261116load1"></script>
+  <script src="/static/app.js?v=20261117ceping"></script>
 </body>
 </html>

@@ -82,3 +82,26 @@ def list_history() -> List[Dict[str, Any]]:
     rows = read_index()
     rows.sort(key=lambda r: r.get("started_at") or "", reverse=True)
     return rows
+
+
+def delete_history(session_id: str) -> Dict[str, Any]:
+    """Remove index row, session JSON, and report markdown if present."""
+    ensure_dirs()
+    rows = read_index()
+    hit = next((r for r in rows if r.get("session_id") == session_id), None)
+    if hit is None:
+        raise FileNotFoundError(session_id)
+    new_rows = [r for r in rows if r.get("session_id") != session_id]
+    _write_json(INDEX_PATH, new_rows)
+
+    sess = session_path(session_id)
+    if sess.is_file():
+        sess.unlink()
+
+    report_rel = hit.get("report_path") or ""
+    if report_rel:
+        report = ROOT / report_rel
+        if report.is_file():
+            report.unlink()
+
+    return {"session_id": session_id, "deleted": True, "report_path": report_rel or None}

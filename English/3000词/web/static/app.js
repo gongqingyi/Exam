@@ -64,6 +64,20 @@
     return iso.replace("T", " ").slice(0, 19);
   }
 
+  /** Calendar day from start time (测评日期). */
+  function dateFromIso(iso) {
+    if (!iso) return "—";
+    const s = String(iso);
+    return s.length >= 10 ? s.slice(0, 10) : "—";
+  }
+
+  function fmtClock(iso) {
+    if (!iso) return "—";
+    const s = String(iso).replace("T", " ");
+    const m = s.match(/\b(\d{2}:\d{2}:\d{2})\b/);
+    return m ? m[1] : s.slice(11, 19) || "—";
+  }
+
   function parseIsoMs(iso) {
     if (!iso) return null;
     const t = Date.parse(iso);
@@ -578,9 +592,15 @@
       const overlay = $("confirm-overlay");
       const ok = $("confirm-ok");
       const cancel = $("confirm-cancel");
-      $("confirm-kicker").textContent = kicker;
+      const kickerEl = $("confirm-kicker");
+      const bodyEl = $("confirm-body");
+      const card = overlay.querySelector(".confirm-card");
+      kickerEl.textContent = kicker || "";
+      kickerEl.classList.toggle("hidden", !kicker);
       $("confirm-title").textContent = title;
-      $("confirm-body").textContent = body;
+      bodyEl.textContent = body || "";
+      bodyEl.classList.toggle("hidden", !body);
+      if (card) card.classList.toggle("confirm-compact", !kicker && !body);
       ok.textContent = okText;
       cancel.textContent = cancelText;
       const close = (value) => {
@@ -639,28 +659,41 @@
   }
 
   function renderReport(summary) {
-    $("report-path").textContent = summary.report_path || "";
+    const cat = summary.category || categoryLabel(summary.batch) || "—";
+    const dayLabel = summary.day_label || `第${summary.day}天`;
+    const dir = summary.direction_label || directionLabel(summary.direction);
+    $("report-meta").textContent = `${cat} | ${dayLabel} | ${dir}`;
+    const t0 = fmtClock(summary.started_at);
+    const t1 = fmtClock(summary.ended_at);
+    $("report-time").textContent =
+      t0 !== "—" || t1 !== "—" ? `测评时间： ${t0} ~ ${t1}` : "";
 
-    const rows = [
-      ["大类", summary.category || categoryLabel(summary.batch) || "—"],
-      ["测评内容", summary.day_label || `第${summary.day}天`],
-      ["方向", summary.direction_label],
-      ["开始时间", fmtTime(summary.started_at)],
-      ["结束时间", fmtTime(summary.ended_at)],
-      ["用时", fmtDurationZh(summary.started_at, summary.ended_at)],
-      ["词条数量", String(summary.item_count)],
-      ["平均响应", fmtMs(summary.avg_response_ms)],
-      ["最大响应", fmtMs(summary.max_response_ms)],
-      ["最短响应", fmtMs(summary.min_response_ms)],
+    const finishLabel =
+      summary.finish_reason === "completed"
+        ? "完成"
+        : summary.finish_reason === "aborted"
+          ? "提前退出"
+          : summary.finish_reason || "—";
+    const cols = [
+      ["词条数量", String(summary.item_count ?? "—")],
       ["正确", String(summary.correct_count ?? 0)],
       ["错误", String(summary.wrong_count ?? 0)],
       ["正确率", `${((summary.accuracy ?? 0) * 100).toFixed(1)}%`],
-      ["结束原因", summary.finish_reason || "—"],
+      ["用时", fmtDurationZh(summary.started_at, summary.ended_at)],
+      ["平均响应", fmtMs(summary.avg_response_ms)],
+      ["最大响应", fmtMs(summary.max_response_ms)],
+      ["最短响应", fmtMs(summary.min_response_ms)],
+      ["结束原因", finishLabel],
     ];
-    const tbody = $("summary-table").querySelector("tbody");
-    tbody.innerHTML = rows
-      .map(([k, v]) => `<tr><td>${escapeHtml(k)}</td><td>${escapeHtml(v)}</td></tr>`)
-      .join("");
+    const table = $("summary-table");
+    const thead = table.querySelector("thead");
+    const tbody = table.querySelector("tbody");
+    thead.innerHTML = `<tr>${cols
+      .map(([k]) => `<th>${escapeHtml(k)}</th>`)
+      .join("")}</tr>`;
+    tbody.innerHTML = `<tr>${cols
+      .map(([, v]) => `<td>${escapeHtml(v)}</td>`)
+      .join("")}</tr>`;
 
     const detailBody = $("report-table").querySelector("tbody");
     detailBody.innerHTML = "";
@@ -739,7 +772,7 @@
       );
     });
     if (!items.length) {
-      tbody.innerHTML = `<tr><td colspan="8">该大类／方向／天暂无历史报告</td></tr>`;
+      tbody.innerHTML = `<tr><td colspan="9">该大类／方向／天暂无历史报告</td></tr>`;
       return;
     }
     tbody.innerHTML = "";
@@ -748,14 +781,19 @@
       const acc = row.accuracy == null ? "—" : `${(row.accuracy * 100).toFixed(1)}%`;
       const dur = fmtDurationZh(row.started_at, row.ended_at);
       tr.innerHTML = `
-        <td>${escapeHtml(row.date || "—")}</td>
+        <td>${escapeHtml(dateFromIso(row.started_at) || row.date || "—")}</td>
         <td>${escapeHtml(fmtTime(row.started_at))}</td>
         <td>${escapeHtml(fmtTime(row.ended_at))}</td>
         <td>${escapeHtml(dur)}</td>
         <td>${escapeHtml(row.day_label || `第${row.day}天`)}</td>
         <td>${row.item_count ?? "—"}</td>
         <td>${acc}</td>
-        <td><a class="linkish" href="#" data-sid="${escapeHtml(row.session_id)}">查看</a></td>`;
+        <td><a class="linkish" href="#" data-sid="${escapeHtml(row.session_id)}">查看</a></td>
+        <td>
+          <button type="button" class="icon-btn trash-btn" title="删除报告" aria-label="删除报告">
+            <span class="icon-trash" aria-hidden="true"></span>
+          </button>
+        </td>`;
       tr.querySelector("a").addEventListener("click", async (e) => {
         e.preventDefault();
         try {
@@ -766,20 +804,41 @@
           alert(`打开报告失败：${err.message}`);
         }
       });
+      tr.querySelector(".trash-btn").addEventListener("click", async () => {
+        const yes = await askConfirm({
+          kicker: "",
+          title: "确定删除这份测评报告吗？",
+          body: "",
+          okText: "确认删除",
+          cancelText: "取消",
+        });
+        if (!yes) return;
+        try {
+          await api(`/api/history/${encodeURIComponent(row.session_id)}`, {
+            method: "DELETE",
+          });
+          state.historyItems = (state.historyItems || []).filter(
+            (r) => r.session_id !== row.session_id
+          );
+          renderHistoryRows();
+        } catch (err) {
+          alert(`删除失败：${err.message}`);
+        }
+      });
       tbody.appendChild(tr);
     }
   }
 
   async function loadHistory() {
     const tbody = $("history-table").querySelector("tbody");
-    tbody.innerHTML = `<tr><td colspan="8">加载中…</td></tr>`;
+    tbody.innerHTML = `<tr><td colspan="9">加载中…</td></tr>`;
     try {
       const data = await api("/api/history");
       state.historyItems = data.items || [];
       renderHistoryRows();
     } catch (err) {
       state.historyItems = [];
-      tbody.innerHTML = `<tr><td colspan="8">加载失败：${escapeHtml(err.message)}</td></tr>`;
+      tbody.innerHTML = `<tr><td colspan="9">加载失败：${escapeHtml(err.message)}</td></tr>`;
     }
   }
 
